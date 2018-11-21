@@ -1,0 +1,5 @@
+Tags:services,bhn
+Preconditions:closeBrowser
+BHN Services:
+#Call BHN service for pin registration with part number <PartNumber> and brand <Brand>
+#Call BHN service for pin unswipe

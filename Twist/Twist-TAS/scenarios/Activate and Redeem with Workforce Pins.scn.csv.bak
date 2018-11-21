@@ -1,0 +1,146 @@
+Status,Part Number,SIM,Rep PIN,CellTech,Reason,Rep PIN for Redemption,Reason for Redemption,Brand
+New,TWSAS968C,,TWSREPLA00025,CDMA,Port Request (Active with new number and now requesting a Port),TWSREPLA00035,PIN Redeemed to Wrong Handset,TOTAL_WIRELESS
+New,TWUXU240CR,,TWSREPLA00035,CDMA,AWOP Failure,TWSREPLA00010D,Airtime Conversion,TOTAL_WIRELESS
+New,TWBYODVZ,,TWSREPLA00110,CDMA,Redemption Failure,TWSREPLA00110,Port Request (Active with new number and now requesting a Port),TOTAL_WIRELESS
+New,TWBYOPVZ,,TWSREPLA00060,CDMA,Port Request Cancellation (Requested a Port and is now requesting a new number),TWSREPLA00010D,AWOP Failure,TOTAL_WIRELESS
+New,TWLGL16CP,,TWSREPLA00110,CDMA,PIN Redeemed to Wrong Handset,TWSREPLA00110,Redemption Failure,TOTAL_WIRELESS
+New,TWSAS766CR,,TWSREPLA00060,CDMA,Airtime Conversion,TWSREPLA00110,Port Request Cancellation (Requested a Port and is now requesting a new number),TOTAL_WIRELESS
+New,TWSAS336C,,TWSREPLA00060,CDMA,Port Request (Active with new number and now requesting a Port),TWSREPLA00010D,PIN Redeemed to Wrong Handset,TOTAL_WIRELESS
+New,TWLGL39CP,,TWSREPLA00060,CDMA,AWOP Failure,TWSREPLA00010D,Airtime Conversion,TOTAL_WIRELESS
+New,TWZEZ793CP,,TWSREPLA00060,CDMA,Redemption Failure,TWSREPLA00010D,Port Request (Active with new number and now requesting a Port),TOTAL_WIRELESS
+New,TWSAS902C,TF256PSIMV9RM,TWSREPLA00035,CDMA,AWOP Failure,TWSREPLA00010D,Airtime Conversion,TOTAL_WIRELESS
+New,TWSAS906C,TF256PSIMV9N,TWSREPLA00110,CDMA,Redemption Failure,TWSREPLA00110,Port Request (Active with new number and now requesting a Port),TOTAL_WIRELESS
+New,TWAPI6SC16GYR,TF256PSIMV9N,TWSREPLA00060,CDMA,Port Request Cancellation (Requested a Port and is now requesting a new number),TWSREPLA00010D,AWOP Failure,TOTAL_WIRELESS
+New,TWAPI6SPC16SVR,TF256PSIMV9N,TWSREPLA00110,CDMA,PIN Redeemed to Wrong Handset,TWSREPLA00110,Redemption Failure,TOTAL_WIRELESS
+New,PHSM64PSIMT5MB,SM64PSIMT5B,SMSREPLA0050BB,GSM,Airtime Conversion,SMSREPLA0020,AWOP Failure,SIMPLE_MOBILE
+New,PHSM64PSIMT5BLC,SM64PSIMT5B,SMSREPLAMB0020,GSM,PIN Redeemed to Wrong Handset,SMSREPLAMB0040,Redemption Failure,SIMPLE_MOBILE
+New,SMZEZ930GP,SM128PSIMT5RM,SMSREPLA0040,GSM,Airtime Conversion,SMSREPLA0020,Port Request Cancellation (Requested a Port and is now requesting a new number),SIMPLE_MOBILE
+New,SMZEZ667G,SM128PSIMT5RM,SMSREPLA0060ILDUP,GSM,Port Request (Active with new number and now requesting a Port),SMSREPLA0070ILDUP,PIN Redeemed to Wrong Handset,SIMPLE_MOBILE
+New,NTLCPOAGS4GP4,TF128PSIMC4RM,NTSREPLA60060ILDUP,GSM,AWOP Failure,NTSREPLA60080ILDP,Airtime Conversion,NET10
+New,NT3GCPOADROICP,,NTSREPLA60060ILDUP,CDMA,Redemption Failure,NTSREPLA60060ILDUP,Port Request (Active with new number and now requesting a Port),NET10
+New,SMHUH871GDG,SM128PSIMT5RM,SMSREPLA0360,GSM,Port Request Cancellation (Requested a Port and is now requesting a new number),SMSREPLA0100,AWOP Failure,NET10
+New,NTLGL25CPAS,TF128PSIMS8M,NTSREPLA60060ILDUP,CDMA,PIN Redeemed to Wrong Handset,NTSREPLA60070ILDUP,Redemption Failure,NET10
+New,NTLG236CP,,NTSREPLA60060ILDUP,CDMA,Airtime Conversion,REPLANTS6U040,Port Request Cancellation (Requested a Port and is now requesting a new number),NET10
+New,NTZEZ660GP4,TF64PSIMC4,NTSREPLA60060ILDUP,GSM,Port Request (Active with new number and now requesting a Port),REPLANTS6U035,PIN Redeemed to Wrong Handset,NET10
+New,NTMTXT555CP,,NTSREPLA60070ILDUP,CDMA,AWOP Failure,REPLANTU0001,Airtime Conversion,NET10
+New,NTBYOPVZ,,REPLANTU0001,CDMA,Redemption Failure,REPLANTS6U040,Port Request (Active with new number and now requesting a Port),NET10
+New,NTMTXT937CR,,REPLANTS6U060,CDMA,Port Request Cancellation (Requested a Port and is now requesting a new number),NTSREPLA60070ILDUP,AWOP Failure,NET10
+New,NTLG305CU,,REPLANTS6U060,CDMA,PIN Redeemed to Wrong Handset,REPLANTS6U075,Redemption Failure,NET10
+New,NTSAS765CPDU,,NTSREPLA60060ILDUP,CDMA,Airtime Conversion,REPLANTS6U075,Port Request Cancellation (Requested a Port and is now requesting a new number),NET10
+New,NTLGL31GP4RS,TF64PSIMC4RM,REPLANTS6U075,GSM,Port Request (Active with new number and now requesting a Port),REPLANTU0001,PIN Redeemed to Wrong Handset,NET10
+New,NTZEZ797CPDG,,REPLANTS6U035,CDMA,AWOP Failure,REPLANTS6U040,Airtime Conversion,NET10
+New,NTZEZ289G,TF64SIMC4,NTSREPLAMB6010,GSM,Redemption Failure,NTSREPLAMB6050,Port Request (Active with new number and now requesting a Port),NET10
+New,NTALA995GRCS4,TF64PSIMC4RM,REPLANTU0001,GSM,Port Request Cancellation (Requested a Port and is now requesting a new number),REPLANTS6U040,AWOP Failure,NET10
+New,NTZEZ667GR4,TF64PSIMT5RM,REPLANTS6U060,GSM,PIN Redeemed to Wrong Handset,REPLANTS6U075,Redemption Failure,NET10
+New,NTLGL41CPTGP,,REPLANTS6U060,CDMA,Airtime Conversion,REPLANTS6U075,Port Request Cancellation (Requested a Port and is now requesting a new number),NET10
+New,NTMTXT830CWHP,,REPLANTS6U060,CDMA,Port Request (Active with new number and now requesting a Port),REPLANTS6U075,PIN Redeemed to Wrong Handset,NET10
+New,NTZEZ932CDG,TF256PSIMV9RM,REPLANTU0001,CDMA,AWOP Failure,REPLANTS6U040,Airtime Conversion,NET10
+New,NT256PBYOPD,TF256PSIMV9DD,REPLANTS6U060,CDMA,Redemption Failure,REPLANTS6U075,Port Request (Active with new number and now requesting a Port),NET10
+New,PHNT128PSIMCL7ND,TF128PSIMCL7ND,REPLANTS6U060,GSM,Port Request Cancellation (Requested a Port and is now requesting a new number),REPLANTU0001,AWOP Failure,NET10
+New,NTALA206GP4AS,TF128SIMC4RM,REPLANTS6U040,GSM,PIN Redeemed to Wrong Handset,REPLANTS6U060,Redemption Failure,NET10
+New,NTLG237CPAS,,REPLANTS6U060,CDMA,Airtime Conversion,REPLANTS6U075,Port Request Cancellation (Requested a Port and is now requesting a new number),NET10
+New,NTSAS902CPTGP,TF256PSIMV9RM,REPLANTS6U040,CDMA,Port Request (Active with new number and now requesting a Port),REPLANTS6U060,PIN Redeemed to Wrong Handset,NET10
+New,NTSAS820CPRS,TF256PSIMV9RM,REPLANTS6U060,CDMA,AWOP Failure,REPLANTS6U075,Airtime Conversion,NET10
+New,NTSAS766C3P,,REPLANTS6U040,CDMA,Redemption Failure,REPLANTS6U060,Port Request (Active with new number and now requesting a Port),NET10
+New,NTLG441G,TF128SIMC4,REPLANTS6U040,GSM,Port Request Cancellation (Requested a Port and is now requesting a new number),REPLANTS6U060,AWOP Failure,NET10
+New,NTLG441GP5,TF128SIMT5,REPLANTS6U075,GSM,PIN Redeemed to Wrong Handset,REPLANTS6U060,Redemption Failure,NET10
+New,NTZTEZ288CU,TF256PSIMV9,NTSREPLAMB6020,CDMA,Airtime Conversion,NTSREPLAMB6030,Port Request Cancellation (Requested a Port and is now requesting a new number),NET10
+New,NTZEZ288CDG,TF256PSIMV9RM,NTSREPLAMB6020,CDMA,Port Request (Active with new number and now requesting a Port),NTSREPLAMB6030,PIN Redeemed to Wrong Handset,NET10
+New,NTHUH350G,TF64SIMC4,NTSREPLAHP6U035,GSM,AWOP Failure,NTSREPLAHP6U045,Airtime Conversion,NET10
+New,NTALA521GP4AS,TF64PSIMC4RM,REPLANTS6U075,GSM,Redemption Failure,REPLANTS6U060,Port Request (Active with new number and now requesting a Port),NET10
+New,NTMTXT838C3P,TF256PSIMV9RM,REPLANTS6U075,CDMA,Port Request Cancellation (Requested a Port and is now requesting a new number),REPLANTS6U075,AWOP Failure,NET10
+New,NTHUH350GP4,TF64SIMC4,NTSREPLAHP6U045,GSM,PIN Redeemed to Wrong Handset,REPLANTS6U035,Redemption Failure,NET10
+New,NTHUH258CPAS,,REPLANTSHP6U001,CDMA,Airtime Conversion,REPLANTSHP6U001ILD,Port Request Cancellation (Requested a Port and is now requesting a new number),NET10
+New,NTHUH258CPDG,,REPLANTSHP6U001ILD,CDMA,Port Request (Active with new number and now requesting a Port),REPLANTSHP6U001,PIN Redeemed to Wrong Handset,NET10
+New,NTLGL17AGP4P,TF128PSIMC4RM,REPLANTSHP6U001,GSM,Airtime Conversion,REPLANTSHP6U001ILD,Port Request Cancellation (Requested a Port and is now requesting a new number),NET10
+New,NTLGL17AGP7P,TF128PSIMCL7RM,REPLANTSHP6U001ILD,GSM,Port Request (Active with new number and now requesting a Port),REPLANTSHP6U001,PIN Redeemed to Wrong Handset,NET10
+New,PHST128PSIMCL7DD,TF128PSIMCL7DD,NTSMPREPLA00045,GSM,AWOP Failure,NTSMPREPLA00060,Airtime Conversion,STRAIGHT_TALK
+New,ST3GCPOADROICP,,NTSMPREPLA00045Y1,CDMA,Redemption Failure,NTSMPREPLA00045M3,Port Request (Active with new number and now requesting a Port),STRAIGHT_TALK
+New,STLCPOAI5SGP4,TF128PSIMC4N,NTSMPREPLA00045M6,GSM,Port Request Cancellation (Requested a Port and is now requesting a new number),NTSMPREPLA00045,AWOP Failure,STRAIGHT_TALK
+New,ST256PBYOPD,TF256PSIMV9DD,NTSMPREPLA00060,CDMA,PIN Redeemed to Wrong Handset,STREPLA00035,Redemption Failure,STRAIGHT_TALK
+New,STZEZ932CP,TF256PSIMV9RM,STREPLA00035,CDMA,Airtime Conversion,NTSMPREPLA00060,Port Request Cancellation (Requested a Port and is now requesting a new number),STRAIGHT_TALK
+New,STZEZ289G,TF64SIMT5,STSMBREPLA00050,GSM,Port Request (Active with new number and now requesting a Port),STSMBREPLA00025,PIN Redeemed to Wrong Handset,STRAIGHT_TALK
+New,STZEZ797CWHP,,NTSMPREPLA00045,CDMA,AWOP Failure,STREPLA00035,Airtime Conversion,STRAIGHT_TALK
+New,STLGL31G,TF64PSIMC4RM,STREPLA00035,GSM,Redemption Failure,NTSMPREPLA00045Y1,Port Request (Active with new number and now requesting a Port),STRAIGHT_TALK
+New,STALA383GWHP,TF64SIMC4,NTSMPREPLA00045,GSM,Port Request Cancellation (Requested a Port and is now requesting a new number),NTSMPREPLA00060,AWOP Failure,STRAIGHT_TALK
+New,STZEZ250GR5,TF64SIMT5,STSMBREPLA00025,GSM,PIN Redeemed to Wrong Handset,STSMBREPLA00075,Redemption Failure,STRAIGHT_TALK
+New,STLG305C,,NTSMPREPLA00045,CDMA,Airtime Conversion,NTSMPREPLA00060,Port Request Cancellation (Requested a Port and is now requesting a new number),STRAIGHT_TALK
+New,STSAS765C,,NTSMPREPLA00045,CDMA,Port Request (Active with new number and now requesting a Port),STREPLA00035,PIN Redeemed to Wrong Handset,STRAIGHT_TALK
+New,STREAX54NCPWP,,STREPLAHA0001M,CDMA,AWOP Failure,STREPLAHA0001Y,Airtime Conversion,STRAIGHT_TALK
+New,STHUH226CP,,STNHPREPLA0015,CDMA,Redemption Failure,STNHPREPLA0030ILD,Port Request (Active with new number and now requesting a Port),STRAIGHT_TALK
+New,PHST64PSIMT5BMBT,TF64PSIMT5DD,STSMBREPLA00025,GSM,Port Request Cancellation (Requested a Port and is now requesting a new number),STSMBREPLA00075,AWOP Failure,STRAIGHT_TALK
+New,STAVV10GWHP4,JASPER2FF,STREPLACC0001M,GSM,PIN Redeemed to Wrong Handset,STREPLACC0001Y,Redemption Failure,STRAIGHT_TALK
+New,STMTXT830CP,,NTSMPREPLA00045,CDMA,Airtime Conversion,NTSMPREPLA00060,Port Request Cancellation (Requested a Port and is now requesting a new number),STRAIGHT_TALK
+New,STHUH871GRCS4,TF64PSIMC4RM,NTSMPREPLA00045,GSM,Port Request (Active with new number and now requesting a Port),NTSMPREPLA00060,PIN Redeemed to Wrong Handset,STRAIGHT_TALK
+New,STALA564CWHP,,NTSMPREPLA00060,CDMA,AWOP Failure,NTSMPREPLA00060,Airtime Conversion,STRAIGHT_TALK
+New,STZEZ667GWHP5,TF64PSIMT5RM,NTSMPREPLA00060,GSM,Redemption Failure,NTSMPREPLA00060,Port Request (Active with new number and now requesting a Port),STRAIGHT_TALK
+New,STZEZ288CR,TF256PSIMV9,STSMBREPLA00015,CDMA,Port Request Cancellation (Requested a Port and is now requesting a new number),STSMBREPLA00050,AWOP Failure,STRAIGHT_TALK
+New,STHUH350P,TF64SIMC4,STNHPREPLA0040,GSM,PIN Redeemed to Wrong Handset,STNHPREPLA0030,Redemption Failure,STRAIGHT_TALK
+New,STALA206GRCS,TF128SIMC4RM,NTSMPREPLA00045,GSM,Airtime Conversion,STSMBREPLA00075,Port Request Cancellation (Requested a Port and is now requesting a new number),STRAIGHT_TALK
+New,STLG237CP,,NTSMPREPLA00045,CDMA,Port Request (Active with new number and now requesting a Port),STREPLA00035,PIN Redeemed to Wrong Handset,STRAIGHT_TALK
+New,STSAS902CP,TF256PSIMV9RM,STREPLA00035,CDMA,AWOP Failure,STREPLA00035,Airtime Conversion,STRAIGHT_TALK
+New,STSAS820CP,TF256PSIMV9RM,STREPLA00035,CDMA,Redemption Failure,STSMBREPLA00075,Port Request (Active with new number and now requesting a Port),STRAIGHT_TALK
+New,STLG441GP4,TF128SIMC4,NTSMPREPLA00045,GSM,Port Request Cancellation (Requested a Port and is now requesting a new number),STREPLA00035,AWOP Failure,STRAIGHT_TALK
+New,STLG441GP5,TF128SIMT5,NTSMPREPLA00045,GSM,PIN Redeemed to Wrong Handset,NTSMPREPLA00060,Redemption Failure,STRAIGHT_TALK
+New,STLGL15GP4,TF64PSIMC4RM,NTSMPREPLA00060,GSM,Airtime Conversion,STREPLA00035,Port Request Cancellation (Requested a Port and is now requesting a new number),STRAIGHT_TALK
+New,STHUH891GP4P,TF128PSIMC4RM,NTSMPREPLA00060,GSM,Port Request (Active with new number and now requesting a Port),NTSMPREPLA00060,PIN Redeemed to Wrong Handset,STRAIGHT_TALK
+New,STLGL33G,TF64PSIMC4RM,NTSMPREPLA00060,GSM,AWOP Failure,STREPLA00035,Airtime Conversion,STRAIGHT_TALK
+New,STHUH258CWHP,,STNHPREPLA0015,CDMA,Redemption Failure,STNHPREPLA0030ILD,Port Request (Active with new number and now requesting a Port),STRAIGHT_TALK
+New,PHST128PSIMC4NBT,TF128PSIMC4ND,STSMBREPLA00050,GSM,Port Request Cancellation (Requested a Port and is now requesting a new number),STSMBREPLA00075,AWOP Failure,STRAIGHT_TALK
+New,PHST64PSIMC4BMBT,TF64PSIMC4DD,STSMBREPLA00040,GSM,PIN Redeemed to Wrong Handset,STSMBREPLA00015,Redemption Failure,STRAIGHT_TALK
+New,STLGL22C,,NTSMPREPLA00060,CDMA,Airtime Conversion,NTSMPREPLA00060,Port Request Cancellation (Requested a Port and is now requesting a new number),STRAIGHT_TALK
+New,STSAS777CR,,NTSMPREPLA00045Y1,CDMA,Port Request (Active with new number and now requesting a Port),NTSMPREPLA00060,PIN Redeemed to Wrong Handset,STRAIGHT_TALK
+New,STZEZ791GP5,TF64PSIMT5RM,NTSMPREPLA00045Y1,GSM,AWOP Failure,NTSMPREPLA00045M3,Airtime Conversion,STRAIGHT_TALK
+New,STAPI6SPG16SVP,TF128PSIMC4N,NTSMPREPLA00045Y1,GSM,AWOP Failure,NTSMPREPLA00045M3,Airtime Conversion,STRAIGHT_TALK
+New,STAPI6SPC16SVWHP,TF256PSIMV9N,NTSMPREPLA00045Y1,CDMA,Miami Corporate Escalation,NTSMPREPLA00060,Redemption Failures,STRAIGHT_TALK
+New,STAPI6SG16GYWHP,TF128PSIMC4N,NTSMPREPLA00060,GSM,Port Request (Active with new number and now requesting a Port),NTSMPREPLA00060,Redemption Failures,STRAIGHT_TALK
+New,STAPI6SC16SVPWP,TF256PSIMV9N,NTSMPREPLA00045Y1,CDMA,Miami Corporate Escalation,NTSMPREPLA00060,Redemption Failures,STRAIGHT_TALK
+New,STLGL17AGR4,TF128PSIMC4RM,NTSMPREPLA00060,GSM,Port Request (Active with new number and now requesting a Port),NTSMPREPLA00060,Redemption Failures,STRAIGHT_TALK
+New,STLGL17AGR7,TF128PSIMCL7RM,NTSMPREPLA00045Y1,GSM,Miami Corporate Escalation,NTSMPREPLA00060,Redemption Failures,STRAIGHT_TALK
+New,TCHUH867G3P4,TF64PSIMT5,TCSREPLA00029ILD,GSM,Redemption Failure,TCSREPLA00020ILD,Port Request (Active with new number and now requesting a Port),TELCEL
+New,TCLG306GP5P,TF64SIMT5,TCSREPLA00029ILD,GSM,Port Request Cancellation (Requested a Port and is now requesting a new number),TCSREPLA00050ILD,AWOP Failure,TELCEL
+New,TCMTEX431GR5V2,TF64SIMT5,TCSREPLA00020ILD,GSM,PIN Redeemed to Wrong Handset,TCSREPLA00035ILD,Redemption Failure,TELCEL
+New,TCHUH867G3P4,TF64PSIMT5,TCSREPLA00029ILD,GSM,Airtime Conversion,TCSREPLA00029ILD,Port Request Cancellation (Requested a Port and is now requesting a new number),TELCEL
+New,TCLG440GP,TF64SIMT5,TCSREPLA00029ILD,GSM,Port Request (Active with new number and now requesting a Port),TCSREPLA0060ILD,PIN Redeemed to Wrong Handset,TELCEL
+New,TCZEZ930GP5DU,TF64PSIMT5RM,TCSREPLA00029ILD,GSM,AWOP Failure,TCSREPLA00029ILD,Airtime Conversion,TELCEL
+New,TCZEZ667G,TF64PSIMT5RM,TCSREPLA00029ILD,GSM,Redemption Failure,TCSREPLA00055ILD,Port Request (Active with new number and now requesting a Port),TELCEL
+New,TCLG441G3P5,TF128SIMT5,TCSREPLA00040ILD,GSM,Port Request Cancellation (Requested a Port and is now requesting a new number),TCSREPLA00060ILD,AWOP Failure,TELCEL
+New,TCZEZ753GP,TF64PSIMT5RM,TCSREPLA00029ILD,GSM,PIN Redeemed to Wrong Handset,TCSREPLA00055ILD,Redemption Failure,TELCEL
+New,TCHUH891G3P5P,TF64PSIMT5RM,TCSREPLA00040ILD,GSM,Airtime Conversion,TCSREPLA00050ILD,Port Request Cancellation (Requested a Port and is now requesting a new number),TELCEL
+New,TFLGL34CTMP,,TFSREPLA40060,CDMA,Port Request (Active with new number and now requesting a Port),TFSREPLA40200,PIN Redeemed to Wrong Handset,TRACFONE
+New,TFZEZ665CTMPRS,,TFSREPLA40200,CDMA,AWOP Failure,TFSREPLA40120,Airtime Conversion,TRACFONE
+New,TFAPI4CWTPWP,,TFSREPLA40060,CDMA,Redemption Failure,TFSREPLA40120,Port Request (Active with new number and now requesting a Port),TRACFONE
+New,TFLG305C,,TFSREPLA40060,CDMA,Port Request Cancellation (Requested a Port and is now requesting a new number),TFSREPLA40120,AWOP Failure,TRACFONE
+New,TFSAS765CDG,,TFSREPLA40060,CDMA,PIN Redeemed to Wrong Handset,TFSREPLA40120,Redemption Failure,TRACFONE
+New,TFMTXT830CWHP,,TFSREPLA40060,CDMA,Airtime Conversion,TFSREPLA40120,Port Request Cancellation (Requested a Port and is now requesting a new number),TRACFONE
+New,TFUXU671CDG,,TFSREPLA40200,CDMA,Port Request (Active with new number and now requesting a Port),TFSREPLA40120,PIN Redeemed to Wrong Handset,TRACFONE
+New,TFLG237CDMPDU,,TFSREPLA40060,CDMA,AWOP Failure,TFSREPLA40200,Airtime Conversion,TRACFONE
+New,TFLG441GDMP7,TF64SIMCL7,TFSREPLA40200,GSM,Redemption Failure,TFSREPLA40120,Port Request (Active with new number and now requesting a Port),TRACFONE
+New,TFLGL22CP,,TFSREPLA40120,CDMA,Port Request Cancellation (Requested a Port and is now requesting a new number),TFSREPLA40200,AWOP Failure,TRACFONE
+New,TFZEZ752CPAS,,TFSREPLA40120,CDMA,PIN Redeemed to Wrong Handset,TFSREPLA40200,Redemption Failure,TRACFONE
+New,TFLGL16C3P,,TFSREPLA40120,CDMA,Airtime Conversion,TFSREPLA40200,Port Request Cancellation (Requested a Port and is now requesting a new number),TRACFONE
+New,TFLGL21GP4-5,TF128PSIMC4RM,TFSREPLA40060,GSM,Port Request (Active with new number and now requesting a Port),TFSREPLA40120,PIN Redeemed to Wrong Handset,TRACFONE
+New,TFZEZ660GP4SP,TF64PSIMC4RM,TFSREPLA40120,GSM,AWOP Failure,TFSREPLA40120,Airtime Conversion,TRACFONE
+New,TFZEZ667GWHP4,TF64PSIMC4RM,TFSREPLA40200,GSM,Redemption Failure,TFSREPLA4001Y,Port Request (Active with new number and now requesting a Port),TRACFONE
+New,TFZEZ753GP4DU,TF64PSIMC4RM,TFSREPLA40120,GSM,Port Request Cancellation (Requested a Port and is now requesting a new number),TFSREPLA40120,AWOP Failure,TRACFONE
+New,TF3GCPOAMOTXGP4,TF128PSIMC4N,TFSREPLA4001Y,GSM,PIN Redeemed to Wrong Handset,TFSREPLA40200,Redemption Failure,TRACFONE
+New,TFLCPOAMOTXCP,TF128PSIMC4N,TFSREPLA4001Y,GSM,Airtime Conversion,TFSREPLA0001,Port Request Cancellation (Requested a Port and is now requesting a new number),TRACFONE
+New,TFLCPOAI5SGP4,TF128PSIMC4N,TFSREPLA4001Y,GSM,Port Request (Active with new number and now requesting a Port),TFSREPLA4DM01,PIN Redeemed to Wrong Handset,TRACFONE
+New,TFLGL22CP,,TFSREPLA40120,,AWOP Failure,TFSREPLA40200,Airtime Conversion,TRACFONE
+New,TFSAS978CWTDG,TF256PSIMV9N,TFSREPLA40120,CDMA,Redemption Failure,TFSREPLA40200,Port Request (Active with new number and now requesting a Port),TRACFONE
+New,TFSAS777CDG,,TFSREPLA40120,CDMA,Port Request Cancellation (Requested a Port and is now requesting a new number),TFSREPLA40200,AWOP Failure,TRACFONE
+New,TFSAS920C,TF256PSIMV9RM,TFSREPLA40120,CDMA,PIN Redeemed to Wrong Handset,TFSREPLA40200,Redemption Failure,TRACFONE
+New,TFALA851GP4,TF64PSIMC4RM,TFSREPLA40060,GSM,Airtime Conversion,TFSREPLA40200,Port Request Cancellation (Requested a Port and is now requesting a new number),TRACFONE
+New,TFALA851GP4-5,TF64PSIMC4RM,TFSREPLA40120,GSM,AWOP Failure,TFSREPLA40060,Redemption Failure,TRACFONE
+New,TFSAS902C,TF256PSIMV9RM,TFSREPLA40060,CDMA,Airtime Conversion,TFSREPLA40200,Port Request Cancellation (Requested a Port and is now requesting a new number),TRACFONE
+New,TFSAS902CDG,TF256PSIMV9RM,TFSREPLA40120,CDMA,AWOP Failure,TFSREPLA40060,Redemption Failure,TRACFONE
+New,TFSAS902CP,TF256PSIMV9RM,TFSREPLA40120,CDMA,Miami Corporate Escalation,TFSREPLA40200,Airtime Conversion,TRACFONE
+New,TFSAS902C3P,TF256PSIMV9RM,TFSREPLA40120,CDMA,Airtime Conversion,TFSREPLA40200,PIN Redeemed to Wrong Handset,TRACFONE
+New,TFALA460GP5,TF128PSIMT5RM,TFSREPLA40060,GSM,Airtime Conversion,TFSREPLA40200,Port Request Cancellation (Requested a Port and is now requesting a new number),TRACFONE
+New,TFALA463BG3P5,TF128PSIMT5RM,TFSREPLA40120,GSM,AWOP Failure,TFSREPLA40060,Redemption Failure,TRACFONE
+New,TFZEZ660GP5-5,TF128PSIMT5RM,TFSREPLA40120,GSM,Port Request Cancellation (Requested a Port and is now requesting a new number),TFSREPLA40120,AWOP Failure,TRACFONE
+New,TFZEZ667GP5AS,TF128PSIMT5RM,TFSREPLA4001Y,GSM,PIN Redeemed to Wrong Handset,TFSREPLA40200,Redemption Failure,TRACFONE
+New,TFZEZ753GP5DG,TF128PSIMT5RM,TFSREPLA40120,GSM,AWOP Failure,TFSREPLA40120,Airtime Conversion,TRACFONE
+New,TFLGL17AGP,TF128PSIMC4RM,TFSREPLA40120,GSM,Port Request Cancellation (Requested a Port and is now requesting a new number),TFSREPLA40120,AWOP Failure,TRACFONE
+New,TFALA450TGP,TF128PSIMT5RM,TFSREPLA4001Y,GSM,PIN Redeemed to Wrong Handset,TFSREPLA40200,Redemption Failure,TRACFONE
+New,TFZEZ955GP5-5,TF64PSIMT5RM,TFSREPLA40120,GSM,AWOP Failure,TFSREPLA40120,Airtime Conversion,TRACFONE

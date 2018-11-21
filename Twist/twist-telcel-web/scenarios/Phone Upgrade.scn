@@ -1,0 +1,16 @@
+Tags:
+Preconditions:On telcel homepage,Log Out
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter "New" Esn for part <From Part> zip code <ZIP> sim<From SIM> and Pin number <From PIN>
+#Enter Sim Card <From SIM> depending on cell tech <From Cell> and status "New"
+#Create new account
+#Complete activation process depending on status "New" and cell tech <From Cell>
+
+Activate Phone, Create Account:
+#Setup up to <To Status> <To Part> phone with zip <ZIP> sim <To SIM> pin <To PIN>
+
+Port Number, Create Account, Activate phone:
+#Select upgrade phone
+#Enter to <ESN or SIM?> and from pin <From PIN> during pin<During PIN>
+#Verify Order Summary

@@ -1,0 +1,13 @@
+Tags:
+Preconditions:On total wireless home page,Log out
+
+Activate Phone, Create Account, Buy a Service Plan, Enter Payment:
+#Setup Esn based on status <Status> and part <Part Number>
+#Go to Activate Option
+#Enter <Status> Esn for part <Part Number> with Sim<SimNumber>
+#Select plan <Reoccuring?> <Plan>
+#Log in depending on status <Status>
+#Create new account depending on status <Status>
+#Enter esn <Zip Code> zip and <# Devices> <Other Part> devices with Sim<ChildSim>
+#Enter credit card <Card Type> or use stored card
+#Complete activation depending on status <Status>

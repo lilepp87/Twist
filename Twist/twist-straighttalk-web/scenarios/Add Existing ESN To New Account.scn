@@ -1,0 +1,26 @@
+Tags:in-progress
+Preconditions:On Straighttalk HomePage,Log out
+Metadata:ScenarioType=Auto
+
+Activate Phone, Create Account:
+#Go to Activate Option
+#enter esn for part zip and sim "New" "STAPI6C16GYP" "33178" "TF256PSIMV9N"
+#Log in depending on status "New"
+#Create new account depending on status "New"
+#Complete activation process depending on status "New" and cell tech "GSM"
+
+Activate Phone, Create Account:
+#Go to TAS
+#Enter "New" Esn for part "STZEZ716BGWHP4" sim "TF128PSIMC4RM"
+#Create account for "STRAIGHT_TALK" with no email
+#Activate phone by using pin "NTAPPMP00045SA" depending on status "New" of cell tech "GSM" zip "33178"
+#Add remaining  phones for ""  line plan of part "" "" "" with sim "" "" ""
+#Checkout and process transaction
+#Select Deactivation option
+#Select a Deactivation Reason "PASTDUE Line Status : RESERVED USED"
+#Verify message that Line has been successfully deactivated
+
+Activate Phone, Create Account:
+#Go to straight talk home page
+#Log in
+#Add phone to my account

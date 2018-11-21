@@ -1,0 +1,24 @@
+<soapenv:Envelope xmlns:com="http://www.tracfone.com/CommonTypes" xmlns:plan="http://b2b.tracfone.com/PlanInfoServices" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+   <soapenv:Header> 
+      <wsse:Security soapenv:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+         <wsse:UsernameToken wsu:Id="UsernameToken-B8A64286F95A693FCD15042911540292"> 
+            <wsse:Username>webuser</wsse:Username> 
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">t!n43p2b</wsse:Password>
+         </wsse:UsernameToken> 
+      </wsse:Security> 
+   </soapenv:Header> 
+   <soapenv:Body> 
+      <plan:getPlanInfoRequest> 
+         <com:requestToken> 
+            <com:clientTransactionId>1111</com:clientTransactionId> 
+            <com:clientId>1111</com:clientId> 
+         </com:requestToken> 
+         <com:brandName>@brand</com:brandName> 
+         <com:sourceSystem>SMS</com:sourceSystem> 
+         <!--Optional:--> 
+         <com:language>ENG</com:language> 
+         <!--Zero or more repetitions:--> 
+         <plan:min>@min</plan:min> 
+      </plan:getPlanInfoRequest> 
+   </soapenv:Body> 
+</soapenv:Envelope>

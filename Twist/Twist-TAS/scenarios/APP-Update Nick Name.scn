@@ -1,0 +1,11 @@
+Tags:app,services
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone, Create Account, My Account App, TossUtil:
+#Create account for part <Phone> sim <SIM> brand <Brand>
+#Search for Esn
+#Activate phone by using pin <PIN> depending on status <Status> of cell tech <Cell Tech> zip <ZIP>
+#Add remaining  phones for ""  line plan of part "" "" "" with Sim "" "" ""
+#Checkout and process transaction
+
+MyAccountApp:
+#Update Nick Name to <Nick Name> for <Resource>

@@ -1,0 +1,12 @@
+Tags:set6,cbo,services
+Preconditions:On tas HomePage,Log out
+Port Number, Activate Phone, Create Account, Invoke CBO:
+#Enter <Status> Esn for part <Part Number> sim <SIM>
+#Create Account for <Brand>
+#Enter PIN <Pin/Plan> for <Brand>
+#Enter MIN from <Old Brand> with part "External"  zip "33178"
+#Perform option <Option> with plan <Pin/Plan> and workforcePIN <Workforce PIN>
+#Complete port without Cbo
+#Call service Update Ticket And Send Message
+#Go to port information error for <Brand>
+#Update port  details for <Brand> from <Old Brand>

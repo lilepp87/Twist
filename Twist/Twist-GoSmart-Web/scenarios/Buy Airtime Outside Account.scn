@@ -1,0 +1,19 @@
+Tags:
+Preconditions:OnGoSmartHomePage,Logout
+Activate Phone, Create Account, Enter Payment:
+#Go to Activate Option
+#Enter "New" Esn for part <PartNumber> sim <SIM>
+#Enter zip <ZipCode> for new phone number
+#Purchase "One-Time" <Plan1> service plan with ILD<with ILD1?>
+#Log in depending on status "New"
+#Create new account depending on status "New"
+#Enter credit card <CardType> for "One-Time"
+#Complete activation process depending on status "New" and cell tech <CellTech>
+#LogOut
+
+Buy Airtime, Redemption, Enter Payment:
+#Go to Refill Account
+#Enter Min
+#Select Plan <Plan2> With ILD <with ILD2?> and <Add Now?> with Current Plan <Plan1> "PURCHASE"
+#Enter credit card <CardType> for "One-Time"
+#Check Purchase Summary and Process

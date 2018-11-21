@@ -1,0 +1,20 @@
+Brand,Pat Number,SIM,PIN,Cell Tech,Zip,Parent Solution,Solution Name,Ticket Type,Claim/ticket Type
+GO_SMART,PHGS128PSIMT5ND,GS128PSIMT5ND,GSAPPU0065ILD,GSM,33178,Phone/SIM Exchanges Non-Defective,SIM Exchanges,Ticket: Technology Exchange SIM Card Exchange,sim exchange
+GO_SMART,PHSMGS128PSIMT5DD,GS128PSIMT5DD,GSAPPU0065ILD,GSM,33178,Phone/SIM Exchanges Non-Defective,SIM Exchanges,Ticket: Technology Exchange SIM Card Exchange,sim exchange
+TELCEL,TCLGL53BGDG,TF128PSIMT5N,TCAPP00055ILD,GSM,33178,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Ticket: Technology Exchange Digital Exchange,digital phone exchange
+TELCEL,TCLG440G3P5P,TF64SIMT5,TCAPP00040ILD,GSM,33178,Phone/SIM Exchanges Non-Defective,SIM Exchanges,Ticket: Technology Exchange SIM Card Exchange,sim exchange
+STRAIGHT_TALK,STAPI5CG16PKR,TF128PSIMC4N,NTPMP00060ILD,GSM,33178,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Ticket: Technology Exchange Digital Exchange,digital phone exchange
+STRAIGHT_TALK,STAPI5CG16PKR,TF128PSIMC4N,NTPMP00060ILD,GSM,33178,Phone/SIM Exchanges Non-Defective,SIM Exchanges,Ticket: Technology Exchange SIM Card Exchange,sim exchange
+NET10,NTLGL31G3P4,TF128PSIMT5N,NTAPPU0065ILD,GSM,33178,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Ticket: Technology Exchange Digital Exchange,digital phone exchange
+NET10,NTLG328BGP4FMP,TF128SIMC4,NTAPPU0001,GSM,33178,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Ticket: Warehouse Physical Damage Exchange,phone exchange
+TRACFONE,TFSAS920CPDU,TF256PSIMV9RM,TSAPP40120,CDMA,33178,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Ticket: Technology Exchange Digital Exchange,digital phone exchange
+TRACFONE,TFSAS920CPDU,TF256PSIMV9RM,TSAPP40120,CDMA,33178,Phone/SIM Exchanges Non-Defective,CDMA LTE SIM Exchanges,Ticket: Technology Exchange SIM Card Exchange,sim exchange
+TRACFONE,TFLG442BGDMP4SP,TF128SIMT5,TSAPP40120,GSM,33178,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Ticket: Technology Exchange Digital Exchange,phone exchange
+TOTAL_WIRELESS,TWLGL62VCWHP,TF256PSIMV9N,TWAPP00085,CDMA,33178,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Ticket: Technology Exchange Digital Exchange,digital phone exchange
+SIMPLE_MOBILE,SMLGL59BG3P5,SM128PSIMT5N,SMNAPP0050BBUNL,GSM,33178,Phone/SIM Exchanges Non-Defective,SIM Exchanges,Ticket: Technology Exchange SIM Card Exchange,sim exchange
+SIMPLE_MOBILE,SMLGL59BG3P5,SM128PSIMT5N,SMNAPP0050BBUNL,GSM,33178,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Ticket: Technology Exchange Digital Exchange,digital phone exchange
+WFM,WFMLGL57BGP,WFM128PSIMT5TM,WFMAPPU0029,GSM,33178,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Ticket: Technology Exchange Digital Exchange,digital phone exchange
+WFM,WFMLGL57BGP,WFM128PSIMT5TM,WFMAPPU0029,GSM,33178,Phone/SIM Exchanges Non-Defective,SIM Exchanges,Ticket: Technology Exchange SIM Card Exchange,sim exchange
+TRACFONE,TFLG410G3P4,TF128SIMT5,TSAPP40120,GSM,33178,Technology Migration,2G Migration,Ticket: Warehouse 2G Migration,phone exchange
+TRACFONE,TFLG410G3P4,TF128SIMT5,TSAPP40120,GSM,33178,Technology Migration,TMO Band 2,Ticket: Warehouse TMO Band 2,phone exchange
+STRAIGHT_TALK,STLG420GP5,TF128SIMT5,NTAPPMP00045TR,GSM,33178,Technology Migration,2G Migration,Ticket: Warehouse 2G Migration,phone exchange

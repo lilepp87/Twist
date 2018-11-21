@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:lang="http://www.springframework.org/schema/lang"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+   	    http://www.springframework.org/schema/lang http://www.springframework.org/schema/lang/spring-lang-3.0.xsd
+         http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+
+  <context:annotation-config/> 
+	  
+	  	<!-- ****** I M P O R T S ****** -->
+		
+		<import resource="classpath:twist-common-ng.xml"/>
+		<!--<import resource="classpath:applicationContext-scenario-sm.xml" /> -->
+		
+		<!-- **** ACTIVATION ***-->
+		
+		<bean class="com.tracfone.activation.ActivatePhone" id="ActivatePhone">
+			<constructor-arg ref="browser"/>
+			<property name="phoneUtil" ref="phoneUtil"/>
+			<property name="simUtil" ref="simUtil"/>
+			<property name="esnUtil" ref="esnUtil" />
+		</bean>
+		
+
+		<bean id="twistDataStoreFactory" class="com.thoughtworks.twist.core.execution.TwistDataStoreFactory">
+		</bean>
+		<bean id="twistScenarioStore" factory-bean="twistDataStoreFactory" 			factory-method="getScenarioStore"			scope="singleton">
+		</bean>
+
+		<bean id="twistScenarioHooks" class="ScenarioExecutionHooks">
+		    <constructor-arg><ref bean="browser"/></constructor-arg>
+		</bean>
+
+
+</beans>

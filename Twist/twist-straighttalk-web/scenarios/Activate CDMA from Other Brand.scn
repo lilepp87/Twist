@@ -1,0 +1,13 @@
+Tags:
+Preconditions:On Straighttalk HomePage,Log out
+Port Number:
+#Activate Esn <FromNonSTEsn> Sim <FromSim> Pin <FromPin> Brand <FromBrand> Zip <Zip> Celltech <CellTech> Status <Status>
+
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter existing Esn from other brand
+#Choose a new number for zip <Zip>
+#Enter pin <ToPin>
+#Log in depending on status <Status>
+#Create new account depending on status "New"
+#Complete activation process depending on status "New" and cell tech <CellTech>

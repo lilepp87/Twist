@@ -1,0 +1,14 @@
+Tags:NT5
+Preconditions:On net10 english home page,Log out
+Start Activation, Create Account:
+#Make past due depending on status <Status> for model <ESN> and sim <SIM>
+#Go to activate phone
+#Select Activate My Net10 Phone
+#Create new account for Esn
+#Possibly join SIM <SIM> for cell tech <Cell Tech> and status <Status>
+#Enter Esn for model <ESN> with status <Status> and zip code <Zip>
+
+Finish Activation with PIN, Enter Payment Information:
+#Enter <Pin card type> PIN <Pin> for phone
+#Try to activate and check message for <Status> <Cell Tech> <phone model> phone and <Pin card type> PIN
+#Buy protection plan  <Plan> with  <card type>

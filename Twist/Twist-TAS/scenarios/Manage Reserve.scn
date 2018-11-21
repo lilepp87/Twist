@@ -1,0 +1,15 @@
+Tags:set4,Handset
+Preconditions:On tas HomePage,Log out
+ Activate Phone, Create Account:
+#Enter <Status> Esn for part <Part Number> sim <SIM>
+#Create account for <Brand>
+#Activate phone by using pin <PIN> depending on status <Status> of cell tech <Cell Tech> zip <Zip Code>
+#Checkout and process transaction
+ Redemption:
+#Go to redemption
+#Enter pin <Queue Pin>
+
+Manage Reserve, Redemption:
+#Add card to reserve
+#Redeem queued card from reserve
+#Check confirmation

@@ -1,0 +1,25 @@
+Tags:in-progress
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone, Create Account:
+#Enter <Status> Esn for part <PartNumber> sim <SIM>
+#LRP Create account for <Brand> 
+#Complete TAS LRP Enrollment <Enrolled in LRP?>
+#Return to main screen for new ESN from LRP
+#Activate phone by using pin <PIN> depending on status <Status> of cell tech <CellTech> zip <Zip Code>
+#Add remaining  phones for ""  line plan of part "" "" "" with Sim"" "" ""
+#Checkout and process transaction
+
+Activate Phone, Create Account:
+#Click on New Customer
+#Enter <Status> Esn for part <PartNumber2> sim <SIM2>
+#LRP Create account for <Brand>
+#Complete TAS LRP Enrollment
+#Return to main screen for new ESN from LRP
+#Activate phone by using pin <PIN2> depending on status <Status> of cell tech <CellTech> zip <Zip Code>
+#Add remaining  phones for ""  line plan of part "" "" "" with Sim"" "" ""
+#Checkout and process transaction
+
+Redemption, Activate Phone:
+#Go to redemption
+#Select reason <Reason> type <Type>  with <Replacement Type> service plan ""and service days <Service Days> old ESN <PartNumber>
+#Check frontend for point allocation for "REPLACEMENT" pin <PIN>

@@ -1,0 +1,13 @@
+Tags:
+Preconditions:On Dealerportal,Log Out
+Activate Phone:
+#Go to <Brand>
+#Go to Activation for <Brand> 
+#Enter esn <ESN> sim <SIM> zip <ZIP> pin <Pin>
+#Confirm activation for cell tech <Cell Tech>
+
+Ten ILD, Activate Phone:
+#Go to <Brand>
+#Go to 10 dollar ILD
+#Enter phone and ILD PIN <10 ILD>
+#Check confirmation

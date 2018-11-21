@@ -1,0 +1,14 @@
+Tags:set3,Handset
+Preconditions:On tas HomePage,Log out
+Activate Phone, Create Account:
+#Enter "New" Esn for part <From Part> sim <Form SIM>
+#Create account for <Brand>
+#Activate phone by using pin <From PIN> depending on status "New" of cell tech <From Tech>  zip <Zip>
+#Add remaining  phones for <# Devices>  line plan of part <Child> "" "" with sim <ChildSim> "" ""
+#Checkout and process transaction
+
+Activate Phone, Phone Upgrade, Redemption:
+#Select <Upgrade For?> ESN for upgrade
+#Go to Upgrade option
+#Select option <To Status> part number <To Part> sim <To SIM> pin <To PIN> of cell tech <To Tech> zip <Zip> with min transfer <Min Transfer>
+#Confirm phone upgrade

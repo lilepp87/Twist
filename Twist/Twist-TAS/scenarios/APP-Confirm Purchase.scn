@@ -1,0 +1,19 @@
+Tags:app,services,wfm
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone, Create Account, MyAccountApp, TossUtil:
+#Create account for part <Phone> sim <SIM> brand <Brand>
+#Search for Esn
+#Activate phone by using pin <PIN> depending on status <Status> of cell tech <Cell Tech> zip <ZIP>
+#Add remaining  phones for ""  line plan of part "" "" "" with Sim"" "" ""
+#Checkout and process transaction
+
+ MyAccountApp:
+#Add <Card Type> CC to account by <MinOrAccID>
+#Update payment src
+#Get list of all payment src by <MinOrAccID>
+#Get service plans <Device Type> <Type> <PIN>
+#Calculate Purchase Tax For Plan <PIN>
+#Confirm Purchase <PIN>
+#Get payment history "ESN"
+#Delete payment source by <MinOrAccID>
+#Get payment details

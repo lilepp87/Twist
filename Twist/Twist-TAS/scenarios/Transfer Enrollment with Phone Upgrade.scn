@@ -1,0 +1,18 @@
+Tags:set4
+Preconditions:On tas HomePage,Log out
+Activate Phone, Create Account, Redemption:
+#Enter "New" Esn for part "PHSM64PSIMT5BLC" sim "SM64PSIMT5B"
+#Create Account for "SIMPLE_MOBILE"
+#Enter zip "33178"
+#Select pin "SMNAPP30060" and add credit card "Visa"
+#Make selection of "Reoccuring" payment with card type "Visa"
+#Add remaining  phones for "2"  line plan of part "SMZEZ557BGP5ET5" "SMZEZ557BGP5ET5" "SMZEZ557BGP5ET5" with sim "SM128PSIMT5N" "SM128PSIMT5N" "SM128PSIMT5N"
+#Select card enter cvv "123"
+#Select "Reoccuring" option
+#Checkout and process transaction
+
+ Redemption, Activate Phone, Phone Upgrade:
+#Select "" ESN for upgrade
+#Go to Upgrade option
+#Select option "New" part number "SMZEZ557BGWHP5" sim "SM128PSIMT5N" pin "" of cell tech "GSM" zip "33178" with min transfer "Yes"
+#Confirm phone upgrade

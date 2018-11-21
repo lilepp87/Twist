@@ -1,0 +1,4 @@
+Tags:app,services
+Preconditions:closeBrowser
+MyAccountApp:
+#View list of features supported by <Brand>

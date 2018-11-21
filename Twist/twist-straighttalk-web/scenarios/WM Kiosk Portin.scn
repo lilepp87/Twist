@@ -1,0 +1,10 @@
+Tags:in-progress
+Preconditions:On WMKiosk HomePage 
+Port Number, Activate phone, Create Account, WM Kiosk:
+#Go to WM transfer phone number
+#enter esn for part zip and sim <Status> <PartNumber> <Zip Code> <SIM>
+#Confirm port message
+#Create new account
+#Enter number from <Old Brand> with part <Old PartNumber>
+#Finish port
+

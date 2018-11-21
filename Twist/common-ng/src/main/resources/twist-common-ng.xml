@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans>
+
+	<!-- ****** I M P O R T S ****** -->
+	
+
+	<!-- ****** DEFINITIONS ****** -->
+	
+	 <bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
+		<property name="driverClassName" value="oracle.jdbc.OracleDriver" />
+		<property name="url" value="jdbc:oracle:thin:@devdb.tracfone.com:3012:CLFYSCI" />
+		<property name="username" value="itquser_data" />
+		<property name="password" value="sci4testdata" />
+	</bean>
+	
+   <bean id="ofsDataSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
+		<property name="driverClassName" value="oracle.jdbc.OracleDriver" />
+		<property name="url" value="jdbc:oracle:thin:@dsvmofs.tracfone.com:1531:OFSSIT" />
+		<property name="username" value="itquser_data" />
+		<property name="password" value="Ptr0p1cal!" />
+	</bean>
+	
+	  <bean id="db2DataSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
+		<property name="driverClassName" value="com.ibm.db2.jcc.DB2Driver" />
+		<property name="url" value="jdbc:db2://dpiswcsdb21.tracfone.com:60000/tracdb" />
+		<property name="username" value="db2inst1" />
+		<property name="password" value="tr@cf0ne" />
+	</bean>
+    
+	
+	<bean id="phoneUtil" class="com.tracfone.PhoneTwistDaoImpl">
+		<constructor-arg ref="clfyjdbcTemplate"/>
+		<property name="ofsjdbcTemplate" ref="ofsjdbcTemplate" />
+		<property name="db2jdbcTemplate" ref="db2jdbcTemplate" />
+		<property name="clfyjdbcTemplate" ref="clfyjdbcTemplate" />
+	</bean>
+	
+	
+	<bean id="simUtil" class="com.tracfone.SimTwistDaoImpl">
+		<constructor-arg ref="clfyjdbcTemplate"/>
+		<property name="clfyjdbcTemplate" ref="clfyjdbcTemplate" />
+	</bean>
+	
+	<bean id="esnUtil" class="com.tracfone.ESNUtil">
+		<property name="phoneUtil" ref="phoneUtil" />
+	</bean>
+	
+	<bean id="ofsjdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+	    <property name="dataSource" ref="ofsDataSource"/>
+	</bean>
+	
+	<bean id="db2jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+	    <property name="dataSource" ref="db2DataSource"/>
+	</bean>
+	
+	<bean id="clfyjdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+	    <property name="dataSource" ref="dataSource"/>
+	</bean>
+	
+
+</beans>

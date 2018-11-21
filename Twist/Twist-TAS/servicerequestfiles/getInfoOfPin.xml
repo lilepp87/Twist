@@ -1,0 +1,24 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:phon="http://b2b.tracfone.com/PhoneServices" xmlns:com="http://www.tracfone.com/CommonTypes" xmlns:phon1="http://www.tracfone.com/PhoneCommonTypes">
+   <soapenv:Header>
+      <wsse:Security soapenv:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+         <wsse:UsernameToken wsu:Id="UsernameToken-17B889B60865DE4C8F14652479585454">
+            <wsse:Username>@secusername</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">@secpassword</wsse:Password>
+         </wsse:UsernameToken>
+      </wsse:Security>
+   </soapenv:Header>
+   <soapenv:Body>
+   
+<phon:getInfoForPinRequest xmlns:com="http://www.tracfone.com/CommonTypes" xmlns:phon="http://b2b.tracfone.com/PhoneServices">
+	<com:requestToken>
+		<com:clientTransactionId>123</com:clientTransactionId>
+		<com:clientId>114</com:clientId>
+	</com:requestToken>
+	<com:brandName>@brand</com:brandName>
+	<com:sourceSystem>WEB</com:sourceSystem>
+	<!--Optional:-->
+	<com:language>ENG</com:language>
+	<phon:pin>@pin</phon:pin>
+</phon:getInfoForPinRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

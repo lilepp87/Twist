@@ -1,0 +1,19 @@
+Tags:ivr,in-progress
+Preconditions:On tas HomePage
+Activate Phone, Create Account, redemption:
+#Enter <Status> Esn for part <ESN> sim <SIM>
+#Create account for <Brand>
+#Enter zip <ZIP>
+#Select pin <PIN1> and add credit card <Credit>
+#Make selection of <Reocurring> payment
+#Select card enter cvv <CVV>
+#Check activation for cell tech <Cell> and status <Status>
+#Checkout and process transaction
+Universal Purchase:
+#Close browser
+#Call Check Eligibility
+#Call Get Product Offering Service plan <PIN2>
+#Call Get Retention Decision Service <Refill Type>
+#Call Get Product Offering Service plan with autorefill option <Auto-Refill>
+#Call EstimateCustomerOrder for zip <ZIP>
+#Call SubmitCustomerOrder <ZIP> for existing <Credit> card

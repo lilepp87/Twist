@@ -1,0 +1,10 @@
+ZIP,PIN,ESN Type,Is LTE?,Is iPhone 5?,Carrier,Active?,Has Sim?,isHD?,isTrio?
+33178,NTAPPMP00045,Decimal,Yes,Yes,Verizon,Not Active,Yes,Yes,Yes
+33178,NTAPPMP00060ILD,Decimal,Yes,Yes,Verizon,Not Active,Yes,Yes,No
+33178,NTAPPMP00060ILD,Decimal,Yes,Yes,Verizon,Not Active,Yes,No,Yes
+33178,NTAPPMP00060ILD,Decimal,Yes,Yes,Verizon,Not Active,Yes,No,No
+33178,STAPP30035,Hex,Yes,No,Verizon,Not Active,Yes,Yes,Yes
+33178,STAPP30035,Hex,Yes,No,Verizon,Not Active,Yes,Yes,No
+33178,STAPP30035,Hex,Yes,No,Verizon,Not Active,Yes,No,Yes
+33178,STAPP30035,Hex,Yes,No,Verizon,Not Active,Yes,No,No
+33178,NTAPPMP00045,Hex,No,No,Verizon,Not Active,Yes,NA,NA

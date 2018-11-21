@@ -1,0 +1,12 @@
+Tags:
+Preconditions:On telcel homepage,Log Out
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter <status> Esn for part <Part Number> zip code <Zip> sim <SIM> and Pin number <Pin>
+#Enter Sim Card <SIM> depending on cell tech <cell tech> and status <status>
+#Create new account
+
+BYOP APN:
+#Go to BYOP APN Setting page
+#Enter esn and other details <phone model>
+#Check for Settings

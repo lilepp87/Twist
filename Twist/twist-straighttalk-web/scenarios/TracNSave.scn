@@ -1,0 +1,14 @@
+Tags:in-progress
+Preconditions:On Straighttalk HomePage,Log out
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter "New" esn for part "STAPISEC16GY" and sim "TF256PSIMV9N"
+#Choose a new number for zip "33178"
+#Enter pin "NTAPPMP00045SA"
+#Log in depending on status "New"
+#Create new account depending on status "New"
+#Complete activation process depending on status "New" and cell tech "CDMA"
+
+Trac N Save:
+#Check for Trac N Save inside my account
+#Check for Trac N Save outside my account

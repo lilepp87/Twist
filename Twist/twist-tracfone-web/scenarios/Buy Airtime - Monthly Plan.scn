@@ -1,0 +1,18 @@
+Tags:tf1
+Preconditions:On Tracfone Home Page,Log Out
+Activate Phone, Create Account:
+#Go to activate my TracFone For<Part Number>
+#Enter "New" Esn <Part Number> SIM card <Sim Card> and zip code <ZIP>
+#Enter pin card number <Activation PIN> "" ""
+#Select Register
+#Delay
+#Verify message for cell tech
+#Complete the process for <Cell Tech> phone
+#Login to MyAccount
+#Verify Phone Number
+
+Buy Airtime, Create Account, Enter Payment:
+#Go to Monthly Plans
+#Select the plan <Monthly Plan>
+#Enter credit card <Card Type>
+#Verify purchase of plan

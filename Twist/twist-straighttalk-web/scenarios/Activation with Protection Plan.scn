@@ -1,0 +1,11 @@
+Tags:ST2,in-progress
+Preconditions:On Straighttalk HomePage,Log Out
+Activate phone, Create Account, Enter Payment:
+#Go to Activate Option
+#Enter <Status> esn for part <PartNumber> and sim <SIM>
+#Choose a new number for zip <ZipCode>
+#Enter pin <PIN>
+#Log in depending on status <Status>
+#Create new account depending on status <Status>
+#Complete activation process depending on status <Status> and cell tech <CellTech>
+#Add Protection Plan <Protection Plan> depends on zip <ZipCode>  with <CardType> for part <PartNumber>

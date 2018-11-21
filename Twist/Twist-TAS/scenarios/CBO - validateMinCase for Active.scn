@@ -1,0 +1,10 @@
+Tags:in-progress
+Preconditions:On tas HomePage,Log out
+Activate Phone, Create Account:
+#Enter "New" Esn for part "TFSAT201GP" sim "TF128SIMT5RM"
+#Create account for "TRACFONE"
+#Activate phone by using pin "TSAPP40120" depending on status "New" of cell tech "GSM" zip "33178"
+
+Support:
+#Insert  alert for esn with type "0" and id "1003"
+#callValidateEsnMinUpgradeChangeMinMethod

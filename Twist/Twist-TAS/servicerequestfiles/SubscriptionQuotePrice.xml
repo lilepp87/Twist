@@ -1,0 +1,17 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:bus="http://xmlns.oracle.com/BRM/schemas/BusinessOpcodes">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <ns2:tfOpSubscriptionQuotePrice xmlns:ns2="http://xmlns.oracle.com/BRM/schemas/BusinessOpcodes">
+         <ns2:TF_OP_SUBSCRIPTION_QUOTE_PRICE_Request>
+            <ns2:flags>0</ns2:flags>
+            <ns2:TF_OP_SUBSCRIPTION_QUOTE_PRICE_inputFlist>
+               <ns2:POID>0.0.0.1 /account -1 0</ns2:POID>
+               <ns2:ACTION>RDMBAN</ns2:ACTION>
+               <ns2:ACCOUNT_NO>@ban</ns2:ACCOUNT_NO>
+               <ns2:GL_SEGMENT>.walmart</ns2:GL_SEGMENT>
+               <ns2:ZIP>@zip</ns2:ZIP>
+            </ns2:TF_OP_SUBSCRIPTION_QUOTE_PRICE_inputFlist>
+         </ns2:TF_OP_SUBSCRIPTION_QUOTE_PRICE_Request>
+      </ns2:tfOpSubscriptionQuotePrice>
+   </soapenv:Body>
+</soapenv:Envelope>

@@ -1,0 +1,13 @@
+ZipCode,Carrier,Status,Plan,SIM,Is LTE,Is Iphone,IsHd?,Recurring?,CardType
+33178,RSS,Not Active,TW 3 Line 12 GB,TF256PSIMV9ND,Yes,Yes,Yes,One-Time,Discover
+33178,RSS,Not Active,TW 2 Line 8 GB,TF256PSIMV9TD,Yes,Yes,Yes,One-Time,Discover
+33178,RSS,Not Active,TW 2 Line 8 GB,TF256PSIMV9ND,Yes,No,Yes,Reoccuring,Visa
+33178,RSS,Not Active,TW 2 Line 8 GB,TF256PSIMV9DD,Yes,No,Yes,One-Time,Discover
+33178,RSS,Not Active,TW 3 Line 12 GB,TF256PSIMV9TD,Yes,No,Yes,One-Time,Discover
+33178,RSS,Not Active,TW 4 Line 15 GB,TF256PSIMV9ND,Yes,Yes,No,Reoccuring,Visa
+33178,RSS,Not Active,TW 3 Line 12 GB,TF256PSIMV9TD,Yes,Yes,No,Reoccuring,Visa
+33178,RSS,Not Active,TW 1 Line No Data,TF256PSIMV9ND,Yes,No,No,One-Time,Discover
+33178,RSS,Not Active,TW 1 Line No Data,TF256PSIMV9DD,Yes,No,No,One-Time,Visa
+33178,RSS,Not Active,TW 1 Line 5 GB,TF256PSIMV9TD,Yes,No,No,One-Time,Discover
+33178,RSS,Not Active,TW 2 Line 8 GB,,No,No,No,One-Time,Visa
+33178,RSS,Not Active,TW 1 Line No Data,,No,Yes,No,One-Time,Discover

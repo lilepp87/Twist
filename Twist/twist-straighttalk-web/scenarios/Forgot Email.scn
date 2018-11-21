@@ -1,0 +1,15 @@
+Tags:ST4
+Preconditions:On Straighttalk HomePage,Log out
+.
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter <Status> esn for part <ESN Part> and sim <SIM>
+#Choose a new number for zip <ZIP>
+#Enter pin <Pin>
+#Log in depending on status <Status>
+#Create new account depending on status <Status>
+#Complete activation process depending on status <Status> and cell tech <Cell Tech>
+#Log out
+
+Create Account:
+#Try to Reset Email

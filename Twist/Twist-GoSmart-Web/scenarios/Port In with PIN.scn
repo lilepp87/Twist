@@ -1,0 +1,11 @@
+Tags:
+Preconditions:OnGoSmartHomePage,Logout
+
+Activate Phone, Create Account, Port Number:
+#Go to Activate Option
+#Enter "New" Esn for part <PartNumber> sim <SIM>
+#Choose Keep My Number for Part <Old Model>
+#Enter Pin <Plan>
+#Log in depending on status "New"
+#Create new account depending on status "New"
+#Finish Porting

@@ -1,0 +1,7 @@
+Tags:
+Preconditions:On telcel homepage,Log Out
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter Sim Card <Sim> joined to model <Part Number> for zip <Zip> and Pin <Pin>
+#Create new account
+#Complete activation process depending on status <Status> and cell tech <Cell Tech>

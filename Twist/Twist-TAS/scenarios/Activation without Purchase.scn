@@ -1,0 +1,7 @@
+Tags:set3,Handset
+Preconditions:On tas HomePage,Log out
+ Activate Phone, Create Account:
+#Enter <Status> Esn for part <PartNumber> sim <SIM>
+#Create Account  for <Brand>
+#Select  AWOP wtih option <Option>  reason <Reason>  and service days <Service Days> data "1" for zip code <ZipCode>
+#Complete activation for status<Status> cell tech <Cell Tech>

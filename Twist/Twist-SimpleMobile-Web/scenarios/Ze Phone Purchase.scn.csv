@@ -1,0 +1,4 @@
+CustomerType,ZipCode,Phone,Plan,CC Type
+EXISTING,94043,Apple,No Plan,VISA
+NEW,94043,Samsung,$25,American Express
+NEW,94043,Apple,$60,American Express

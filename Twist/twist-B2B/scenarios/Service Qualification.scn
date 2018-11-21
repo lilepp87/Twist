@@ -1,0 +1,4 @@
+Tags:goapi
+Preconditions:
+Create Account:
+#Check eligibility for <partnerID> <carrier> <cellTech> in <zipCode> for <phoneModel>

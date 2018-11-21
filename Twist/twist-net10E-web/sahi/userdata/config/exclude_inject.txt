@@ -1,0 +1,16 @@
+.*_sahi=false.*
+.*arcwebservices.*
+.*googleadservices.*
+.*googleads.*
+.*doubleclick.*
+.*centigrade.*
+.*save[-]state[.]php
+.*get[-]state[.]php
+.*callback=.*
+.*tracfonewireless.*
+.*intermundomedia.*
+.*trafficmp.*
+.*intermundonet.*
+.*mediaplex.*
+.*addthis.*
+.*\.js

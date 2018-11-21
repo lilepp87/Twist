@@ -1,0 +1,9 @@
+Tags:in-progress
+Preconditions:On Straighttalk HomePage
+Activate Phone, Enter Payment:
+#Go to devices
+#Select device <Device>
+#Enter zipcode <ZIP>
+#Select model and plan
+#Enter shipping address and white listed card
+#Verify order summary

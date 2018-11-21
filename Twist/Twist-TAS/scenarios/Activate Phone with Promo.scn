@@ -1,0 +1,8 @@
+Tags:promo,in-progress
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone, Create Account:
+#Enter <Status> Esn for part <Part Number> sim <Sim>
+#Create account for <Brand>
+#Activate phone by using pin <Pin> and promo <Promo> depending on status <Status> of cell tech <Cell tech> zip <Zip Code>
+#Checkout and process transaction
+#Validate promo <Promo>

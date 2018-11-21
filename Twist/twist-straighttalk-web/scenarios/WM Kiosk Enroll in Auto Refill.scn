@@ -1,0 +1,11 @@
+Tags:ST5
+Preconditions:On WMKiosk HomePage
+Auto Refill Setup, Enter Payment, Buy a Service Plan, Activate Phone, WM Kiosk, Create Account:
+#Go to WM Activation depending on <Status>
+#Enter <Status> Esn for part <PartNumber> zip code <ZipCode> sim <SIM> and Pin number <PIN> in WMKiosk
+#Create new account depending on status <Status> in WMKiosk
+#Complete activation <SIM>
+#Go to Enroll Auto Refill option
+#Login for esn <PartNumber>
+#Enter credit card <Card Type>
+#Order Summary

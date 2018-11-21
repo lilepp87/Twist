@@ -1,0 +1,17 @@
+Tags:in-progress
+Preconditions:On tas HomePage,Log out
+
+
+TossUtil, Activate Phone:
+#Get Esn for part <From part> sim <From sim> of status "New"
+#Search for Esn
+#Change new dealer for <Dealer>   
+#Activation for part sim <From sim> Lid <LID> for dealer <Dealer> 
+#Finish phone activation for cell type <From tech>  and status <To status>
+
+Activate Phone, Phone upgrade:
+#Enter "Active" Esn for part <From part>
+#Go to upgrade option
+#Select option <To status> part number <To esn> sim <To sim> pin "" of cell tech <To Tech> zip <Zip> with min transfer <Min Transfer> for SL
+#Confirm phone upgrade for SL
+#Complete porting for different carrier with part <To esn>

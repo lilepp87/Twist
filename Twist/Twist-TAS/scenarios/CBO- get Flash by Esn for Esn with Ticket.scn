@@ -1,0 +1,15 @@
+Tags:in-progress
+Preconditions:On tas HomePage,Log out
+Activate Phone, Create Account, TossUtil:
+#Get Esn for part "NTSAT401GP"  of status "New"
+#Search for Esn
+Case Operations,Solutions:
+#Go to solutions
+#select parent solution "Technology Migration" and "2G Migration"
+#select ticket type "Ticket: Warehouse 2G Migration"
+#Select part number for exchange ""  of  type "" for "new" line
+#Continue to next steps 
+
+Support:
+#Insert  alert for esn with type "0" and id "50"
+#callValidateEsnMinUpgradeChangeMinMethod

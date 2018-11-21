@@ -1,0 +1,5 @@
+Tags:ST1
+Preconditions:On Straighttalk HomePage
+Coverage Check:
+#Go to Coverage and enter zip <Zipcode>
+#Select a phone and check for maps

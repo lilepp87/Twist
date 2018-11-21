@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:phon="http://b2b.tracfone.com/PhoneServices">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <phon:hasCConFileRequest>
+         <!--Optional:-->
+         <phon:min>@min</phon:min>
+      </phon:hasCConFileRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

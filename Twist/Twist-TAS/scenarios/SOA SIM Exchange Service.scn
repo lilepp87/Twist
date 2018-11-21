@@ -1,0 +1,10 @@
+Tags:111
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone, Create Account, Family Mobile Operations,ActivateServices, Operations:
+#Enter <Status> Esn for part <PartNumber> sim <SImNumber>
+#Create account for <Brand>
+#Activate phone by using pin <Pin> depending on status <Status> of cell tech <Celltech> zip <Zipcode>
+#Add remaining  phones for ""  line plan of part "" "" "" with Sim "" "" ""
+#Checkout and process transaction
+#callSimExchangeService<NewSIM>
+

@@ -1,0 +1,25 @@
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+	<S:Header>
+		<Security xmlns="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+			<UsernameToken>
+				<Username>@secusername</Username>
+				<Password>@secpassword</Password>
+			</UsernameToken>
+		</Security>
+	</S:Header>
+	<S:Body>
+		<ns4:updatePhoneInformationRequest xmlns="http://www.tracfone.com/RuntimeFault" xmlns:ns10="http://www.tracfone.com/CarrierCommonTypes" xmlns:ns2="http://www.tracfone.com/AccountCommonTypes" xmlns:ns3="http://www.tracfone.com/CommonTypes" xmlns:ns4="http://b2b.tracfone.com/PhoneServices" xmlns:ns5="http://b2b.tracfone.com/AccountServices" xmlns:ns6="http://www.tracfone.com/SecurityCommonTypes" xmlns:ns7="http://www.tracfone.com/PhoneCommonTypes" xmlns:ns8="http://www.tracfone.com/PaymentCommonTypes" xmlns:ns9="http://www.tracfone.com/ServicePlanCommonTypes">
+			<ns3:requestToken>
+				<ns3:clientTransactionId>68916</ns3:clientTransactionId>
+				<ns3:clientId>@clientname</ns3:clientId>
+			</ns3:requestToken>
+			<ns3:brandName>@brand</ns3:brandName>
+			<ns3:sourceSystem>@sourcesystem</ns3:sourceSystem>
+			<ns3:language>ENG</ns3:language>
+			<ns4:applicationId>@applicationid</ns4:applicationId>
+			<ns4:esn>@esn</ns4:esn>
+			<ns4:snp>@snp</ns4:snp>
+			<ns4:leaseStatus>@leasestatus</ns4:leaseStatus>
+		</ns4:updatePhoneInformationRequest>
+	</S:Body>
+</S:Envelope>

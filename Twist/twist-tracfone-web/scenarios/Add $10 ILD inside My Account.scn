@@ -1,0 +1,18 @@
+Tags:tf1
+Preconditions:On Tracfone Home Page,Log Out
+Activate Phone, Create Account:
+#Go to activate my TracFone For<Part Number>
+#Enter "New" Esn <Part Number> SIM card <SIM> and zip code <Zip Code>
+#enter pin card number <Pin Card>
+#Select Register
+#Verify message for cell tech
+#Complete the process for <Cell Tech> phone
+#Login to MyAccount
+#Verify Phone Number
+
+Enter Payment, Buy Airtime, Create Account:
+#Buy 10 dollar ild card
+#Buy <Add ILD> ILD with <Purcahse Type>
+#Enter credit card <Card Type>
+#Review order Summary
+#Log out

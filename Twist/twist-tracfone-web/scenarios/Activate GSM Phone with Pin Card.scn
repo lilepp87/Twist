@@ -1,0 +1,12 @@
+Tags:tf1
+Preconditions:On Tracfone Home Page,Log Out
+
+Activate Phone, Create Account:
+#Setup ESN based on status <Status> and part <Part Number>
+#Go to activate my TracFone For<Part Number>
+#Enter <Status> Esn <Part Number> SIM card <Sim Card> and zip code <Zip Code>
+#Enter pin card number <Pin Card> "" ""
+#Select Register
+#Delay 40 seconds
+#Verify message for cell tech
+#Complete the process for <Cell Tech> phone

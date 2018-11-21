@@ -1,0 +1,99 @@
+QueueType,Brand,CaseType,Title,Status,Source
+B2B FRAUD REVIEW,TOTAL_WIRELESS,Air Time Cards,Lost Air Time Card,Address Updated,Wal-Mart
+B2B FRAUD REVIEW,NET10,Airtime,Credit Card Issues,Address Updated,Wal-Mart
+B2B FRAUD REVIEW,STRAIGHT_TALK,Coverage,-34 Call Restriction,Address Updated,Wal-Mart
+B2B FRAUD REVIEW,TOTAL_WIRELESS,Features,Call Waiting,Address Updated,Wal-Mart
+B2B PORTS,TELCEL,ILD,Access Number not working,Address Updated,Wal-Mart
+B2B PORTS,NET10,Inventory,Change / Insert Model Number,Address Updated,Wal-Mart
+B2B PORTS,STRAIGHT_TALK,Line Activation,Unable to Make / Unable to Receive Calls,Address Updated,Wal-Mart
+B2B REFUNDS,TELCEL,Port In,Carrier Migration,Address Updated,Wal-Mart
+B2B REFUNDS,STRAIGHT_TALK,Technology Exchange,Digital Exchange,Address Updated,Wal-Mart
+BLACKOUT,TOTAL_WIRELESS,Technology Exchange,SL Defective Out Of Warranty Exchange,Address Updated,Wal-Mart
+BLACKOUT,TOTAL_WIRELESS,Roaming,Memory Full,Address Updated,Wal-Mart
+BLACKOUT,TRACFONE,Air Time Cards,Lost Air Time Card,Address Updated,Wal-Mart
+ILD,TELCEL,Airtime,Credit Card Issues,Address Updated,Wal-Mart
+ILD,TOTAL_WIRELESS,Coverage,Customer needs GSM,Address Updated,Wal-Mart
+ILD,STRAIGHT_TALK,Line Activation,Unable to Make / Unable to Receive Calls,Address Updated,Wal-Mart
+ILD,TRACFONE,ILD,Access Number not working,Address Updated,Wal-Mart
+INTERGATE,TOTAL_WIRELESS,Inventory,Change / Insert Model Number,Address Updated,Wal-Mart
+INTERGATE,NET10,Line Activation,Authentication,Address Updated,Wal-Mart
+INTERGATE,TRACFONE,Port In,Carrier Migration,Address Updated,Wal-Mart
+INTERGATE-SENT,TOTAL_WIRELESS,Technology Exchange,Digital Exchange,Address Updated,Wal-Mart
+INTERNAL PORT APPROVAL,TELCEL,Roaming,SL Defective Out Of Warranty Exchange,Address Updated,Wal-Mart
+INTERNAL PORT APPROVAL,NET10,Roaming,Memory Full,Address Updated,Wal-Mart
+INTERNAL PORT APPROVAL,TOTAL_WIRELESS,Air Time Cards,Lost Air Time Card,Address Updated,Wal-Mart
+INTERNAL PORT APPROVAL,TRACFONE,Airtime,Credit Card Issues,Address Updated,Wal-Mart
+INTERNAL PORT IN,TELCEL,Coverage,-34 Call Restriction,Address Updated,Wal-Mart
+INTERNAL PORT IN,NET10,Features,Call Waiting,Address Updated,Wal-Mart
+INTERNAL PORT IN,STRAIGHT_TALK,ILD,Access Number not working,Address Updated,Wal-Mart
+INTERNAL PORT IN,TRACFONE,Inventory,Change / Insert Model Number,Address Updated,Wal-Mart
+LINE ACTIVATION II,TOTAL_WIRELESS,Line Activation,Unable to Make / Unable to Receive Calls,Address Updated,Wal-Mart
+LINE ACTIVATION II,STRAIGHT_TALK,Port In,Carrier Migration,Address Updated,Wal-Mart
+LINE ACTIVATION III,TELCEL,Line Activation,Unable to Make / Unable to Receive Calls,Address Updated,Wal-Mart
+LINE ACTIVATION III,TRACFONE,Roaming,SL Defective Out Of Warranty Exchange,Address Updated,Wal-Mart
+LINE ACTIVATION L,TELCEL,Roaming,Memory Full,Address Updated,Wal-Mart
+LINE ACTIVATION L,NET10,Air Time Cards,Lost Air Time Card,Address Updated,Wal-Mart
+LINE ACTIVATION L,STRAIGHT_TALK,Airtime,Credit Card Issues,Address Updated,Wal-Mart
+LINE ACTIVATION L,TRACFONE,Coverage,Customer needs GSM,Address Updated,Wal-Mart
+PORT ESCALATION,TELCEL,Features,Caller ID,Address Updated,Wal-Mart
+PORT ESCALATION,TOTAL_WIRELESS,ILD,Access Number not working,Address Updated,Wal-Mart
+PORT ESCALATION,STRAIGHT_TALK,Inventory,Change / Insert Model Number,Address Updated,Wal-Mart
+PORT ESCALATION,TRACFONE,Line Activation,Authentication,Address Updated,Wal-Mart
+PORT OUT,NET10,Port In,Carrier Migration,Address Updated,Wal-Mart
+PORT OUT,TRACFONE,Technology Exchange,Digital Exchange,Address Updated,Wal-Mart
+RESOLUTION REQUIRED,STRAIGHT_TALK,Port In,SL Defective Out Of Warranty Exchange,Address Updated,Wal-Mart
+RESOLUTION REQUIRED,TRACFONE,Roaming,Memory Full,Address Updated,Wal-Mart
+ST EXT PENDING APPROVAL,TELCEL,Air Time Cards,Lost Air Time Card,Address Updated,Wal-Mart
+ST EXT PENDING APPROVAL,NET10,Airtime,Credit Card Issues,Address Updated,Wal-Mart
+ST EXT PENDING APPROVAL,STRAIGHT_TALK,Coverage,-34 Call Restriction,Address Updated,Wal-Mart
+ST EXT PENDING APPROVAL,TOTAL_WIRELESS,Features,Caller ID,Address Updated,Wal-Mart
+ST EXTERNAL PORT REWORKS,TELCEL,ILD,Access Number not working,Address Updated,Wal-Mart
+ST EXTERNAL PORT REWORKS,NET10,Inventory,Change / Insert Model Number,Address Updated,Wal-Mart
+ST EXTERNAL PORT REWORKS,STRAIGHT_TALK,Line Activation,Authentication,Address Updated,Wal-Mart
+ST INT PORT APPROVAL,TELCEL,Port In,Carrier Migration,Address Updated,Wal-Mart
+ST INT PORT APPROVAL,STRAIGHT_TALK,Technology Exchange,Digital Exchange,Address Updated,Wal-Mart
+ST INTERNAL PORT REWORKS,NET10,Port In,SL Defective Out Of Warranty Exchange,Address Updated,Wal-Mart
+ST INTERNAL PORT REWORKS,STRAIGHT_TALK,Roaming,Memory Full,Address Updated,Wal-Mart
+ST INTERNAL PORT REWORKS,TRACFONE,Air Time Cards,Lost Air Time Card,Address Updated,Wal-Mart
+ST PORT CANCEL - NEW ACT,TELCEL,Airtime,Credit Card Issues,Address Updated,Wal-Mart
+ST PORT CANCEL - NEW ACT,NET10,Coverage,Customer needs GSM,Address Updated,Wal-Mart
+ST PORT CANCEL - NEW ACT,STRAIGHT_TALK,Features,Caller ID,Address Updated,Wal-Mart
+ST PORT CANCEL - NEW ACT,TRACFONE,ILD,Access Number not working,Address Updated,Wal-Mart
+ST PORT CREDIT REWORK,TELCEL,Inventory,Change / Insert Model Number,Address Updated,Wal-Mart
+ST PORT CREDIT REWORK,NET10,Line Activation,Authentication,Address Updated,Wal-Mart
+ST PORT CREDIT REWORK,TRACFONE,Port In,Carrier Migration,Address Updated,Wal-Mart
+ST PORT REQUEST PENDING,NET10,Technology Exchange,Digital Exchange,Address Updated,Wal-Mart
+ST PORTS,TELCEL,Port In,SL Defective Out Of Warranty Exchange,Address Updated,Wal-Mart
+ST PORTS,TOTAL_WIRELESS,Roaming,Memory Full,Address Updated,Wal-Mart
+ST PORTS,STRAIGHT_TALK,Air Time Cards,Lost Air Time Card,Address Updated,Wal-Mart
+ST PORTS,TRACFONE,Airtime,Credit Card Issues,Address Updated,Wal-Mart
+ST T-MO ESN CHANGE,TELCEL,Coverage,-34 Call Restriction,Address Updated,Wal-Mart
+ST T-MO ESN CHANGE,NET10,Features,SMS,Address Updated,Wal-Mart
+ST T-MO ESN CHANGE,STRAIGHT_TALK,ILD,Access Number not working,Address Updated,Wal-Mart
+ST T-MO ESN CHANGE,TRACFONE,Inventory,Change / Insert Model Number,Address Updated,Wal-Mart
+T-MOBILE SUBMITTED CASES,TELCEL,Line Activation,Authentication,Address Updated,Wal-Mart
+T-MOBILE SUBMITTED CASES,STRAIGHT_TALK,Port In,Carrier Migration,Address Updated,Wal-Mart
+TF/NT AUTO PORT P,TELCEL,Roaming,Memory Full,Address Updated,Wal-Mart
+TF/NT AUTO PORT P,NET10,Air Time Cards,Lost Air Time Card,Address Updated,Wal-Mart
+TF/NT AUTO PORT P,STRAIGHT_TALK,Airtime,Credit Card Issues,Address Updated,Wal-Mart
+TF/NT AUTO PORT P,TOTAL_WIRELESS,Coverage,Customer needs GSM,Address Updated,Wal-Mart
+TF/NT AUTO PORT REWORK,TELCEL,Features,SMS,Address Updated,Wal-Mart
+TF/NT AUTO PORT REWORK,NET10,ILD,Access Number not working,Address Updated,Wal-Mart
+TF/NT AUTO PORT REWORK,STRAIGHT_TALK,Inventory,Change / Insert Model Number,Address Updated,Wal-Mart
+TF/NT AUTO PORT REWORK,TRACFONE,Line Activation,Authentication,Address Updated,Wal-Mart
+TF/NT PENDING PORTING,NET10,Port In,Carrier Migration,Address Updated,Wal-Mart
+TF/NT PENDING PORTING,TOTAL_WIRELESS,Air Time Cards,Digital Exchange,Address Updated,Wal-Mart
+TF/NT PORT PENDING,STRAIGHT_TALK,Warehouse,SL Defective Out Of Warranty Exchange,Address Updated,Wal-Mart
+TF/NT PORT PENDING,TRACFONE,Roaming,Memory Full,Address Updated,Wal-Mart
+TF/NT PORT REQUEST,TELCEL,Air Time Cards,Lost Air Time Card,Address Updated,Wal-Mart
+TF/NT PORT REQUEST,NET10,Airtime,Credit Card Issues,Address Updated,Wal-Mart
+TF/NT PORT REQUEST,STRAIGHT_TALK,Coverage,-34 Call Restriction,Address Updated,Wal-Mart
+TF/NT PORT REQUEST,TRACFONE,Features,SMS,Address Updated,Wal-Mart
+VERIZON DEAC QUEUE,TELCEL,ILD,Access Number not working,Address Updated,Wal-Mart
+VERIZON DEAC QUEUE,NET10,Inventory,Change / Insert Model Number,Address Updated,Wal-Mart
+VERIZON DEAC QUEUE,STRAIGHT_TALK,Line Activation,Authentication,Address Updated,Wal-Mart
+WAREHOUSE,TOTAL_WIRELESS,Port In,Carrier Migration,Address Updated,Wal-Mart
+WAREHOUSE,STRAIGHT_TALK,Technology Exchange,Digital Exchange,Address Updated,Wal-Mart
+WAREHOUSE EXCEPTION,NET10,Air Time Cards,SL Defective Out Of Warranty Exchange,Address Updated,Wal-Mart
+WAREHOUSE EXCEPTION,STRAIGHT_TALK,Roaming,Memory Full,Address Updated,Wal-Mart
+WAREHOUSE EXCEPTION,TOTAL_WIRELESS,Roaming,Memory Full,Address Updated,Wal-Mart

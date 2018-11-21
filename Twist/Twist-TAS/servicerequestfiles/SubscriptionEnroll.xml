@@ -1,0 +1,24 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:bus="http://xmlns.oracle.com/BRM/schemas/BusinessOpcodes">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <bus:tfOpSubscriptionEnroll>
+         <TF_OP_SUBSCRIPTION_ENROLL_Request>
+            <TF_OP_SUBSCRIPTION_ENROLL_inputFlist>
+               
+               <ACCOUNT_NO>@account_no</ACCOUNT_NO>
+               <FIRST_NAME>TwistFirstName</FIRST_NAME>
+               <LAST_NAME>TwistLastName</LAST_NAME>
+               <DEAL_NAME>@deal</DEAL_NAME>
+               <LOGIN>@login</LOGIN>
+               <ADDRESS>1295 Charleston Road</ADDRESS>
+               <CITY>Mountian View</CITY>
+               <COUNTRY>US</COUNTRY>
+               <DEBIT_NUM>@paymentSourceID</DEBIT_NUM>
+               <POID>0.0.0.1 /account -1 0</POID>
+               <STATE>FL</STATE>
+               <ZIP>94043</ZIP>
+            </TF_OP_SUBSCRIPTION_ENROLL_inputFlist>
+         </TF_OP_SUBSCRIPTION_ENROLL_Request>
+      </bus:tfOpSubscriptionEnroll>
+   </soapenv:Body>
+</soapenv:Envelope>

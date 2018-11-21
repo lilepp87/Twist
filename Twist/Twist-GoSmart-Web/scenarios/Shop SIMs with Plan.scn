@@ -1,0 +1,8 @@
+Tags:commerce
+Preconditions:OnGoSmartHomePage
+Shop:
+#Go to Shop Sim Cards or BYOP
+#Select <PhoneType>  zip <Zip> SIM type <SIM>
+#Select plan <Plan> with ILD <with ILD?> and checkout
+#Enter Credit Card <CardType>
+#Confirm Order

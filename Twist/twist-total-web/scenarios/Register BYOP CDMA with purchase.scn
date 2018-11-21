@@ -1,0 +1,12 @@
+Tags:BYOP
+Preconditions:On total wireless home page,Log out
+Register BYOP, Create Account, Buy a Service Plan, Enter Payment, Activate Phone:
+#Go to register BYOP CDMA page
+#Enter  <Status> esn Sim <SIM>and carrier <Carrier> for lte <Is LTE> iphone<Is Iphone> with zip <ZipCode>  and is hd <IsHd?>
+#Go to activate page
+#Select plan <Recurring?> <Plan>
+#Create new account depending on status "New"
+#Enter BYOP ESN and Zip <ZipCode> for cdma <Is LTE>
+#Choose status<Status> for sim <SIM> and if lte<Is LTE>
+#Enter credit card <CardType> or use stored card
+#Complete activation depending on status "New"

@@ -1,0 +1,11 @@
+Tags:commerce,in-progress
+Preconditions:On total wireless home page,Log out
+.
+Browse:
+#Go to phones page <ZipCode>
+#Browse phones based on phone <Brand> and model <Model>
+
+Phone Purchase:
+#Add phone and plan <Plan> to cart
+#Go to cart and provide details <CreditCard>
+#Review and finish order

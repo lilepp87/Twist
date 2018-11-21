@@ -1,0 +1,7 @@
+Status,PartNumber,SIM,Brand,ZipCode,Reason,Plan,Pin
+New,STSAS550TGR,TF128PSIMT5N,STRAIGHT_TALK,33178,Activation/Reactivation Failure,"$35 30-Day UNL TALK/TXT/DATA, first 2 GB at High Speeds then at 2G*",STAPP30035
+New,STZEZ716BGR5,TF128PSIMT5RM,STRAIGHT_TALK,33178,Airtime Conversion,"$55 30-Day UNL TALK/TXT/DATA, first 15 GB at High Speeds then at 2G*",STAPP20055
+New,ST3GCPOADROICP,,STRAIGHT_TALK,33178,Redemption Failure,"$60 30-Day UNL INTL TALK/TXT/DATA, first 10GB at High Speeds then at 2G*",NTPMP00060ILD
+New,STZEZ716BGR5,TF128PSIMT5RM,STRAIGHT_TALK,33178,Port Request Cancellation (Requested a Port and is now requesting a new number),"$130 3-Month UNL TALK/TXT/DATA, first 10GB at High Speeds then at 2G*",NTAPPMP00045TR
+New,STLCPOAMOTXGP4,TF128PSIMC4N,STRAIGHT_TALK,33178,Warehouse exchange - Past due,"$225 6-Month UNL TALK/TXT/DATA, first 10GB at High Speeds then at 2G*",NTAPPMP00045SA
+New,STSAS550TGR,TF128PSIMT5N,STRAIGHT_TALK,33178,Activation/Reactivation Failure,"$495 1-Year UNL TALK/TXT/DATA, first 10GB at High Speeds then at 2G*",NTAPPMP000451Y

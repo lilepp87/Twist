@@ -1,0 +1,10 @@
+Tags:amazon,shop,commerce
+Preconditions:OnAmazonHomePage,Log Out
+Activate Phone, Create Account, Add Service Plan, Enter Payment:
+#Login with Amazon credentials and Goto <Navigate>
+#Enter <Status> Esn for part <ESN> zip code <Zip Code> sim <SIM> 
+#Select <Occurance> <Plan> service plan
+#Create new account depending on status <Status>
+#Log in depending on status <Status>
+#Enter credit card <Credit Card>
+#Complete activation process depending on status <Status> and cell tech <Tech>

@@ -1,0 +1,8 @@
+Tags:set6,RTR,services
+Preconditions:closeBrowser
+RTRServices, Support, Activate Phone:
+#Generate ESN for <PartNumber> and SIM <SIM> for brand <Brand> zip <Zip Code>
+#Activate using pin <PIN> and amount <Amount>
+#Complete phone activation for cell tech <CellTech> and status "New"
+#Add Funds using pin <Redemption PIN> and amount <Redemption Amount>
+#Cancel Add Funds

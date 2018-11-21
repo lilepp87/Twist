@@ -1,0 +1,16 @@
+Tags:brightpoint
+Preconditions:On Tracfone Home Page,Log Out
+Activate Phone, Create Account:
+#Go to activate my TracFone For"TFSAS150GP"
+#Enter "New" Esn "TFSAS150GP" SIM card "TF64SIMT5" and zip code "33178"
+#Enter pin card number "TSAPP40300" "" ""
+#Select Register
+#Delay
+#Verify message for cell tech
+#Complete the process for "GSM" phone
+#Login to MyAccount
+#Verify Phone Number
+
+Trac N Save:
+#Check for Trac N Save inside my account
+#Check for Trac N Save outside my account

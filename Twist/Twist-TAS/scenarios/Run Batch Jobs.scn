@@ -1,0 +1,6 @@
+Tags:DSS,in-progress
+Preconditions:On DSS dashboard page
+Run Jobs:
+#Select  job <Job-Name> for env <ENV>
+#Submit Query
+#Send email and check confirmation message

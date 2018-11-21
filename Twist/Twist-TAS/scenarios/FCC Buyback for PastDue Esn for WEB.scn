@@ -1,0 +1,27 @@
+Tags:captcha,in-progress
+Preconditions:On tas HomePage,Log out
+Activate Phone, Create Account:
+#Enter <Status> Esn for part <EsnPart> sim <Sim>
+#Create account for <Brand>
+#Activate phone by using pin <Pin> depending on status <Status> of cell tech <Cell Tech> zip <ZipCode>
+#Checkout and process transaction
+redemption:
+#Add pin card <Pin> to reach 365 paid days requirment
+
+Solutions:
+#Set Installation date  to "430" days past to reach  Active days requirement
+#Go to FCC Web
+#Enter Esn or Min <Input>  and check eligibilty
+#verify eligibility
+Deactivation,Solutions:
+#Go to TAS
+#Select Deactivation option
+#Select a Deactivation Reason <Reason>
+#Go to FCC Web
+#Set  past due date back to <Days1> days old
+#Enter Esn or Min <Input>  and check eligibilty
+#verify not eligible
+#Go to FCC Web
+#Enter Esn or Min <Input>  and check eligibilty
+#Move past date back to <Days2> days old
+#verify eligibility

@@ -1,0 +1,13 @@
+Tags:
+Preconditions:On telcel homepage,Log Out
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter <Status> Esn for part <Part> zip code <ZIP> sim<SIM> and Pin number <PIN>
+#Enter Sim Card <SIM> depending on cell tech <Cell Tech> and status <Status>
+#Create new account
+#Complete activation process depending on status <Status> and cell tech <Cell Tech>
+
+Auto Refill, Enter Payment:
+#Select enroll in auto refill <Apply Now?> for <Plan to Enroll>
+#Enter payment with card type <Card Type>
+#Check auto refill <Apply Now?> for <Plan to Enroll>

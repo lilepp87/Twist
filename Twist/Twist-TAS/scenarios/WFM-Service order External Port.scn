@@ -1,0 +1,5 @@
+Tags:services,wfm
+Preconditions:closeBrowser
+MyAccountApp,Family Mobile Operations:
+#Create account for part <PartNumber> sim <SIM> brand <Brand>
+#Service order ports and upgrade <PIN> "ExternalPort"

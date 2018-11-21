@@ -1,0 +1,14 @@
+Tags:set4,Handset
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone,Redemption, Create Account:
+#Enter "New" Esn for part <Part Number> sim <SIM>
+#Create Account  for <Brand>
+#Activate phone by using pin <PIN> depending on status "New" of cell tech <Cell Tech> zip <Zip>
+#Add remaining  phones for <# Devices>  line plan of part <Child1> <Child2> <Child3> with sim <ChildSim1> <ChildSim2> <ChildSim3>
+#Checkout and process transaction
+#Go to enroll in auto refill
+#Add new credit card
+#Enter card <Card type>
+#Select plan <Enroll Plan>
+#Select card and enter cvv <CVV>
+#Enroll into plan <Enroll Plan>

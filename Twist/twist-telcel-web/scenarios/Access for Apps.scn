@@ -1,0 +1,12 @@
+Tags:in-progress
+Preconditions:On telcel homepage,Log Out
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter "New" Esn for part "TCLG306GDG" zip code "33069" sim "TF64SIMT5" and Pin number "TCAPP00035ILD"
+#Enter Sim Card "TF64SIMT5" depending on cell tech "GSM" and status "New"
+#Create new account
+#Complete activation process depending on status "New" and cell tech "GSM"
+
+Apps and more:
+#Check for Apps and More inside my account
+#Check for Apps and More outside my account

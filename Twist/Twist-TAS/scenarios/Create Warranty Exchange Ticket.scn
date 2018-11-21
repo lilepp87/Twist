@@ -1,0 +1,18 @@
+Tags:set3
+Preconditions:On tas HomePage,Log out
+ Activate Phone, Create Account:
+#Enter "New" Esn for part <Pat Number> sim <SIM>
+#Create account for <Brand>
+#Activate phone by using pin <PIN> depending on status "New" of cell tech <Cell Tech> zip <Zip>
+#Add remaining  phones for ""  line plan of part "" "" "" with sim """"""
+#Checkout and process transaction
+
+Case Operations,Solutions:
+#Go to solutions
+#select parent solution <Parent Solution> and <Solution Name>
+#select ticket type <Ticket Type>
+#Select part number for exchange <SIM>  of  types <Claim/ticket Type> For Solution <Solution Name>
+#Choose sim profile based on sim type <SIM>
+#Continue to next steps 
+#Complete ship confirm  for <Claim/ticket Type>
+

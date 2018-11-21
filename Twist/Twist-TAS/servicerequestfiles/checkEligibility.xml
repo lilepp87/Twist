@@ -1,0 +1,98 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:mes="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/messageview" xmlns:com="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/common">
+   <soapenv:Header xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+      <wsse:Security soap:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+         <wsse:UsernameToken wsu:Id="unt_dymtpxyv7NS1BCB4" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+            <wsse:Username>@secusername</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">@secpassword</wsse:Password>
+         </wsse:UsernameToken>
+      </wsse:Security>
+   </soapenv:Header>
+   <soapenv:Body>
+      <mes:ruleEngineRequest>
+         <!--Optional:-->
+         <Header>
+            <!--Optional:-->
+            <com:CorrelationId_T>12345678</com:CorrelationId_T>
+            <!--Optional:-->
+            <com:ActivityName_T>CheckESNValidation</com:ActivityName_T>
+            <!--Optional:-->
+            <com:MsgType_T>checkValidationRequest</com:MsgType_T>
+            <!--Optional:-->
+            <com:Source>@channel</com:Source>
+            <!--Optional:-->
+            <com:MessageId>867423423i4hn238947s</com:MessageId>
+            <!--Optional:-->
+            <com:Timestamp>2015-05-12T19:06:50</com:Timestamp>
+            <!--Zero or more repetitions:-->
+            <com:MessageProp_T>
+               <!--Optional:-->
+               <com:name>LANGUAGE</com:name>
+               <!--Optional:-->
+               <com:Value>
+                  <!--Optional:-->
+                  <com:value>ENG</com:value>
+               </com:Value>
+            </com:MessageProp_T>
+            <!--Zero or more repetitions:-->
+            <com:ConsumerInfo>
+               <!--Optional:-->
+               <com:name>BrandName</com:name>
+               <!--Optional:-->
+               <com:Value>
+                  <!--Optional:-->
+                  <com:value>@brandname</com:value>
+               </com:Value>
+            </com:ConsumerInfo>
+            <!--Zero or more repetitions:-->
+            <com:ConsumerInfo>
+               <!--Optional:-->
+               <com:name>Channel</com:name>
+               <!--Optional:-->
+               <com:Value>
+                  <!--Optional:-->
+                  <com:value>@channel</com:value>
+               </com:Value>
+            </com:ConsumerInfo>
+         </Header>
+         <!--Optional:-->
+         <Payload>
+            <!--Optional:-->
+            <com:SearchCriteria>
+               <!--Zero or more repetitions:-->
+               <com:Entities>
+                  <!--Optional:-->
+                  <com:ID>
+                     <!--Optional:-->
+                     <com:ID>ESNVALIDATION</com:ID>
+                     <!--Optional:-->
+                     <com:name>RULESCENARIO</com:name>
+                  </com:ID>
+                  <!--Zero or more repetitions:-->
+                  <com:CharacteristicSpecification>
+                     <!--Optional:-->
+                     <com:name>VALIDATIONRULE</com:name>
+                     <!--Optional:-->
+                     <com:Value>
+                        <!--Optional:-->
+                        <com:value>IVRPURCHASE</com:value>
+                     </com:Value>
+                  </com:CharacteristicSpecification>
+               </com:Entities>
+            </com:SearchCriteria>
+            <!--Optional:-->
+            <com:FilterCriteria>
+               <!--Zero or more repetitions:-->
+               <com:Entities>
+                  <!--Optional:-->
+                  <com:ID>
+                     <!--Optional:-->
+                     <com:ID>@min</com:ID>
+                     <!--Optional:-->
+                     <com:name>MIN</com:name>
+                  </com:ID>
+               </com:Entities>
+            </com:FilterCriteria>
+         </Payload>
+      </mes:ruleEngineRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

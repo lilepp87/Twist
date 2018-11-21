@@ -1,0 +1,10 @@
+Tags:services,wfm
+Preconditions:closeBrowser
+MyAccountApp,Family Mobile Operations, Invoke CBO, Operations:
+#Create account for part <PartNumber> sim <SIM> brand <Brand>
+#Call Service Order  "ACTIVATION" with Pin <Act_Pin>
+#Complete phone activation for "GSM" and status "New"
+#Call Service Order  "REDEMPTION" with Pin <Red_pin>
+#Call deactivatePhone method with reason <DeactReason>
+#Call Service Order  "REACTIVATION" with Pin <React_Pin>
+#Update latest IG transaction

@@ -1,0 +1,32 @@
+<project default="wsimportTask" basedir=".">
+ 
+ <!--  Build services using WSDL -->
+ <property name="build" value="build" />
+    <property name="build.src" value="src" />
+    <property name="build.classes" value="${build}/classes" />	
+	<property name="build.jars" value="jars" />
+	<property name="wsdl.url" value="http://dp-sit1-soa3:9001/B2B/RedemptionServices?wsdl" />
+
+	   <target name="wsimportTask" description="" depends="init">
+	        
+   			<exec executable="wsimport" >
+			 <arg line= "-keep -s ./src -d ./build/classes ${wsdl.url}"  />
+			</exec> 
+			   <jar destfile="${build.jars}/PServices.jar" basedir="${build.classes}"  />
+			           
+			   
+	   </target>
+	   <target name="clean" description="">
+	   <delete dir="${build.classes}" />
+	   </target>
+	   
+	   <target name="init" description="" >
+	          
+	         <mkdir dir="${build.src}"/>
+			 <mkdir dir="${build.classes}" />
+			 <mkdir dir="${build.jars}" />
+			 <mkdir dir="./WEB-INF" />
+
+	   </target>
+
+</project>

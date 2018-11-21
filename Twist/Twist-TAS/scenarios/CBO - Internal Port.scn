@@ -1,0 +1,9 @@
+Tags:set6,cbo,services
+Preconditions:closeBrowser
+
+Support, Invoke CBO:
+#Call AddUser method for part <PartNumber(old)> zip "33178" brand <Brand(old)>
+#Call STActivate method for action "1" pin <PIN(old)> sim <SIM(old)> refilltype "2"
+#Complete phone activation for <CellTech(old)> and status <Type>
+#Call ValidatePhoneUpgrade to part <PartNumber> sim <SIM> brand <Brand>
+#Call PhoneUpgradeReq with pin <PIN>

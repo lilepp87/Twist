@@ -1,0 +1,19 @@
+Tags:in-progress,Handset
+Preconditions:On tas HomePage,Log out
+
+TossUtil, Activate Phone:
+#Get Esn for part <Esn> sim <SIM> of status <Status>
+#Search for Esn
+#Change new dealer for <Dealer>   
+#Activation for part sim <SIM> Lid <Lid> for dealer <Dealer> 
+#Finish phone activation for cell type <Cell Tech>  and status <Status>
+#Enter "Active" Esn for part <Esn>
+
+Redemption, Activate Phone, Create Account:
+#Go to redemption
+#Select plan <Pin>
+#Add Credit Card <Credit card Type>
+#Add 10 ILD quantity <ADD ILD>
+#Select card enter cvv <CVV>
+#Check redemption
+

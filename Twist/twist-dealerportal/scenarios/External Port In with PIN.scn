@@ -1,0 +1,8 @@
+Tags:
+Preconditions:On Dealerportal,Log Out
+Port In, Activate Phone:
+#Go to <To Brand>
+#Go to Port
+#Enter esn <To Esn> sim <To Sim> provider <From Provider> and pin <To Pin> for external port
+#Enter details
+#Check Transaction Summary

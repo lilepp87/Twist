@@ -1,0 +1,27 @@
+Part Number,SimNumber,Zip Code,Plan,Other Part,ChildSim,# Devices,Reoccuring?,Card Type,Plan 2,Reoccuring? 2,Queued?
+TWSAS902CP,TF256PSIMV9RM,33178,TW 1 Line No Data,,,1,Reoccuring,Visa,TW 3 Line 7.5 GB,One-Time,Now
+TWSAS906CP,TF256PSIMV9N,33178,TW 2 Line 5 GB,TWAPI6SPC16GDP,TF256PSIMV9N,2,One-Time,Discover,TW 2 Line 5 GB,Reoccuring,Queued
+TWAPI6SC16GYPWP,TF256PSIMV9N,33178,TW 1 Line 2.5 GB,TWAPI6SC16GYPWP,TF256PSIMV9N,1,One-Time,Visa,TW 3 Line 7.5 GB,One-Time,Now
+TWAPI6SPC16SVP,TF256PSIMV9N,33178,TW 3 Line 7.5 GB,TWSAS968C,,3,Reoccuring,Discover,TW 4 Line 10 GB,One-Time,Queued
+TWAPI6SPC16GDP,TF256PSIMV9N,33178,TW 2 Line 5 GB,TWUXU671C,,2,One-Time,Visa,TW 3 Line 7.5 GB,Reoccuring,Now
+TWAPI6SPC16RGP,TF256PSIMV9N,33178,TW 3 Line 7.5 GB,TWUXU240C,,2,Reoccuring,Discover,TW 4 Line 10 GB,Reoccuring,Now
+TWALA394CWHP,,33178,TW 2 Line 5 GB,TWLG236C,,1,One-Time,Visa,TW 3 Line 7.5 GB,One-Time,Now
+TWALA462CR,,33178,TW 3 Line 7.5 GB,TWALA564CP,,1,Reoccuring,Visa,TW 3 Line 7.5 GB,Reoccuring,Now
+TWLG109CRCS,,33178,TW 1 Line No Data,,,1,One-Time,Visa,TW 3 Line 7.5 GB,Reoccuring,Now
+TW3GCPOADROICP,,33178,TW 1 Line No Data,,,1,Reoccuring,Visa,TW 3 Line 7.5 GB,One-Time,Now
+TWLGL16C,,33178,TW 3 Line 7.5 GB,TWUXU671C,,2,One-Time,Visa,TW 4 Line 10 GB,Reoccuring,Now
+TWZEZ752CP,,33178,TW 1 Line 2.5 GB,TWLG236C,,1,Reoccuring,Discover,TW 3 Line 7.5 GB,Reoccuring,Now
+TWSAS766C,,33178,TW 1 Line 2.5 GB,TWALA564CP,,1,Reoccuring,Visa,TW 4 Line 10 GB,Reoccuring,Now
+TWZEZ793CP,,33178,TW 1 Line No Data,,,1,Reoccuring,Visa,TW 3 Line 7.5 GB,One-Time,Now
+TWSAS777CR,,33178,TW 2 Line 5 GB,TWLG236C,,2,Reoccuring,Visa,TW 3 Line 7.5 GB,One-Time,Now
+TWUXU671C,,33178,TW 1 Line No Data,,,1,Reoccuring,Visa,TW 3 Line 7.5 GB,One-Time,Now
+TWLG236C,,33178,TW 2 Line 5 GB,TWLG236C,,2,One-Time,Discover,TW 2 Line 5 GB,Reoccuring,Queued
+TWALA564CPWP,,33178,TW 1 Line 2.5 GB,,,1,One-Time,Visa,TW 3 Line 7.5 GB,One-Time,Now
+TWSAS968CP,,33178,TW 3 Line 7.5 GB,TWSAS968C,,3,Reoccuring,Discover,TW 4 Line 10 GB,One-Time,Queued
+TWUXU240C,,33178,TW 2 Line 5 GB,TWUXU671C,,2,One-Time,Visa,TW 3 Line 7.5 GB,Reoccuring,Now
+TWMTXT830CPWP,,33178,TW 3 Line 7.5 GB,TWUXU240C,,2,Reoccuring,Discover,TW 4 Line 10 GB,Reoccuring,Now
+TWALA564CP,,33178,TW 2 Line 5 GB,TWALA564CP,,2,One-Time,Discover,TW 3 Line 7.5 GB,Reoccuring,Queued
+TWZEZ750CP,,33178,TW 4 Line 10 GB,TWZEZ750CP,,4,Reoccuring,Visa,TW 4 Line 10 GB,One-Time,Now
+TWSAS968C,,33178,TW 2 Line 5 GB,TWZEZ750CP,,2,One-Time,Discover,TW 3 Line 7.5 GB,Reoccuring,Now
+TWUXU240C,,33178,TW 3 Line 7.5 GB,TWUXU240C,,1,Reoccuring,Visa,TW 2 Line 5 GB,Reoccuring,Queued
+TWUXU240CP,,33178,TW 1 Line No Data,,,1,Reoccuring,Visa,TW 3 Line 7.5 GB,One-Time,Now

@@ -1,0 +1,18 @@
+Tags:in-progress
+Preconditions:On tas HomePage,LogOut
+Activate Phone,Create Account:
+#Enter <Param0> Esn for part <PartNumber(old)> sim <SIM(old)>
+#Create account for <Brand(old)>
+#Activate phone by using pin <PIN(old)> depending on status <Param0> of cell tech <cellTech(old)> zip <ZipCode>
+
+ Port Number, Activate Phone, Create Account:
+#Come back as new customer
+#Enter <Param0> Esn for part <PartNumber> sim <SIM(old)>
+#Create Account for <Brand>
+#Make phone to <Param0> by using pin  <PIN> and celltech <cellTech(old)>
+ Port Number, Activate Phone, Case Operations:
+#Create sim exchange case if necessary for <SIM(old)>
+#Deactivate phone if necessary
+#Add airtime card <PIN> if necessary
+#Enter number from <Brand(old)> with part <PartNumber(old)> zip <ZipCode>check For Exchange
+#Add notes change status shipping details

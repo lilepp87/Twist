@@ -1,0 +1,17 @@
+Tags:app,services,wfm,in-progress
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone, MyAccountApp, TossUtil:
+#Create account for part <ESN> sim <SIM> brand <BRAND>
+#Search for Esn
+#Activate phone by using pin <PLAN> depending on status <STATUS> of cell tech <TECH> zip <ZIPCODE>
+#Add remaining  phones for <Param7>  line plan of part <Param7> <Param7> <Param7> with Sim<Param7> <Param7> <Param7>
+#Checkout and process transaction
+
+MyAccountApp:
+#Validate User Device <DEVICE>
+#Update customer profile <DEVICE>
+#Update profile login information
+#Get Account Profile <PROFILE>
+#Forgot Username
+#Forgot Password
+#Get Security Questions for <BRAND>

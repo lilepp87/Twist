@@ -1,0 +1,12 @@
+Tags:app,services
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone, Create Account, MyAccountApp, TossUtil:
+#Create account for part <ESN> sim <SIM> brand <Brand>
+#Search for Esn
+#Activate phone by using pin <pin> depending on status <status> of cell tech <cellTech> zip <zipcode>
+#Add remaining  phones for <lines>  line plan of part <ESN2> <ESN3> <ESN4> with Sim<SIM2> <SIM3> <SIM4>
+#Checkout and process transaction
+
+MyAccountApp:
+#Redeem Pin Card <pin>
+#Clear OTA <Min or ESN>

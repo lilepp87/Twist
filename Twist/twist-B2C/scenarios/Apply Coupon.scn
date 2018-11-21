@@ -1,0 +1,8 @@
+Tags:
+Preconditions:On HomePage,Logout
+Browse:
+#Go to phones <ZIP>
+#Browse phones based on <Filter By>
+Phone Purchase:
+#Add <Model> to cart
+#Go to Cart and apply coupon <Coupon Code>

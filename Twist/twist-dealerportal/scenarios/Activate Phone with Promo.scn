@@ -1,0 +1,10 @@
+Tags:promo,in-progress
+Preconditions:On Dealerportal,Log Out
+.
+Activate Phone:
+#Go to <Brand>
+#Go to Activation for <Brand>
+#Enter esn <ESN> sim <SIM> zip <ZIP> pin <Pin> promo<Promo>
+#Confirm activation for cell tech <Cell Tech>
+#Validate Promo <Promo>
+

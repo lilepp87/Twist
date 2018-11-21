@@ -1,0 +1,6 @@
+Tags:commerce,in-progress
+Preconditions:On total wireless home page,Log out
+Browse:
+#Go to phones page <Zipcode>
+#Sort by price range <Price Range>
+#Check phone <Phone> is shown

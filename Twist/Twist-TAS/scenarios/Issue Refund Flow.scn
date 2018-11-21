@@ -1,0 +1,16 @@
+Tags:in-progress
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone, Create Account, Redemption:
+#Enter <Status> Esn for part <Part Number> sim <SIM>
+#Create Account for <Brand>
+#Enter zip <Zip Code>
+#Select pin <Purch Plan> and add credit card <Card type>
+#Select card enter cvv <CVV>
+#Check activation for cell tech <Phone Type> and status <Status>
+#Checkout and process transaction
+
+Redemption:
+#Go to purchase history
+#Go to credit card deatils
+#Issue refund with reason <Reason> of amount <Refund Amount>
+#Confirm refund summary

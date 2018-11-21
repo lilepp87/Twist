@@ -1,0 +1,9 @@
+Tags:set5
+Preconditions:On tas HomePage,Log out
+BYOP APN, Support:
+#Get active esn for part <PartNumber>
+#Enter current esn
+#Go to APN Settings
+#Select operating system <Operating System> and OS Versions<OSVersion>
+#Select handset manufacturer <Handset Manufacturer> and Handset Models<Handset Model>
+#Send APN Info and check for APN Settings Table

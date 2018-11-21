@@ -1,0 +1,7 @@
+Tags:shop
+Preconditions:OnAmazonHomePage
+Shop, Add Service Plan:
+#Login with Amazon credentials and Goto "BUY A SIM CARD"
+#Enter Zip Code And Shop Sim
+#Choose a Service Plan "$40"
+

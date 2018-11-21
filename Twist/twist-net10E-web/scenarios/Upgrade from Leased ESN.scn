@@ -1,0 +1,15 @@
+Tags:
+Preconditions:On net10 english home page,Log out
+Phone Upgrade, Port In, Create a New Account, Start Activation, Create Account, Switch Plan:
+#Set the status to "1001" for esn "NTAPI5SG16GYV2" and sim "TF128PSIMC4N"
+#Activate Leased From Phone with part "NTAPI5SG16GYV2" type "Android" sim "TF128PSIMC4N" tech "GSM" pin "Megacard" "NTAPP6U040" and carrier "AT&T"
+#Go to my account
+#Verify Phone Number
+#Activate To Phone with part "NTAPI5SG16GYV2" status "New" type "Android" sim "TF128PSIMC4N" tech "CDMA" pin "Megacard" "NTAPP6U040" and carrier "AT&T"
+#Go to Activate Phone
+#Select transfer my number and service from one Net10 to another
+#Enter from ESN and phone number with part "NTAPI5SG16GYV2"
+#Enter to ESN with status "New"
+#Enter code number and confirm code number depending on phone type "Android"
+#Finish porting number for "GSM" with PIN "NTAPP6U040"
+#Get the updated ESN attributes for Leased esn

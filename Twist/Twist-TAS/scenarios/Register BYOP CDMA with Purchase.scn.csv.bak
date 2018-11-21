@@ -1,0 +1,20 @@
+Brand,Carrier,Is LTE?,Is iPhone?,Cust. Have SIM?,Is Active?,ZIP,ESN Type,Card Type
+NET10,SPRINT,Yes,No,No,Active,33178,HEX,Discover
+NET10,SPRINT,Yes,Yes,No,Not Active,33178,DECIMAL,Discover
+NET10,SPRINT,No,Yes,No,Active,33178,HEX,Discover
+NET10,SPRINT,No,No,No,Not Active,33178,DECIMAL,Discover
+STRAIGHT_TALK,SPRINT,Yes,No,No,Active,33178,HEX,Discover
+STRAIGHT_TALK,SPRINT,Yes,Yes,No,Not Active,33178,DECIMAL,Discover
+STRAIGHT_TALK,SPRINT,No,Yes,No,Active,33178,HEX,Discover
+STRAIGHT_TALK,SPRINT,No,No,No,Not Active,33178,DECIMAL,Discover
+NET10,RSS,Yes,Yes,No,Active,33178,HEX,Discover
+NET10,RSS,Yes,No,No,Not Active,33178,DECIMAL,Discover
+NET10,RSS,No,No,No,Active,33178,HEX,Discover
+STRAIGHT_TALK,RSS,Yes,Yes,No,Not Active,33178,DECIMAL,Discover
+STRAIGHT_TALK,RSS,Yes,No,No,Active,33178,HEX,Discover
+STRAIGHT_TALK,RSS,No,No,No,Not Active,33178,DECIMAL,Discover
+TELCEL,RSS,No,No,No,Active,33178,HEX,Discover
+TELCEL,RSS,No,No,No,Not Active,33178,DECIMAL,Discover
+TRACFONE,RSS,Yes,Yes,No,Active,33178,DECIMAL,Discover
+TRACFONE,RSS,Yes,No,No,Not Active,33178,HEX,Discover
+TRACFONE,RSS,No,No,No,Active,33178,DECIMAL,Discover

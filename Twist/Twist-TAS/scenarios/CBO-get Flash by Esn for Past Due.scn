@@ -1,0 +1,20 @@
+Tags:in-progress
+Preconditions:On tas HomePage,Log out
+Activate Phone, Create Account:
+#Enter "New" Esn for part "NTSAT401GP" sim "TF128SIMT5RM"
+#Create account for "NET10"
+#Activate phone by using pin "NTAPP6U035" depending on status "New" of cell tech "GSM" zip "33178"
+
+Support, Deactivation, Solutions, Case Operations:
+#Select Deactivation option
+#Select a Deactivation Reason "SIM EXCHANGE Line Status : RESERVED USED"
+#Verify message that Line has been successfully deactivated
+#Go to solutions
+#select parent solution "Technology Migration" and "2G Migration"
+#select ticket type "Ticket: Warehouse 2G Migration"
+#Select part number for exchange ""  of  type "" for "new" line
+#Continue to next steps 
+
+ Support:
+#Insert  alert for esn with type "1" and id "51"
+#callValidateEsnMinUpgradeChangeMinMethod

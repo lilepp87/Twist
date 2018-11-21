@@ -1,0 +1,9 @@
+Tags:brightpoint
+Preconditions:On Tracfone Home Page,Log Out
+Activate Phone, Create Account:
+#Go to activate my TracFone For realESN "355921070005499"
+#Register with realesn "355921070005499"  realsim "89014104278091544785" and zip "33178"
+#Enter pin card number "TSAPP4001Y" "" ""
+#Delay 40 seconds
+#Verify message for cell tech
+#Complete the process for "GSM" realphone

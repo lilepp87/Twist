@@ -1,0 +1,9 @@
+Part,Status,Zip Code,SIM,Cell Tech,Plan,Card,Card Type,Phone Type,Plan Type
+NTLG400GP4,New,94043,TF64SIMT5,GSM,750 Minutes Monthly,4532268292470053,Visa,Non-Android,Normal
+NTLG400GP4,New,94043,TF64SIMT5,GSM,Unlimited Monthly,4916067232832810,Visa,Non-Android,Megacard
+NTLGL95G,New,94043,TF64PSIMT5,GSM,Unlimited International Monthly,4716878180378636,Visa,Android,Megacard
+NTLGL95G,New,94043,TF64PSIMT5,GSM,750 Minutes Monthly,4539423331452280,Visa,Android,Normal
+NTLG400GP4,Past Due,94043,TF64SIMT5,GSM,750 Minutes Monthly,4024007135616679,Visa,Non-Android,Normal
+NTLG400GP4,Past Due,94043,TF64SIMT5,GSM,Unlimited International Monthly,4716787885688415,Visa,Non-Android,Megacard
+NTLGL95G,Past Due,94043,TF64PSIMT5,GSM,Unlimited Monthly,4916704699637122,Visa,Android,Megacard
+NTLGL95G,Past Due,94043,TF64PSIMT5,GSM,750 Minutes Monthly,4916356097612858,Visa,Android,Normal

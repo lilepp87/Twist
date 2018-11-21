@@ -1,0 +1,4 @@
+Tags:in-progress
+Preconditions:
+Invoke CBO:
+#Call getflashbyesn method for part <partClass>

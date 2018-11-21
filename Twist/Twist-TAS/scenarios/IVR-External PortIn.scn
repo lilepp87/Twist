@@ -1,0 +1,6 @@
+Tags:IVR,services
+Preconditions:On tas HomePage,Log out
+Operations, Port Number:
+#Generate Esn for part <ESN PART> Sim <SIM PART> and  Pin <PIN PART>
+#Send IVR Service Request For External PortIn from <Old Brand> to <New Brand>
+#Complete Port After Service Request

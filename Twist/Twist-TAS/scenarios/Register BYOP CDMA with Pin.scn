@@ -1,0 +1,14 @@
+Tags:set4,byop
+Preconditions:On tas HomePage,Log out
+Create Contact:
+#Click on New Contact 
+#Create new contact for brand <Brand> zipcode <ZIP>
+
+Register BYOP:
+#Go to BYOP CDMA Verizon registration
+#Enter <ESN Type>esn zip <ZIP> and check for eligibilty with carrier <Carrier>
+#Enter your <Is Active?> device type <DeviceType> info LTE <Is LTE?> iphone 5 <Is iPhone?>  and check  customer have sim <Cust Have SIM?> for <Carrier> Trio <isTrio> <IsHd?>
+#Enter network access code <NAC>
+#Submit for registration
+#Check confirmation
+#Activate the ESN for carrier <Carrier> and zip <ZIP> and pin <PIN>

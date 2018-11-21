@@ -1,0 +1,5 @@
+Tags:B2B
+Preconditions:On B2B home page,LogOut
+Browse:
+#Go to Phones
+#Sort Phones by <SortBy> <price Range>

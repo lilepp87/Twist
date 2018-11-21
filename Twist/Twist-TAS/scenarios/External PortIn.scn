@@ -1,0 +1,11 @@
+Tags:set4,Handset
+Preconditions:On tas HomePage,Log out
+Port Number, Activate Phone, Create Account:
+#Enter <Status> Esn for part <Part Number> sim <SIM>
+#Create Account for <Brand>
+#Create sim exchange case if necessary for <SIM>
+#Add airtime card <Pin/Plan> if necessary
+#Enter MIN from <Old Brand> with part "External"  zip "33178"
+#Perform option <Option> with plan <Pin/Plan> and workforcePIN <Workforce PIN>
+#Complete port
+#Update port case and complete port

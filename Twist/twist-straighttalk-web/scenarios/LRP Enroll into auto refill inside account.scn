@@ -1,0 +1,22 @@
+Tags:LRP
+Preconditions:On Straighttalk HomePage,Log out
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter <Status> esn for part <Part> and sim <SIM>
+#Choose a new number for zip <ZIP>
+#Enter pin <PIN>
+#Log in depending on status <Status>
+#Create new account depending on status <Status>
+#Complete activation process depending on status <Status> and cell tech <Cell Tech>
+#Add ESN to promo group
+#Log out
+#Log in
+#Enroll in LRP Inside Account
+#Check the reward points for LRP Program Enrollment
+
+Auto Refill, Enter Payment, Activate Phone:
+#Select set up auto refill
+#Select enroll in <New Plan> <Queued?> from <Old Plan> <Cell Tech>
+#Enter credit card <Credit Type> or use stored card
+#Check for reward point allocation for Auto Refill <Queued?> with plan <New Plan>
+#Verify the total reward points in my account

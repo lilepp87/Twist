@@ -1,0 +1,11 @@
+Tags:tf1
+Preconditions:On Tracfone Home Page,Log Out
+Activate Phone, Create Account, Phone Upgrade, Port number:
+#Go to activate my TracFone For<Part>
+#Enter "NEW" esn <Part> with sim <SIM>
+#Enter Min for external port with zip code "33178" and provider <Provider>
+#Enter Account details
+#Select Register
+#Enter pin card number <PIN> for port In
+#Finish External Port In
+#log out

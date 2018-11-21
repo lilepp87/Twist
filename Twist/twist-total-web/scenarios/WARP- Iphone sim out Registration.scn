@@ -1,0 +1,12 @@
+Tags:in-progress
+Preconditions:On total wireless home page,Log out
+																					
+Registration:
+#Register  iphone model  <Model> for  Carrier <SIM> "TOTAL_WIRELESS "
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter <Status> Esn for part "TWSAS820CP" and pin <PIN part> with Sim "TF256PSIMV9RM"
+#Log in depending on status <Status>
+#Create new account depending on status <Status>
+#Enter esn <Zip Code> zip and "2" "TWSAS968C" devices with Sim""
+#Complete activation depending on status <Status>

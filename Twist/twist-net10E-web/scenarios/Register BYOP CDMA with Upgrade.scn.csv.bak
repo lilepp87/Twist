@@ -1,0 +1,7 @@
+Active?,ESN,PIN,Carrier,is LTE?,is iPhone 5?,ZIP,SIM
+Not Active,Decimal,NTPU0065ILDS,RSS,Yes,Yes,33178,TF256PSIMV9ND
+Not Active,Hex,NTPU0065ILDS,RSS,Yes,No,33178,TF256PSIMV9ND
+Not Active,Decimal,NTAPP6U075,RSS,No,No,33178,null
+Not Active,Hex,NTPU0065ILDS,SPRINT,No,No,33178,null
+Not Active,Decimal,NTAPP6U035,SPRINT,Yes,No,33178,null
+Not Active,Decimal,NTPU0001,SPRINT,Yes,Yes,33178,null

@@ -1,0 +1,18 @@
+Tags: in-progress,LRP
+Preconditions:On Straighttalk HomePage,Log out
+.
+ Activate Phone, Create Account:
+#Go to Activate Option
+#Enter <Status> esn for part <Part Number> and sim <SIM>
+#Choose a new number for zip <Zip Code>
+#Enter pin <PIN>
+#Log in depending on status "New"
+#Create new account depending on status "New"
+#Complete activation process depending on status "New" and cell tech <Cell Tech>
+#Add ESN to promo group
+#Log out
+#Log in
+#Enroll in LRP Inside Account
+#Check the reward points for LRP Program Enrollment
+#Earn Point for Augeo <Earn Points Reason>
+

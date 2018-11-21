@@ -1,0 +1,7 @@
+Tags:set5
+Preconditions:On tas HomePage,Log out
+TossUtil:
+#Get Esn for part <Partnumber>  of status <Old Status>
+#Search for Esn
+#Go to Reset Phone
+#Reset status to <New Status>  and confirm change in status

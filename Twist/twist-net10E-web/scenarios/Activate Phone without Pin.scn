@@ -1,0 +1,13 @@
+Tags:NT4,In-Progress
+Preconditions:On net10 english home page
+Start Activation, Create Account, Add Airtime:
+#Redeem PIN depending on status <Status>  phone <Part> type <Phone Type> and pin <PIN in Queue>
+#Make past due depending on status <Status> for model <Part> and sim <SIM>
+#Go to activate phone
+#Select Activate My Net10 Phone
+#Create new account for Esn
+#Possibly join SIM <SIM> for cell tech <Cell Tech> and status <Status>
+#Enter Esn for model <Part> with status <Status> and zip code <Zip Code>
+
+Finish Activation without Pin:
+#Attempt to activate <Cell Tech> <Phone Type> phone with status <Status>

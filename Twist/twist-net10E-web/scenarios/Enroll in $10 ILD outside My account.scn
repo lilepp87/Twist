@@ -1,0 +1,28 @@
+Tags:NT5
+Preconditions:On net10 english home page,Log out
+
+Start Activation, Create Account:
+#Make past due depending on status "New" for model <PartNumber> and sim <Sim>
+#Go to activate phone
+#Select Activate My Net10 Phone
+#Create new account for Esn
+#Possibly join SIM <Sim> for cell tech <Tech> and status "New"
+#Enter Esn for model <PartNumber> with status "New" and zip code <zipCode>
+
+Finish Activation with PIN:
+#Enter <Pin Type> PIN <Pin for part> for phone 
+#Try to activate and check message for "New" <Tech> "Android" phone and <Pin Type> PIN
+
+Switch Plan, Login:
+#Go to my account
+#Verify Phone Number
+#Logout
+#Go to International calling page
+
+ILD, Enter Payment Information:
+#Net10 ILD programs
+#Add 10 ILD with Enroll
+#Login into MyAccount
+#Enter payment with card type <CardType>
+#Order summary
+

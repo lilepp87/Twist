@@ -1,0 +1,12 @@
+Tags:
+Preconditions:On SimpleMobile HomePage,LogOut
+.
+Activate Phone, Create Account:
+#Setup Esn based on status <Status> and part <PartNumber>
+#Go to Activate Option
+#Enter <Status> Esn for part <PartNumber> zip code <ZipCode> sim <SIM> and Pin number <PIN>
+#Log in depending on status <Status>
+#Create new account depending on status <Status>
+#Complete activation process depending on status <Status> and cell tech <CellTech>
+#WIFI Registration
+

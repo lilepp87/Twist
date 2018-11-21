@@ -1,0 +1,35 @@
+Tags:simplesanity,in-progress
+Preconditions:On Straighttalk HomePage,Log out
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter "New" esn for part <ESN> and sim <SIM>
+#Choose a new number for zip "33178"
+#Enter pin <PIN>
+#Log in depending on status "New"
+#Create new account depending on status "New"
+#Complete activation process depending on status "New" and cell tech <CellTech>
+
+Phone upgrade, Create Account, Activate Phone, Port Number:
+#Go to Activate Option
+#Enter "New" esn for part <ESN> and sim <SIM>
+#Enter current number
+#Enter new sim <SIM> pin "" and min depending on "New"
+#Verify Order Summary
+#Complete upgrade process
+#Deactivate with Reason "PASTDUE"
+#Log out
+
+Refill Using a Service Card:
+#Go to Refill
+#Enter Phone and Pin card <PIN>
+#Complete the process
+
+Port Number, Activate phone, Create Account:
+#Deactivate with Reason "PORT CANCEL"
+#Go to Activate Option
+#Enter "Returned" esn for part <ESN> and sim <SIM>
+#Enter external number from "VERIZON" and zip "33178"
+#Enter pin <PIN>
+#Log in depending on status "Past Due"
+#Finish port
+#Update PortCase and CompletePort

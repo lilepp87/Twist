@@ -1,0 +1,7 @@
+<INPUT TASK="simulateBalance">
+<ESN>@fromesn</ESN>
+<VOICE>1000</VOICE>
+<SMS>500</SMS>
+<DATA>500</DATA>
+</INPUT> 
+

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:com="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/common" xmlns:ext="http://www.ibm.com/software/issw/telecom/pack/v8.5.0/lite/businessobject/system/common/extension" xmlns:ext1="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/fulfillment/extensions" xmlns:ext2="http://www.ibm.com/software/issw/telecom/pack/v8.5.0/lite/businessobject/system/billing/extension" xmlns:ext3="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/billing/extensions" xmlns:mes="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/messageview" xmlns:sid="http://www.ibm.com/software/issw/telecom/pack/v8.5.0/lite/businessobject/system/sid-v12.5" xmlns:sub="http://TPCRMAI/AIS/SubmitCustomerOrder" xmlns:sys="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/systemview" xmlns:tpc="http://TPCMN" xmlns:trac="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/tracfonecommon">
+   <soapenv:Header xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+      <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" soap:mustUnderstand="1">
+         <wsse:UsernameToken xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" wsu:Id="unt_dymtpxyv7NS1BCB4">
+            <wsse:Username>@secusername</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">@secpassword</wsse:Password>
+         </wsse:UsernameToken>
+      </wsse:Security>
+   </soapenv:Header>
+   <soapenv:Body>
+      <mes:submitCustomerOrderInput>
+         <mes:Header>
+            <com:CorrelationId_T>12345678</com:CorrelationId_T>
+            <com:ActivityName_T>submitCustomerOrder</com:ActivityName_T>
+            <com:MsgType_T>submitCustomerOrderRequest</com:MsgType_T>
+            <com:Source>IVR</com:Source>
+            <com:MessageId>867423423i4hn238947s</com:MessageId>
+            <com:MessageProp_T>
+               <com:name>Language</com:name>
+               <com:Value>
+                  <com:value>ENG</com:value>
+               </com:Value>
+            </com:MessageProp_T>
+            <com:Security_T>
+               <com:name>IdentityIdentifier</com:name>
+               <com:Value>
+                  <com:value>@identity</com:value>
+               </com:Value>
+            </com:Security_T>
+            <com:Security_T>
+               <com:name>Signature</com:name>
+               <com:Value>
+                  <com:value>@signature</com:value>
+               </com:Value>
+            </com:Security_T>
+            <com:Timestamp>@timestamp</com:Timestamp>
+            <com:ConsumerInfo>
+               <com:name>BrandName</com:name>
+               <com:Value>
+                  <com:value>@brand</com:value>
+               </com:Value>
+            </com:ConsumerInfo>
+            <com:ConsumerInfo>
+               <com:name>Channel</com:name>
+               <com:Value>
+                  <com:value>@channel</com:value>
+               </com:Value>
+            </com:ConsumerInfo>
+         </mes:Header>
+         <mes:Payload>
+            <sys:ID>
+               <com:ID>@orderid</com:ID>
+               <com:name>OrderId</com:name>
+               <com:type>OrderId</com:type>
+            </sys:ID>
+            <sys:dueDate>@timestamp</sys:dueDate>
+            <sys:Request>
+               <sys:interactionDate>@timestamp</sys:interactionDate>
+               <sys:BusinessInteractionLocation>
+                  <com:GeographicAddress>
+                     <com:UrbanPropertyAddress>
+                        <com:postcode>@zip</com:postcode>
+                     </com:UrbanPropertyAddress>
+                  </com:GeographicAddress>
+               </sys:BusinessInteractionLocation>
+               <!--Zero or more repetitions: Contain My Account Id-->
+               <sys:BusinessInteractionRole>
+                  <com:roleType>MyAccountID</com:roleType>
+                  <com:Party>
+                     <com:partyID>@email</com:partyID>
+                  </com:Party>
+               </sys:BusinessInteractionRole>
+               <sys:InteractionItems>
+                  <sys:ProductOffering>
+                     <sys:ProductPromotions>
+                        <sys:CharacteristicSpecification>
+                           <com:name>Promotion Code</com:name>
+                           <com:Value>
+                              <com:value>@promo</com:value>
+                           </com:Value>
+                        </sys:CharacteristicSpecification>
+                     </sys:ProductPromotions>
+                  </sys:ProductOffering>
+               </sys:InteractionItems>
+               <!--Zero or more repetitions: Here you have the Billing Address . Applicable for IVR-->
+               <sys:CustomerAccountInteractionRole>
+                  <sys:accountType>Billing</sys:accountType>
+                  <sys:CustomerAccountPartyRole>
+                     <com:roleType>Billing</com:roleType>
+                     <com:ContactMedium>
+                        <com:PostalAddress>
+                           <tpc:GeographicAddress>
+                              <com:UrbanPropertyAddress>
+                                 <com:streetNrFirst>1295 Charleston Rd</com:streetNrFirst>
+                                 <com:streetNrLast></com:streetNrLast>
+                                 <com:streetType></com:streetType>
+                                 <com:locality>Mountain View</com:locality>
+                                 <com:postcode>@zip</com:postcode>
+                              </com:UrbanPropertyAddress>
+                              <com:stateOrProvince>CA</com:stateOrProvince>
+                              <com:country>USA</com:country>
+                           </tpc:GeographicAddress>
+                        </com:PostalAddress>
+                     </com:ContactMedium>
+                     <com:Party>
+                        <com:Individual>
+                           <com:IndividualName>
+                              <com:familyNames>TwistLastName</com:familyNames>
+                              <com:givenNames>First Name</com:givenNames>
+                              <com:middleNames>Middle Name</com:middleNames>
+                           </com:IndividualName>
+                        </com:Individual>
+                     </com:Party>
+                  </sys:CustomerAccountPartyRole>
+                  <sys:CustomerPayment>
+                     <sys:amount>
+                        <sys:amount>@price</sys:amount>
+                        <sys:unitsOrCurrency>USD</sys:unitsOrCurrency>
+                     </sys:amount>
+                     <sys:paymentDate>@timestamp</sys:paymentDate>
+                     <sys:PaymentMethod>
+                        <sys:paymentMethodType>CREDITCARD</sys:paymentMethodType>
+                        <sys:CreditCardPM>
+                           <creditCardNumber>@creditcard</creditCardNumber>
+                           <!--If Encryption Remove this entire tag and insert dpCrypto into CreditCardPM/CreditCardExtension/dpCrypto   Me HERE   and MASKEDACCOUNTNUMBER  @ Me Here Tooo-->
+                           <nameOnCard>FirstName LastName</nameOnCard>
+                           <sys:expirationDate>2020-12-29T00:00:00.000Z</sys:expirationDate>
+                           <sys:CharacteristicSpecification>
+                              <com:name>CVV</com:name>
+                              <com:Value>
+                                 <com:value>@cvv</com:value>
+                              </com:Value>
+                           </sys:CharacteristicSpecification>
+                           <!--Me Here Tooo-->
+                           <sys:CreditCardExtension>
+                              <ext3:cardType>@cardtype</ext3:cardType>
+                              <!--Me HERE-->
+                           </sys:CreditCardExtension>
+                        </sys:CreditCardPM>
+                        <sys:CharacteristicSpecification>
+                           <!--DataPower:for-each CharacteristicSpecification ; if name=ISNEW then find if Value/value=TRUE : Then only we will do encryption-->
+                           <com:name>ISNEW</com:name>
+                           <com:Value>
+                              <com:value>TRUE</com:value>
+                           </com:Value>
+                        </sys:CharacteristicSpecification>
+                     </sys:PaymentMethod>
+                  </sys:CustomerPayment>
+               </sys:CustomerAccountInteractionRole>
+            </sys:Request>
+            <!--Zero or more repetitions: Tangible + intangible bundled: Customer buy phone and service plan with it(Not for IVR)-->
+            <sys:CustomerOrderItem>
+               <sys:ID>
+                  <com:ID>@orderitemid</com:ID>
+                  <com:name>OrderItemId</com:name>
+                  <com:type>OrderItemId</com:type>
+               </sys:ID>
+               <sys:BusinessInteractionItem>
+                  <sys:action>New</sys:action>
+                  <!--Optional: This is a Phone as primary Product and Service Plan as Component product-->
+                  <sys:Product>
+                     <!--Optional: Applicable if Commerce create product instance id available from product offering-->
+                     <sys:ID>
+                        <com:ID>@planid</com:ID>
+                        <com:name>@planname</com:name>
+                        <com:type>@plantype</com:type>
+                     </sys:ID>
+                     <sys:ProductAttributes>
+                        <com:name>FULFILLMENT_TYPE</com:name>
+                        <com:Value>
+                           <!--Optional: Can be NOW,LATER,AUTOREFILL-->
+                           <com:value>@refilltype</com:value>
+                        </com:Value>
+                     </sys:ProductAttributes>
+                     <sys:ProductAttributes>
+                        <com:name>AUTOREFILL</com:name>
+                        <com:Value>
+                           <com:value>@autorefill</com:value>
+                        </com:Value>
+                     </sys:ProductAttributes>
+                     <sys:ProductAttributes>
+                        <com:name>TYPE</com:name>
+                        <com:Value>
+                           <com:value>PRIMARY</com:value>
+                        </com:Value>
+                     </sys:ProductAttributes>
+                     <sys:ProductAttributes>
+                        <com:name>PLAN_TYPE</com:name>
+                        <com:Value>
+                           <com:value>@plantype</com:value>
+                        </com:Value>
+                     </sys:ProductAttributes>
+                     <sys:ProductSpecification>
+                        <!--map between offering and order its the part number of the product provided as Product Offering Response-->
+                        <com:id>@pinpart</com:id>
+                        <com:name>@planname</com:name>
+                        <com:brand>@brand</com:brand>
+                     </sys:ProductSpecification>
+                     <sys:Resource>
+                        <!--Provide the details of ESN,MIN,SIM which needs to be provisioned-->
+                        <sys:LogicalResource>
+                           <sys:LogicalResourceExtension>
+                              <sid:MIN>@min</sid:MIN>
+                           </sys:LogicalResourceExtension>
+                        </sys:LogicalResource>
+                        <sys:PhysicalResource>
+                           <sys:PhysicalResourceExtension>
+                              <sid:SIMNumber>@sim</sid:SIMNumber>
+                              <sid:ESN>@esn</sid:ESN>
+                           </sys:PhysicalResourceExtension>
+                        </sys:PhysicalResource>
+                     </sys:Resource>
+                  </sys:Product>
+                  <sys:ItemPrice>
+                     <sys:quantity>1</sys:quantity>
+                     <sys:price>
+                        <sys:amount>@itemprice</sys:amount>
+                        <sys:unitsOrCurrency>USD</sys:unitsOrCurrency>
+                     </sys:price>
+                  </sys:ItemPrice>
+               </sys:BusinessInteractionItem>
+            </sys:CustomerOrderItem>
+            <sys:CustomerOrderExtension>
+               <sid:orderStatus>NEW</sid:orderStatus>
+               <sid:orderPrice>@price</sid:orderPrice>
+            </sys:CustomerOrderExtension>
+         </mes:Payload>
+      </mes:submitCustomerOrderInput>
+   </soapenv:Body>
+</soapenv:Envelope>

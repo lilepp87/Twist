@@ -1,0 +1,7 @@
+Tags:set6,cbo,services
+Preconditions:closeBrowser
+Invoke CBO:
+#Call AddUser method for part <PartNumber> zip <Zip Code> brand <Brand>
+#Call STActivate method for action "1" pin <PIN> sim <SIM> refilltype "2"
+#Complete phone activation for <CellTech> and status <Status>
+#Call ValidateRedCardBatch <PIN>

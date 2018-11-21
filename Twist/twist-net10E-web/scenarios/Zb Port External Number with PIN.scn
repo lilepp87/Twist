@@ -1,0 +1,9 @@
+Tags:NT2
+Preconditions:On net10 english home page,Log out
+Port In, Create a New Account,Start Activation, Create Account:
+#Go to Activate Phone
+#Select transfer my number from another company
+#Enter new esn <Part> <Sim>
+#Choose carrier <Carrier> and enter details for External number
+#Create new account for Esn
+#Finish porting number for <Cell Tech> with PIN <PIN>

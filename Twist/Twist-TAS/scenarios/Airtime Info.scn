@@ -1,0 +1,6 @@
+Tags:set5
+Preconditions:On tas HomePage,Log out
+TossUtil:
+#Go to TossUtil
+#Click on Airtime
+#Enter Airtime card number <PIN> and check for retrieved info 

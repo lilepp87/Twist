@@ -1,0 +1,19 @@
+Tags:
+Preconditions:On total wireless home page,Log out
+Activate Phone, Create Account, Buy a Service Plan, Enter Payment, Auto Refill:
+#Setup Esn based on status <Status> and part <Esn>
+#Go to Activate Option
+#Enter <Status> Esn for part <Esn> with Sim<Sim>
+#Select plan <ARType> <BasePlan>
+#Log in depending on status <Status>
+#Create new account depending on status <Status>
+#Enter esn <ZipCode> zip and <#Devices> <ChildEsn> devices with Sim<ChildSim>
+#Enter credit card <CardType> or use stored card
+#Complete activation depending on status <Status>
+#Check enrolled in auto refill <ARType> <BasePlan>
+
+Buy a Service Plan, Enter Payment:
+#Select Buy a Service Plan
+#Select service plan <ARType> plan1 <BasePlan> plan2 <SwitchPlan> <Queued?> <#Devices>
+#Enter credit card <CardType> or use stored card
+#Review order summary

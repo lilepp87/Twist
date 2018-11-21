@@ -1,0 +1,16 @@
+Tags:ST2
+Preconditions:On Straighttalk HomePage,Log out
+Activate Phone, Create Account, Buy a Service Plan, Enter Payment:
+#Go to Activate Option
+#Enter <Status> esn for part <Part Number> and sim <SIM>
+#Choose a new number for zip <Zip Code>
+#Select plan for activation <Reoccuring> <Plan>
+#Log in depending on status <Status>
+#Create new account depending on status <Status>
+#Enter credit card <Card Type> or use stored card
+#Complete activation process depending on status <Status> and cell tech <Cell Tech>
+
+Auto Refill, Enter Payment:
+#Check enrolled in auto refill <Reoccuring> <Plan>
+#Select manage auto refill
+#Enter new credit card details and apply for Auto Refill

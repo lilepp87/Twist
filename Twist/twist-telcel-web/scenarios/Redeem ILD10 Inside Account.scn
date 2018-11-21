@@ -1,0 +1,14 @@
+Tags:
+Preconditions:On telcel homepage,Log Out
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter <Status> Esn for part <Part Number> zip code <Zip> sim<Sim> and Pin number <Pin>
+#Enter Sim Card <Sim> depending on cell tech <Cell Tech> and status <Status>
+#Create new account
+#Complete activation process depending on status <Status> and cell tech <Cell Tech>
+
+Refill Using a Service Card:
+#Click on add a service card now spanish
+#Enter Pin card <ILD Part> for 10 ILD
+#Confirm refill for 10 ILD
+

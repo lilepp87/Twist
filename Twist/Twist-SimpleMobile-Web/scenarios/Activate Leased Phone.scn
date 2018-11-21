@@ -1,0 +1,9 @@
+Tags:shop
+Preconditions:On SimpleMobile HomePage,LogOut
+Activate Phone, Create Account, Leasing:
+#Set the status to <Lease> for esn <PartNumber> and sim <SIM>
+#Go to Activate Option
+#Enter current esn zip <ZipCode> and pin <PIN>
+#Log in depending on status <Status>
+#Create new account depending on status <Status>
+#Complete activation process depending on status <Status> and cell tech <CellTech>

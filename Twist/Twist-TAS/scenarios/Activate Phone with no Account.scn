@@ -1,0 +1,8 @@
+Tags:set3
+Preconditions:On tas HomePage,Log out
+ Activate Phone, Create Account:
+#Enter <Status> Esn for part <Part Number> sim <SIM>
+#Create account for <Brand> with no email
+#Activate phone by using pin <PIN> depending on status <Status> of cell tech <Cell Tech> zip <Zip>
+#Add remaining  phones for <# Devices>  line plan of part <Child1> <Child2> <Child3> with sim <ChildSim1> <ChildSim2> <ChildSim3>
+#Checkout and process transaction

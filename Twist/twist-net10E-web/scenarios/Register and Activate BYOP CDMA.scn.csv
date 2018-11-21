@@ -1,0 +1,18 @@
+isActive,ESNType,carrier,isLTE,isIphone,SIM,PIN,status,Zip
+Active,Decimal,RSS,Yes,Yes,TF256PSIMV9ND,NTAPPU0001,New,33178
+Active,Decimal,RSS,Yes,Yes,null,NTAPPU0001,New,33178
+Active,Decimal,RSS,Yes,No,TF256PSIMV9DD,NTAPPU0001,New,33178
+Active,Decimal,RSS,Yes,No,null,NTAPPU0001,New,33178
+Active,Decimal,RSS,No,Yes,,NTAPPU0001,New,33178
+Active,Decimal,RSS,No,No,,NTAPPU0001,New,33178
+InActive,Decimal,RSS,Yes,Yes,TF256PSIMV9ND,NTAPPU0001,New,33178
+InActive,Decimal,RSS,Yes,Yes,null,NTAPPU0001,New,33178
+InActive,Decimal,RSS,Yes,No,TF256PSIMV9DD,NTAPPU0001,New,33178
+InActive,Decimal,RSS,Yes,No,null,NTAPPU0001,New,33178
+InActive,Decimal,RSS,No,Yes,,NTAPPU0001,New,33178
+InActive,Decimal,RSS,No,No,,NTAPPU0001,New,33178
+Not Active,Hex,SPRINT,No,No,null,NTPU0065ILDS,New,33178
+Not Active,Decimal,SPRINT,Yes,No,null,NTAPP6U040,New,33178
+Not Active,Decimal,SPRINT,Yes,Yes,null,NTPU0001,New,33178
+Active,Decimal,SPRINT,Yes,No,null,NTPU0001,New,33178
+Active,Decimal,SPRINT,Yes,Yes,null,NTAPP6U035,New,33178

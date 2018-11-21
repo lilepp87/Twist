@@ -1,0 +1,13 @@
+Tags:in-progress
+Preconditions:On HomePage,Logout
+Activation:
+
+Browse:
+#Go to phones <Zip>
+#Browse phones based on <Brand>
+
+Phone Purchase:
+#Add <Model> to cart
+#Go to cart and checkout
+#Enter credit card details <CC>
+#Finish order

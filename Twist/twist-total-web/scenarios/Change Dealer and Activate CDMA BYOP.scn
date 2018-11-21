@@ -1,0 +1,12 @@
+Tags:
+Preconditions:On total wireless home page,Log out
+Register BYOP, Create Account:
+#Go to register BYOP CDMA page
+#Enter  <Status> esn Sim <SIM>and carrier <Carrier> for lte <Is LTE> iphone<Is Iphone> with zip <ZipCode>  and is hd <IsHD?>
+#Enter Pin<Pin>
+#Create new account depending on status "New"
+#Enter BYOP ESN and Zip <ZipCode> for cdma <Is LTE>
+#Change dealer <Dealer> and Choose status<Status> for sim <SIM> and if lte<Is LTE>
+
+Activate Phone:
+#Finish Phone Activation "New"

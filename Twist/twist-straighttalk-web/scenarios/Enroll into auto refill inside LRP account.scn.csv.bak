@@ -1,0 +1,102 @@
+Status,Part,SIM,ZIP,PIN,Cell Tech,Old Plan,New Plan,Queued?,Credit Type
+New,STLGL17AGRCS,TF128PSIMC4RM,33178,NTAPPMP00045,GSM,Unlimited Plan,Unlimited Plan,Now,Visa
+New,STLGL17AGRCS7,TF128PSIMCL7RM,692,NTPMP00060ILD,GSM,Unlimited International Plan,$130 Unlimited Plan,Queued,American Express
+New,STAPI6SG16SV,TF128PSIMC4N,33178,NTAPPMP00045TR,GSM,$130 Unlimited Plan,$130 Unlimited Plan,Now,Visa
+New,STAPI6SG16SVP,TF128PSIMC4N,33178,NTAPPMP000451Y,GSM,$495 Unlimited Plan,$130 Unlimited Plan,Queued,Visa
+New,STAPI6SG16SVP4,TF128PSIMC4N,33178,NTPMP00060ILD,GSM,Unlimited International Plan,$495 Unlimited Plan,Queued,Visa
+New,STAPI6SC16SVX,TF256PSIMV9N,33178,NTAPPMP00045,CDMA,Unlimited Plan,$495 Unlimited Plan,Now,Visa
+New,STAPI6SC16GD,TF256PSIMV9N,33178,NTAPPMP00045TR,CDMA,$130 Unlimited Plan,Unlimited International Plan,Now,Visa
+New,STAPI6SPG16RGR4,TF128PSIMC4N,33178,NTAPPMP000451Y,GSM,$495 Unlimited Plan,Unlimited Plan,Now,Visa
+New,STAPI6SPG16RGP4P,TF128PSIMC4N,33178,NTPMP00060ILD,GSM,Unlimited International Plan,$495 Unlimited Plan,Queued,Visa
+New,STAPI6SPG16RGWHP,TF128PSIMC4N,33178,NTAPPMP00045,GSM,Unlimited Plan,Unlimited Plan,Now,Visa
+New,STAPI6SPG16RGWHP4,TF128PSIMC4N,33178,NTPMP00060ILD,GSM,Unlimited International Plan,$130 Unlimited Plan,Now,Visa
+New,STAPI6SPC16RGPWP,TF256PSIMV9N,33178,NTAPPMP00045,CDMA,Unlimited Plan,$130 Unlimited Plan,Now,Visa
+New,STALA394CPWP,,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,Unlimited Plan Onethirty,Now,Visa
+New,STALA462CP,,33178,NTNMP00045,CDMA,Unlimited Plan Fortyfive,Unlimited Plan Onethirty,Queued,Visa
+New,STSAS906CP,TF256PSIMV9N,33178,NTNMP00045,CDMA,Unlimited Plan Fortyfive,Unlimited Plan Onethirty,Queued,Visa
+New,STLG109CPWP,TF256PSIMV9N,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,Unlimited Plan Onethirty,Now,Visa
+New,STHTC122VCR,TF256PSIMV9N,33178,NTAPPMP00045TR,CDMA,Unlimited Plan,Unlimited International Plan,Now,Visa
+New,STZEZ819CWHP,TF256PSIMV9RM,33178,NTPMP00060ILD,GSM,Unlimited International Plan,Unlimited Plan,Now,Visa
+New,STZEZ818GP5P,TF64PSIMT5RM,33178,NTPMP00060ILD,GSM,Unlimited International Plan,$495 Unlimited Plan,Queued,Visa
+New,STALA463BGR4,TF128PSIMC4RM,33178,NTAPPMP00045TR,GSM,$130 Unlimited Plan,Unlimited Plan,Now,Visa
+New,STLCPOAMOTXGP5,TF128PSIMT5N,33178,NTAPPMP00045,GSM,Unlimited Plan,$130 Unlimited Plan,Now,Visa
+New,STLCPOAI5SGP5,TF128PSIMT5N,33178,NTAPPMP00045,GSM,Unlimited Plan,$130 Unlimited Plan,Now,Visa
+New,STLCPOAGS4GP5,TF128PSIMT5RM,33178,NTPMP00060ILD,GSM,Unlimited International Plan,$130 Unlimited Plan,Now,Visa
+New,ST3GCPOAMOTXGP5,TF128PSIMT5N,33178,NTPMP00060ILD,GSM,Unlimited International Plan,$130 Unlimited Plan,Now,Visa
+New,ST3GCPOAGS4GP5,TF128PSIMT5RM,33178,NTAPPMP00045,GSM,Unlimited Plan,$130 Unlimited Plan,Now,Visa
+New,ST3GCPOAI5SGP5,TF128PSIMT5N,33178,NTAPPMP00045,GSM,Unlimited Plan,Unlimited International Plan,Now,Visa
+New,ST3GCPOAGS4GP4,TF128PSIMC4RM,33178,NTPMP00060ILD,GSM,Unlimited International Plan,$130 Unlimited Plan,Now,Visa
+New,STCPOAI5SCP,TF256PSIMV9N,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,$130 Unlimited Plan,Now,Visa
+New,PHST64PSIMC4DD,TF64PSIMC4DD,33178,STAPPMB00050,GSM,BYOT 5 GB,BYOT 7 GB,Now,Visa
+New,PHST128PSIMC4DD,TF64PSIMC4DD,33178,STAPPMB00050,GSM,BYOT 5 GB,BYOT 7 GB,Now,Visa
+New,STHUH891GRCS5,TF64PSIMT5RM,33178,NTAPPMP00045TR,GSM,$130 Unlimited Plan,Unlimited International Plan,Now,Visa
+New,STMTXT838CWHP,TF256PSIMV9RM,33178,NTAPPMP00045TR,CDMA,$130 Unlimited Plan,Unlimited Plan,Now,Visa
+New,STALA521GP4P,TF64PSIMC4RM,33178,NTAPPMP00045TR,GSM,$130 Unlimited Plan,Unlimited Plan,Now,Visa
+New,STZEZ936CR,TF256PSIMV9RM,33178,NTNMP00045,CDMA,Unlimited Plan,$130 Unlimited Plan,Now,Visa
+New,STALA520C,TF256PSIMV9RM,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,$495 Unlimited Plan,Now,Visa
+New,STLGL33GWHP4,TF64PSIMT5RM,33178,NTAPPMP000451Y,GSM,$495 Unlimited Plan,Unlimited International Plan,Now,Visa
+New,STALA460GP5,TF64PSIMT5RM,33178,NTPMP00060ILD,GSM,Unlimited International Plan,$495 Unlimited Plan,Now,Visa
+New,STZEZ791GR4,TF128PSIMC4RM,33178,NTPMP00060ILD,GSM,Unlimited International Plan,$495 Unlimited Plan,Now,Visa
+New,STZEZ793CP,,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,$130 Unlimited Plan,Now,Visa
+New,STSAS920CPWP,TF256PSIMV9RM,33178,NTNMP00045,CDMA,Unlimited Plan,$130 Unlimited Plan,Now,Visa
+New,STSAS777CP,,33178,NTNMP00045,CDMA,Unlimited Plan,$130 Unlimited Plan,Now,Visa
+New,STSAS978CWTWHP,TF256PSIMV9N,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,$130 Unlimited Plan,Now,Visa
+New,STLGL16CP,,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,$495 Unlimited Plan,Now,Visa
+New,STZEZ752CR,,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,Unlimited Plan,Now,Visa
+New,STLGL22C,,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,$130 Unlimited Plan,Now,Visa
+New,STHUH892CWHP,TF256PSIMV9RM,33178,NTNMP00045,CDMA,Unlimited Plan,$130 Unlimited Plan,Now,Visa
+New,STLGL15GR4,TF128PSIMC4RM,33178,NTPMP00060ILD,GSM,Unlimited International Plan,$130 Unlimited Plan,Now,Visa
+New,STZEZ753GWHP4,TF64PSIMT5RM,33178,NTNMP00045,GSM,Unlimited Plan,$130 Unlimited Plan,Now,Visa
+New,STLGL21GWHP4,TF64PSIMC4RM,33178,NTPMP00060ILD,GSM,Unlimited International Plan,$130 Unlimited Plan,Now,Visa
+New,STSAS820CR,TF256PSIMV9RM,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,$130 Unlimited Plan,Now,Discover
+New,STSAS902CPWP,TF256PSIMV9RM,33178,NTNMP00045,CDMA,Unlimited Plan,$130 Unlimited Plan,Queued,Discover
+New,STLG237CPWP,,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,$130 Unlimited Plan,Now,Visa
+New,STALA206GWHP,TF128SIMT5RM,33178,NTNMP00045,GSM,Unlimited Plan,$130 Unlimited Plan,Queued,Discover
+New,STHUH350,TF64SIMC4,33178,STNHPAPPUNL30,GSM,$30 Home Center,$60 Home Center,Now,Visa
+New,STLG420GP4,TF64SIMCL7,692,NTNMP00045,GSM,Unlimited Plan,$130 Unlimited Plan,Now,Visa
+New,STMTW419GP4,TF64SIMCL7,692,NTNMP00045,GSM,Unlimited Plan,Unlimited Plan,Now,Visa
+New,PHST128PSIMCL7ND,TF128PSIMCL7ND,692,NTNMP00045,GSM,Unlimited Plan,Unlimited Plan,Now,Visa
+New,ST256PBYOPD,TF256PSIMV9DD,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,$130 Unlimited Plan,Now,Discover
+New,ST256PBYOPAPN,TF256PSIMV9ND,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,$130 Unlimited Plan,Queued,Visa
+New,STUXU671C,,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,$130 Unlimited Plan,Now,Visa
+New,STZEZ288CWHP,TF256PSIMV9RM,33178,STAPPMB00040,CDMA,Hotspot 4 GB,Hotspot 4 GB,Queued,Discover
+New,STHUH871GP4,TF64PSIMC4RM,33178,NTNMP00045,GSM,Unlimited Plan,$130 Unlimited Plan,Now,Visa
+New,STMTXT830CWHP,,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,$255 Unlimited Plan,Queued,Discover
+New,STZEZ932C,TF256PSIMV9RM,33178,NTNMP00045,CDMA,Unlimited Plan,$255 Unlimited Plan,Now,Visa
+New,STALA564CWHP,,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,$255 Unlimited Plan,Queued,Visa
+New,STLGL41CR,,33178,NTNMP00045,CDMA,Unlimited Plan,$255 Unlimited Plan,Now,Visa
+New,STALA845GWHP4,TF64PSIMC4,33178,NTPMP00060ILD,GSM,Unlimited International Plan,$255 Unlimited Plan,Queued,Discover
+New,STZEZ667GP,TF64PSIMC4RM,33178,NTNMP00045,GSM,Unlimited Plan,$255 Unlimited Plan,Queued,Visa
+New,STALA995GWHP,TF64PSIMC4RM,33178,NTNMP00045,GSM,Unlimited Plan,$255 Unlimited Plan,Queued,Discover
+New,STZEZ797CR,,33178,NTNMP00045,CDMA,Unlimited Plan,$255 Unlimited Plan,Queued,Visa
+New,STZEZ289GWHP4,TF64SIMT5,33178,STAPPMB00040,GSM,Hotspot 4 GB,Hotspot 7 GB,Queued,Discover
+New,STAVV10GP,JASPER2FF,33178,STAPPCC0010D,GSM,Car Connection Monthly Plan,Car Connection Monthly Plan,Queued,Discover
+New,STLGL31GP4,TF64PSIMC4RM,33178,NTNMP00045,GSM,Unlimited Plan,$255 Unlimited Plan,Queued,Discover
+New,STLGL31GRCS5,TF64PSIMC4RM,33178,NTPMP00060ILD,GSM,Unlimited International Plan,$255 Unlimited Plan,Now,Discover
+New,PHST64PSIMT5BMB,TF64PSIMT5BMB,33178,NTNMP00045,GSM,Unlimited Plan,$255 Unlimited Plan,Queued,Discover
+New,PHST128PSIMC4NB,TF128PSIMC4NB,33178,NTPMP00060ILD,GSM,Unlimited International Plan,$255 Unlimited Plan,Now,Discover
+New,PHST64PSIMC4DD,TF64PSIMC4DD,33178,STAPPMB00015,GSM,BYOT 1 GB,BYOT 2 GB,Now,Discover
+New,PHST128PSIMT5ND,TF128PSIMT5ND,33178,STNMB00025,GSM,BYOT 2 GB,BYOT 1 GB,Queued,Discover
+New,STREAX54NC,,33178,STNHA0001M,CDMA,Remote Alert Monthly Plan,Remote Alert Monthly Plan,Queued,Discover
+New,STREAX54NCPWP,,33178,STNHA0001Y,CDMA,Remote Alert Annual Plan,Remote Alert Annual Plan,Now,Discover
+New,STLG305C,,33178,NTNMP00045,CDMA,Unlimited Plan,$495 Unlimited Plan,Now,Discover
+New,STLG305CPWP,,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,$495 Unlimited Plan,Queued,Discover
+New,STSAS765C,,33178,NTNMP00045,CDMA,Unlimited Plan,$495 Unlimited Plan,Now,Discover
+New,STSAS765CWHP,,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,$495 Unlimited Plan,Queued,Discover
+New,STZEZ250GR,TF64SIMT5,33178,STAPPMB00015,GSM,Hotspot 1 GB,Hotspot 7 GB,Now,Discover
+New,STZEZ250GRCS,TF64SIMT5,33178,STAPPMB00040,GSM,Hotspot 4 GB,Hotspot 5 GB,Queued,Discover
+New,STSAS975G,TF64PSIMC4RM,33178,NTNMP00045,GSM,Unlimited Plan,$255 Unlimited Plan,Now,Discover
+New,STSAS975GWHP,TF64PSIMC4RM,33178,NTNMP00045,GSM,Unlimited Plan,$255 Unlimited Plan,Queued,Discover
+New,STSAS890GR4,TF64PSIMC4RM,33178,NTNMP00045,GSM,Unlimited Plan,Unlimited International Plan,Now,Discover
+New,STSAS890GR,TF64PSIMC4RM,33178,NTNMP00045,GSM,Unlimited Plan,Unlimited International Plan,Queued,Discover
+New,STHUH882CR,TF128PSIMS8M,33178,NTAPPMP00045SA,CDMA,$255 Unlimited Plan,Unlimited International Plan,Now,Discover
+New,STZEZ665CP,,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,Unlimited International Plan,Now,Discover
+New,STMTW418GP5,TF64SIMT5,33178,NTPMP02999,GSM,All You Need Plan,Unlimited International Plan,Now,Discover
+New,STHUH882CR,TF128PSIMS8M,33178,NTNMP00045,CDMA,Unlimited Plan,$255 Unlimited Plan,Now,Discover
+New,STZEZ665CP,,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,$255 Unlimited Plan,Now,Discover
+New,STLGL35GP4,TF64PSIMC4,33178,NTNMP00045,GSM,Unlimited Plan,$255 Unlimited Plan,Queued,Discover
+New,STMTW419GP4,TF64SIMC4,33178,NTPMP02999,GSM,All You Need Plan,All You Need Plan,Now,Discover
+New,STMTW418GP5,TF64SIMT5,33178,NTAPPMP00045SA,GSM,$255 Unlimited Plan,All You Need Plan,Now,Discover
+New,STLG511CP,,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,All You Need Plan,Queued,Discover
+New,STIPH6SSOGSM,TF128PSIMC4N,33178,NTAPPMP00045SA,GSM,$255 Unlimited Plan,Unlimited International Plan,Now,Discover
+New,STIPH6SPSOCDMA,TF256PSIMV9N,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,Unlimited Plan,Queued,Discover

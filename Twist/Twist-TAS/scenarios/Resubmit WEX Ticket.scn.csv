@@ -1,0 +1,4 @@
+Brand,Pat Number,SIM,PIN,CellTech,Parent Solution,Solution Name,Ticket Type,Claim/ticket Type,Escalate Option,New Part Number
+TELCEL,TCLG440G3P5P,TF64SIMT5,TCAPP00040ILD,GSM,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Ticket: Warranty Goodwill Replacement,phone exchange,Change part number,TCLG235CP
+STRAIGHT_TALK,STLG305C,,NTPMP00060ILD,CDMA,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Ticket: Warranty Goodwill Replacement,phone exchange,Unusual Delay,
+NET10,NTLGL34CU,,NTAPPU0065ILD,CDMA,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Ticket: Warranty Goodwill Replacement,phone exchange,Bad address,

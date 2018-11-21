@@ -1,0 +1,12 @@
+Tags:
+Preconditions:On Dealerportal,Log Out
+Activate Phone:
+#Go to <Brand>
+#Go to Activation for <Brand> 
+#Enter esn <From Part> sim <Form SIM> zip <Zip> pin <From PIN>
+#Confirm activation for cell tech <From Tech>
+Phone Upgrade:
+#Go to Phone Upgrade
+#Enter from ESN and MIN
+#Enter to ESN <To Part> with SIM <To SIM> and Status <To Status>
+#Check for Successful Phone Upgrade

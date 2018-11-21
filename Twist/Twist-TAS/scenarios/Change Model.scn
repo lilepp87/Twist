@@ -1,0 +1,8 @@
+Tags:set5
+Preconditions:On tas HomePage,Log out
+TossUtil:
+#Get Esn for part <PartNumber> of status <Status>
+#Search for Esn
+#Click on change model
+#Select new technology <CellTech> brand <Brand> part number <New Part Number> 
+#Confirm changed model to <New Part Number>

@@ -1,0 +1,7 @@
+Tags:in-progress
+Preconditions:On Dealerportal,Log Out
+Phone Check, Activate Phone:
+#Go to <brand>
+#Go to phone check
+#Enter phone number <esnpart>
+#Check phone status

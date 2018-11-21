@@ -1,0 +1,8 @@
+Brand,Pat Number,SIM,PIN,Cell Tech,Zip,Parent Solution,Solution Name,Ticket Type,Claim/ticket Type
+TELCEL,TCLG440G3P5P,TF64SIMT5,TCAPP00040ILD,GSM,33178,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Ticket: Warranty Goodwill Replacement,phone exchange
+TELCEL,TCLG440G3P5P,TF64SIMT5,TCAPP00040ILD,GSM,33178,Phone/SIM Exchanges Non-Defective,SIM Exchanges,Ticket: Technology Exchange SIM Card Exchange,sim exchange
+STRAIGHT_TALK,STLG305C,,NTPMP00060ILD,CDMA,33178,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Ticket: Warranty Goodwill Replacement,phone exchange
+STRAIGHT_TALK,STAPI5CG16PKR,TF128PSIMC4N,NTPMP00060ILD,GSM,33178,Phone/SIM Exchanges Non-Defective,SIM Exchanges,Ticket: Technology Exchange SIM Card Exchange,sim exchange
+NET10,NTLGL34CU,,NTAPP6U075,CDMA,33178,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Ticket: Warranty Goodwill Replacement,phone exchange
+TRACFONE,TFSAS920CPDU,TF256PSIMV9RM,TSAPP40120,CDMA,33178,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Ticket: Warranty Goodwill Replacement,phone exchange
+TRACFONE,TFSAS920CPDU,TF256PSIMV9RM,TSAPP40120,CDMA,33178,Phone/SIM Exchanges Non-Defective,SIM Exchanges,Ticket: Technology Exchange SIM Card Exchange,sim exchange

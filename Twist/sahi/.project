@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>sahi</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>activation.jar</name>
+			<type>1</type>
+			<location>X:/projects/Sahi/sahi/extlib/mail/activation.jar</location>
+		</link>
+		<link>
+			<name>mail.jar</name>
+			<type>1</type>
+			<location>X:/projects/Sahi/sahi/extlib/mail/mail.jar</location>
+		</link>
+		<link>
+			<name>ws-commons-util-1.0.1.jar</name>
+			<type>1</type>
+			<location>X:/projects/Sahi/sahi/extlib/xmlrpc/ws-commons-util-1.0.1.jar</location>
+		</link>
+		<link>
+			<name>xmlrpc-client-3.0.jar</name>
+			<type>1</type>
+			<location>X:/projects/Sahi/sahi/extlib/xmlrpc/xmlrpc-client-3.0.jar</location>
+		</link>
+		<link>
+			<name>xmlrpc-common-3.0.jar</name>
+			<type>1</type>
+			<location>X:/projects/Sahi/sahi/extlib/xmlrpc/xmlrpc-common-3.0.jar</location>
+		</link>
+	</linkedResources>
+</projectDescription>

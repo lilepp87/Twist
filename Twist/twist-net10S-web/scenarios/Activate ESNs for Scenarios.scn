@@ -1,0 +1,15 @@
+Tags:
+Preconditions:On Net10Spanish Home Page
+Start Activation, Create Account:
+#Make past due depending on status <Status> and model <Part>
+#Go to activate phone
+#Select Activate My Net10 Phone
+#Skip account creation
+#Enter Esn for model <Part> with status <Status> and zip code <Zip Code>
+#Possibly enter SIM <SIM> for cell tech <Cell Tech> and status <Status>
+
+Finish Activation with PIN:
+#Activate with <Card Type> pin <PIN> for <Cell Tech> <Phone Type>
+
+Finish Activation without Pin:
+#Activate without pin for <Cell Tech> <Phone Type>

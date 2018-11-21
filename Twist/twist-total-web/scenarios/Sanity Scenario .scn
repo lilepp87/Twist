@@ -1,0 +1,31 @@
+Tags:in-progress,simplesanity
+Preconditions:On Total wireless home page,Log out
+Activate Phone, Create Account:
+#Setup Esn based on status "New" and part "TWSAG955UCSVPRS"
+#Go to Activate Option
+#Enter "New" Esn for part "TWSAG955UCSVPRS" and pin "TWAPP00060" with Sim "TF256PSIMV9N"
+#Log in depending on status "New"
+#Create new account depending on status "New"
+#Enter esn "33178" zip and "1" "TWSAG955UCSVPDG" devices with Sim "TF256PSIMV9N"
+#Complete activation depending on status "New"
+
+Activate Phone, Phone Upgrade:
+#Upgrade My Device with part number"TWLGL64VCPDG"
+#Enter  "New" esn "TWLGL64VCPDG" Sim "TF256PSIMV9N"and carrier "" for lte "" iphone"" with zip "33178"
+#Complete upgrade Process for TW
+
+Activate Phone,Add a Service Plan:
+#Make used
+#Go to Refill
+#Enter Phone and Pin card "TWAPP00060"
+#Complete the process "New"
+Port Number, Activate phone, Create Account, Enter Payment:
+#goToActivateOptionForport
+#Enter "New" Esn for part "TWSAG955UCSVPWP" and pin "TWAPP00035" with Sim "TF256PSIMV9N"
+#Create new account
+#Select device type ""
+#Enter Esn to activate
+#Choose phone number option ""
+#Enter external number from "AT&T"
+#Choose to add device or activate service "activate"
+#Finish port

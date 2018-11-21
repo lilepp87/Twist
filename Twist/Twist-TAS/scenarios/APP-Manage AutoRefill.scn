@@ -1,0 +1,16 @@
+Tags:app,services
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone, Create Account, MyAccountApp, TossUtil:
+#Create account for part <Phone> sim <Param1> brand <Brand>
+#Search for Esn
+#Activate phone by using pin <plan> depending on status <status> of cell tech <Technology> zip <zipcode>
+#Add remaining  phones for <Param1>  line plan of part <Param1> <Param1> <Param1> with Sim<Param1> <Param1> <Param1>
+#Checkout and process transaction
+
+ MyAccountApp:
+#Add <CardType> CC to account by <MODE>
+#Update payment src
+#Get list of all payment src by <TYPE>
+#Calculate Enrollment tax for plan <plan>
+#Enroll into service plan <plan> with option <Param10>
+#Get current enrollment information

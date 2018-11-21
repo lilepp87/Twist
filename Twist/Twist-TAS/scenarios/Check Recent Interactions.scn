@@ -1,0 +1,6 @@
+Tags:set5
+Preconditions:On tas HomePage,Log out
+Activate Phone,History:
+#Enter <Status> Esn for part <PartNumber> sim ""
+#Click Recent Interactions <Reason> <Details> <Channel>
+#Validate Interactions

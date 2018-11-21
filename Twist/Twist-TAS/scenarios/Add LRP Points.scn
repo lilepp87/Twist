@@ -1,0 +1,11 @@
+Tags:LRP,in-progress
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone, Create Account:
+#Enter <Status> Esn for part <PartNumber> sim <SIM>
+#LRP Create account for <Brand> 
+#Activate phone by using pin <PIN> depending on status <Status> of cell tech <CellTech> zip <Zip Code>
+#Add remaining  phones for <# Devices>  line plan of part <Child 1> <Child 2> <Child 3> with Sim<ChildSim 1> <ChildSim 2> <ChildSim 3>
+#Checkout and process transaction
+#Add ESN to promo group
+#Complete TAS LRP Enrollment
+#"Add" Points <LRP Points> with reason <Reason>

@@ -1,0 +1,10 @@
+Tags:
+Preconditions:OnTracfoneCommercePage
+Activate Phone, Create Account, Port Number, Phone Upgrade,Shop:
+#Go To TF Store <Customer><ZipCode>
+#select Tf Phone<Phone>
+#Add PhoneTo Cart 
+#select Tf Service Plan<Plan>
+#Enter Shipping Address And WhiteListedCard<CC Type>
+#Verify Order Summary
+#Print Order Number

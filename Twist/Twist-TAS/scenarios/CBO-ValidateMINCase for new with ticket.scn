@@ -1,0 +1,15 @@
+Tags:set6,cbo,services
+Preconditions:On tas HomePage,Log out
+ Support,TossUtil:
+#Get Esn for part <Part>  of status <Status> brand <Brand>
+#Search for Esn
+
+Solutions, Case Operations:
+#Go to solutions
+#select parent solution "Technology Migration" and "2G Migration"
+#select ticket type "Ticket: Warehouse 2G Migration"
+#Select part number for exchange ""  of  type "" for "new" line
+#Continue to next steps 
+
+ Support:
+#callValidateEsnMinUpgradeChangeMinMethod

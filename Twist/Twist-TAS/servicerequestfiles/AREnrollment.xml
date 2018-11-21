@@ -1,0 +1,34 @@
+<soapenv:Envelope xmlns:com="http://www.tracfone.com/CommonTypes" xmlns:phon="http://www.tracfone.com/PhoneCommonTypes" xmlns:sms="http://b2b.tracfone.com/SmsEnrollmentServices" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+   <soapenv:Header>
+      <wsse:Security soapenv:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+         <wsse:UsernameToken wsu:Id="UsernameToken-2642F73C43AA2992F714600450498451">
+            <wsse:Username>@secusername</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">@secpassword</wsse:Password>
+         </wsse:UsernameToken>
+      </wsse:Security>
+   </soapenv:Header>
+   <soapenv:Body>
+      <sms:SmsEnrollRequest>
+         <com:requestToken>
+            <com:clientTransactionId>1111</com:clientTransactionId>
+            <com:clientId>111111</com:clientId>
+         </com:requestToken>
+         <com:brandName>@brand</com:brandName>
+         <com:sourceSystem>SMS</com:sourceSystem>
+         <!--Optional:-->
+         <sms:device>
+            <!--You have a CHOICE of the next 2 items at this level-->
+            <!--Optional:-->
+            <phon:min>@min</phon:min>
+            <!--Optional
+            <phon:esn></phon:esn> :-->
+         </sms:device>
+         <!--Optional:-->
+         <sms:payCard>@card</sms:payCard>
+         <!--Optional:-->
+         <sms:zipcode/>
+         <!--Optional:-->
+         <sms:cvv/>
+      </sms:SmsEnrollRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

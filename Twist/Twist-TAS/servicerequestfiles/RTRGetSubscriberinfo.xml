@@ -1,0 +1,15 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:mys="http://mysimplemobile.com/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <mys:GetSubscriberInfo>
+         <partnerAuthentication>
+            <partnerId>EPAY</partnerId>
+            <securityCode>EPAY123</securityCode>
+         </partnerAuthentication>
+         <subscriberIdentifier>
+            <idType>MSISDN</idType>
+            <id>@min</id>
+           </subscriberIdentifier>
+      </mys:GetSubscriberInfo>
+   </soapenv:Body>
+</soapenv:Envelope>

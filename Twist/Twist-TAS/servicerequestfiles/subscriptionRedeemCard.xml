@@ -1,0 +1,20 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:bus="http://xmlns.oracle.com/BRM/schemas/BusinessOpcodes">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <bus:tfOpSubscriptionRedeemCard>
+         <TF_OP_SUBSCRIPTION_REDEEM_CARD_Request>
+            <flags>0</flags>
+            <TF_OP_SUBSCRIPTION_REDEEM_CARD_inputFlist>
+               <POID>0.0.0.1 /account -1</POID>
+               <ACCOUNT_NO>@ban</ACCOUNT_NO>
+               <LOGIN>@login</LOGIN>
+               <PIN/>
+               <SOURCE>Clarify</SOURCE>
+               <ORDER_ID>1234</ORDER_ID>
+               <CHANNEL_ID>1</CHANNEL_ID>
+               <DEAL_NAME>@deal</DEAL_NAME>
+            </TF_OP_SUBSCRIPTION_REDEEM_CARD_inputFlist>
+         </TF_OP_SUBSCRIPTION_REDEEM_CARD_Request>
+      </bus:tfOpSubscriptionRedeemCard>
+   </soapenv:Body>
+</soapenv:Envelope>

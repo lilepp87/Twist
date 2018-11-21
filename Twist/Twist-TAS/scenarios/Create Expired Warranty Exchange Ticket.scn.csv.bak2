@@ -1,0 +1,9 @@
+Status,ESN Part Num,SIM Part,Brand,PIN Part,Technology,Zipcode,Parent Solution,Child Solution,Ticket Type,Case Type,Case/Type Exchange
+New,STAPI5CG16PKR,TF128PSIMC4N,STRAIGHT_TALK,NTPMP00060ILD,GSM,33178,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Phone/SIM Exchanges Non-Defective Ticket Validation,Physical Damage,phone exchange
+New,STLGL57BGP4,TF128PSIMC4N,STRAIGHT_TALK,NTAPPMP00045TR,GSM,33178,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Phone/SIM Exchanges Non-Defective Ticket Validation,Lost or Stolen,phone exchange
+New,STZEZ986DGP5,TF128PSIMT5N,STRAIGHT_TALK,NTAPPMP00045TR,GSM,33178,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Phone/SIM Exchanges Non-Defective Ticket Validation,Bright Point Order Not Received,phone exchange
+New,STZEZ986DGP5,TF128PSIMT5N,STRAIGHT_TALK,NTAPPMP00045TR,GSM,33178,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Phone/SIM Exchanges Non-Defective Ticket Validation,System Error,phone exchange
+New,STAPI5CG16PKR,TF128PSIMC4N,STRAIGHT_TALK,NTPMP00060ILD,GSM,33178,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Phone/SIM Exchanges Non-Defective Ticket Validation,Different Phone Technology,digital phone exchange
+New,NTZEZ716BGP5P,TF128PSIMT5RM,NET10,NTAPPU0001,GSM,33178,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Phone/SIM Exchanges Non-Defective Ticket Validation,Different Phone Technology,digital phone exchange
+New,SMLGL59BG3P5,SM128PSIMT5N,SIMPLE_MOBILE,SMNAPP0050BBUNL,GSM,33172,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Phone/SIM Exchanges Non-Defective Ticket Validation,System Error,phone exchange
+New,TWAPISEC16SVP,TF256PSIMV9N,TOTAL_WIRELESS,TWAPP00085,CDMA,33178,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective,Phone/SIM Exchanges Non-Defective Ticket Validation,Physical Damage,phone exchange

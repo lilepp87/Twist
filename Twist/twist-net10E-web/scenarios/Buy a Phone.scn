@@ -1,0 +1,7 @@
+Tags:brightpoint
+Preconditions:On net10 english home page
+Buy a Phone:
+#Select Buy Phones
+#Enter Zip Code <Zip Code>
+#Confirm and Accept Zip Code
+#Validate Brightpoint webpage

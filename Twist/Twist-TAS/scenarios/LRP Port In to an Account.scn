@@ -1,0 +1,26 @@
+Tags:in-progress
+Preconditions:On tas HomePage,Log out
+Activate Phone,Create Account:
+#Enter <Type> Esn for part "NTLGL95GP5" sim "TF64PSIMT5"
+#Create account for "NET10"
+#Activate phone by using pin "NTAPP6U040" depending on status "New" of cell tech "GSM" zip "33178"
+
+ Port Number, Activate Phone, Create Account:
+#Come back as new customer
+#Enter "New" Esn for part "STZEZ660GP4" sim "TF64PSIMC4"
+#LRP Create account for "STRAIGHT_TALK" 
+#Activate phone by using pin "NTNMP00045" depending on status "New" of cell tech "GSM" zip "33178"
+#Add remaining  phones for ""  line plan of part "" "" "" with Sim"" "" ""
+#Checkout and process transaction
+#Add ESN to promo group
+#Complete TAS LRP Enrollment
+#Return to main screen for new ESN from LRP
+
+ Port Number, Activate Phone:
+#Create sim exchange case if necessary for "TF64PSIMC4"
+#Deactivate phone if necessary
+#Enter MIN from "NET10" with part "NTLGL95GP5"  zip "33178"
+#Perform option "Add Airtime" with plan "NTNMP00045" and workforcePIN ""
+#Complete port
+#Add remaining  phones for "1"  line plan of part "" "" "" with sim "" "" ""
+#Complete activation for port

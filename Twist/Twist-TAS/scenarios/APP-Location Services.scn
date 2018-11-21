@@ -1,0 +1,4 @@
+Tags:app,services
+Preconditions:closeBrowser
+MyAccountApp:
+#Get Retailers info for <Brand> in <ZipCode> around <Miles> mile radius

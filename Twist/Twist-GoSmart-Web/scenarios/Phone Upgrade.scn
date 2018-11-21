@@ -1,0 +1,17 @@
+Tags:
+Preconditions:OnGoSmartHomePage,logout
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter "New" Esn for part <From Part> sim <SIM>
+#Enter zip <Zip> for new phone number
+#Enter Pin <From PIN>
+#Log in depending on status "New"
+#Create new account depending on status "New"
+#Complete activation process depending on status "New" and cell tech "GSM"
+
+Port Number, Activate Phone:
+#Go to Activate Option
+#Enter <To Status> Esn for part <To Part> sim <To SIM>
+#Enter current min
+#Finish Porting
+

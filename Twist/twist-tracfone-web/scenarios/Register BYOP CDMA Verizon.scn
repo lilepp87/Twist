@@ -1,0 +1,20 @@
+Tags:tf3
+Preconditions:On Tracfone Home Page,Log Out
+.
+Register BYOP:
+#Go to register BYOP page
+#Choose the Carrier  "Other"
+#Enter  <Status> esn Sim <SIM>and carrier <Carrier> for lte <Is LTE> iphone<Is Iphone> with zip <ZipCode>
+#Choose "REGISTER AND ACTIVATE" for ESN Status <Status> if lte <Is LTE> and Sim <SIM> and NAC ""
+
+
+CompleteShipping:
+#Complete Shipping details for Domain"SIM CARDS" if  lte <Is LTE> and already have SIM <SIM> 
+
+Activate Phone, Create Account:
+#Enter BYOP ESN and Zip <ZipCode>
+#Enter pin card number <Pin1> <Pin2> <Pin3>
+#Select Register
+#Verify message for cell tech
+#Complete the process for <Cell tech> phone
+

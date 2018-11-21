@@ -1,0 +1,5 @@
+Brand,PartNumber(primary),Status(primary),ZipCode,SIM(primary),PlanType,PartNumber(f),SIM(f),CellTech(f),Status(f),No of Family Members,Card Type,CVV
+TRACFONE,TFLGL38CTMP,Active,33178,,Family Value Plan,TFRC261P4,,CDMA,Active,2,Visa,123
+TRACFONE,TFLG220CP,Active,33178,,Family Value Plan,TFLG220CP,,GSM,Active,3,ACH,
+TRACFONE,TFLG800GP5DM,Active,33178,,Family Value Plan,TFSAS125GDMP5,,GSM,Active,2,Visa,123
+TRACFONE,TFRC261P4,Active,33178,,Family Value Plan,TFZEZ665CDG,,CDMA,Active,3,Visa,123

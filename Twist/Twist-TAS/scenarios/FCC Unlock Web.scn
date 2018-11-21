@@ -1,0 +1,19 @@
+Tags:captcha,in-progress
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone, Create Account:
+#Enter <Status> Esn for part <Esn Part> sim <Sim>
+#Create account for <Brand>
+#Activate phone by using pin <Pin> depending on status <Status> of cell tech <cellTech> zip <zipCode>
+#Checkout and process transaction
+
+redemption:
+#Add pin card <Pin> to reach 365 paid days requirment
+
+Solutions:
+#Set Installation date  to 365 days past to reach 365 days Active requirement
+#Go to FCC Web
+#Enter Esn or Min <input>  and check eligibilty
+#verify eligibility
+#Enter Address and check Ticket number
+#Go to TAS
+#open ticket

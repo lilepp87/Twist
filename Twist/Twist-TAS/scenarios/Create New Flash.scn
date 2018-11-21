@@ -1,0 +1,9 @@
+Tags:in-progress
+Preconditions:On tas HomePage,Log out
+Activate Phone, Create Account:
+#Enter "New" Esn for part "PHSM64PSIMT5BLC" sim "SM64PSIMT5B"
+#Create account for "SIMPLE_MOBILE"
+
+ Support:
+#Go to flash contact
+#Create new flash message

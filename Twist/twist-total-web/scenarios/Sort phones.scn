@@ -1,0 +1,6 @@
+Tags:commerce,in-progress
+Preconditions:On total wireless home page,Log out
+Browse:
+#Go to phones page <ZipCode>
+#Select sort type <Sort key>
+#Check phone <Phone> is shown

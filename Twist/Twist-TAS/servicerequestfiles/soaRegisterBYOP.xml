@@ -1,0 +1,66 @@
+<soapenv:Envelope xsi:schemaLocation="http://b2b.tracfone.com/ServiceQualification ServiceQualification.xsd" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:p="http://b2b.tracfone.com/ServiceQualification" xmlns:p1="http://www.tracfone.com/rest/model/v1/common" xmlns:tns0="http://www.tracfone.com/rest/model/v1/common/exception" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <soap:Header xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+      <wsse:Security soap:mustUnderstand="0" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+         <wsse:UsernameToken>
+            <wsse:Username>@secusername</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">@secpassword</wsse:Password>
+         </wsse:UsernameToken>
+      </wsse:Security>
+   </soap:Header>
+   <soapenv:Body>
+      <p:checkServiceQualificationRequest>
+         <p1:Header>
+            <p1:CorrelationId_T>2627088317</p1:CorrelationId_T>
+            <p1:ActivityName_T>LeapFactor_ServiceQualification</p1:ActivityName_T>
+            <p1:MsgType_T>Request</p1:MsgType_T>
+            <p1:Source>API</p1:Source>
+            <p1:MessageId>2627088317</p1:MessageId>
+            <p1:Timestamp>@date</p1:Timestamp>
+            <p1:ConsumerInfo>
+               <p1:name>brand</p1:name>
+               <p1:Value>@brand</p1:Value>
+            </p1:ConsumerInfo>
+         </p1:Header>
+         <p1:Payload>
+            <p1:location>
+               <p1:Address>
+                  <p1:postalCode>@zip</p1:postalCode>
+               </p1:Address>
+            </p1:location>
+            <p1:serviceCategory>
+               <p1:name>context</p1:name>
+               <p1:Value>BYOP_ELIGIBILITY</p1:Value>
+            </p1:serviceCategory>
+            <p1:relatedParty>
+               <p1:roleType>partner</p1:roleType>
+               <p1:Party>
+                  <p1:partyID>WALMART</p1:partyID>
+                  <p1:languageAbility>ENG</p1:languageAbility>
+                  <p1:PartyExtension>
+                     <p1:name>partyTransactionID</p1:name>
+                     <p1:value>12345</p1:value>
+                  </p1:PartyExtension>
+                  <p1:PartyExtension>
+                     <p1:name>sourceSystem</p1:name>
+                     <p1:value>API</p1:value>
+                  </p1:PartyExtension>
+               </p1:Party>
+            </p1:relatedParty>
+            <p1:serviceSpecification>
+               <p1:brand>@brand</p1:brand>
+            </p1:serviceSpecification>
+            <p1:service>
+               <p1:carrier>
+                  <p1:name>carrierName</p1:name>
+                  <p1:Value>VERIZON</p1:Value>
+               </p1:carrier>
+            </p1:service>
+            <p1:Resources>
+               <p1:resourceType>HANDSET</p1:resourceType>
+               <p1:resourceName>productSerialNumber</p1:resourceName>
+               <p1:serialNumber>@esn</p1:serialNumber>
+            </p1:Resources>
+         </p1:Payload>
+      </p:checkServiceQualificationRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

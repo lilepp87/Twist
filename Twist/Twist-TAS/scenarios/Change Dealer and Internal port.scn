@@ -1,0 +1,24 @@
+Tags:set5
+Preconditions:On tas HomePage,Log out
+Activate Phone, Create Account:
+#Enter <Status> Esn for part <partNumber(old)> sim <SIM(old)>
+#Create account for <Brand(OLD)>
+#Activate phone by using pin <PIN(OLD)> depending on status <Status> of cell tech <CellTech> zip <Zip>
+
+Activate Phone, Create Account, TossUtil:
+#Come back as new customer
+#Enter <Status> Esn for part <Partnumber> sim <SIM>
+#Create account for <Brand>
+#Click on change dealer
+#Select new dealer <DealerID> 
+#Make phone to "New" by using pin  <PIN> and celltech <CellTech(New)>
+
+Port Number, Activate Phone:
+#Create sim exchange case if necessary for <SIM>
+#Deactivate phone if necessary
+#Add airtime card <PIN> if necessary
+#Enter MIN from <Brand(OLD)> with part <partNumber(old)>  zip "33178"
+#Perform option <Option> with plan <PIN> and workforcePIN ""
+#Complete port
+#Add remaining  phones for "1"  line plan of part "" "" "" with sim "" "" ""
+#Complete activation for port

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<INPUT TASK="completeAutomatedPortins">
+<ACTION_ITEM_ID>@actionitemid</ACTION_ITEM_ID>
+<MIN>@min</MIN>
+<MSID>@min</MSID>
+<ACCOUNT_CREDITED>true</ACCOUNT_CREDITED>
+</INPUT>

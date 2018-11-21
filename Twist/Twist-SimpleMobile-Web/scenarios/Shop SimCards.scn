@@ -1,0 +1,9 @@
+Tags:shop,oldcommerce
+Preconditions:On SimpleMobile HomePage
+Shop:
+#Go to Shop sim cards
+#Select <PhoneType>  zip <Zip> SIM type <SIM Type>
+#Select only SIM
+#Go To Cart And Checkout from Shop
+#Enter Credit Card <CardType>details and purchase
+#Confirm Order

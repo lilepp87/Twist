@@ -1,0 +1,15 @@
+Tags:update
+Preconditions:On Simple Mobile Home Page,LogOut
+Activate Phone, Add Service Plan, Create Account, Enter Payment:
+#Go to Activate Option
+#Enter <Status> Esn for part <Part Number> zip code <Zip Code> sim <SIM>
+#Select "One-Time" <PIN> service plan
+#Create new account depending on status <Status>
+#Enter credit card <CardType> depends on status <Status>
+#Complete activation process depending on status <Status> and cell tech <Cell Tech>
+
+Add Service Plan, Enter Payment, Shop:
+#Go to 10 ILD <ILD?>
+#Go to cart and checkout
+#Enter Credit Card <CardType>details and purchase
+#Confirm Order

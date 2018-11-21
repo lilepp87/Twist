@@ -1,0 +1,13 @@
+Tags:update,shop
+Preconditions:On SimpleMobile HomePage,LogOut
+Activate Phone, Create Account:
+#Setup Esn based on status <status> and part <ESN>
+#Go to Activate Option
+#Enter <status> Esn for part <ESN> zip code <ZipCode> sim <SIM> and Pin number <PIN>
+#Log in depending on status <status>
+#Create new account depending on status <status>
+#Complete activation process depending on status <status> and cell tech <cell Tech>
+
+Add Service Plan, Enter Payment:
+#Go to international calling
+#Enter phone number for past due esn

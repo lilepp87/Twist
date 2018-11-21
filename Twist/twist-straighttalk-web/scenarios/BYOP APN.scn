@@ -1,0 +1,16 @@
+Tags:ST2
+Preconditions:On Straighttalk HomePage,Log Out
+Activate Phone, Create Account:
+#Go to Activate BYOP Option
+#Select have a SIM
+#Enter <status> esn for part <Part Number> and sim <SIM>
+#Choose a new number for zip <Zip>
+#Enter pin <Pin>
+#Log in depending on status <status>
+#Create new account depending on status <status>
+#Complete activation process depending on status <status> and cell tech <cell tech>
+
+BYOP APN:
+#Go to BYOP APN Setting page
+#Enter esn and other details <type> <model> <version>
+#Check for Settings

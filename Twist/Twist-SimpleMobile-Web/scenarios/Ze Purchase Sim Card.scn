@@ -1,0 +1,8 @@
+Tags:Commerce
+Preconditions:ShopSimCards
+Shop:
+#Select Sim Kit
+#Select Service Plan<Plan>
+#enterShippingAddressAndWhiteListedCard<Card>
+#Verify Order Summary
+#Print Order Number

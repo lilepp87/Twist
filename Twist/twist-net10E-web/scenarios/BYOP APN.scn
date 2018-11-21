@@ -1,0 +1,17 @@
+Tags:NT5
+Preconditions:On net10 english home page,Log out
+Start Activation, Create Account:
+#Make past due depending on status <status> for model <Part Number> and sim <SIM>
+#Go to activate phone
+#Select Activate My Net10 Phone
+#Skip account creation
+#Possibly join SIM <SIM> for cell tech <cell tech> and status <status>
+#Enter Esn for model <Part Number> with status <status> and zip code <zip>
+
+Finish Activation with PIN:
+#Enter <Pin Type> PIN <Pin> for phone 
+
+BYOP APN:
+#Go to BYOP APN Setting page
+#Enter esn and other details <model>
+#Check for Settings

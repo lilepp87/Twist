@@ -1,0 +1,20 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:bus="http://xmlns.oracle.com/BRM/schemas/BusinessOpcodes">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <bus:tfOpRecordPaymentSettlement>
+         <TF_OP_RECORD_PAYMENT_SETTLEMENT_Request>
+            <flags>0</flags>
+            <TF_OP_RECORD_PAYMENT_SETTLEMENT_inputFlist>
+               <!--You have a CHOICE of the next 7 items at this level-->
+               <ACCOUNT_NO>@accnum</ACCOUNT_NO>
+               <AMOUNT>43.35</AMOUNT>
+               <LOGIN>@loginnum</LOGIN>
+               <POID>0</POID>
+               
+               <TRANS_ID>B1-928776</TRANS_ID>
+               <RESULT>1</RESULT>
+            </TF_OP_RECORD_PAYMENT_SETTLEMENT_inputFlist>
+         </TF_OP_RECORD_PAYMENT_SETTLEMENT_Request>
+      </bus:tfOpRecordPaymentSettlement>
+   </soapenv:Body>
+</soapenv:Envelope>

@@ -1,0 +1,15 @@
+Tags:
+Preconditions:On telcel homepage,Log Out
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter <Status> Esn for part <ESN Part> zip code <ZIP Code> sim<SIM> and Pin number <PIN>
+#Enter Sim Card <SIM> depending on cell tech <Cell Tech> and status <Status>
+#Create new account
+#Complete activation process depending on status <Status> and cell tech <Cell Tech>
+#Log out
+
+Ten ILD, Enter Payment:
+#Buy 10 dollar ild card
+#Enter phone number
+#Enter payment with card type <Card Type>
+#Review Order Summary

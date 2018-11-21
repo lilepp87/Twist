@@ -1,0 +1,5 @@
+Tags:etailer,brightpoint
+Preconditions:
+services:
+#Close Browser
+#Generate oAuth

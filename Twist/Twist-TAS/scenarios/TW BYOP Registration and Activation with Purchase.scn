@@ -1,0 +1,17 @@
+Tags:byop,in-progress
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Create Contact:
+#Click on New Contact 
+#Create new contact for brand <Brand> zipcode <ZipCode>
+
+Register BYOP:
+#Go to BYOP CDMA Verizon registration
+#Enter <PartNumber>esn  zip <ZipCode> and check for eligibilty with carrier "Verizon"
+#Enter your "Not Active" device type"" info LTE <IsLTE?> iphone 5 <IsIphone?>  and check  customer have sim <CustHavSim?> for "RSS" Trio <IsTrio?> <IsHd?>
+Activate Phone, Redemption:
+#Select pin <PIN> and add credit card <CarD Type>
+#Make selection of  <Payment Type> payment
+#Select card enter cvv <CVV>
+#Check activation for cell tech <Cell Tech> and status "New"
+#Add remaining  phones for <#Devices>  line plan of part <Child1> <Child2> <Child3> with sim <ChildSim1> <ChildSim2> <ChildSim3>
+#Checkout and process transaction

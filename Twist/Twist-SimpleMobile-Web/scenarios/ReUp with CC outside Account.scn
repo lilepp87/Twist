@@ -1,0 +1,20 @@
+Tags:
+Preconditions:On SimpleMobile HomePage,Log Out
+ Activate Phone, Create Account, Add Service Plan, Enter Payment:
+#Go to Activate Option
+#Enter "New" Esn for part <PartNumber> zip code <ZIP> sim <SIM> 
+#Select "One-time" <Plan 1> service plan
+#Create new account depending on status "New"
+#Log in depending on status "New"
+#Enter credit card <Card Type>
+#Complete activation process depending on status "New" and cell tech <Cell Tech>
+#Log out
+
+ReUp, Add Service Plan, Enter Payment:
+#Go to ReUp
+#Enter phone number for purchase
+#Select <Reoccurring?> <Plan 2> service plan
+#Click on Add to Simple Mobile Stash or Add Now
+#Add or Skip 10 ILD <$10 ILD ?>
+#Enter credit card <Card Type>
+#Review Order Summary

@@ -1,0 +1,8 @@
+Zip,Active?,PIN,Card Type,ESN Type
+33178,Active,TCAPP00040ILD,Discover,Hex
+33178,Not Active,TCAPP00035ILD,Discover,Hex
+33178,Active,TCAPP00045ILD,Discover,Decimal
+33178,Not Active,TCAPP00060ILD,Discover,Decimal
+33178,Not Active,TCAPP00055ILD,Discover,Hex
+33178,Not Active,TCAPP00020ILD,Discover,Decimal
+33178,Active,TCAPP00029ILD,Discover,Decimal

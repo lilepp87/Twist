@@ -1,0 +1,4 @@
+Tags:app,services,wfm
+Preconditions:closeBrowser
+MyAccountApp:
+#Create account for part <ESN> sim <SIM> brand <Brand>

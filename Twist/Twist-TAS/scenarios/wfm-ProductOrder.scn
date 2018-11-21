@@ -1,0 +1,7 @@
+Tags:wfm,services,set6
+Preconditions:closeBrowser
+MyAccountApp, Family Mobile Operations:
+#Create account for part <PartNumber> sim <SIM> brand <Brand>
+#Add remaining <# of Lines> to order using part  <AAL_PartNumber>  sim<AAL_SimPart> pin <AAL_PinPart> and cell tech <CellTech>
+#Call Product order with plan <PIN>  autorefill <AutoRefill?> using <PaymentType>
+#Complete phone activation for <CellTech> and status "New"

@@ -1,0 +1,21 @@
+Tags:in-progress
+Preconditions:On tas HomePage,Log out
+Activate Phone, Create Account:
+#Enter "New" Esn for part <Pat Number> sim <SIM>
+#Create account for <Brand>
+#Activate phone by using pin <PIN> depending on status "New" of cell tech <CellTech> zip "33178"
+#Add remaining  phones for ""  line plan of part "" "" "" with sim """"""
+#Checkout and process transaction
+Case Operations,Solutions, Activate Phone:
+#Go to solutions
+#select parent solution <Parent Solution> and <Solution Name>
+#select ticket type <Ticket Type>
+#Select part number for exchange ""  of  type <Claim/ticket Type>
+#Choose sim profile based on sim type <SIM>
+#Continue to next steps 
+#Complete ship confirm  for <Claim/ticket Type>
+
+Case Operations,Solutions:
+#Login With Itquser2
+#Escalate with option <Escalate Option> for <Solution Name> and update address or part number <New Part Number>
+

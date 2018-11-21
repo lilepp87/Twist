@@ -1,0 +1,14 @@
+Tags:in-progress
+Preconditions:On total wireless home page,Log Out
+Activate Phone, Create Account:
+#Setup Esn based on status <Status> and part <Part Number>
+#Go to Activate Option
+#Enter <Status> Esn for part <Part Number> zip code <ZIP> sim <SIM> and Pin number <PIN>
+#Log in depending on status <Status>
+#Create new account depending on status <Status>
+#Finish <Cell Tech> phone activation <Status>
+
+BYOP APN:
+#Go to BYOP APN Setting page
+#Enter esn and other details <Model>
+#Check for Settings

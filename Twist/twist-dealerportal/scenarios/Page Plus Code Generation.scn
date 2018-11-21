@@ -1,0 +1,6 @@
+Tags:in-progress
+Preconditions:On Dealerportal,Log Out
+Activate Phone:
+#Go to <Brand>
+#Enter esn <ESN> min and sequence for PP
+#Confirm code generation success screen

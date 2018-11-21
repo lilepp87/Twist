@@ -1,0 +1,15 @@
+Tags:BUY SIM FLAG ON,in-progress
+Preconditions:On total wireless home page,Log out
+.
+Register BYOP, Create Account, Activate Phone:
+#Go to register BYOP CDMA page
+#Enter  <Status> esn Sim <SIM> and carrier <Carrier> for lte <Is LTE> iphone<Is Iphone> with zip <ZipCode>
+#Go to Activate Option
+#Enter Pin<Pin1>
+#Create new account depending on status "New"
+#Enter BYOP ESN and Zip <ZipCode>
+#Choose status<Status> for sim <SIM> and if lte<Is LTE> and Planline<Plan Line> and click <Selection>
+
+Activate Phone:
+#Finish Phone Activation "New" if Sim <SIM>
+

@@ -1,0 +1,16 @@
+Tags:lrp2,services
+Preconditions:On tas HomePage
+Activate Phone, Create Account:
+#Enter "New" Esn for part <Part Number> sim <SIM>
+#Create account for <Brand>
+#Activate phone by using pin <PIN> depending on status "New" of cell tech <Cell Tech> zip <ZIP>
+
+Activate Phone, Create Account:
+#Add ESN to promo group
+#Complete TAS LRP Enrollment
+
+Operations:
+#Close Browser
+#Get Encrypted Webuser Objid
+#Call Usage Manaement Service for reward  type<Transaction_Type> <Category> <Sub_Category> <Points_Earned> and run <# of Times> time
+#Call Report Management Service

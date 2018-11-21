@@ -1,0 +1,13 @@
+QueueType,Brand,CaseType,Title,Status,Source
+ILD,GO_SMART,ILD,Access Number not working,Address Updated,Wal-Mart
+B2B REFUNDS,TELCEL,Port In,Carrier Migration,Address Updated,Wal-Mart
+ILD,TRACFONE,ILD,Access Number not working,Address Updated,Wal-Mart
+INTERNAL PORT APPROVAL,TRACFONE,Airtime,Credit Card Issues,Address Updated,Wal-Mart
+LINE ACTIVATION III,TRACFONE,Roaming,SL Defective Out Of Warranty Exchange,Address Updated,Wal-Mart
+PORT ESCALATION,TRACFONE,Line Activation,Authentication,Address Updated,Wal-Mart
+ST EXT PENDING APPROVAL,TOTAL_WIRELESS,Features,Caller ID,Address Updated,Wal-Mart
+ST INTERNAL PORT REWORKS,TRACFONE,Air Time Cards,Lost Air Time Card,Address Updated,Wal-Mart
+ST PORT REQUEST PENDING,NET10,Technology Exchange,Digital Exchange,Address Updated,Wal-Mart
+ST T-MO ESN CHANGE,TRACFONE,Inventory,Change / Insert Model Number,Address Updated,Wal-Mart
+TF/NT AUTO PORT REWORK,NET10,ILD,Access Number not working,Address Updated,Wal-Mart
+TF/NT PORT REQUEST,NET10,Airtime,Credit Card Issues,Address Updated,Wal-Mart

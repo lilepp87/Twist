@@ -1,0 +1,13 @@
+Status,PartNumber,SIM,Zip Code,PIN,CellTech,Brand,# Devices,Type,Reason,Replacement Type,Service Days,Service Plan
+New,STLCPOAMOTXCP,TF256PSIMV9N,33178,STAPP30035,CDMA,STRAIGHT_TALK,,Replacement,Port Request(Active with new number and now requesting a Port),Open Access,25,"$35 30-Day UNL TALK/TXT/DATA, first 2 GB at High Speeds then at 2G*"
+New,STSAS550TGR,TF128PSIMT5N,33178,STAPP20055,GSM,STRAIGHT_TALK,,Replacement,Port Request Cancellation (Requested a Port and is now requesting a new number),Open Access,30,"$55 30-Day UNL TALK/TXT/DATA, Ultimate Unlimited Data at HighSpeeds"
+New,STZEZ716BGR5,TF128PSIMT5RM,33178,NTPMP00060ILD,GSM,STRAIGHT_TALK,,Replacement,Activation/Reactivation Failure,Open Access,25,"$60 30-Day UNL INTL TALK/TXT/DATA, first 10GB at High Speeds then at 2G*"
+New,ST3GCPOADROICP,,33178,NTAPPMP00045TR,CDMA,STRAIGHT_TALK,,Replacement,Airtime Conversion,Open Access,30,"$130 3-Month UNL TALK/TXT/DATA, first 10GB at High Speeds then at 2G*"
+New,STLCPOAMOTXGP4,TF128PSIMC4N,33178,NTAPPMP00045SA,GSM,STRAIGHT_TALK,,Replacement,PIN Redeemed to Wrong Handset,Open Access,25,"$225 6-Month UNL TALK/TXT/DATA, first 10GB at High Speeds then at 2G*"
+New,ST256PBYOPD,TF256PSIMV9DD,33178,NTAPPMP000451Y,CDMA,STRAIGHT_TALK,,Replacement,Redemption Failure,Open Access,30,"$495 1-Year UNL TALK/TXT/DATA, first 10GB at High Speeds then at 2G*"
+New,ST256PBYOPN,TF256PSIMV9ND,33178,NTAPPMP00045,CDMA,STRAIGHT_TALK,,Replacement,Retailer Exchange,Open Access,25,"$45 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,ST256PBYOPAPN,TF256PSIMV9ND,33178,STAPP20055,CDMA,STRAIGHT_TALK,,Replacement,Upgrade Failure,Open Access,30,"$55 30-Day UNL TALK/TXT/DATA, Ultimate Unlimited Data at HighSpeeds"
+New,STLG329GP4,TF128SIMC4,33178,NTPMP00060ILD,GSM,STRAIGHT_TALK,,Replacement,Warehouse exchange - Past due,Open Access,25,"$60 30-Day UNL INTL TALK/TXT/DATA, first 10GB at High Speeds then at 2G*"
+New,STLGL61AGP4P,TF128PSIMC4N,33178,NTAPPMP00045TR,GSM,STRAIGHT_TALK,,Replacement,Port Request(Active with new number and now requesting a Port),Open Access,30,"$130 3-Month UNL TALK/TXT/DATA, first 10GB at High Speeds then at 2G*"
+New,STZEZ797CP,,33178,NTAPPMP00045SA,CDMA,STRAIGHT_TALK,,Replacement,Port Request Cancellation (Requested a Port and is now requesting a new number),Open Access,25,"$225 6-Month UNL TALK/TXT/DATA, first 10GB at High Speeds then at 2G*"
+New,STZEZ797C,,33178,NTAPPMP000451Y,CDMA,STRAIGHT_TALK,,Replacement,Activation/Reactivation Failure,Open Access,30,"$495 1-Year UNL TALK/TXT/DATA, first 10GB at High Speeds then at 2G*"

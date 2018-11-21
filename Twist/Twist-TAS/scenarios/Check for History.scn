@@ -1,0 +1,11 @@
+Tags:in-progress
+Preconditions:On tas HomePage,Log out
+ Activate Phone, Create Account:
+#Enter "New" Esn for part "STLGL55CP" sim ""
+#Create account for "STRAIGHT_TALK"
+#Activate phone by using pin "NTAPPMP00045SA" depending on status "New" of cell tech "CDMA" zip "33178"
+
+History, Redemption, Min Change:
+#Check Activation history
+#Min Change for activation zip "33178" status "New" cell tech "CDMA"
+#Check for min change history 

@@ -1,0 +1,11 @@
+Tags:commerce,shop
+Preconditions:OnAmazonHomePage
+.
+Shop:
+#Login with Amazon credentials and Goto "BUY A SIM CARD"
+#Enter Zip Code And Shop Sim
+#Select Sim 
+#Go To Cart And Checkout from Shop
+#Enter Credit Card <Credit Card> details and purchase
+#Confirm Order
+

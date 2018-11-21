@@ -1,0 +1,9 @@
+Tags:oob,services,set6
+Preconditions:closeBrowser
+ Operations, Activate Phone:
+#Generate Esn for part <PartNumber> Sim <SIM> and  Cell Tech <CellTech>  
+#Generate pin for activation <PIN> with zip <ZIP>
+#Complete device  activation for status"New" cell tech <CellTech>
+
+Operations:
+#Refill with pin <Refill Pin>

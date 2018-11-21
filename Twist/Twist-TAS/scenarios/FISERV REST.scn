@@ -1,0 +1,7 @@
+Tags:services,wfm,in-progress
+Preconditions:
+MyAccountApp,Family Mobile Operations, Invoke CBO:
+#Create account for part "WFMLGL57BGP" sim "WFM128PSIMT5TM" brand "WFM"
+#Call Service Order  "ACTIVATION" with Pin "WFMAPPU0029"
+#Complete phone activation for "GSM" and status "New"
+#requestForRefill

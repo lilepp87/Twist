@@ -1,0 +1,20 @@
+Tags:brightpoint,in-progress
+Preconditions:On Tracfone Home Page,Log Out
+Activate Phone, Create Account:
+#Go to activate my TracFone For<Part Number>
+#Enter "New" Esn <Part Number> SIM card <Sim Card> and zip code <Zip Code>
+#Enter pin card number <Pin Card> <Pin Card2> <Pin Card3>
+#Skip register
+#Delay
+#Verify message for cell tech
+#Complete the process for <Cell Tech> phone
+
+Add Card Online, Activate Phone:
+#Setup ESN based on status "Past Due" and part <Part Number>
+#Go to activate my TracFone For<Part Number>
+#Skip register
+#Enter Min for Reactivation
+#Enter pin card number <Pin Card> <Pin Card2> <Pin Card3>
+#Delay
+#Verify message for cell tech
+#Complete the process for <Cell Tech> phone

@@ -1,0 +1,4 @@
+Tags:app,services
+Preconditions:closeBrowser
+MyAccountApp:
+#Get Coverage for zipcode <Zipcode> devicetype <DeviceType> carrier <Carrier> brand <Brand>

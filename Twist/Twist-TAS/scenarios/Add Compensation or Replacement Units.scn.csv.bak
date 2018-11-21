@@ -1,0 +1,148 @@
+PartNumber,SIM,PIN,CellTech,Brand,Reason,Type,Repl Type,Group
+NTV170NP4,TF64SIMC4,NTAPP30750,GSM,NET10,Customer Service Complaint,Compensation,,PayGo
+NTLCPOAGS4GP4,TF128PSIMC4RM,NTAPP60070ILDUP,GSM,NET10,Delayed Activation,Compensation,,Unlimited
+NTZEZ932CU,TF256PSIMV9RM,NTAPP6U035,CDMA,NET10,Equipment Not Received,Compensation,,Unlimited
+NTSAM828CP,,NTAPP6U040,CDMA,NET10,Features Issue,Compensation,,Unlimited
+NT256PBYOPD,TF256PSIMV9DD,NTAPP6U060,CDMA,NET10,Roaming,Compensation,,Unlimited
+PHNT128PSIMC4NB,TF128PSIMC4NB,NTAPP6U035,GSM,NET10,Not Able to Make or Receive Calls,Compensation,,Unlimited
+NTAPI6G64GYR,TF128PSIMC4N,NTAPP6U040,GSM,NET10,Roaming,Compensation,,Unlimited
+NTZEZ667GP,TF64PSIMT5RM,NTAPP6U060,GSM,NET10,Not Able to Make or Receive Calls,Compensation,,Unlimited
+NTSAR455CP,,NTAPP6U075,CDMA,NET10,Retailer Exchange,Replacement,Reference esn,Unlimited
+NTSAT201GP5,TF64SIMT5,NTAPP6U075,GSM,NET10,Port Request(Active with new number and now requesting a Port),Replacement,Reference esn,Unlimited
+NTV170NP4,TF64SIMC4,NTBUY0300INDVP,GSM,NET10,Activation/Reactivation Failure,Replacement,Open Access,PayGo
+NTZEZ660GP4,TF64PSIMC4,NTPU0001,GSM,NET10,Redemption Failure,Replacement,Open Access,Unlimited
+GPAPI4SCPWP,,NTPU0001,CDMA,NET10,Port Request Cancellation (Requested a Port and is now requesting a new number),Replacement,Reference esn,Unlimited
+NTSAS975GP,TF64PSIMC4RM,NTPU0065ILDS,GSM,NET10,Equipment Not Received,Compensation,,Unlimited
+NTHUH226CP,,NTAPPHP6U001,CDMA,NET10,Features Issue,Compensation,,Unlimited
+NTHUH882CWHP,TF128PSIMS8M,NTPU0065ILDS,CDMA,NET10,Warehouse exchange - Past due,Replacement,Open Access,Unlimited
+NTALA206G3P5,TF128SIMC4RM,NTAPP6U075,GSM,NET10,PIN Redeemed to Wrong Handset,Replacement,Open Access,Unlimited
+NTLG237CPRS,,NTPU0065ILDS,CDMA,NET10,Equipment Not Received,Compensation,,Unlimited
+NTSAS902CPDG,TF256PSIMV9RM,NTAPP6U075,CDMA,NET10,PIN Redeemed to Wrong Handset,Replacement,Open Access,Unlimited
+NTSAS820C3P,TF256PSIMV9RM,NTPU0065ILDS,CDMA,NET10,Equipment Not Received,Compensation,,Unlimited
+NTSAS766C3P,,NTAPP6U075,CDMA,NET10,PIN Redeemed to Wrong Handset,Replacement,Open Access,Unlimited
+NTLG441GP7P,TF64SIMCL7,NTPU0065ILDS,GSM,NET10,PIN Redeemed to Wrong Handset,Replacement,Reference esn,Unlimited
+NTLGL16CPDG,,NTAPP6U075,CDMA,NET10,Equipment Not Received,Compensation,,Unlimited
+NTZEZ288C3PWP,TF256PSIMV9RM,NTNMB6030,CDMA,NET10,Not Able to Make or Receive Calls,Replacement,Reference esn,Unlimited
+NTHUH350GRCS4,TF64SIMC4,NTNHPAPP6U045,GSM,NET10,Equipment Not Received,Compensation,,Unlimited
+NTHUH891GRCS5,TF128PSIMC4RM,NTAPP6U040,GSM,NET10,Features Issue,Compensation,,Unlimited
+NTALA520CWHP,TF256PSIMV9RM,NTAPP6U035,CDMA,NET10,Port Request Cancellation (Requested a Port and is now requesting a new number),Replacement,Open Access,Unlimited
+NTHUH258CU,,NTAPPHP6U001,CDMA,NET10,Warehouse exchange - Past due,Replacement,Open Access,Unlimited
+NTHUH258CR,,NTAPPHP6U001ILD,CDMA,NET10,PIN Redeemed to Wrong Handset,Replacement,Reference esn,Unlimited
+NTSAS920CU,TF256PSIMV9RM,NTAPP6U075,CDMA,NET10,Airtime Conversion,Replacement,Reference esn,Unlimited
+NTZEZ791GP5DU,TF64PSIMT5RM,NTNMB6030,GSM,NET10,Features Issue,Compensation,,Unlimited
+NTLG109CPWP,,NTAPP6U040,CDMA,NET10,Expired Units,Compensation,Open Access,Unlimited
+NTSAS906CWHP,TF256PSIMV9N,NTAPP6U060,CDMA,NET10,Expired Units,Replacement,,Unlimited
+NTLGL17AGP4-5,TF128PSIMC4RM,NTNHPAPP6U045,GSM,NET10,Equipment Not Received,Compensation,,Unlimited
+NTLGL17AGP7P,TF128PSIMCL7RM,NTAPP6U040,GSM,NET10,Features Issue,Compensation,,Unlimited
+SMZEZ667G,SM128PSIMT5RM,SMNAPP0050BBUNL,GSM,SIMPLE_MOBILE,PIN Redeemed to Wrong Handset,Replacement,Reference esn,Unlimited
+SMZEZ930GDG,SM128PSIMT5RM,SMNAPP0025TT,GSM,SIMPLE_MOBILE,Delayed Activation,Compensation,,Unlimited
+PHSM64PSIMT5B,SM64PSIMT5B,SMNAPP0100,GSM,SIMPLE_MOBILE,Equipment Not Received,Compensation,,Unlimited
+PHSM64PSIMT5BLC,SM64PSIMT5B,SMNAPP20050ILDUP,GSM,SIMPLE,Equipment Not Received,Compensation,,Unlimited
+STLCPOAGS4GP4,TF128PSIMC4RM,NTAPPMP00060ILD,GSM,STRAIGHT_TALK,Activation/Reactivation Failure,Replacement,Open Access,Unlimited
+SMHUH891GP5SP,SM128PSIMT5RM,SMNAPP20070ILDUP,GSM,SIMPLE_MOBILE,Redemption Failure,Replacement,Reference esn,Unlimited
+SMZEZ791GP5AS,SM128PSIMT5RM,SMNAPP0035UNL,GSM,SIMPLE_MOBILE,Roaming,Compensation,,Unlimited
+SMZEZ753G,SM128PSIMT5RM,SMNAPP0020UNL,GSM,SIMPLE_MOBILE,Activation/Reactivation Failure,Replacement,Reference esn,Unlimited
+SMLCPOAGS4GP5,SM128PSIMT5RM,SMNAPP0040UNL,GSM,SIMPLE_MOBILE,Features Issue,Compensation,,Unlimited
+SMALA463BGR5,SM128PSIMT5RM,SMNAPP0100,GSM,SIMPLE_MOBILE,Features Issue,Compensation,,Unlimited
+SMZEZ955GP5-5,SM128PSIMT5RM,SMNAPP20060ILDUP,GSM,SIMPLE_MOBILE,Activation/Reactivation Failure,Replacement,Open Access,Unlimited
+ST256PBYOPAPN,TF256PSIMV9ND,NTPMP00060ILD,CDMA,STRAIGHT_TALK,Redemption Failure,Replacement,Open Access,Unlimited
+STLG231CP,,STAPP01500,CDMA,STRAIGHT_TALK,Port Request Cancellation (Requested a Port and is now requesting a new number),Replacement,Reference esn,PayGo
+STAPI5SG16GDR4,TF128PSIMC4N,NTAPPMP00045SA,GSM,STRAIGHT_TALK,Features Issue,Compensation,,Unlimited
+STSAR355CP,,NTPMP02999,CDMA,STRAIGHT_TALK,Roaming,Compensation,,Unlimited
+STLG306G,TF64SIMT5,STAPP01500,GSM,STRAIGHT_TALK,Activation/Reactivation Failure,Replacement,Reference esn,Unlimited
+STMTW418GP5,TF64SIMT5,NTPMP02999,GSM,STRAIGHT_TALK,Equipment Not Received,Compensation,,Unlimited
+STREAX54NC,,STAPPHA0001M,CDMA,STRAIGHT_TALK,Features Issue,Compensation,,Unlimited
+STZEZ250GWHP,TF64SIMT5,STAPPMB00050,GSM,STRAIGHT_TALK,Roaming,Compensation,,HotSpot
+STAVV10G,JASPER2FF,STAPPCC0001M,GSM,STRAIGHT_TALK,Not Able to Make or Receive Calls,Compensation,,Unlimited
+STRM9310C,,NTNMP00045,CDMA,STRAIGHT_TALK,Port Request Cancellation (Requested a Port and is now requesting a new number),Replacement,Open Access,Unlimited
+STMTXT939GP5,TF64PSIMT5RM,NTPMP00060ILD,GSM,STRAIGHT_TALK,Warehouse exchange - Past due,Replacement,Reference esn,Unlimited
+STLGL25CWHP,TF128PSIMS8M,NTAPPMP00045SA,CDMA,STRAIGHT_TALK,Customer Service Complaint,Compensation,,Unlimited
+STMTXT555CP,,STAPP00035,CDMA,STRAIGHT_TALK,Delayed Activation,Compensation,,Unlimited
+STNK6790GP5,TF64PSIMC4,STAPP00035,GSM,STRAIGHT_TALK,Equipment Not Received,Compensation,,Unlimited
+PHST64PSIMT5BMBT,TF64PSIMT5DD,STPMB00040BYOT,GSM,STRAIGHT_TALK,Features Issue,Compensation,,HotSpot
+STUXU240C,,STNMB00040,CDMA,STRAIGHT_TALK,Roaming,Compensation,,HotSpot
+STALA206GP4P,TF128SIMT5RM,NTNMP00045,,STRAIGHT_TALK,Not Able to Make or Receive Calls,Compensation,,Unlimited
+STLG237CR,,NTAPPMP00045SA,CDMA,STRAIGHT_TALK,Delayed Activation,Compensation,,Unlimited
+STSAS902CWHP,TF256PSIMV9RM,NTNMP00045,CDMA,STRAIGHT_TALK,Equipment Not Received,Compensation,,Unlimited
+STSAS820CPWP,TF256PSIMV9RM,NTPMP00060ILD,CDMA,STRAIGHT_TALK,Features Issue,Compensation,,Unlimited
+STLGL16CPWP,,NTAPPMP00045TR,CDMA,STRAIGHT_TALK,Roaming,Compensation,,Unlimited
+STZEZ753GR5,TF64PSIMT5RM,NTAPPMP00060ILD,GSM,STRAIGHT_TALK,Not Able to Make or Receive Calls,Compensation,,Unlimited
+STHUH892C,TF256PSIMV9RM,NTAPPMP000451Y,CDMA,STRAIGHT_TALK,Port Request Cancellation (Requested a Port and is now requesting a new number),Replacement,Open Access,Unlimited
+STLGL33GRCS4,TF64PSIMC4RM,NTAPPMP00045SA,GSM,STRAIGHT_TALK,Delayed Activation,Compensation,,Unlimited
+STALA521GP4,TF64PSIMC4RM,NTAPPMP00045SA,GSM,STRAIGHT_TALK,Equipment Not Received,Compensation,,Unlimited
+STHUH258CP,,STNHPAPPUNL45,CDMA,STRAIGHT_TALK,Features Issue,Compensation,,Unlimited
+STHUH258CPWP,,STNHPAPPUNLILD60,CDMA,STRAIGHT_TALK,Redemption Failure,Replacement,Open Access,Unlimited
+STSAS777CRCS,,NTAPPMP00045SA,CDMA,STRAIGHT_TALK,Port Request Cancellation (Requested a Port and is now requesting a new number),Replacement,Open Access,Unlimited
+STSAS978CWTR,TF256PSIMV9N,NTAPPMP00045SA,CDMA,STRAIGHT_TALK,Equipment Not Received,Compensation,,Unlimited
+PHST64PSIMC4DD,TF64PSIMC4DD,STAPPMB00040,GSM,STRAIGHT_TALK,Redemption Failure,Replacement,Open Access,Unlimited
+PHST128PSIMC4ND,TF128PSIMC4ND,STAPPMB00075,GSM,STRAIGHT_TALK,Delayed Activation,Compensation,,Unlimited
+STIPH6SSOGSM,TF128PSIMC4N,NTAPPMP00060ILD,GSM,STRAIGHT_TALK,Redemption Failure,Replacement,Open Access,Unlimited
+STIPH6SPSOCDMA,TF256PSIMV9N,NTAPPMP00045SA,CDMA,STRAIGHT_TALK,Delayed Activation,Compensation,,Unlimited
+STAPI6SG16RGX,TF128PSIMC4N,NTAPPMP00045SA,GSM,STRAIGHT_TALK,Redemption Failure,Compensation,,Unlimited
+STAPI6SC16SVR,TF256PSIMV9N,NTAPPMP00060ILD,CDMA,STRAIGHT_TALK,Delayed Activation,Replacement,Reference esn,Unlimited
+STAPI6SC16SVWHP,TF128PSIMC4N,NTAPPMP000451Y,GSM,STRAIGHT_TALK,Delayed Activation,Compensation,,Unlimited
+STAPI6SPG16SVP4P,TF128PSIMC4N,NTAPPMP00060ILD,GSM,STRAIGHT_TALK,Redemption Failure,Replacement,Reference esn,Unlimited
+STAPI6SPC16GD,TF256PSIMV9N,NTAPPMP000451Y,CDMA,STRAIGHT_TALK,CantCall Long Dist,Compensation,,Unlimited
+STLGL17AGP4,TF128PSIMC4RM,NTAPPMP000451Y,GSM,STRAIGHT_TALK,Delayed Activation,Compensation,,Unlimited
+STLGL17AGP7,TF128PSIMCL7RM,NTAPPMP00060ILD,GSM,STRAIGHT_TALK,Redemption Failure,Replacement,Reference esn,Unlimited
+TCLG306GP5ASV2,TF64SIMT5,TCAPPUNLILD60,GSM,TELCEL,Equipment Not Received,Compensation,,Unlimited
+TCRM9310CWHPV2,,TCAPP00020ILD,CDMA,TELCEL,Port Request Cancellation (Requested a Port and is now requesting a new number),Replacement,Open Access,Unlimited
+TCLG306GDG,TF64SIMC4,TCAPP00040ILD,GSM,TELCEL,Delayed Activation,Compensation,,Unlimited
+TCALA383GWHP,TF64SIMCL7,TCAPP00020ILD,GSM,TELCEL,Equipment Not Received,Compensation,,Unlimited
+TCMTXT939GWHPV2,TF64PSIMT5RM,TCAPP00029ILD,GSM,TELCEL,Redemption Failure,Replacement,Reference esn,Unlimited
+PHTC64PSIMT5BMB,TF64PSIMT5BMB,TCAPP00050ILD,GSM,TELCEL,Delayed Activation,Compensation,,Unlimited
+TCHUH883GP5,TF64PSIMT5,TCAPPUNL45,GSM,TELCEL,Equipment Not Received,Compensation,,Unlimited
+TCBYOPVZ,,TCAPPUNLILD60,CDMA,TELCEL,Retailer Exchange,Replacement,Open Access,Unlimited
+TCLG441G3P5,TF128SIMT5,TCAPP00029ILD,GSM,TELCEL,Port Request(Active with new number and now requesting a Port),Replacement,Reference esn,Unlimited
+TCZEZ753G3P5P,TF64PSIMT5RM,TCAPP00020ILD,GSM,TELCEL,Activation/Reactivation Failure,Replacement,Open Access,Unlimited
+TCHUH891GR5,TF64PSIMT5RM,TCAPP00020ILD,GSM,TELCEL,Redemption Failure,Replacement,Open Access,Unlimited
+TCHUH891GP5DG,TF64PSIMT5RM,TCAPP00040ILD,GSM,TELCEL,Equipment Not Received,Compensation,,Unlimited
+TFMTXT830CPMP,,TSAPP40120,CDMA,TRACFONE,Features Issue,Compensation,,TFSurePay
+TFV170PD5,TF64SIMT5,TSAPP40300,GSM,TRACFONE,Roaming,Compensation,,TFNonSurePay
+STHUH350WHP4,TF64SIMC4,STAPP00035,GSM,STRAIGHT_TALK,Not Able to Make or Receive Calls,Compensation,,Unlimited
+TFLGL34CWHP,,TSAPP40300,CDMA,TRACFONE,Redemption Failure,Replacement,Reference esn,TFSurePay
+TFSAS765CPMP,,TSAPP41500,CDMA,TRACFONE,Delayed Activation,Compensation,,TFSurePay
+TFAPI4CWHP,,TSAPP40120,CDMA,TRACFONE,Equipment Not Received,Compensation,,TFSurePay
+TFLG800GP5DM,TF64SIMT5,TSAPP40300,GSM,TRACFONE,Features Issue,Compensation,,TFNonSurePay
+TFMTW260P4,TF64SIMC4,TSAPP40300,GSM,TRACFONE,Roaming,Compensation,,TFNonSurePay
+TFBYOPC,,TSAPP40300,CDMA,TRACFONE,Redemption Failure,Replacement,Reference esn,TFSurePay
+TFALA206GDMP4DU,TF128SIMT5RM,TSAPP40300,GSM,TRACFONE,Equipment Not Received,Compensation,,TFNonSurePay
+TFLG237CDMPMP,,TSAPP40300,CDMA,TRACFONE,Redemption Failure,Replacement,Reference esn,TFSurePay
+TFSAS766CPDU,,TSAPP40300,CDMA,TRACFONE,Features Issue,Compensation,,TFSurePay
+TFLCPOAMOTXCP,TF256PSIMV9N,TSAPP50030,CDMA,TRACFONE,Redemption Failure,Replacement,Reference esn,TFNonSurePay
+TFLCPOAMOTXGP4,TF128PSIMC4N,TSAPP40200,GSM,TRACFONE,Roaming,Compensation,,TFNonSurePay
+TFCPOAI5SCP,TF256PSIMV9N,TSAPP4001Y,CDMA,TRACFONE,Redemption Failure,Replacement,Open Access,TFSurePay
+TFLCPOAGS4GP4,TF128PSIMC4RM,TSAPP41500,GSM,TRACFONE,Not Able to Make or Receive Calls,Compensation,,TFNonSurePay
+TF3GCPOAI4CP,,TSAPP40120,CDMA,TRACFONE,Redemption Failure,Replacement,Reference esn,TFSurePay
+TFMTXT838CP,TF256PSIMV9RM,TSAPP40060,CDMA,TRACFONE,Not Able to Make or Receive Calls,Compensation,,TFSurePay
+TFZEZ752CPRS,,TSAPP4001Y,CDMA,TRACFONE,Redemption Failure,Replacement,Open Access,Unlimited
+TFLGL16C,,TSAPP50030,CDMA,TRACFONE,Not Able to Make or Receive Calls,Compensation,,TFSurePay
+TFLGL21GP4,TF64PSIMC4RM,TFN00200,GSM,TRACFONE,Not Able to Make or Receive Calls,Compensation,,attswitch
+TFZEZ660GP4DG,TF64PSIMC4RM,TFN00450,GSM,TRACFONE,Redemption Failure,Replacement,Open Access,TFSurePay
+TFZEZ667GP4-5,TF64PSIMC4RM,TSAPP40120,GSM,TRACFONE,Not Able to Make or Receive Calls,Compensation,,attswitch
+TFLGL15GWHP,TF64PSIMC4RM,TSAPP40200,GSM,TRACFONE,Redemption Failure,Replacement,Open Access,TFSurePay
+TFZEZ753GDG,TF64PSIMC4RM,TSAPP40450,GSM,TRACFONE,Not Able to Make or Receive Calls,Compensation,,attswitch
+PHTF128PSIMC4D,TF64PSIMC4DD,TSAPP40450,GSM,TRACFONE,Redemption Failure,Replacement,Open Access,attswitch
+PHTF128PSIMC4N,TF128PSIMC4ND,TSAPP4001Y,GSM,TRACFONE,Not Able to Make or Receive Calls,Compensation,,attswitch
+TFLG441GDMP5AS,TF128SIMT5,TSAPP40060,GSM,TRACFONE,Not Able to Make or Receive Calls,Compensation,,PayGo
+TFSAS978CWTPTGP,TF256PSIMV9N,TSAPP40060,CDMA,TRACFONE,Not Able to Make or Receive Calls,Compensation,,TFSurePay
+TFSAS777CR,,TSAPP40300,CDMA,TRACFONE,Redemption Failure,Replacement,Reference esn,attswitch
+TFALA851GWHP4,TF64PSIMC4RM,TSAPP40120,GSM,TRACFONE,Redemption Failure,Replacement,Reference esn,attswitch
+TFLGL33GWTWHP4,TF64PSIMC4RM,TSAPP40120,GSM,TRACFONE,Not Able to Make or Receive Calls,Compensation,,attswitch
+PHTF128PSIMT5DD,TF128PSIMT5DD,TSAPP40120,GSM,TRACFONE,Redemption Failure,Compensation,,tmoswitch
+PHTF128PSIMT5ND,TF128PSIMT5ND,TSAPP40120,GSM,TRACFONE,Not Able to Make or Receive Calls,Replacement,Reference esn,tmoswitch
+TFSAS902C,TF256PSIMV9RM,TSAPP40060,CDMA,TRACFONE,Roaming,Compensation,,TFSurePay
+TFSAS902CDG,TF256PSIMV9RM,TSAPP40120,CDMA,TRACFONE,Expired Units,Replacement,Reference esn,TFSurePay
+TFALA460GWHP5,TF128PSIMT5RM,TSAPP40120,GSM,TRACFONE,Redemption Failure,Replacement,Reference esn,tmoswitch
+TFALA460G3P5,TF128PSIMT5RM,TSAPP40120,GSM,TRACFONE,Roaming,Compensation,,tmoswitch
+TFALA463BGP5,TF128PSIMT5RM,TSAPP40120,GSM,TRACFONE,Not Able to Make or Receive Calls,Compensation,,tmoswitch
+TFALA463BGRCS5,TF128PSIMT5RM,TSAPP40120,GSM,TRACFONE,Redemption Failure,Replacement,Open Access,tmoswitch
+TFZEZ660G3P5,TF128PSIMT5RM,TSAPP40120,GSM,TRACFONE,Roaming,Compensation,,tmoswitch
+TFZEZ660GR5,TF128PSIMT5RM,TSAPP40120,GSM,TRACFONE,Equipment Not Received,Compensation,,tmoswitch
+TFZEZ667GP5-5,TF128PSIMT5RM,TSAPP40120,GSM,TRACFONE,Not Able to Make or Receive Calls,Compensation,,tmoswitch
+TFZEZ667G3P5P,TF128PSIMT5RM,TSAPP40120,GSM,TRACFONE,Redemption Failure,Replacement,,tmoswitch
+TFZEZ753G3P5,TF128PSIMT5RM,TSAPP40120,GSM,TRACFONE,Roaming,Compensation,,tmoswitch
+TFZEZ753GWHP5,TF128PSIMT5RM,TSAPP40120,GSM,TRACFONE,Equipment Not Received,Compensation,,tmoswitch
+TFLGL17AGP4DG,TF128PSIMC4RM,TSAPP40120,GSM,TRACFONE,Redemption Failure,Replacement,,tmoswitch
+TFALA450TGP5P,TF128PSIMT5RM,TSAPP40120,GSM,TRACFONE,Roaming,Compensation,,tmoswitch
+TFZEZ955GR5,TF64PSIMT5RM,TSAPP40120,GSM,TRACFONE,Equipment Not Received,Compensation,,tmoswitch

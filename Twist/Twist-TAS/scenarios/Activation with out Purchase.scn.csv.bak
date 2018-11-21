@@ -1,0 +1,163 @@
+Brand,Status,PartNumber,SIM,ZipCode,Option,Reason,Service Days,Cell Tech
+SIMPLE_MOBILE,New,SMZEZ930GP5,SM128PSIMT5RM,33178,Reference Esn,Activation/Reactivation Failure,30,GSM
+SIMPLE_MOBILE,New,SMHUH871G3P5,SM128PSIMT5RM,33178,Supervisor Approval,Activation/Reactivation Failure,30,GSM
+SIMPLE_MOBILE,New,SMZEZ667G,SM128PSIMT5RM,33178,Reference Esn,Activation/Reactivation Failure,30,GSM
+SIMPLE_MOBILE,New,PHSM64PSIMT5BLC,SM64PSIMT5B,33178,Reference Esn,Activation/Reactivation Failure,30,GSM
+SIMPLE_MOBILE,New,PHSM64PSIMT5B,SM64PSIMT5B,33178,Reference Esn,PIN Redeemed to Wrong Handset,15,GSM
+SIMPLE_MOBILE,New,PHSM64PSIMT5MB,SM64PSIMT5B,33178,Supervisor Approval,Redemption Failure,30,GSM
+SIMPLE_MOBILE,New,SM3GCPOAGS4GP5,SM128PSIMT5RM,33178,Reference Esn,Redemption Failure,15,GSM
+SIMPLE_MOBILE,New,SMLCPOAGS4GP5,SM128PSIMT5RM,33178,Supervisor Approval,PIN Redeemed to Wrong Handset,20,GSM
+SIMPLE_MOBILE,New,SMALA463BGP5DU,TF64PSIMT5RM,33178,Supervisor Approval,Redemption Failure,30,GSM
+SIMPLE_MOBILE,New,SMZEZ818G3P5P,TF128PSIMC4RM,33178,Reference Esn,PIN Redeemed to Wrong Handset,25,GSM
+SIMPLE_MOBILE,New,SMHUH891GP5AS,SM128PSIMT5RM,33178,Supervisor Approval,Redemption Failure,30,GSM
+SIMPLE_MOBILE,New,SMHUH891G3P5P,SM128PSIMT5RM,33178,Supervisor Approval,Redemption Failure,30,GSM
+SIMPLE_MOBILE,New,SMZEZ791GP5-5,SM64PSIMT5B,33178,Reference Esn,Activation/Reactivation Failure,30,GSM
+SIMPLE_MOBILE,New,SMZEZ753GP5SP,SM64PSIMT5B,33178,Reference Esn,PIN Redeemed to Wrong Handset,15,GSM
+STRAIGHT_TALK,New,STHTC122VCWHP,TF256PSIMV9N,33178,Reference Esn,Activation/Reactivation Failure,10,CDMA
+STRAIGHT_TALK,New,ST3GCPOAI4CP,,33178,Supervisor Approval,Redemption Failure,,
+STRAIGHT_TALK,New,STLCPOAGS4GP4,TF128PSIMC4RM,33178,Supervisor Approval,Redemption Failure,,
+STRAIGHT_TALK,New,ST3GCPOAI5SGP4,TF128PSIMC4N,33178,Supervisor Approval,Redemption Failure,,
+STRAIGHT_TALK,New,STZEZ289GWHP4,TF64SIMC4,33178,Supervisor Approval,Redemption Failure,30,GSM
+STRAIGHT_TALK,New,STZEZ665CP,,33178,Reference Esn,Port Request(Active with new number and now requesting a Port),30,CDMA
+STRAIGHT_TALK,New,STZEZ660GP4,TF64PSIMC4,33178,Reference Esn,Activation/Reactivation Failure,30,GSM
+STRAIGHT_TALK,New,STLGL25C,TF128PSIMS8M,33178,Supervisor Approval,PIN Redeemed to Wrong Handset,30,CDMA
+STRAIGHT_TALK,New,STALA851GP4P,TF64PSIMC4RM,33178,Reference Esn,Port Request(Active with new number and now requesting a Port),30,GSM
+STRAIGHT_TALK,New,STLG305C,,33178,Supervisor Approval,PIN Redeemed to Wrong Handset,30,CDMA
+STRAIGHT_TALK,New,STREAX54NCPWP,,33178,Reference Esn,Redemption Failure,30,CDMA
+STRAIGHT_TALK,New,STSAS765CPWP,,33178,Supervisor Approval,PIN Redeemed to Wrong Handset,30,CDMA
+STRAIGHT_TALK,New,STSAS890GRCS,TF64PSIMC4RM,33178,Supervisor Approval,Redemption Failure,30,GSM
+STRAIGHT_TALK,New,STZEZ250GRCS,TF64SIMT5,33178,Supervisor Approval,PIN Redeemed to Wrong Handset,20,GSM
+STRAIGHT_TALK,New,STHUH226CP,,33178,Reference Esn,Redemption Failure,30,CDMA
+STRAIGHT_TALK,New,PHST128PSIMT5ND,TF128PSIMT5ND,33178,Supervisor Approval,Redemption Failure,30,GSM
+STRAIGHT_TALK,New,STLGL31G,TF64PSIMC4RM,33178,Supervisor Approval,Redemption Failure,30,GSM
+STRAIGHT_TALK,New,STAVV10GP4P,JASPER2FF,33178,Supervisor Approval,Redemption Failure,30,GSM
+STRAIGHT_TALK,New,STZEZ797CR,,33178,Supervisor Approval,Redemption Failure,25,CDMA
+STRAIGHT_TALK,New,STALA845GR,TF64PSIMC4,33178,Reference Esn,PIN Redeemed to Wrong Handset,30,GSM
+STRAIGHT_TALK,New,STZEZ667GWHP5,TF64PSIMT5RM,33178,Supervisor Approval,Redemption Failure,25,GSM
+STRAIGHT_TALK,New,STMTXT830CRCS,,33178,Supervisor Approval,Redemption Failure,10,CDMA
+STRAIGHT_TALK,New,STZEZ932CPWP,TF256PSIMV9RM,33178,Supervisor Approval,PIN Redeemed to Wrong Handset,30,CDMA
+STRAIGHT_TALK,New,STZEZ288CR,TF256PSIMV9,33178,Reference Esn,PIN Redeemed to Wrong Handset,30,CDMA
+STRAIGHT_TALK,New,STUXU671CR,,33178,Supervisor Approval,Redemption Failure,30,CDMA
+STRAIGHT_TALK,New,STUXU671C,,33178,Supervisor Approval,PIN Redeemed to Wrong Handset,30,CDMA
+STRAIGHT_TALK,New,STAPI6G128SVP4P,TF128PSIMC4N,33178,Reference Esn,Redemption Failure,15,GSM
+STRAIGHT_TALK,New,ST256PBYOPD,TF256PSIMV9DD,33178,Supervisor Approval,Redemption Failure,30,GSM
+STRAIGHT_TALK,New,PHST128PSIMCL7ND,TF128PSIMCL7ND,00707,Supervisor Approval,Activation/Reactivation Failure,25,GSM
+STRAIGHT_TALK,New,STHUH350P4,TF64SIMC4,33178,Reference Esn,Activation/Reactivation Failure,20,GSM
+STRAIGHT_TALK,New,STALA206GR,TF128SIMC4RM,33178,Reference Esn,Redemption Failure,20,GSM
+STRAIGHT_TALK,New,STLG237CP,,33178,Supervisor Approval,Activation/Reactivation Failure,25,CDMA
+STRAIGHT_TALK,New,STSAS902CP,TF256PSIMV9RM,33178,Reference Esn,Redemption Failure,20,CDMA
+STRAIGHT_TALK,New,STSAS820CP,TF256PSIMV9RM,33178,Supervisor Approval,Activation/Reactivation Failure,25,CDMA
+STRAIGHT_TALK,New,STZEZ753GR5,TF64PSIMT5RM,33178,Supervisor Approval,Activation/Reactivation Failure,25,GSM
+STRAIGHT_TALK,New,STLGL16CR,,33178,Reference Esn,Redemption Failure,20,CDMA
+STRAIGHT_TALK,New,STLGL21GP,TF128PSIMC4RM,33178,Reference Esn,Activation/Reactivation Failure,20,GSM
+STRAIGHT_TALK,New,STSAS978CWTWHP,TF256PSIMV9N,33178,Supervisor Approval,Activation/Reactivation Failure,20,CDMA
+STRAIGHT_TALK,New,STSAS777CWHP,,33178,Reference Esn,Redemption Failure,20,CDMA
+STRAIGHT_TALK,New,STSAS920CRCS,TF256PSIMV9RM,33178,Reference Esn,Activation/Reactivation Failure,20,CDMA
+STRAIGHT_TALK,New,STZEZ793CRCS,,33178,Supervisor Approval,Redemption Failure,20,CDMA
+STRAIGHT_TALK,New,STZEZ791GP4P,TF64PSIMC4RM,33178,Reference Esn,Activation/Reactivation Failure,20,GSM
+STRAIGHT_TALK,New,ST3GCPOAGS4GP5,TF128PSIMT5RM,33178,Reference Esn,Redemption Failure,,
+STRAIGHT_TALK,New,STLCPOAGS4GP5,TF128PSIMT5RM,33178,Reference Esn,Activation/Reactivation Failure,,
+STRAIGHT_TALK,New,STZEZ819CRCS,TF256PSIMV9RM,33178,Supervisor Approval,Redemption Failure,20,CDMA
+STRAIGHT_TALK,New,STZEZ818GRCS4,TF64PSIMC4RM,33178,Reference Esn,Activation/Reactivation Failure,20,GSM
+STRAIGHT_TALK,New,STLG109CRCS,,33178,Reference Esn,Activation/Reactivation Failure,10,CDMA
+STRAIGHT_TALK,New,STSAS906CRCS,TF256PSIMV9N,33178,Reference Esn,Activation/Reactivation Failure,10,CDMA
+STRAIGHT_TALK,New,STZEZ819CRCS,TF256PSIMV9RM,33178,Supervisor Approval,Redemption Failure,20,CDMA
+STRAIGHT_TALK,New,STIPH6SSOGSM,TF64PSIMC4RM,33178,Reference Esn,Activation/Reactivation Failure,20,GSM
+STRAIGHT_TALK,New,STIPH6SPSOCDMA,TF256PSIMV9N,33178,Supervisor Approval,Activation/Reactivation Failure,30,CDMA
+STRAIGHT_TALK,New,STIPH6SPSOGSM,TF64PSIMC4RM,33178,Reference Esn,Activation/Reactivation Failure,20,GSM
+STRAIGHT_TALK,New,STAPI6SG16SVR,TF128PSIMC4N,33178,Reference Esn,Redemption Failure,10,GSM
+STRAIGHT_TALK,New,STAPI6SC16SV,TF256PSIMV9N,33178,Reference Esn,Activation/Reactivation Failure,10,CDMA
+STRAIGHT_TALK,New,STAPI6SPG16RGP,TF128PSIMC4N,33178,Reference Esn,Redemption Failure,10,GSM
+STRAIGHT_TALK,New,STAPI6SPC16RGRB,TF256PSIMV9N,33178,Supervisor Approval,Redemption Failure,20,CDMA
+STRAIGHT_TALK,New,STLGL17AGWHP4,TF128PSIMC4RM,33178,Reference Esn,Redemption Failure,10,GSM
+STRAIGHT_TALK,New,STLGL17AGWHP7,TF128PSIMCL7RM,00692,Supervisor Approval,Redemption Failure,20,GSM
+TELCEL,New,TCZEZ667G,TF64PSIMT5RM,33178,Supervisor Approval,Activation/Reactivation Failure,30,GSM
+TELCEL,New,TCSAM828CP,,33178,Reference Esn,Redemption Failure,15,CDMA
+TELCEL,New,TCMTW419GP5,TF64SIMT5,33178,Reference Esn,Retailer Exchange,30,GSM
+TELCEL,New,TCSAS275G3P4,TF64SIMT5,33178,Supervisor Approval,Warehouse exchange - Past due,30,GSM
+TELCEL,New,TCLG306GR,TF64SIMT5,33178,Supervisor Approval,Warehouse exchange - Past due,30,GSM
+TELCEL,New,TCZEZ768GWHPV2,TF64PSIMT5,33178,Reference Esn,Activation/Reactivation Failure,30,GSM
+TELCEL,New,TCZEZ930GDG,TF64PSIMT5RM,33178,Supervisor Approval,Activation/Reactivation Failure,30,GSM
+NET10,New,NT3GCPOADROICP,,33178,Reference Esn,Warehouse exchange - Past due,,
+NET10,New,NTLCPOAGS4GP4,TF128PSIMC4RM,33178,Reference Esn,Warehouse exchange - Past due,,
+NET10,New,NT3GCPOAI5SGP4,TF128PSIMC4N,33178,Reference Esn,Warehouse exchange - Past due,,
+NET10,New,NTSAS720CP,,33178,Reference Esn,Warehouse exchange - Past due,30,CDMA
+NET10,New,NTLG236CP,,33178,Supervisor Approval,Port Request Cancellation (Requested a Port and is now requesting a new number),15,CDMA
+NET10,New,NTLGL34CDG,,33178,Supervisor Approval,Port Request Cancellation (Requested a Port and is now requesting a new number),30,CDMA
+NET10,New,NTZEZ753GP4AS,TF64PSIMC4RM,33178,Reference Esn,Retailer Exchange,30,GSM
+NET10,New,NTZEZ752C3PWP,,33178,Supervisor Approval,Warehouse exchange - Past due,15,CDMA
+NET10,New,NTZEZ753GP,TF64PSIMT5RM,33178,Supervisor Approval,Activation/Reactivation Failure,20,GSM
+NET10,New,NTALA845GP4DG,TF64PSIMC4,33178,Reference Esn,Redemption Failure,10,GSM
+NET10,New,NTZEZ797CPTGP,,33178,Supervisor Approval,PIN Redeemed to Wrong Handset,15,CDMA
+NET10,New,NTZEZ289GDG,TF64SIMC4,33178,Supervisor Approval,Redemption Failure,20,GSM
+NET10,New,NTHUH350G,TF64SIMC4,33178,Reference Esn,Port Request Cancellation (Requested a Port and is now requesting a new number),20,GSM
+NET10,New,NTLG306GP5DG,TF64SIMT5,33178,Supervisor Approval,Retailer Exchange,20,GSM
+NET10,New,NTMTXT830CPRS,,33178,Reference Esn,Redemption Failure,15,CDMA
+NET10,New,NTLGL41CP,,33178,Supervisor Approval,Activation/Reactivation Failure,20,CDMA
+NET10,New,NTLG305CU,,33178,Supervisor Approval,Redemption Failure,7,CDMA
+NET10,New,NTALA383GRCS4,TF64SIMCL7,00707,Reference Esn,Activation/Reactivation Failure,20,GSM
+NET10,New,NTSAS978CWTR,TF256PSIMV9N,33178,Supervisor Approval,Redemption Failure,30,CDMA
+NET10,New,NTSAS777CWHP,,33178,Reference Esn,Port Request Cancellation (Requested a Port and is now requesting a new number),25,CDMA
+NET10,New,NTSAS920C3PWP,TF256PSIMV9RM,33178,Supervisor Approval,Retailer Exchange,20,CDMA
+NET10,New,NTZEZ793CDG,,33178,Reference Esn,Redemption Failure,15,CDMA
+NET10,New,NTZEZ791GP5DG,TF64PSIMT5RM,33178,Supervisor Approval,Activation/Reactivation Failure,20,GSM
+NET10,New,NTLCPOAGS4GP5,TF128PSIMT5RM,33178,Supervisor Approval,Redemption Failure,,
+NET10,New,NT3GCPOAMOTXGP5,TF128PSIMT5N,33178,Supervisor Approval,Activation/Reactivation Failure,,
+NET10,New,NTZEZ955G3P4,TF64PSIMC4RM,33178,Reference Esn,Activation/Reactivation Failure,20,GSM
+NET10,New,NTZEZ819CRCS,TF256PSIMV9RM,33178,Supervisor Approval,Redemption Failure,30,CDMA
+NET10,New,NTSAS906CRCS,TF256PSIMV9N,33178,Supervisor Approval,Redemption Failure,20,CDMA
+NET10,New,NTALA462CWHP,,,Supervisor Approval,Redemption Failure,10,CDMA
+NET10,New,NTLGL17AGRCS4,TF128PSIMC4RM,33178,Supervisor Approval,Redemption Failure,20,GSM
+NET10,New,NTLGL17AGRCS7,TF128PSIMCL7RM,00692,Supervisor Approval,Redemption Failure,10,GSM
+TRACFONE,New,TFLG220CP,,33178,Reference Esn,Port Request Cancellation (Requested a Port and is now requesting a new number),30,CDMA
+TRACFONE,New,TFLG236CWHP,,33178,Reference Esn,Port Request(Active with new number and now requesting a Port),15,CDMA
+TRACFONE,New,TFLG840GTMP4,TF64SIMC4,33178,Supervisor Approval,Retailer Exchange,30,GSM
+TRACFONE,New,TFLGL38CWHP,,33178,Supervisor Approval,Retailer Exchange,30,CDMA
+TRACFONE,New,TFLG306GTMP4DU,TF64SIMT5,33178,Reference Esn,Port Request(Active with new number and now requesting a Port),15,GSM
+TRACFONE,New,TFMTXT830CPMP,,33178,Reference Esn,Retailer Exchange,30,CDMA
+TRACFONE,New,TFZEZ665CDG,,33178,Supervisor Approval,Warehouse exchange - Past due,15,CDMA
+TRACFONE,New,TFALA383GDMP4SV,TF64SIMC4,33178,Supervisor Approval,Activation/Reactivation Failure,20,GSM
+TRACFONE,New,TFLG306GTMP4DU,TF64SIMC4,33178,Reference Esn,Redemption Failure,10,GSM
+TRACFONE,New,TFLG306G,TF64SIMC4,33178,Supervisor Approval,Warehouse exchange - Past due,20,GSM
+TRACFONE,New,TFZEZ665CTMPRS,,33178,Supervisor Approval,Redemption Failure,15,CDMA
+TRACFONE,New,TF3GCPOAMOTXGP4,TF128PSIMC4N,33178,Reference Esn,Retailer Exchange,,
+TRACFONE,New,TF3GCPOAI5SGP4,TF128PSIMC4N,33178,Supervisor Approval,Port Request Cancellation (Requested a Port and is now requesting a new number),,
+TRACFONE,New,TFLCPOAGS4CP,TF256PSIMV9RM,33178,Reference Esn,Warehouse exchange - Past due,,
+TRACFONE,New,TF3GCPOADROICP,,33178,Supervisor Approval,PIN Redeemed to Wrong Handset,,
+TRACFONE,New,TFLGL21GR4,TF64PSIMC4RM,33178,Supervisor Approval,Redemption Failure,15,GSM
+TRACFONE,New,TFZEZ660GR,TF64PSIMC4RM,33178,Supervisor Approval,Redemption Failure,20,GSM
+TRACFONE,New,TFZEZ667G3P4,TF64PSIMC4RM,33178,Supervisor Approval,Redemption Failure,20,GSM
+TRACFONE,New,TFLGL15G3P4P,TF64PSIMC4RM,33178,Supervisor Approval,Redemption Failure,15,GSM
+TRACFONE,New,TFZEZ753GWHP4,TF128PSIMC4RM,33178,Supervisor Approval,Redemption Failure,20,GSM
+TRACFONE,New,PHTF128PSIMC4N,TF128PSIMC4ND,33178,Supervisor Approval,Redemption Failure,19,GSM
+TRACFONE,New,TFALA383GDG,TF64SIMC4,33178,Supervisor Approval,PIN Redeemed to Wrong Handset,10,GSM
+TRACFONE,New,TFZEZ665CTMPRS,,33178,Supervisor Approval,PIN Redeemed to Wrong Handset,15,CDMA
+TRACFONE,New,TFSAS978CWTPDG,TF256PSIMV9N,33178,Supervisor Approval,Warehouse exchange - Past due,15,CDMA
+TRACFONE,New,TFSAS777CPDG,,33178,Supervisor Approval,PIN Redeemed to Wrong Handset,15,CDMA
+TRACFONE,New,TFSAS920CPTGP,TF256PSIMV9RM,33178,Supervisor Approval,Redemption Failure,15,CDMA
+TRACFONE,New,TFSAS920CPTGP,,33178,Supervisor Approval,Retailer Exchange,15,CDMA
+TRACFONE,New,TFALA851GRCS4,TF64PSIMC4RM,33178,Supervisor Approval,Retailer Exchange,15,GSM
+TRACFONE,New,TFLGL33GWTP4DU,TF64PSIMC4RM,33178,Supervisor Approval,Retailer Exchange,15,GSM
+TRACFONE,New,TFZEZ791GP4DG,TF64PSIMC4RM,33178,Supervisor Approval,Retailer Exchange,15,GSM
+TRACFONE,New,TFZEZ791GP4DG,TF64PSIMC4RM,33178,Supervisor Approval,Retailer Exchange,15,GSM
+TRACFONE,New,TF3GCPOAI5SGP5,TF128PSIMT5N,33178,Supervisor Approval,Retailer Exchange,,
+TRACFONE,New,TFLCPOAI5SGP5,TF128PSIMT5N,33178,Supervisor Approval,Retailer Exchange,,
+TRACFONE,New,TFSAS820CR,TF256PSIMV9RM,33178,Supervisor Approval,Warehouse exchange - Past due,15,CDMA
+TRACFONE,New,TFZEZ818G,TF128PSIMC4RM,33178,Supervisor Approval,PIN Redeemed to Wrong Handset,20,GSM
+TRACFONE,New,TFZEZ955GR,TF64PSIMT5RM,33178,Supervisor Approval,Redemption Failure,25,GSM
+TRACFONE,New,TFHTC122VCPRS,TF256PSIMV9N,33178,Supervisor Approval,Redemption Failure,20,GSM
+TRACFONE,New,PHTF128PSIMT5DD,TF128PSIMT5DD,33178,Supervisor Approval,Redemption Failure,20,GSM
+TRACFONE,New,PHTF128PSIMT5ND,TF128PSIMT5ND,33178,Supervisor Approval,Redemption Failure,20,GSM
+TRACFONE,New,TFSAS902CP,TF256PSIMV9RM,33178,Supervisor Approval,Redemption Failure,20,CDMA
+TRACFONE,New,TFSAS902C3P,TF256PSIMV9RM,33178,Supervisor Approval,Redemption Failure,20,CDMA
+TRACFONE,New,TFSAS902CP-5,TF256PSIMV9RM,33178,Supervisor Approval,Redemption Failure,20,CDMA
+TRACFONE,New,TFSAS902CPAS,TF256PSIMV9RM,33178,Supervisor Approval,Redemption Failure,20,CDMA
+TRACFONE,New,TFSAS902CPDG,TF256PSIMV9RM,33178,Supervisor Approval,Warehouse exchange - Past due,20,CDMA
+TRACFONE,New,TFALA460G3P5P,TF128PSIMT5RM,33178,Reference Esn,PIN Redeemed to Wrong Handset,60,GSM
+TRACFONE,New,TFALA463BGP5DU,TF128PSIMT5RM,33178,Supervisor Approval,Retailer Exchange,25,GSM
+TRACFONE,New,TFZEZ660GR5,TF128PSIMT5RM,33178,Reference Esn,Redemption Failure,30,GSM
+TRACFONE,New,TFZEZ667GRCS5,TF128PSIMT5RM,33178,Supervisor Approval,Retailer Exchange,20,GSM
+TRACFONE,New,TFZEZ753GP5DU,TF128PSIMT5RM,33178,Reference Esn,Warehouse exchange - Past due,10,GSM
+TRACFONE,New,TFLGL17AGP4-5,TF128PSIMC4RM,33178,Reference Esn,Redemption Failure,30,GSM
+TRACFONE,New,TFALA450TGP5-5,TF128PSIMT5RM,33178,Supervisor Approval,Retailer Exchange,20,GSM
+TRACFONE,New,TFZEZ955GP5P,TF64PSIMT5RM,33178,Reference Esn,Warehouse exchange - Past due,10,GSM

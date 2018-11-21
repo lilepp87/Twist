@@ -1,0 +1,10 @@
+Tags:in-progress
+Preconditions:On Straighttalk HomePage,Log out
+Registration:
+#Register  iphone model  <Model> for  Carrier <SIM> "STRAIGHT_TALK"
+
+Activate Phone,Create Account:
+#Go to Activate Option
+#Enter esn zip code <ZIP> and pin number <PIN>
+#Create new account depending on status <Status>
+#Complete activation process depending on status <Status> and cell tech <Cell Tech>

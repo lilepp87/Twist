@@ -1,0 +1,15 @@
+Tags:in-progress
+Preconditions:On tas HomePage
+Activate phone,Create Account:
+#Enter "New" Esn for part <PartNumber> sim <SIM>
+#Create account for <Brand>
+#Activate phone by using pin <PIN> depending on status "New" of cell tech <Cell Tech> zip <ZIP>
+
+
+Deactivation:
+#Deactivate phone if <Status> phone needs to be tested
+
+
+Case Operations, Support:
+#Insert  alert for esn with type "0" and id "52"
+#Create phone exchange case using microsite

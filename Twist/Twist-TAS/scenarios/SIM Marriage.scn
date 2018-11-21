@@ -1,0 +1,7 @@
+Tags:set4
+Preconditions:On tas HomePage,Log out
+SIM Operation, Create Account, Activate Phone:
+#Enter <Status> Esn for part <PartNumber> sim <SIM>
+#Create Account for <Brand>
+#Go to sim marriage
+#Enter sim number <SIM> and marry with esn and Zip<Zipcode>

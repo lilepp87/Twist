@@ -1,0 +1,14 @@
+Tags:
+Preconditions:On SimpleMobile HomePage,Log Out
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter "New" Esn for part <PartNumber> zip code <ZipCode> sim <SIM> and Pin number <PIN>
+#Log in depending on status "New"
+#Create new account depending on status "New"
+#Complete activation process depending on status "New" and cell tech <CellTech>
+#Log out
+
+ReUp, Add Service Plan:
+#Go to ReUp
+#Enter phone and PIN <PIN>
+#Review Order Summary

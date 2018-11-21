@@ -1,0 +1,30 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:red="http://b2b.tracfone.com/RedemptionServices" xmlns:com="http://www.tracfone.com/CommonTypes" xmlns:phon="http://www.tracfone.com/PhoneCommonTypes">
+  <soapenv:Header>
+      <wsse:Security soapenv:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+         <wsse:UsernameToken wsu:Id="unt_dymtpxyv7NS1BCB4" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+            <wsse:Username>@secusername</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">@secpassword</wsse:Password>
+         </wsse:UsernameToken>
+      </wsse:Security>
+   </soapenv:Header>
+   <soapenv:Body>
+      <red:queuePINCardRequest>
+         <com:requestToken>
+            <com:clientTransactionId>1</com:clientTransactionId>
+            <com:clientId>2</com:clientId>
+         </com:requestToken>
+         <com:brandName>@brand</com:brandName>
+         <com:sourceSystem>SMS</com:sourceSystem>
+         <!--Optional:-->
+         <com:language>ENG</com:language>
+         <red:deviceId>
+            <!--You have a CHOICE of the next 2 items at this level-->
+            <!--Optional:-->
+            <phon:min>@min</phon:min>
+            <!--Optional:-->
+            <phon:esn></phon:esn>
+         </red:deviceId>
+         <red:pinCard>@pin</red:pinCard>
+      </red:queuePINCardRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

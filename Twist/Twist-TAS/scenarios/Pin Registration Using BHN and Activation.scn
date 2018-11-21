@@ -1,0 +1,9 @@
+Tags:services,bhn
+Preconditions:On tas HomePage,Log out
+BHN Services, Activate Phone, Create Account:
+#Call BHN service for pin registration with part number <PartNumber> and brand <Brand>
+#Enter <Status> Esn for part <EsnPart> sim <SimPart>
+#Create account for <Brand>
+#Activate phone by using pin <Param5> depending on status <Status> of cell tech <CellTech> zip <Zip>
+#Add remaining  phones for ""  line plan of part "" "" "" with Sim "" "" ""
+#Checkout and process transaction

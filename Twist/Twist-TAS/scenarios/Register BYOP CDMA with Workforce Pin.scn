@@ -1,0 +1,13 @@
+Tags:in-progress
+Preconditions:On tas HomePage,Log out
+ Create Contact:
+#Click on New Contact 
+#Create new contact for brand <Brand> zipcode <ZIP>
+
+ Register BYOP, Redemption:
+#Go to BYOP CDMA Verizon registration
+#Enter <ESN Type>esn  zip <ZIP> and check for eligibilty with carrier <Carrier>
+#Enter your <Is Active?> device type"Phone" info LTE <Is LTE?> iphone 5 <Is iPhone?>  and check  customer have sim <Cust. have SIM?> for <Brand> Trio <isTrio> ""
+#Get workforce pin for registration
+#Submit for registration
+#Check confirmation

@@ -1,0 +1,7 @@
+Tags:tf1
+Preconditions:On Tracfone Home Page
+Buy a Phone:
+#Select Buy Phones
+#Enter Zip Code <Zip Code>
+#Confirm and Accept Zip Code
+#Validate Brightpoint Webpage

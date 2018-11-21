@@ -1,0 +1,17 @@
+Tags:ST2
+Preconditions:On Straighttalk HomePage,Log Out
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter "New" esn for part <Esn> and sim <Sim Number>
+#Choose a new number for zip <Zip Code>
+#Enter pin <Pin Card>
+#Create new account depending on status "New" 
+#Complete activation process depending on status "New" and cell tech <Cell Tech>
+
+Add a service plan:
+#Select add a service plan
+#Enter Pin <Pin Card 2> and add <Queued?>
+
+Activate Phone, Create Account:
+#Enter "Past Due" esn for part <Esn> and sim <Sim Number>
+#Complete activation process depending on status "Past Due" and cell tech <Cell Tech>

@@ -1,0 +1,6 @@
+Tags:app,Services
+Preconditions:closeBrowser
+MyAccountApp:
+#Set  current brand to "TRACFONE"
+#Get "Port" config information
+#Get "Carrier" config information

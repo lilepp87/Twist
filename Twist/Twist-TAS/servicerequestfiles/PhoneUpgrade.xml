@@ -1,0 +1,27 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:phon="http://b2b.tracfone.com/PhoneUpgradeServices" xmlns:com="http://www.tracfone.com/CommonTypes">
+   <soapenv:Header>
+      <wsse:Security soapenv:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+         <wsse:UsernameToken wsu:Id="unt_dymtpxyv7NS1BCB4" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+            <wsse:Username>@secusername</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">@secpassword</wsse:Password>
+         </wsse:UsernameToken>
+      </wsse:Security>
+   </soapenv:Header>
+   <soapenv:Body>
+      <phon:phoneUpgradeRequest>
+         <com:requestToken>
+            <com:clientTransactionId>2</com:clientTransactionId>
+            <com:clientId>1</com:clientId>
+         </com:requestToken>
+         <com:brandName>@brand</com:brandName>
+         <com:sourceSystem>TAS</com:sourceSystem>
+         <com:language>ENG</com:language>
+         <phon:esnFrom>@fromESN</phon:esnFrom>
+         <phon:esnTo>@toESN</phon:esnTo>
+         <phon:iccid>@iccid</phon:iccid>
+         <phon:zipcode>@zipcode</phon:zipcode>
+         <phon:processNow>true</phon:processNow>
+         <phon:Service_Plan>@plan</phon:Service_Plan>
+      </phon:phoneUpgradeRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

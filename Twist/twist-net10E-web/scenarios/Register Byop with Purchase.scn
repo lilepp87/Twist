@@ -1,0 +1,17 @@
+Tags:brightpoint
+Preconditions:On net10 english home page,Log out
+Register BYOP, Create Account, Enter Payment Information:
+#Go to BYOP Finder
+#Enter "InActive" esn "Decimal" and carrier "RSS" for lte "Yes" iphone "No" with zip "33178" 
+#Enter "InActive" Sim"TF256PSIMV9ND" and Purchase NAC 
+#Skip account creation
+#Submit payment with card type "Visa"
+#Finish registration
+
+Start Activation, Create Account:
+#Select Activate My Net10 Phone
+#Create new account for Esn
+#Enter "Decimal" Esn for model with status "New" and zip code "33178"
+
+Finish Activation with PIN:
+#Activate with pin "NTPU0065ILDS" for BYOP

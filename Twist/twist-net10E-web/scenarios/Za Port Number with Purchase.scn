@@ -1,0 +1,12 @@
+Tags:NT2
+Preconditions:On net10 english home page,Log out
+Port In, Create a New Account,Start Activation, Finish Activation with Service Plan, Create Account:
+#Go to Activate Phone
+#Select transfer my number from another company
+#Enter new esn <Part> <SIM>
+#Enter esn and number from brand <Old Brand> with part <Old Part>
+#Create new account for Esn
+#Select Purchase
+#Select Plan <Plan> for <Phone Type>  "One-Time"
+#Enter payment information with zip code <Zip> card type <CC> and status <status>
+#Finish porting number for <CellTech> 

@@ -1,0 +1,15 @@
+Tags:warp,services
+Preconditions:On tas HomePage
+ Activate Phone, Create Account, Operations:
+#Enter "New" Esn for part <FromPart> sim <FromSim>
+#Create account for <FromBrand>
+#Activate phone by using pin <FromPin> depending on status "New" of cell tech <CellTech> zip <FromZip>
+
+ Operations:
+#Generate Esn for part <PartNumber> Sim <SIM> and  Cell Tech ""
+#Set sourcesystem as <SourceSystem>
+#Create account for <Brand> using service
+#addPaymentsource
+#Complete registration process if device is BYOP or SIMOUT <PIN> flow <FlowName>
+#Validate Customer Order with pin <PIN> zip <ZipCode> for <FlowName> flow
+#Submit Customer Order for <FlowName>

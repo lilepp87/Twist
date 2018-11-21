@@ -1,0 +1,4 @@
+Tags:in-progress
+Preconditions:
+ Support:
+#Call validateMINCase method for  part <Part> status<Status> brand <brand>

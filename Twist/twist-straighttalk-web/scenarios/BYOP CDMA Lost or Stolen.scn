@@ -1,0 +1,6 @@
+Tags:in-progress
+Preconditions:
+Metadata:ScenarioType=Auto
+Register BYOP:
+#Go to register BYOP CDMA page
+#Enter esn <esn> brand <brand>  model <model>status  <status> zip <zip>

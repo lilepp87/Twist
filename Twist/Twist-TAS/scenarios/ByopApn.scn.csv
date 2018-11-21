@@ -1,0 +1,15 @@
+PartNumber,Brand,Operating System,OSVersion,Handset Manufacturer,Handset Model
+PHGS128PSIMT5ND,GO_SMART,Android,Android 4.0 & 4.1,HTC,HTC Dash
+PHSMGS128PSIMT5DD,GO_SMART,Blackberry,Blackberry,Blackberry,Blackberry
+PHNT128PSIMC4NB,NET10,Android,Android 4.0 & 4.1,HTC,HTC Dash
+PHNT128PSIMC4NB,NET10,Blackberry,Blackberry,Blackberry,Blackberry
+PHNT128PSIMC4NB,NET10,IOS,iOS 6 or later,Apple,iPhone (iOS 6 or later)
+PHNT128PSIMC4NB,NET10,Android,Android 4.0 & 4.1,LG,LG (Optimus T and G2X)
+PHST128PSIMT5TDP,STRAIGHT_TALK,Blackberry,Other,Blackberry,Other
+PHST128PSIMT5TDP,STRAIGHT_TALK,Other,Other,Other,Other
+PHST128PSIMT5TDP,STRAIGHT_TALK,IOS,Other,Apple,iPhone (5 or previous)
+PHST128PSIMT5TDP,STRAIGHT_TALK,Windows,Windows,Nokia,Nokia 5230
+PHTC128PSIMT5NB,TELCEL,Blackberry,Blackberry,Blackberry,Blackberry
+PHTC128PSIMT5NB,TELCEL,Android,Android 2.3,Samsung,"Samsung Galaxy S (3G, 4G)"
+PHTC128PSIMT5NB,TELCEL,IOS,iOS 5 or previous,Apple,iPhone (5 or previous)
+PHWFM128PSIMT5TD,WFM,Android,Android 2.3,LG,LG (Optimus T and G2X)

@@ -1,0 +1,19 @@
+Tags:shop
+Preconditions:On SimpleMobile HomePage,LogOut
+Activate Phone, Create Account:
+#Setup Esn based on status <Status> and part <PartNumber>
+#Go to Activate Option
+#Enter <Status> Esn for part <PartNumber> zip code <ZipCode> sim <SIM> and Pin number <PIN1>
+#Log in depending on status <Status>
+#Create new account depending on status <Status>
+#Complete activation process depending on status <Status> and cell tech <CellTech>
+
+Add Service Plan, Enter Payment:
+#Go to Shop  and Click on Service Plans
+#Click on ReUP
+#Click on Validate My Phone Number
+#Select a Service plan <PIN2>
+#Click on Add to Simple Mobile Stash or Add Now
+#Enroll in 10 ILD
+#Enter credit card <Card Type> depends on status <Status>
+#Review order summary

@@ -1,0 +1,21 @@
+Part Number,SimNumber,Zip Code,Plan,Status,Other Part,ChildSim,# Devices,Reoccuring?,Card Type
+TWSAS902CWHP,TF256PSIMV9RM,33178,TW 2 Line 5 GB,New,TWAPI6SC16GY,TWAPI6SC16GY,2,Reoccuring,American Express
+TWSAS906CWHP,TF256PSIMV9N,33178,TW 1 Line No Data,New,TWUXU240C,,1,Reoccuring,Visa
+TWAPI6SC16GY,TWAPI6SC16GY,33178,TW 2 Line 5 GB,New,TWLG236C,,3,Reoccuring,American Express
+TWAPI6SPC16SVRB,TF256PSIMV9N,33178,TW 1 Line No Data,New,TWSAS906CWHP,TF256PSIMV9N,1,Reoccuring,Visa
+TWAPI6SPC16RGWHP,TF256PSIMV9N,33178,TW 3 Line 7.5 GB,New,TWUXU240C,,2,Reoccuring,Discover
+TWLGL16CP,,33178,TW 2 Line 5 GB,New,TWLG236C,,1,Reoccuring,Visa
+TWSAS766CPWP,,33178,TW 1 Line No Data,New,TWUXU240C,,1,Reoccuring,Visa
+TWSAS336CP,,33178,TW 2 Line 5 GB,New,TWLG236C,,2,Reoccuring,Visa
+TWZEZ793CP,,33178,TW 1 Line No Data,New,,,1,Reoccuring,Visa
+TWUXU671C,,33178,TW 1 Line No Data,New,,,1,Reoccuring,Visa
+TWLG236C,,33178,TW 2 Line 5 GB,New,TWLG236C,,2,Reoccuring,Discover
+TWALA564CPWP,,33178,TW 1 Line 2.5 GB,New,,,1,Reoccuring,Visa
+TWSAS968CP,,33178,TW 3 Line 7.5 GB,New,TWSAS968C,,3,Reoccuring,Discover
+TWUXU240C,,33178,TW 2 Line 5 GB,New,TWUXU671C,,2,Reoccuring,Visa
+TWMTXT830CPWP,,33178,TW 3 Line 7.5 GB,New,TWUXU240C,,2,Reoccuring,Discover
+TWALA564CP,,33178,TW 2 Line 5 GB,New,TWALA564CP,,2,Reoccuring,Discover
+TWZEZ750CP,,33178,TW 4 Line 10 GB,New,TWZEZ750CP,,4,Reoccuring,Visa
+TWSAS968C,,33178,TW 2 Line 5 GB,New,TWZEZ750CP,,2,Reoccuring,Discover
+TWUXU240C,,33178,TW 3 Line 7.5 GB,New,TWUXU240C,,1,Reoccuring,Visa
+TWUXU240CP,,33178,TW 1 Line No Data,New,,,1,Reoccuring,Visa

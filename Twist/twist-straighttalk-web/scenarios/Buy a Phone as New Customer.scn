@@ -1,0 +1,9 @@
+Tags:commerce,ST3
+Preconditions:On Straighttalk HomePage
+Activate Phone, Create Account, Buy a Service Plan, Enter Payment:
+#Go to Shop <Customer>
+#Browse phones based on brand <hone>
+#Add to cart <Plan>
+#Enter shipping address and white listed card <Card>
+#Verify order summary
+#printOrderNumber

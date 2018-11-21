@@ -1,0 +1,29 @@
+Tags:set5
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone, Create Account:
+#Enter "New" Esn for part <Part Number> sim <SIM>
+#Create account for <Brand>
+#Activate phone by using pin <PIN> depending on status "New" of cell tech <Cell Tech> zip <Zip>
+#Checkout and process transaction
+
+redemption:
+#Add pin card <PIN> to reach 365 paid days requirment
+
+Solutions:
+#Set Installation date  to "430" days past to reach  Active days requirement
+#Go to unlock phone eligibilty page
+Solutions:
+#Validate unlock eligibility
+
+
+Deactivation,Solutions:
+#Select Deactivation option
+#Select a Deactivation Reason <Reson for Deact.>
+#Set  past due date back to <Days1> days old
+
+Solutions:
+#Go to unlock phone eligibilty page
+#Validate unlock eligibility to check failure
+Solutions:
+# Move past date back to <Days2> days old
+#Validate Unlock Eligibility

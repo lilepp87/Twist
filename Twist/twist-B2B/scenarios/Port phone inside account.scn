@@ -1,0 +1,12 @@
+Tags:FMS
+Preconditions:On B2B home page
+Create Account, Activate:
+#Get new B2B "Regular" esn
+#Go to login
+#Log in for fleet
+
+Activate:
+#Go to activate
+#Choose port phone
+#Fill out from "Straight_Talk" phone "STLG800GP5" and zip "44114"
+#Check successful activation

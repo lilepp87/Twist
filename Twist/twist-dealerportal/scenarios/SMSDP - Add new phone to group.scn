@@ -1,0 +1,14 @@
+Tags: in-progress
+Preconditions:On Dealerportal,Log Out
+.
+Activate Phone:
+#Go to <Brand>
+#Go to Activation for <Brand>  shared plan
+#Enter zip <ZIP> pin <Pin> and email
+#Enter ESN <ESN1> SIM <SIM1> and zip <ZIP>
+#Confirm shared plan activation for cell tech <Cell Tech>
+#Select Add a new device to an existing group
+#Enter ESN <ESN2> SIM <SIM2> and zip <ZIP>
+#Confirm shared plan activation for cell tech <Cell Tech>
+
+		

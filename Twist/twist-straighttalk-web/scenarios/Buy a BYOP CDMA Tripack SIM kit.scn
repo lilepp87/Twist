@@ -1,0 +1,13 @@
+Tags:commerce,ST3
+Preconditions:On Straighttalk HomePage,Log out
+h1.
+Activate Phone, Register BYOP, Buy a Service Plan, Enter Payment:
+#Go to Activate BYOP Option
+#Choose the carrier <Carrier>
+#Enter "Not Active" "Hex" esn with zip <Zip Code> lte "Yes" carrier <Carrier> and iPhone 5 "Yes" is hd "No"
+#Choose Sim by Device <Device> With Zip <Zip Code>
+#Buy Sim With Plan <Plan>
+#Enter shipping address and white listed card <Card Type>
+#Verify order summary
+#Print Order Number
+

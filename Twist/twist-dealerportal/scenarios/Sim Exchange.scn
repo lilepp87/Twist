@@ -1,0 +1,9 @@
+Tags:
+Preconditions:On Dealerportal,Log Out
+Activate Phone:
+#Go to <brand>
+#Go to activation for <brand>
+#Enter esn <ESN> sim <SIM> zip <zip> pin <PIN>
+#Confirm activation for cell tech <cell Tech>
+#Go to sim change for <brand>
+#Enter phone and SIM <SIM>

@@ -1,0 +1,7 @@
+ESN,SIM,PARENT SOL,CHILD SOL,BRAND,PIN,STATUS,TECH,ZIP,Param7,SOL,SOL 1
+TFSAS920CPDU,TF256PSIMV9RM,Ticket: Technology Exchange Digital Exchange,phone exchange,TRACFONE,TSAPP40120,New,CDMA,33178,,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective
+PHSM64PSIMT5B,SM64PSIMT5B,Ticket: Technology Exchange Digital Exchange,phone exchange,SIMPLE_MOBILE,SMNAPPMB0040,New,GSM,33178,,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective
+STLGL63BGP5P,TF128PSIMT5N,Ticket: Technology Exchange Digital Exchange,phone exchange,STRAIGHT_TALK,NTAPPMP00045SA,New,GSM,33178,,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective
+NTAPI5SG16GDP4P,TF128PSIMC4N,Ticket: Technology Exchange Digital Exchange,phone exchange,NET10,NTAPP6U035,New,GSM,94043,,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective
+TWSAS906CRCS,TF256PSIMV9N,Ticket: Technology Exchange Digital Exchange,phone exchange,TOTAL_WIRELESS,TWN00035,New,CDMA,06516,,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective
+WFMLGL57BGP,WFM128PSIMT5TM,Ticket: Technology Exchange Digital Exchange,phone exchange,WFM,WFMAPPU0049,New,GSM,94043,,Phone/SIM Exchanges Non-Defective,Phone Exchanges-Non Defective

@@ -1,0 +1,18 @@
+Tags:NT3
+Preconditions:Log out
+.
+Register BYOP:
+#Go to BYOP Finder
+#Enter <isActive> esn <ESNType> and carrier <carrier> for lte <isLTE> iphone <isIphone> with zip <Zip> ""
+#Choose "REGISTER AND ACTIVATE" for ESN Status <isActive> if lte <isLTE> and Sim <SIM> and NAC ""
+#Complete Shipping details for Domain"SIM CARDS" if  lte <isLTE> and already have SIM <SIM> 
+
+Start Activation, Create Account:
+#Go to activate phone
+#Select Activate My Net10 Phone
+#Create new account for Esn
+#Enter <ESNType> Esn for model with status <status> and zip code <Zip>
+
+Finish Activation with PIN:
+#Activate with pin <PIN> for BYOP
+

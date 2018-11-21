@@ -1,0 +1,7 @@
+Tags:brm,services
+Preconditions:closeBrowser
+MyAccountApp,Family Mobile Operations,BRM Operations:
+#Create account for part "WFMLGL57BGP" sim "WFM128PSIMT5TM" brand "WFM"
+#Call Service Order  "ACTIVATION" with Pin "WFMAPPU0029"
+#Complete phone activation for "GSM" and status "New"
+#Get BAN

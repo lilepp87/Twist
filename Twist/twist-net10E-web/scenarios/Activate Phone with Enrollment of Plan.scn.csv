@@ -1,0 +1,39 @@
+Part,SIM,Status,Zip Code,Cell Tech,Plan,Card Type,Phone Type,Plan Type
+PHNT128PSIMC4DD,TF128PSIMC4DD,New,33178,GSM,5GB Data,Discover,HotSpot,Megacard
+PHNT128PSIMC4ND,TF128PSIMC4ND,New,33178,GSM,2.5GB Data,Visa,HotSpot,Megacard
+PHNT128PSIMT5DDT,TF128PSIMT5DD,New,33178,GSM,1GB Data,Visa,HotSpot,Megacard
+PHNT128PSIMT5NDT,TF128PSIMT5ND,New,33178,GSM,500MB Data,Visa,HotSpot,Megacard
+NTZEZ232TGGYP5AS,TF128PSIMT5RM,New,33178,GSM,Unlimited $35,Visa,Non-Android,Megacard
+NTZEZ861BGDG,TF128PSIMCL7N,New,00692,GSM,Unlimited International Monthly,Visa,Android,Megacard
+NTSAS320VCPAS,TF256PSIMV9N,New,33178,CDMA,Unlimited Monthly,Visa,Android,Megacard
+NTSAS550TGP5AS,TF128PSIMT5N,New,33178,GSM,Unlimited International Monthly,Discover,Android,Megacard
+NTZEZ916BGP4RS,TF128PSIMC4N,New,33178,GSM,Unlimited $60,Visa,Android,Megacard
+NTLGL53BGP4AS,TF128PSIMC4N,New,33178,GSM,Unlimited Monthly,Visa,Android,Megacard
+NTLGL56VCPDG,TF256PSIMV9N,New,33178,CDMA,Unlimited $40,Discover,Android,Megacard
+NTZEZ291DCP-5,TF256PSIMV9RM,New,33178,CDMA,1GB Data,ACH,HotSpot,Megacard
+NTSAS935DGSVP4RS,TF128PSIMC4N,New,33178,GSM,Unlimited $60,Visa,Android,Megacard
+NTSAS935DCSVPDG,TF256PSIMV9N,New,33178,CDMA,Unlimited Monthly,Visa,Android,Megacard
+NTSAG930VC3P,TF256PSIMV9N,New,33178,CDMA,Unlimited $35,American Express,Android,Megacard
+NTAPI5SG16GYV2,TF128PSIMC4N,New,33178,GSM,Unlimited $80,Visa,Android,Megacard
+NTAPI5SC16GYWHP,TF256PSIMV9N,New,33178,CDMA,Unlimited International Monthly,ACH,Android,Megacard
+NTAPI6C16SV,TF256PSIMV9N,New,33178,CDMA,Unlimited $60,American Express,Android,Megacard
+NTAPI6PC16GYWHP,TF256PSIMV9N,New,33178,CDMA,Unlimited Monthly,Visa,Android,Megacard
+NTAPI6SG16GDP4,TF128PSIMC4N,New,33178,GSM,Unlimited $40,Discover,Android,Megacard
+NTAPI6SC16GDPWP,TF256PSIMV9N,New,33178,CDMA,Unlimited $35,American Express,Android,Megacard
+NTAPI6SPG16SVP4,TF128PSIMC4N,New,33178,GSM,Unlimited $60,Visa,Android,Megacard
+NTAPI6SPC16GY,TF256PSIMV9N,New,33178,CDMA,Unlimited International Monthly,Discover,Android,Megacard
+NTLGLRS988VCPDG,TF256PSIMV9N,New,33178,CDMA,Unlimited $60,ACH,Android,Megacard
+NTHUH1511DGSVP5DG,TF128PSIMT5N,New,33178,GSM,Unlimited Monthly,Visa,Android,Megacard
+NTHUH1511DCPSP,TF256PSIMV9N,New,33178,CDMA,Unlimited $80,Discover,Android,Megacard
+NTAPISEG16GYU,TF128PSIMC4N,New,33178,GSM,Unlimited Monthly,American Express,Android,Megacard
+NTAPISEC16GY,TF256PSIMV9N,New,33178,CDMA,Unlimited Monthly,ACH,Android,Megacard
+NTZEZ828TGU,TF128PSIMT5N,New,33178,GSM,Unlimited International Monthly,Discover,Android,Megacard
+NTZEZ962BGP5,TF128PSIMC4N,New,33178,GSM,Unlimited Monthly,ACH,Android,Megacard
+NTZEZ963VCPFMP,TF256PSIMV9N,New,33178,CDMA,Unlimited Monthly,Visa,Android,Megacard
+NTLGL82VCPRS,TF256PSIMV9N,New,33178,CDMA,Unlimited $70,Visa,Android,Megacard
+NTLGL62VCPSP,TF256PSIMV9N,New,33178,CDMA,Unlimited Monthly,Visa,Android,Megacard
+NTLGL61AGR4,TF128PSIMC4N,New,33178,GSM,Unlimited International Monthly,ACH,Android,Megacard
+NTLGL44VCDG,TF256PSIMV9N,New,33178,CDMA,Unlimited Monthly,Visa,Android,Megacard
+NTLGL52VCPRS,TF256PSIMV9N,New,33178,CDMA,Unlimited $80,American Express,Android,Megacard
+NTALA521GP4P,TF64PSIMC4RM,New,33178,GSM,Unlimited $40,Visa,Android,Megacard
+NT256PBYOPD,TF256PSIMV9DD,New,33178,CDMA,Unlimited $40,Visa,Android,Megacard

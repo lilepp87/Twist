@@ -1,0 +1,17 @@
+Tags:services,soa,set6
+Preconditions:On tas HomePage,Log out
+Activate Phone, Create Account:
+#Enter "New" Esn for part <From Part> sim <Form SIM>
+#Create account for <Brand>
+#Activate phone by using pin <From PIN> depending on status "New" of cell tech <From Tech>  zip <Zip>
+#Add remaining  phones for <# Devices>  line plan of part <Child> "" "" with sim <ChildSim> "" ""
+#Checkout and process transaction
+
+Activate Phone, Phone Upgrade, Redemption, Support:
+#Select <Upgrade For?> ESN for upgrade
+#Add ESN status <To Status> part number <To Part> sim <To SIM> pin <To PIN> of cell tech <To Tech> zip <Zip>
+#Add SIM <To SIM> to ESN for status <To Status>
+#Create Flash with type <Flash>
+
+PhoneUpgradeService:
+#Call PhoneUpgradeService<Flash> "243"

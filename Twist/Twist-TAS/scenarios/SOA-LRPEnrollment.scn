@@ -1,0 +1,13 @@
+Tags:set6,services,soa
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+.
+Activate Phone, Create Account:
+#Enter <Status> Esn for part <PartNumber> sim <SIM>
+#Create account for <Brand>
+#Activate phone by using pin <PIN> depending on status <Status> of cell tech <CellTech> zip <Zip Code>
+#Update Contact Detail
+#Checkout and process transaction
+
+
+LRPEnrollmentServices:
+#callLRPEnrollment

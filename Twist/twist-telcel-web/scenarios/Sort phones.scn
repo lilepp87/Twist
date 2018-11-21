@@ -1,0 +1,6 @@
+Tags:
+Preconditions:On HomePage,Logout
+Browse:
+#Go to Phones <ZipCode>
+#Select sort type <Sort key>
+#Check <Phone> is shown

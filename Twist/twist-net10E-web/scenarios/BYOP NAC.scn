@@ -1,0 +1,19 @@
+Tags:NT4
+Preconditions:On net10 english home page
+Register BYOP:
+#Go to register BYOP CDMA page
+#Choose carrier <Carrier>
+#Enter <Active?> esn <ESN> Sim <SIM>and carrier <Carrier> for lte <is LTE?> iphone <is iPhone 5?> with zip <ZIP> 
+#Choose "REGISTER AND ACTIVATE" for ESN Status <Active?> if lte <is LTE?> and Sim <SIM> and NAC ""
+
+Register BYOP:
+#Complete Shipping details for Domain"SIM CARDS" if  lte <is LTE?> and already have SIM <SIM> 
+
+Start Activation, Create Account:
+#Select new number for BYOP NAC
+#Create new account for Esn
+#Enter <ESN> Esn for model with status "New" and zip code <ZIP>
+
+Finish Activation with PIN, Register BYOP:
+#Activate with pin <PIN> for BYOP
+#Finish activation

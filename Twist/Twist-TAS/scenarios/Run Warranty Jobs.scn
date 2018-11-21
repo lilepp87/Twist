@@ -1,0 +1,6 @@
+Tags:DSS,in-progress
+Preconditions:On DSS dashboard page
+Run Jobs:
+#Choose inputs as <Brand> Job name <Job-Name> and Env <Env>
+#Submit request
+#Check for confiramtion

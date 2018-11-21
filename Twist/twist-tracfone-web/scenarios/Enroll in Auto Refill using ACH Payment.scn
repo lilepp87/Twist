@@ -1,0 +1,21 @@
+Tags:brightpoint
+Preconditions:On Tracfone Home Page,Log Out
+
+Activate Phone, Create Account:
+#Go to activate my TracFone For<Part Number>
+#Enter "New" Esn <Part Number> SIM card <SIM> and zip code <Zip Code>
+#Enter pin card number <PIN> "" ""
+#Select register
+#Delay
+#Verify message for cell tech
+#Complete the process for <Cell Tech> phone
+#Login to MyAccount
+#Verify Phone Number
+
+Buy Airtime, Enter Payment,Create Account:
+#Add ACH payment details
+#Go to Auto Refill Plans and Enter min
+#Enroll into  Auto Refill <Plan> 
+#Select Register
+#Enter ACH payment details
+#Verify purchase of Auto Refill airtime

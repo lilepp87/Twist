@@ -1,0 +1,6 @@
+Tags:
+Preconditions:On Dealerportal,Log Out
+Activate Phone:
+#Go to <Brand>
+#Go to Activation
+#Check Verbiage

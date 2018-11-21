@@ -1,0 +1,5 @@
+Tags:brightpoint
+Preconditions:
+BYOP Finder:
+#Go to BYOP Finder page
+#Enter ESN <Status> <Cell Tech> and Zip <ZIP>

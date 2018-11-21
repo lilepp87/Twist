@@ -1,0 +1,14 @@
+Tags:
+Preconditions:On telcel homepage,Log Out
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter <Status> Esn for part <Part Number> zip code <Zip Code> sim<Sim Number> and Pin number <Pin Card>
+#Enter Sim Card <Sim Number> depending on cell tech <Cell Tech> and status <Status>
+#Create new account
+#Complete activation process depending on status <Status> and cell tech <Cell Tech>
+
+Buy a Service Plan, Enter Payment:
+#Select Buy a Service Plan
+#Select service plan <Service Plan> and add <ILD> ild <Add Now?>
+#Enter payment with card type <Card Type>
+#Review Order Summary

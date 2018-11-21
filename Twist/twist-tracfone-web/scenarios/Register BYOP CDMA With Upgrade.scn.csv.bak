@@ -1,0 +1,5 @@
+Zip code,Carrier,Status,pin1,pin2,pin3,CellTech,SIM,Is LTE,Is IPhone
+33178,RSS,Active,TSAPP40300,,,CDMA,TF256PSIMV9ND,Yes,Yes
+33178,RSS,Not Active,TSAPP41500,,,CDMA,null,Yes,No
+33178,RSS,Active,TFBUY0120INDVP,,,CDMA,null,Yes,No
+33178,RSS,Not Active,TFBUYN0030INDVP,,,CDMA,null,No,No

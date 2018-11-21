@@ -1,0 +1,139 @@
+Status,PartNumber,SIM,Zip Code,PIN,CellTech,Brand,# Devices,Type,Reason,Replacement Type,Service Days,Service Plan
+New,STLCPOAMOTXCP,TF256PSIMV9N,33178,NTAPPMP00045,CDMA,STRAIGHT_TALK,,Replacement,Port Request(Active with new number and now requesting a Port),Open Access,25,"30 Days UNL Talk/Txt/Data w/ first 8 GB at High Speeds, and then at 2G*"
+New,STLG221CP,,33178,NTAPPMP00045,CDMA,STRAIGHT_TALK,,Replacement,Port Request Cancellation (Requested a Port and is now requesting a new number),Open Access,30,"$45 30-Day UNL TALK/TXT/DATA, first 8 GB at High Speeds then at 2G*"
+New,STLCPOAGS4CP,TF256PSIMV9RM,33178,NTAPPMP00045,CDMA,STRAIGHT_TALK,,Replacement,Activation/Reactivation Failure,Open Access,25,"30 Days UNL INTL Talk/Txt/Data w/ first 8 GB at High Speeds, and then at 2G*"
+New,ST3GCPOADROICP,,33178,NTAPPMP00045TRCDMA,CDMA,STRAIGHT_TALK,,Replacement,Airtime Conversion,Open Access,30,"90 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STLCPOAMOTXGP4,TF128PSIMC4N,33178,NTAPPMP00045SA,GSM,STRAIGHT_TALK,,Replacement,PIN Redeemed to Wrong Handset,Open Access,25,ST UNL GSM
+New,ST256PBYOPD,TF256PSIMV9DD,33178,STAPP00035,CDMA,STRAIGHT_TALK,,Replacement,Redemption Failure,Open Access,30,"365 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,ST256PBYOPN,TF256PSIMV9ND,33178,NTPMP00060ILD,CDMA,STRAIGHT_TALK,,Replacement,Retailer Exchange,Open Access,25,"31 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,ST256PBYOPAPN,TF256PSIMV9ND,33178,NTPMP00060ILD,CDMA,STRAIGHT_TALK,,Replacement,Upgrade Failure,Open Access,30,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,STZEZ289GP4,TF64SIMC4,33178,STAPPMB00040,GSM,STRAIGHT_TALK,,Replacement,Warehouse exchange - Past due,Open Access,25,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,STZEZ289GP5,TF64SIMT5,33178,STAPPMB00025,GSM,STRAIGHT_TALK,,Replacement,Port Request(Active with new number and now requesting a Port),Open Access,30,ST UNL ILD GSM
+New,STZEZ797CP,,33178,NTPMP00060ILD,CDMA,STRAIGHT_TALK,,Replacement,Port Request Cancellation (Requested a Port and is now requesting a new number),Open Access,25,"180 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STZEZ797C,,33178,NTNMP00045,CDMA,STRAIGHT_TALK,,Replacement,Activation/Reactivation Failure,Open Access,30,"365 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STREAX54NC,,33178,STAPPHA0001M,CDMA,STRAIGHT_TALK,,Replacement,Airtime Conversion,Open Access,25,"32 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STREAX54NCPWP,,33178,STAPPHA0001Y,CDMA,STRAIGHT_TALK,,Replacement,PIN Redeemed to Wrong Handset,Open Access,30,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,STSAS765CP,,33178,NTNMP00045,CDMA,STRAIGHT_TALK,,Replacement,Redemption Failure,Open Access,25,"32 Days UNL INTL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STSAS765C,,33178,NTPMP00060ILD,CDMA,STRAIGHT_TALK,,Replacement,Retailer Exchange,Open Access,30,"90 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STSAS975GRCS,TF64PSIMC4RM,33178,NTAPPMP00045,GSM,STRAIGHT_TALK,,Replacement,Upgrade Failure,Open Access,25,ST 90 GSM
+New,STSAS890GR4,TF64PSIMC4RM,33178,NTAPPMP00045,GSM,STRAIGHT_TALK,,Replacement,Warehouse exchange - Past due,Open Access,30,ST 180 GSM
+New,STMTXT939GP5,TF64PSIMT5RM,33178,NTPMP00060ILD,GSM,STRAIGHT_TALK,,Replacement,Port Request(Active with new number and now requesting a Port),Open Access,25,ST 365 GSM
+New,STZEZ930GP5,TF64PSIMT5RM,33178,NTAPPMP00045SA,GSM,STRAIGHT_TALK,,Replacement,Port Request Cancellation (Requested a Port and is now requesting a new number),Open Access,30,ST UNL GSM
+New,PHST64PSIMT5MB,ST64PSIMT5MB,33178,NTPMP00060ILD,GSM,STRAIGHT_TALK,,Replacement,Activation/Reactivation Failure,Open Access,25,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,STHUH882CR,TF128PSIMS8M,33178,NTAPPMP00045SA,CDMA,STRAIGHT_TALK,,Replacement,Airtime Conversion,Open Access,30,"180 Days UNL Talk/Txt/Data w/ first 8 GB at High Speeds, and then at 2G*"
+New,STAPI5SG16GDP4P,TF128PSIMC4N,33178,STAPP00035,GSM,STRAIGHT_TALK,,Replacement,PIN Redeemed to Wrong Handset,Open Access,25,ST UNL ILD GSM
+New,STAPI5SG16GDR4,TF128PSIMC4N,33178,NTAPPMP00045SA,GSM,STRAIGHT_TALK,,Replacement,Redemption Failure,Open Access,30,ST 90 GSM
+New,STAPI5CG16GNP,TF128PSIMC4N,33178,NTAPPMP00045SA,GSM,STRAIGHT_TALK,,Replacement,Retailer Exchange,Open Access,25,ST 180 GSM
+New,STAPI5CG16PKR,TF128PSIMC4N,33178,NTAPPMP00045SA,GSM,STRAIGHT_TALK,,Replacement,Upgrade Failure,Open Access,30,ST 365 GSM
+New,STZEZ665CP,,33178,NTNMP00045,CDMA,STRAIGHT_TALK,,Replacement,Warehouse exchange - Past due,Open Access,25,"34 Days UNL INTL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STZEZ660GP4,TF64PSIMC4,33178,NTNMP00045,GSM,STRAIGHT_TALK,,Replacement,Port Request(Active with new number and now requesting a Port),Open Access,30,ST UNL GSM
+New,STZEZ750C,,33178,NTNMP00045,CDMA,STRAIGHT_TALK,,Replacement,Port Request Cancellation (Requested a Port and is now requesting a new number),Open Access,25,"180 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STZEZ796CP,,33178,STAPP00035,CDMA,STRAIGHT_TALK,,Replacement,Activation/Reactivation Failure,Open Access,30,"365 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STLG236CP,,33178,NTNMP00045,CDMA,STRAIGHT_TALK,,Replacement,Airtime Conversion,Open Access,25,"35 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STLGL25CWHP,TF128PSIMS8M,33178,NTAPPMP00045SA,CDMA,STRAIGHT_TALK,,Replacement,PIN Redeemed to Wrong Handset,Open Access,30,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,STLGL55CP,,33178,NTAPPMP00045SA,CDMA,STRAIGHT_TALK,,Replacement,Redemption Failure,Open Access,25,"35 Days UNL INTL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STLGL25C,TF128PSIMS8M,33178,NTAPPMP00045SA,CDMA,STRAIGHT_TALK,,Replacement,Retailer Exchange,Open Access,30,"90 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STSAR375CP,,33178,NTPMP00060ILD,CDMA,STRAIGHT_TALK,,Replacement,Upgrade Failure,Open Access,25,"180 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STSAS960C,,33178,NTPMP00060ILD,CDMA,STRAIGHT_TALK,,Replacement,Warehouse exchange - Past due,Open Access,30,"365 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STSAR355CP,,33178,NTPMP02999,CDMA,STRAIGHT_TALK,,Replacement,Port Request(Active with new number and now requesting a Port),Open Access,25,"36 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STMTXT555CP,,33178,STAPP00035,CDMA,STRAIGHT_TALK,,Replacement,Port Request Cancellation (Requested a Port and is now requesting a new number),Open Access,30,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,STSAM828CP,,33178,NTPMP00060ILD,CDMA,STRAIGHT_TALK,,Replacement,Activation/Reactivation Failure,Open Access,25,"36 Days UNL INTL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STALA554CP,,33178,NTAPPMP00045SA,CDMA,STRAIGHT_TALK,,Replacement,Airtime Conversion,Open Access,30,"90 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STHUM865CP,,33178,NTNMP00045,CDMA,STRAIGHT_TALK,,Replacement,PIN Redeemed to Wrong Handset,Open Access,25,"180 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STLG221CP,,33178,NTAPPMP00045SA,CDMA,STRAIGHT_TALK,,Replacement,Redemption Failure,Open Access,30,"365 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STLG231CP,,33178,STAPP01500,CDMA,STRAIGHT_TALK,,Replacement,Retailer Exchange,Open Access,25,"37 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STLG800GP5,TF64SIMT5,33178,STAPP00035,GSM,STRAIGHT_TALK,,Replacement,Upgrade Failure,Open Access,30,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,STMTEX431GP4,TF64SIMC4,33178,NTAPPMP00045SA,GSM,STRAIGHT_TALK,,Replacement,Warehouse exchange - Past due,Open Access,25,ST UNL ILD GSM
+New,STMTW418GP5,TF64SIMT5,33178,NTPMP02999,GSM,STRAIGHT_TALK,,Replacement,Port Request(Active with new number and now requesting a Port),Open Access,30,ST 90 GSM
+New,STSAS959GP4,TF64PSIMC4,33178,NTNMP00045,GSM,STRAIGHT_TALK,,Replacement,Port Request Cancellation (Requested a Port and is now requesting a new number),Open Access,25,ST 180 GSM
+New,STNK6790GP5,TF64PSIMC4,33178,STAPP00035,GSM,STRAIGHT_TALK,,Replacement,Activation/Reactivation Failure,Open Access,30,ST 365 GSM
+New,STNKE5GP4,TF64PSIMC4,33178,NTNMP00045,GSM,STRAIGHT_TALK,,Replacement,Airtime Conversion,Open Access,25,ST UNL GSM
+New,STRM9310C,,33178,NTNMP00045,CDMA,STRAIGHT_TALK,,Replacement,PIN Redeemed to Wrong Handset,Open Access,30,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,STSAS738CP,,33178,NTAPPMP00045SA,CDMA,STRAIGHT_TALK,,Replacement,Redemption Failure,Open Access,25,"38 Days UNL INTL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,GPAPI4SCP,,33178,NTPMP00060ILD,CDMA,STRAIGHT_TALK,,Replacement,Retailer Exchange,Open Access,30,"90 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STUXU240C,,33178,STNMB00040,CDMA,STRAIGHT_TALK,,Replacement,Upgrade Failure,Open Access,25,"180 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STUXU240CPWP,,33178,STNMB00050,CDMA,STRAIGHT_TALK,,Replacement,Warehouse exchange - Past due,Open Access,30,"365 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STUXU240CR,,33178,STNMB00015,CDMA,STRAIGHT_TALK,,Replacement,Port Request(Active with new number and now requesting a Port),Open Access,25,"39 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STBYOCNL,,33178,NTPMP00060ILD,CDMA,STRAIGHT_TALK,,Replacement,Port Request Cancellation (Requested a Port and is now requesting a new number),Open Access,30,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,STBYOCNRS,,33178,NTPMP00060ILD,CDMA,STRAIGHT_TALK,,Replacement,Activation/Reactivation Failure,Open Access,25,"39 Days UNL INTL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STBYOPVZ,,33178,STAPP00035,CDMA,STRAIGHT_TALK,,Replacement,Airtime Conversion,Open Access,30,"90 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STMTXT937C,,33178,NTNMP00045,CDMA,STRAIGHT_TALK,,Replacement,PIN Redeemed to Wrong Handset,Open Access,25,"180 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STMTXT937CWHP,,33178,NTNMP00045,CDMA,STRAIGHT_TALK,,Replacement,Redemption Failure,Open Access,30,"365 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STALA383G,TF64SIMC4,33178,NTPMP00060ILD,GSM,STRAIGHT_TALK,,Replacement,Retailer Exchange,Open Access,25,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,STALA383GP4SV,TF64SIMT5,33178,NTNMP00045,GSM,STRAIGHT_TALK,,Replacement,Upgrade Failure,Open Access,30,ST UNL ILD GSM
+New,STALA383GWHP,TF64SIMCL7,00692,NTNMP00045,GSM,STRAIGHT_TALK,,Replacement,Warehouse exchange - Past due,Open Access,25,ST 90 GSM
+New,STLGL34C,,33178,NTPMP00060ILD,CDMA,STRAIGHT_TALK,,Replacement,Port Request(Active with new number and now requesting a Port),Open Access,30,"90 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STLGL34CPWP,,33178,STAPP00035,CDMA,STRAIGHT_TALK,,Replacement,Port Request Cancellation (Requested a Port and is now requesting a new number),Open Access,25,"180 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STALA851GP,TF64PSIMC4RM,33178,NTNMP00045,GSM,STRAIGHT_TALK,,Replacement,Activation/Reactivation Failure,Open Access,30,ST 180 GSM
+New,STALA851GRCS5,TF64PSIMC4RM,33178,NTNMP00045,GSM,STRAIGHT_TALK,,Replacement,Airtime Conversion,Open Access,25,ST 365 GSM
+New,STLG306G,TF64SIMT5,33178,STAPP01500,GSM,STRAIGHT_TALK,,Replacement,PIN Redeemed to Wrong Handset,Open Access,30,ST UNL GSM
+New,STLG306GRCS5,TF64SIMC4,33178,STAPP01500,GSM,STRAIGHT_TALK,,Replacement,Redemption Failure,Open Access,25,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,STLG306GWHP,TF128SIMT5,33178,STAPP01500,GSM,STRAIGHT_TALK,,Replacement,Retailer Exchange,Open Access,30,ST UNL ILD GSM
+New,STZEZ250GP,TF64SIMT5,33178,NTPMP00060ILD,GSM,STRAIGHT_TALK,,Replacement,Upgrade Failure,Open Access,25,ST 90 GSM
+New,STZEZ250GWHP,TF64SIMT5,33178,STAPPMB00050,GSM,STRAIGHT_TALK,,Replacement,Warehouse exchange - Past due,Open Access,30,ST 180 GSM
+New,STLG305C,,33178,STAPP01500,CDMA,STRAIGHT_TALK,,Replacement,Port Request(Active with new number and now requesting a Port),Open Access,25,"42 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STLG305CPWP,,33178,NTAPPMP00045SA,CDMA,STRAIGHT_TALK,,Replacement,Port Request Cancellation (Requested a Port and is now requesting a new number),Open Access,30,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,STREAX54NC,,33178,STAPPHA0001M,CDMA,STRAIGHT_TALK,,Replacement,Activation/Reactivation Failure,Open Access,25,"42 Days UNL INTL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STREAX54NCPWP,,33178,STAPPHA0001Y,CDMA,STRAIGHT_TALK,,Replacement,Airtime Conversion,Open Access,30,"90 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STSAS765CP,,33178,NTNMP00045,CDMA,STRAIGHT_TALK,,Replacement,PIN Redeemed to Wrong Handset,Open Access,25,"180 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STSAS765C,,33178,NTPMP00060ILD,CDMA,STRAIGHT_TALK,,Replacement,Redemption Failure,Open Access,30,"365 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STSAS975GRCS,TF64PSIMC4RM,33178,NTAPPMP00045,GSM,STRAIGHT_TALK,,Replacement,Retailer Exchange,Open Access,25,ST UNL GSM
+New,STSAS890GR4,TF64PSIMC4RM,33178,NTAPPMP00045,GSM,STRAIGHT_TALK,,Replacement,Upgrade Failure,Open Access,30,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,STMTXT939GP5,TF64PSIMT5RM,33178,NTPMP00060ILD,GSM,STRAIGHT_TALK,,Replacement,Warehouse exchange - Past due,Open Access,25,ST UNL ILD GSM
+New,STZEZ930GP5,TF64PSIMT5RM,33178,STAPP00035,GSM,STRAIGHT_TALK,,Replacement,Port Request(Active with new number and now requesting a Port),Open Access,30,ST 90 GSM
+New,PHST64PSIMT5BMBT,TF64PSIMT5DD,33178,STPMB00040BYOT,GSM,STRAIGHT_TALK,,Replacement,Port Request Cancellation (Requested a Port and is now requesting a new number),Open Access,25,ST UNL GSM
+New,PHST128PSIMT5ND,TF128PSIMT5ND,33178,STAPPMB00050,GSM,STRAIGHT_TALK,,Replacement,Activation/Reactivation Failure,Open Access,30,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,STLGL31G,TF64PSIMC4RM,33178,NTAPPMP00045,GSM,STRAIGHT_TALK,,Replacement,Airtime Conversion,Open Access,25,ST UNL ILD GSM
+New,STLGL31GRCS,TF64PSIMC4RM,33178,NTAPPMP00045SA,GSM,STRAIGHT_TALK,,Replacement,PIN Redeemed to Wrong Handset,Open Access,30,ST 90 GSM
+New,STLGL31GWHP4,TF64PSIMC4RM,33178,NTPMP00060ILD,GSM,STRAIGHT_TALK,,Replacement,Redemption Failure,Open Access,25,ST UNL GSM
+New,STAVV10GP,JASPER2FF,33178,STAPPCC0010D,GSM,STRAIGHT_TALK,,Replacement,Retailer Exchange,Open Access,30,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,STAVV10G,JASPER2FF,33178,STAPPCC0001M,GSM,STRAIGHT_TALK,,Replacement,Upgrade Failure,Open Access,25,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,PHST64PSIMT5BMB,TF64PSIMT5BMB,33178,STAPP00035,GSM,STRAIGHT_TALK,,Replacement,Warehouse exchange - Past due,Open Access,30,ST 90 GSM
+New,PHST128PSIMC4NB,TF128PSIMC4NB,33178,NTPMP00060ILD,GSM,STRAIGHT_TALK,,Replacement,Port Request(Active with new number and now requesting a Port),Open Access,25,ST 90 GSM
+New,STALA995GP4P,TF64PSIMC4RM,33178,NTAPPMP00045SA,GSM,STRAIGHT_TALK,,Replacement,Port Request Cancellation (Requested a Port and is now requesting a new number),Open Access,30,ST UNL GSM
+New,STALA995GWHP4,TF64PSIMC4RM,33178,NTPMP00060ILD,GSM,STRAIGHT_TALK,,Replacement,Activation/Reactivation Failure,Open Access,25,ST 90 GSM
+New,STZEZ667GP4P,TF64PSIMC4RM,33178,NTPMP00060ILD,GSM,STRAIGHT_TALK,,Replacement,Airtime Conversion,Open Access,30,ST UNL GSM
+New,STZEZ667GP5P,TF64PSIMT5RM,33178,STAPP00035,GSM,STRAIGHT_TALK,,Replacement,PIN Redeemed to Wrong Handset,Open Access,25,ST 90 GSM
+New,STALA845GWHP4,TF64PSIMC4,33178,STAPP00035,GSM,STRAIGHT_TALK,,Replacement,Redemption Failure,Open Access,30,ST 180 GSM
+New,STLGL41CR,,33178,NTAPPMP00045SA,CDMA,STRAIGHT_TALK,,Replacement,Retailer Exchange,Open Access,25,"46 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STALA564CWHP,,33178,NTNMP00045,CDMA,STRAIGHT_TALK,,Replacement,Upgrade Failure,Open Access,30,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,STHUH871GWHP5,TF64PSIMT5RM,33178,NTNMP00045,GSM,STRAIGHT_TALK,,Replacement,Warehouse exchange - Past due,Open Access,25,ST UNL GSM
+New,STMTXT830CRCS,,33178,NTNMP00045,CDMA,STRAIGHT_TALK,,Replacement,Port Request(Active with new number and now requesting a Port),Open Access,30,"90 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STHUH871GP4P,TF64PSIMC4RM,33178,NTNMP00045,GSM,STRAIGHT_TALK,,Replacement,Port Request Cancellation (Requested a Port and is now requesting a new number),Open Access,25,ST UNL ILD GSM
+New,STZEZ932CR,TF256PSIMV9RM,33178,NTPMP00060ILD,CDMA,STRAIGHT_TALK,,Replacement,Activation/Reactivation Failure,Open Access,30,"365 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STZEZ932CWHP,TF256PSIMV9RM,33178,NTNMP00045,CDMA,STRAIGHT_TALK,,Replacement,Airtime Conversion,Open Access,25,"47 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STZEZ288CWHP,TF256PSIMV9,33178,STAPPMB00050,CDMA,STRAIGHT_TALK,,Replacement,PIN Redeemed to Wrong Handset,Open Access,30,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,STUXU671CWHP,,33178,NTPMP00060ILD,CDMA,STRAIGHT_TALK,,Replacement,Redemption Failure,Open Access,25,"47 Days UNL INTL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STUXU671CPWP,,33178,NTNMP00045,CDMA,STRAIGHT_TALK,,Replacement,Retailer Exchange,Open Access,30,"90 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STAPI6G64SVWHP4,TF128PSIMC4N,33178,NTPMP00060ILD,GSM,STRAIGHT_TALK,,Replacement,Upgrade Failure,Open Access,25,ST 180 GSM
+New,STAPI6G128GDR,TF128PSIMC4N,33178,NTNMP00045,GSM,STRAIGHT_TALK,,Replacement,Warehouse exchange - Past due,Open Access,30,ST UNL ILD GSM
+New,STZEZ752CWHP,,33178,NTNMP00045,CDMA,STRAIGHT_TALK,,Replacement,Port Request(Active with new number and now requesting a Port),Open Access,25,"48 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STZEZ753GWHP5,TF64PSIMT5RM,33178,NTNMP00045,GSM,STRAIGHT_TALK,,Replacement,Port Request Cancellation (Requested a Port and is now requesting a new number),Open Access,30,ST 180 GSM
+New,STHUH892CP,TF256PSIMV9RM,33178,NTPMP00060ILD,CDMA,STRAIGHT_TALK,,Replacement,Activation/Reactivation Failure,Open Access,25,"48 Days UNL INTL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STLGL22CPWP,,33178,STAPP00035,CDMA,STRAIGHT_TALK,,Replacement,Airtime Conversion,Open Access,30,"90 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STALA460GP5P,TF64PSIMT5RM,33178,NTNMP00045,GSM,STRAIGHT_TALK,,Replacement,PIN Redeemed to Wrong Handset,Open Access,25,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,STZEZ791GR5,TF128PSIMT5RM,33178,STAPP20055,GSM,STRAIGHT_TALK,,Replacement,Redemption Failure,Open Access,30,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,STZEZ793CPWP,,33178,NTNMP00045Y1,CDMA,STRAIGHT_TALK,,Replacement,Retailer Exchange,Open Access,25,"49 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STSAS777CRCS,,33178,NTAPPMP00045SA,CDMA,STRAIGHT_TALK,,Replacement,Upgrade Failure,Open Access,30,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,STLGL33GP4P,TF128PSIMC4RM,33178,NTAPPMP00060ILD,GSM,STRAIGHT_TALK,,Replacement,Warehouse exchange - Past due,Open Access,25,ST UNL GSM
+New,STHUH258CR,,33178,STNHPAPPUNLILD60,CDMA,STRAIGHT_TALK,,Replacement,Port Request(Active with new number and now requesting a Port),Open Access,30,"90 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,ST3GCPOAMOTXGP5,TF128PSIMT5N,33178,NTAPPMP00045TR,GSM,STRAIGHT_TALK,,Replacement,Port Request Cancellation (Requested a Port and is now requesting a new number),Open Access,25,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,ST3GCPOAI5SGP5,TF128PSIMT5N,33178,NTAPPMP000451Y,GSM,STRAIGHT_TALK,,Replacement,Activation/Reactivation Failure,Open Access,30,ST 90 GSM
+New,STLCPOAMOTXCP,TF256PSIMV9N,33178,NTAPPMP00045,CDMA,STRAIGHT_TALK,,Replacement,Airtime Conversion,Open Access,25,"50 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STLCPOAGS4CP,TF256PSIMV9RM,33178,NTAPPMP00045,CDMA,STRAIGHT_TALK,,Replacement,PIN Redeemed to Wrong Handset,Open Access,30,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,ST3GCPOADROICP,,33178,NTNMP00045M6,CDMA,STRAIGHT_TALK,,Replacement,Redemption Failure,Open Access,25,"50 Days UNL INTL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STLCPOAMOTXGP4,TF128PSIMC4N,33178,NTNMP00060ILD,GSM,STRAIGHT_TALK,,Replacement,Retailer Exchange,Open Access,30,ST UNL GSM
+New,STZEZ819CWHP,TF256PSIMV9RM,33178,NTNMP00045,CDMA,STRAIGHT_TALK,,Replacement,Upgrade Failure,Open Access,25,"180 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STALA463BGRCS,TF128PSIMC4RM,33178,NTNMP00045,GSM,STRAIGHT_TALK,,Replacement,Warehouse exchange - Past due,Open Access,30,"$55 30-Day UNL TALK/TXT/DATA, first 10 GB at High Speeds then at 2G*"
+New,STALA463BGRCS,TF128PSIMC4RM,33178,NTNMP00045,GSM,STRAIGHT_TALK,,Replacement,Port Request(Active with new number and now requesting a Port),Open Access,25,ST 90 GSM
+New,STHTC122VCR,TF256PSIMV9N,33178,NTNMP00045,GSM,STRAIGHT_TALK,,Replacement,Port Request Cancellation (Requested a Port and is now requesting a new number),Open Access,30,ST 180 GSM
+New,STLG109CR,,33178,NTAPPMP00045,CDMA,STRAIGHT_TALK,,Replacement,Activation/Reactivation Failure,Open Access,25,"51 Days UNL INTL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STSAS906CP,TF256PSIMV9N,33178,NTAPPMP00045TR,CDMA,STRAIGHT_TALK,,Replacement,Airtime Conversion,Open Access,30,"90 Days UNL Talk/Txt/Data w/ first 8 GB at High Speeds, and then at 2G*"
+New,STALA462CR,,33178,NTAPPMP00045SA,CDMA,STRAIGHT_TALK,,Replacement,PIN Redeemed to Wrong Handset,Open Access,25,"180 Days UNL Talk/Txt/Data w/ first 8 GB at High Speeds, and then at 2G*"
+New,STALA394CPWP,,33178,STAPP01500,CDMA,STRAIGHT_TALK,,Replacement,Redemption Failure,Open Access,30,"365 Days UNL Talk/Txt/Data w/ first 5 GB at High Speeds, and then at 2G*"
+New,STAPI6SG16GYP4P,TF128PSIMC4N,33178,NTAPPMP000451Y,GSM,STRAIGHT_TALK,,Replacement,Retailer Exchange,Open Access,25,ST UNL GSM
+New,STAPI6SC16GYP,TF256PSIMV9N,33178,NTAPPMP00045,CDMA,STRAIGHT_TALK,,Replacement,Upgrade Failure,Open Access,30,"$45 30-Day UNL TALK/TXT/DATA, first 8 GB at High Speeds then at 2G*"
+New,STAPI6SPG16RGWHP,TF128PSIMC4N,33178,NTAPPMP00045,GSM,STRAIGHT_TALK,,Replacement,Warehouse exchange - Past due,Open Access,25,ST 365 GSM
+New,STAPI6SPC16GYPWP,TF256PSIMV9N,33178,NTAPPMP00045TR,CDMA,STRAIGHT_TALK,,Replacement,Port Request(Active with new number and now requesting a Port),Open Access,30,"90 Days UNL Talk/Txt/Data w/ first 8 GB at High Speeds, and then at 2G*"
+New,STLGL17AG,TF128PSIMC4RM,33178,NTPU0001,GSM,STRAIGHT_TALK,,Replacement,Port Request Cancellation (Requested a Port and is now requesting a new number),Open Access,25,ST 180 GSM
+New,STLGL17AGP,TF128PSIMCL7RM,00692,NTAPP6U035,GSM,STRAIGHT_TALK,,Replacement,Activation/Reactivation Failure,Open Access,30,ST UNL GSM

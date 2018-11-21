@@ -1,0 +1,9 @@
+Tags:app,services
+Preconditions:On tas HomePage,Log out
+
+MyAccountApp, Family Mobile Operations, TossUtil, Activate Phone:
+#Create account for part <ESN> sim <SIM> brand <BRAND>
+#Search for Esn
+#Activate phone by using pin <PIN> depending on status <STATUS> of cell tech <TECH> zip <ZIP>
+#Checkout and process transaction
+#Call APN settings for <DEVICE> phone <BRAND>

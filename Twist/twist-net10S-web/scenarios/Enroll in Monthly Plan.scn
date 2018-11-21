@@ -1,0 +1,8 @@
+Tags:
+Preconditions:On Net10 Spanish Home Page,Log out
+Enroll in Plan, Enter Payment Information:
+#Go to Enroll in Monthly Plans
+#Register or log in for model <Part Number> and zip <Zip Code>
+#Select the plan <Monthly Plan> for phone type <Phone Type>
+#Enter payment information with card number <Credit Card> zip code <Zip Code> card type <Card Type>
+#Check that the purchase was successful

@@ -1,0 +1,8 @@
+Tags:update,shop
+Preconditions:On SimpleMobile HomePage
+Add Service Plan, Enter Payment, Shop:
+#Go to international calling
+#Enter phone number <PartNumber> and quantity <ILD>
+#Go to cart and checkout
+#Enter Credit Card <CardType> details and purchase
+#Confirm Order

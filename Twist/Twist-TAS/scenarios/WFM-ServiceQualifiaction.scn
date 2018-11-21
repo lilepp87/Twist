@@ -1,0 +1,5 @@
+Tags:services,wfm
+Preconditions:closeBrowser
+Activate Phone, Create Account, MyAccountApp, TossUtil, Family Mobile Operations:
+#Create account for part <PartNumber> sim <SIM> brand <BRAND>
+#Service qualification by nap <Action> <Zipcode> and pin <PIN>

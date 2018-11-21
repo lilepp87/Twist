@@ -1,0 +1,5 @@
+Tags:brightpoint
+Preconditions:
+
+Coverage inquiry services usage:
+#Get Coverage Map for Brand <Brand> with Part class <PartClass> and zipcode <Zip Code> and carrier <Carrier> and Partnumber <Partnumber>

@@ -1,0 +1,10 @@
+Tags:ST5
+Preconditions:On Straighttalk Home Page,Log Out
+Port Number, Activate phone, Create Account:
+#Go to Activate Option
+#Enter <Status> esn for part <Part> and sim <SIM>
+#Enter external number from <Provider> and zip <Zip Code>
+#Enter pin <PIN>
+#Log in depending on status <Status>
+#Create new account depending on status <Status>
+#Finish port

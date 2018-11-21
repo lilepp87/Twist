@@ -1,0 +1,14 @@
+Tags:brightpoint,in-progress
+Preconditions:
+Register BYOP, Enter Payment:
+#Go to register BYOP CDMA page
+#Choose the Carrier  "Other"
+#Enter  "Active" esn Sim "null"and carrier "RSS" for lte "Yes" iphone "No" with zip "33178"
+#Choose "REGISTER AND ACTIVATE" for ESN Status "Not Active" if lte "Yes" and Sim "TF256PSIMV9DD" and NAC ""
+
+Activate Phone, Create Account:
+#Enter BYOP ESN and Zip"33178"
+#Enter pin card number "TSAPP40300" "" ""
+#Select Register
+#Verify message for cell tech
+#Complete the process for "CDMA" phone

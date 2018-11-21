@@ -1,0 +1,19 @@
+Tags:tf2
+Preconditions:On Tracfone Home Page,Log Out
+.
+Activate Phone, Create Account:
+#Setup ESN based on status "New" and part <Part Number>
+#Go to activate my TracFone For<Part Number>
+#Enter "New" Esn <Part Number> SIM card<SIM> and Zip code<Zip Code>
+#Enter pin card number <PIN> "" ""
+#Skip Register
+#Delay
+#Verify message for cell tech
+#Complete the process for <Cell Tech> phone
+
+Buy Airtime, Enter Payment,Create Account:
+#Go to Auto Refill Plans and Enter min
+#Enroll into  Auto Refill <Plan> 
+#Select Register
+#Enter credit card <Card>
+#Verify purchase of Auto Refill airtime

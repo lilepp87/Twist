@@ -1,0 +1,10 @@
+Tags:set4
+Preconditions:On tas HomePage,Log out
+.
+Port Out:
+# Find <Status> ESN For Part Number <Part_Number> ""
+#Go to Port Out
+#create Ticket For Port Out
+#Check for confirmation
+#add Notes Change Status Shipping Details
+#Complete portout

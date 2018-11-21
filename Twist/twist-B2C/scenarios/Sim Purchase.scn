@@ -1,0 +1,9 @@
+Tags:
+Preconditions:On HomePage,Logout
+Sim Purchase, Phone Purchase:
+#Go to sims
+#Choose sim type <Carrier>
+#Select Sim and Plan <Sim Type>
+#Go to cart and checkout
+#Enter credit card details <CC>
+#Finish order

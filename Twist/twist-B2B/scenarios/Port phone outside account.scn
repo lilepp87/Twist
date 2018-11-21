@@ -1,0 +1,8 @@
+Tags:FMS
+Preconditions:On B2B home page
+Activate:
+#Get new B2B "BYOP" esn
+#Go to activate
+#Choose port phone
+#Fill out from "Net10" phone "NTLGL95GP5" and zip "44114"
+#Check successful activation

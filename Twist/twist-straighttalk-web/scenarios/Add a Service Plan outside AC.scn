@@ -1,0 +1,17 @@
+Tags:ST2
+Preconditions:On Straighttalk HomePage,Log Out
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter <Status> esn for part <Esn> and sim <Sim Number>
+#Choose a new number for zip <Zip Code>
+#Enter pin <Pin Card>
+#Log in depending on status <Status>
+#Create new account depending on status <Status>
+#Complete activation process depending on status <Status> and cell tech <Cell Tech>
+#Log out
+
+Refill Using a Service Card:
+#Go to Refill
+#Enter Phone and Pin card <Pin Card 2>
+#Add pin <Queued?>
+#Complete the process

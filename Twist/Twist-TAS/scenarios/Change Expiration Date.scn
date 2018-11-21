@@ -1,0 +1,8 @@
+Tags:in-progress
+Preconditions:On tas HomePage,Log out
+TossUtil:
+#Get Esn for part <PartNumber> of status <Status>
+#Search for Esn
+#Go to Change Expiration Date
+#Enter expiration Date <New Exp. Date> 
+#Check for confirmation message

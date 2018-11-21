@@ -1,0 +1,18 @@
+Tags:
+Preconditions:On net10 english home page,Log out
+Start Activation, Create Account:
+#Set the status to <Lease Status> for esn <ESN Part> and sim <SIM>
+
+Start Activation, Create Account:
+#Go to activate phone
+#Select Activate My Net10 Phone
+#Create new account for Esn
+#Possibly join SIM <SIM> for cell tech <CellTech> and status <Status>
+#Enter Esn for model <ESN Part> with status <Status> and zip code <ZipCode>
+
+Finish Activation with PIN:
+#Enter <PinType> PIN <Pin> for phone 
+#Try to activate and check message for <Status> <CellTech> <PhoneType> phone and <PinType> PIN
+
+Start Activation, Create Account:
+#Redeem Leased Esn with <Pin>

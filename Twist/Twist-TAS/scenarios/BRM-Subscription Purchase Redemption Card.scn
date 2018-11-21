@@ -1,0 +1,5 @@
+Tags:brm,services,brm1
+Preconditions:closeBrowser
+BRM Operations, MyAccountApp, Family Mobile Operations, Invoke CBO:
+#Create A BillingAccount "1"
+#Call Subscription Purchase Redemption Card<Plan>

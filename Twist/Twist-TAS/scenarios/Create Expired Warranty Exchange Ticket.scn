@@ -1,0 +1,20 @@
+Tags: in-progress
+Preconditions:On tas HomePage,Log out
+. 
+Activate Phone, Create Account:
+# Enter <Status> Esn for part <ESN Part Num> sim <SIM Part>
+#Create account for <Brand>
+#Activate phone by using pin <PIN Part> depending on status <Status> of cell tech <Technology> zip <Zipcode>
+#Add remaining  phones for ""  line plan of part "" "" "" with sim """"""
+#Checkout and process transaction
+
+Case Operations,Solutions:
+#Set Installation date  to "430" days past to reach  Active days requirement
+#Go to solutions
+#select parent solution <Parent Solution> and <Child Solution>
+#select ticket type <Ticket Type>
+#select Case <Case Type> For Expired Warranty
+#Select part number for exchange <SIM Part>  of  types <Case/Type Exchange>
+#Choose sim profile based on sim type <SIM Part>
+#Continue to next steps 
+#Complete ship confirm  for <Case/Type Exchange>

@@ -1,0 +1,4 @@
+Tags:goapi
+Preconditions:
+Create Account:
+#Encrypt Payment for <cardType>

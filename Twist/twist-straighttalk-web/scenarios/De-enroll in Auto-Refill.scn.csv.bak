@@ -1,0 +1,61 @@
+Part Number,SIM,Zip Code,Status,Cell Tech,Plan,Reoccuring?,Card Type
+STLGL17AGP4P,TF128PSIMC4RM,33178,New,GSM,Unlimited International Plan,Reoccuring,Visa
+STLGL17AGR7,TF128PSIMCL7RM,00692,New,GSM,Unlimited Plan,Reoccuring,Discover
+STAPI6SG16GYR4,TF128PSIMC4N,33178,New,GSM,Unlimited International Plan,Reoccuring,Visa
+STAPI6SG16GYP4P,TF128PSIMC4N,33178,New,GSM,Unlimited Plan,Reoccuring,Visa
+STAPI6SC16RG,TF256PSIMV9N,33178,New,CDMA,Unlimited International Plan,Reoccuring,Visa
+STAPI6SC16RGR,TF256PSIMV9N,33178,New,CDMA,Unlimited Plan,Reoccuring,Visa
+STAPI6SPG16GDRB,TF128PSIMC4N,33178,New,GSM,Unlimited International Plan,Reoccuring,Visa
+STAPI6SPG16GDX,TF128PSIMC4N,33178,New,GSM,Unlimited Plan,Reoccuring,Visa
+STAPI6SPC16GYWHP,TF256PSIMV9N,33178,New,CDMA,Unlimited International Plan,Reoccuring,Visa
+STAPI6SPC16GYRB,TF256PSIMV9N,33178,New,CDMA,Unlimited Plan,Reoccuring,Visa
+STZEZ955GR,TF128PSIMC4RM,33178,,GSM,Unlimited Plan,Reoccuring,Discover
+STZEZ818GRCS4,TF64PSIMC4RM,33178,New,GSM,Unlimited International Plan,Reoccuring,Discover
+STALA463BGRCS5,TF64PSIMT5RM,33178,New,GSM,Unlimited Plan,Reoccuring,Visa
+ST3GCPOAI4CP,,33178,New,CDMA,Unlimited International Plan,Reoccuring,Visa
+PHST128PSIMC4DD,TF64PSIMC4DD,33178,New,GSM,BYOT 4 GB,Reoccuring,Discover
+STHUH891GRCS4,TF64SIMC4RM,33178,New,GSM,Unlimited Plan,Reoccuring,Discover
+STHUH258C,,33178,New,CDMA,Home Unlimited International,Reoccuring,Discover
+STALA846C,TF256PSIMV9RM,33178,New,CDMA,Unlimited International Plan,Reoccuring,Visa
+STALA520CPWP,TF256PSIMV9RM,33178,New,CDMA,Unlimited International Plan,Reoccuring,Discover
+STLGL33GWHP4,TF64SIMC4RM,33178,New,GSM,Unlimited Plan,Reoccuring,Visa
+STSAS978CWT,TF256PSIMV9N,33178,New,CDMA,Unlimited Plan,Reoccuring,Visa
+STZEZ753GP4P,TF64PSIMC4RM,33178,New,GSM,Unlimited Plan,Reoccuring,Visa
+STLGL15G,TF64PSIMC4RM,33178,New,GSM,Unlimited International Plan,Reoccuring,Visa
+STLG441GR,TF128SIMT5,33178,New,GSM,Unlimited International Plan,Reoccuring,Visa
+STSAS820CWHP,TF256PSIMV9RM,33178,New,CDMA,Unlimited International Plan,Reoccuring,Visa
+STSAS902CR,TF256PSIMV9RM,33178,New,CDMA,Unlimited Plan,Reoccuring,Discover
+STLG237CPWP,,33178,New,CDMA,Unlimited International Plan,Reoccuring,Visa
+STALA206GWHP4,TF128SIMT5RM,33178,New,GSM,Unlimited Plan,Reoccuring,Discover
+STHUH350P4,TF64SIMC4,33178,New,GSM,$40 Home Center,Reoccuring,Visa
+STMTW419GP4,TF64SIMCL7,00692,New,GSM,Unlimited Plan,Reoccuring,Discover
+STLG420GP4,TF64SIMCL7,00692,New,GSM,Unlimited Plan,Reoccuring,Discover
+PHST128PSIMCL7DD,TF128PSIMCL7DD,00692,New,GSM,Unlimited Plan,Reoccuring,Discover
+ST256PBYOPD,TF256PSIMV9DD,33178,New,CDMA,Unlimited International Plan,Reoccuring,Visa
+STUXU671CWHP,,33178,New,CDMA,Unlimited Plan,Reoccuring,Discover
+STZEZ288CR,TF256PSIMV9,33178,New,CDMA,Hotspot 7 GB,Reoccuring,Visa
+STHUH871GRCS,TF64PSIMT5RM,33178,New,GSM,Unlimited Plan,Reoccuring,Discover
+STMTXT830CP,,33178,New,CDMA,Unlimited International Plan,Reoccuring,Visa
+STZEZ932CPWP,TF256PSIMV9RM,33178,New,CDMA,Unlimited International Plan,Reoccuring,Visa
+STALA564CRCS,,33178,New,CDMA,Unlimited Plan,Reoccuring,Discover
+STLGL41CR,,33178,New,CDMA,Unlimited Plan,Reoccuring,Discover
+STALA845GRCS4,TF64PSIMC4,33178,New,GSM,Unlimited Plan,Reoccuring,Visa
+STZEZ667G,TF64PSIMC4RM,33178,New,GSM,Unlimited International Plan,Reoccuring,Discover
+STALA995GP4P,TF64PSIMC4RM,33178,New,GSM,Unlimited International Plan,Reoccuring,Visa
+STZEZ289GWHP,TF64SIMT5,33178,New,GSM,Hotspot 1 GB,Reoccuring,Visa
+STZEZ797CPWP,,33178,New,CDMA,Unlimited International Plan,Reoccuring,Visa
+STLGL31GP4,TF64PSIMC4RM,33178,New,GSM,Unlimited Plan,Reoccuring,Visa
+PHST64PSIMC4BMB,TF64PSIMC4BMB,33178,New,GSM,Unlimited Plan,Reoccuring,Visa
+PHST128PSIMT5NB,TF128PSIMT5NB,33178,New,GSM,Unlimited International Plan,Reoccuring,Visa
+PHST64PSIMT5DD,TF64PSIMT5DD,33178,New,GSM,BYOT 4 GB,Reoccuring,Visa
+PHST128PSIMC4ND,TF128PSIMC4ND,33178,New,GSM,BYOT 1 GB,Reoccuring,Visa
+STREAX54NCPWP,,33178,New,CDMA,Remote Alert Annual Plan,Reoccuring,Visa
+STLG305CPWP,,33178,New,CDMA,Unlimited International Plan,Reoccuring,Visa
+STSAS765CWHP,,33178,New,CDMA,Unlimited International Plan,Reoccuring,Visa
+STSAS975GP4,TF64PSIMC4RM,33178,New,GSM,Unlimited Plan,Reoccuring,Visa
+STSAS890GWHP,TF64PSIMC4RM,33178,New,GSM,Unlimited Plan,Reoccuring,Visa
+STMTXT555CP,,33178,New,CDMA,Unlimited Plan,Reoccuring,Discover
+STLG900GP4,TF64SIMC4,33178,New,GSM,All You Need Plan,Reoccuring,Visa
+STALA554CP,,33178,New,CDMA,Unlimited International Plan,Reoccuring,Discover
+STIPH6SPSOGSM,TF128PSIMC4N,33178,New,GSM,Unlimited Plan,Reoccuring,Visa
+STIPH6SSOCDMA,TF256PSIMV9N,33178,New,CDMA,Unlimited International Plan,Reoccuring,Discover

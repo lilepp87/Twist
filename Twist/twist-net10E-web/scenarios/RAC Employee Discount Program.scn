@@ -1,0 +1,6 @@
+Tags:brightpoint
+Preconditions:On net10 english home page,Log out
+Login, Add Airtime, Finish Activation with Service Plan:
+#Login to my account <RAC Email>
+#Enroll in autorefill for plan <Auto-refill Plan>
+#Check for RAC employee discount for plan <Auto-refill Plan>

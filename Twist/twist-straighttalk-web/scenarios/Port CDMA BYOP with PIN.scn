@@ -1,0 +1,12 @@
+Tags:ST4,byop
+Preconditions:On Straighttalk HomePage,Log out
+Activate Phone, Create Account, Register BYOP, Port Number:
+#Go to Activate BYOP Option
+#Choose the carrier <Carrier>
+#Enter "Active" <ESN Type> esn with zip <ZIP> lte <Is LTE?> carrier <Carrier> and iPhone 5 <Is iPhone 5?> isHd <isHD?>
+#Enter  "Active" <Carrier> cdma lte <Is LTE?> iphone <Is iPhone 5?> sim "Yes" isTrio <isTrio?>
+#Enter external number from "AT&T" and zip "33178"
+#Enter pin <PIN>
+#Log in depending on status "New"
+#Create new account depending on status "New"
+#Finish port

@@ -1,0 +1,10 @@
+Tags:B2B
+Preconditions:On B2B home page,Log out
+Create Account, Check:
+#Go to Login
+#Create Organization account "Parent"
+#Logout
+#Create Profile <Profile type>
+#Check for approval
+#Logout
+#Login as Buyer Admin "Parent" and  Approve "Profile"

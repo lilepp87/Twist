@@ -1,0 +1,13 @@
+Tags:NT1
+Preconditions:On net10 english home page,Log out
+Start Activation, Create Account:
+#Make past due depending on status <Status> for model <Part> and sim <SIM>
+#Go to activate phone
+#Select Activate My Net10 Phone
+#Skip account creation
+#Possibly join SIM <SIM> for cell tech <cellTech> and status <Status>
+#Enter Sim for model <Part>with status <Status>and zip code<Zip Code>
+
+Finish Activation with PIN:
+#Enter <Pin Type> PIN <Pin> for phone 
+#Try to activate and check message for <Status> <cellTech> <Phone Type> phone and <Pin Type> PIN

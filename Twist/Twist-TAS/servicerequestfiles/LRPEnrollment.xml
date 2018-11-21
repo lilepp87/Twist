@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:phon="http://b2b.tracfone.com/PhoneServices">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <phon:enrollmentAndpointsRequest>
+         <!--Optional:-->
+         <phon:min>@min</phon:min>
+      </phon:enrollmentAndpointsRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

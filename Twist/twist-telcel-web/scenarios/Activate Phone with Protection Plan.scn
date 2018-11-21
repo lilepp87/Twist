@@ -1,0 +1,9 @@
+Tags:HPP
+Preconditions:On telcel homepage,Log Out
+Activate Phone, Create Account,Enter Payment:
+#Go to Activate Option
+#Enter <Status> Esn for part <PartNumber> zip code <Zip> sim <sim> and Pin number <pin>
+#Enter Sim Card <sim> depending on cell tech <Cell Tech> and status <Status>
+#Create new account
+#Complete activation process depending on status <Status> and cell tech <Cell Tech>
+#Add Protection Plan <Protection Plan type> depends on zip <Zip>  with <Card Type> for part <PartNumber>

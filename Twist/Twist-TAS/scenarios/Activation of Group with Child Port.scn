@@ -1,0 +1,10 @@
+Tags:set4
+Preconditions:On tas HomePage,Log out
+ Activate Phone, Create Account, Port Number:
+#Enter <Status> Esn for part <PartNumber> sim <SIM>
+#Create account for <Brand>
+#Activate phone by using pin <PIN> depending on status <Status> of cell tech <CellTech> zip <Zip>
+#Select Port option for Child part <ChildPartNumber> zip<Zip>
+#Enter MIN from <Carrier> with part <Part>  zip <Zip>
+#Complete port  for child
+#Check for confirmation and complete activation for tech <CellTech>

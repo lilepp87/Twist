@@ -1,0 +1,17 @@
+Tags:brightpoint,in-progress
+Preconditions:On Tracfone Home Page,Log Out
+Metadata:ScenarioType=Auto
+Activate Phone, Create Account:
+#Go to activate my TracFone For<Part Number>
+#Enter "New" Esn <Part Number> SIM card<Sim Card> and Zip code<Zip Code>
+#Enter pin card number <Pin Card> <Pin Card2> <Pin Card3>
+#Select Register
+#Delay
+#Verify message for cell tech
+#Complete the process for <Cell Tech> phone
+#Login to MyAccount
+#Verify Phone Number
+
+Apps and More, Create Account:
+#Check for Apps and More inside account
+#Check for Apps and More outside account

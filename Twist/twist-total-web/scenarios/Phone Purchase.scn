@@ -1,0 +1,11 @@
+Tags:in-progress
+Preconditions:On total wireless home page
+Browse:
+#Go to phones <ZIP>
+#Browse phones based on <Maker>
+
+Phone Purchase:
+#Add <Model> to cart
+#Go to cart and checkout
+#Enter credit card details <Card Type>
+#Finish order

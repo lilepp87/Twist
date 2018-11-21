@@ -1,0 +1,14 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:bus="http://xmlns.oracle.com/BRM/schemas/BusinessOpcodes">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <bus:tfOpGetBAN>
+         <TF_OP_GET_BAN_Request>
+            <flags>0</flags>
+            <TF_OP_GET_BAN_inputFlist>
+               <POID>0.0.0.1 /account -1 0</POID>
+               <LOGIN>@login</LOGIN>
+            </TF_OP_GET_BAN_inputFlist>
+         </TF_OP_GET_BAN_Request>
+      </bus:tfOpGetBAN>
+   </soapenv:Body>
+</soapenv:Envelope>

@@ -1,0 +1,11 @@
+Tags:in-progress
+Preconditions:On total wireless home page,Log Out
+Port Number, Activate phone, Create Account, Buy a Service Plan, Enter Payment:
+#Select transfer phone number
+#Enter <Status> Esn for part <Part> zip code <Zip Code> sim <SIM>
+#Confirm port message
+#Select port service plan <Plan>
+#Create new account
+#Enter external number from <Provider>
+#Enter credit card "Visa" or use stored card
+#Finish port

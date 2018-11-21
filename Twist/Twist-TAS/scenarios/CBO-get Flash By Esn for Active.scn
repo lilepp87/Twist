@@ -1,0 +1,10 @@
+Tags:in-progress
+Preconditions:On tas HomePage,Log out
+Activate Phone, Create Account:
+#Enter "New" Esn for part "NTSAT401GP" sim "TF128SIMT5RM"
+#Create account for "NET10"
+#Activate phone by using pin "NTAPP6U035" depending on status "New" of cell tech "GSM" zip "33178"
+
+Support:
+#Insert  alert for esn with type "1" and id "52"
+#Call getflashbyesn method for part 

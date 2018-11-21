@@ -1,0 +1,4 @@
+Tags:goapi
+Preconditions:
+Create Account:
+#Register BYOP for  <partnerID> <carrier> <cellTech> in <zipCode>  <phoneModel>

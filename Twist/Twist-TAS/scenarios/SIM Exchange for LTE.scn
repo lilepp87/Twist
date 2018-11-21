@@ -1,0 +1,7 @@
+Tags:in-progress
+Preconditions:On tas HomePage,Log out
+SIM Operation,  Support:
+#Get active esn for part <PartNumber>
+#Enter current esn
+#Go to sim change
+#Sim change <New SIM> zip <ZipCode>

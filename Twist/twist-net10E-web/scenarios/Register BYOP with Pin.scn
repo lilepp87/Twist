@@ -1,0 +1,15 @@
+Tags:brightpoint,byop
+Preconditions:On net10 english home page,Log out
+Register BYOP:
+#Go to BYOP Finder
+#Enter <isActive> esn <ESNType> and carrier <carrier> for lte <isLTE> iphone <isIphone> with zip <Zip> <IsHD>
+#Enter <isActive> Sim<SIM> and NAC <NAC>
+#Finish registration
+
+Start Activation, Create Account:
+#Select Activate My Net10 Phone for byop
+#Create new account for Esn
+#Enter <ESNType> Esn for model with status <status> and zip code <Zip>
+
+Finish Activation with PIN:
+#Activate with pin <PIN> for BYOP

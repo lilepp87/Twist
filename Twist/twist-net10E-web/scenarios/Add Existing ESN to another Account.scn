@@ -1,0 +1,34 @@
+Tags:NT3
+Preconditions:On net10 english home page,Log out
+
+Start Activation, Create Account:
+#Make past due depending on status <Status> for model <Part> and sim <SIM>
+#Go to activate phone
+#Select Activate My Net10 Phone
+#Skip account creation
+#Possibly join SIM <SIM> for cell tech <Cell Tech> and status <Status>
+#Enter Esn for model <Part> with status <Status> and zip code <Zip Code>
+
+Finish Activation with PIN, Create Account, Start Activation:
+#Activate with <Pin Type> pin <Part for PIN> for <Cell Tech> <Phone Type>
+
+Start Activation, Create Account:
+#Set Account Esn for <New ESN Status> Esn
+#Make past due depending on status <Status> for model <Part> and sim <SIM>
+#Go to activate phone
+#Select Activate My Net10 Phone
+#Create new account for Esn
+#Possibly join SIM <SIM> for cell tech <Cell Tech> and status <Status>
+#Enter Esn for model <Part> with status <Status> and zip code <Zip Code>
+
+Finish Activation with PIN:
+#Enter <Pin Type> PIN <Part for PIN> for phone 
+#Try to activate and check message for <Status> <Cell Tech> <Phone Type> phone and <Pin Type> PIN
+
+
+Start Activation:
+#Get Account Esn
+
+
+
+

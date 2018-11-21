@@ -1,0 +1,20 @@
+Tags:app,services
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+
+Activate Phone, Create Account, MyAccountApp, TossUtil:
+#Create account for part <ESN> sim <SIM> brand <BRAND>
+#Search for Esn
+#Activate phone by using pin <PIN> depending on status <STATUS> of cell tech <TECH> zip <ZIP>
+#Add remaining  phones for <Param7>  line plan of part <Param7> <Param7> <Param7> with Sim<Param7> <Param7> <Param7>
+#Checkout and process transaction
+
+Case Operations,Solutions:
+#Go to solutions
+#Select parent solution <SOL> and <SOL 1>
+#Select ticket type <PARENT SOL>
+#Select part number for exchange <Param7>  of type <CHILD SOL>
+#Choose sim profile based on sim type <SIM>
+#Continue to next steps
+
+MyAccountApp:
+#Get all tickets information

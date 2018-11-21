@@ -1,0 +1,30 @@
+<bhnums:request xsi:schemaLocation="http://www.blackhawknetwork.com/bhnums transaction.xsd" xmlns:bhnums="http://www.blackhawknetwork.com/bhnums" xmlns="http://www.blackhawknetwork.com/bhnums" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <header>
+      <h1>01</h1>
+      <h2>02</h2>
+   </header>
+   <message>
+      <f0>0200</f0>
+      <f2>22230060@snp</f2>
+      <f3>725400</f3>
+      <f4>000000001999</f4>
+      <f7>170725201530</f7>
+      <f11>030543</f11>
+      <f12>170725131456</f12>
+      <f18>5411</f18>
+      <f22>021</f22>
+      <f32>60300000024</f32>
+      <f35>;22230060@snp=4912?</f35>
+      <f37>000001495184</f37>
+      <f41>
+         <f41.1>0543</f41.1>
+         <f41.2>0010</f41.2>
+      </f41>
+      <f42>60300000024</f42>
+      <f43>SAFEWAY STORE 0543 LACEY WA US</f43>
+      <f49>840</f49>
+      <f63>
+         <f63.1>@upc</f63.1>
+      </f63>
+   </message>
+</bhnums:request>

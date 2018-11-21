@@ -1,0 +1,9 @@
+Tags:set6,cbo,services
+Preconditions:closeBrowser
+Invoke CBO:
+#Call AddUser method for part <Part> zip <Zip> brand <Brand>
+#Call STActivate method for action "1" pin <PIN> sim <SIM> refilltype "2"
+#Complete phone activation for <Cell Tech> and status <Phone Status>
+#Call deactivatePhone method with reason "PASTDUE"
+#Call STActivate method for action "3" pin <PIN> sim <SIM> refilltype "2"
+#Complete phone activation for <Cell Tech> and status <Phone Status>

@@ -1,0 +1,21 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:bus="http://xmlns.oracle.com/BRM/schemas/BusinessOpcodes">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <bus:tfOpSubscriptionUpdateService>
+         <TF_OP_SUBSCRIPTION_UPDATE_SERVICE_Request>
+            <flags>0</flags>
+            <TF_OP_SUBSCRIPTION_UPDATE_SERVICE_inputFlist>
+               <!--You have a CHOICE of the next 4 items at this level-->
+<!--               <ACCOUNT_NO>1000002054</ACCOUNT_NO>-->
+               <LOGIN>@login</LOGIN>
+               <POID>0.0.0.1 /account -1 0</POID>
+               <VALUES elem="0">
+                  <!--You have a CHOICE of the next 2 items at this level-->
+                  <NEW_VALUE>@newvalue</NEW_VALUE>
+                  <TYPE_STR>@valuetype</TYPE_STR>
+               </VALUES>
+            </TF_OP_SUBSCRIPTION_UPDATE_SERVICE_inputFlist>
+         </TF_OP_SUBSCRIPTION_UPDATE_SERVICE_Request>
+      </bus:tfOpSubscriptionUpdateService>
+   </soapenv:Body>
+</soapenv:Envelope>

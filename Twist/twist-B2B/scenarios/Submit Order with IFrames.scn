@@ -1,0 +1,4 @@
+Tags:goapi
+Preconditions:On B2B home page,Log out
+Create Account:
+#Place order with IFrames for <carrier> <cellTech> Sim and Plan on <partnerID> in <zipCode> for <phoneModel>

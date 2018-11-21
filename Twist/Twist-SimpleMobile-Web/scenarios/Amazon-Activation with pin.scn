@@ -1,0 +1,8 @@
+Tags:amazon,shop,commerce
+Preconditions:OnAmazonHomePage
+Activate Phone, Create Account:
+#Login with Amazon credentials and Goto "ACTIVATE"
+#Enter "New" Esn for part "SMZEZ232TGGY" zip code "33178" sim "SM128PSIMT5RM" and Pin number "SMNAPP0040UNL"
+#Log in depending on status "New"
+#Create new account depending on status "New"
+#Complete activation process depending on status "New" and cell tech "GSM"

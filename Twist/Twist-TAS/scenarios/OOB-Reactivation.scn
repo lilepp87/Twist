@@ -1,0 +1,13 @@
+Tags:oob,services,set6
+Preconditions:closeBrowser
+ Operations, Activate Phone:
+#Generate Esn for part <PartNumber> Sim <SIM> and  Cell Tech <CellTech>  
+#Generate pin for activation <PIN> with zip <ZIP>
+#Complete device  activation for status"New" cell tech <CellTech>
+
+Invoke CBO:
+#Call deactivatePhone method with reason "PASTDUE"
+
+Operations, Activate Phone:
+#Refill with pin <ReactivationPin>
+#Complete device  activation for status"New" cell tech <CellTech>

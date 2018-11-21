@@ -1,0 +1,11 @@
+Tags:app,services,in-progress
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone, Create Account, TossUtil, MyAccountApp:
+#Create account for part "TFALA382GDMP4" sim "TF64SIMC4" brand "TRACFONE"
+#Search for Esn
+#Activate phone by using pin "TSAPP40120" depending on status "New" of cell tech "GSM" zip "33178"
+#Add remaining  phones for ""  line plan of part "" "" "" with Sim "" "" ""
+#Checkout and process transaction
+
+MyAccountApp:
+#Link account

@@ -1,0 +1,7 @@
+Tags:wfm,services
+Preconditions:closeBrowser
+Family Mobile Operations, MyAccountApp, BRM Operations:
+#Create account for part <Part Number> sim <Sim Part Number> brand <BRAND>
+#Call Service Order  <Action> with Pin <Pin PART NUMBER>
+#Complete phone activation for <CellTech> and status <Status>
+#Soap Service Call FISERV <Option>

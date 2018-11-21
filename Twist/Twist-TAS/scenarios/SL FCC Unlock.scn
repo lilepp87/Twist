@@ -1,0 +1,18 @@
+Tags:in-progress
+Preconditions:On tas HomePage,Log out
+
+
+
+Activate Phone, Create Account:
+#Enter  "Active" Esn <Esn> 
+
+redemption:
+#Add pin card <PIN> to reach 365 paid days requirment sl
+
+Solutions:
+#Set Installation date  to "365" days past to reach  Active days requirement
+#Go to solutions
+#Click on Unlock Device
+Solutions,Case Operations:
+#Validate unlock eligibility
+#Fill up address form sl

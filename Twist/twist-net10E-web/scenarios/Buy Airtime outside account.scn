@@ -1,0 +1,22 @@
+Tags:NT1
+Preconditions:On net10 english home page,Log out
+Start Activation, Create Account:
+#Make past due depending on status <Status> for model <Part Number> and sim <SIM>
+#Go to activate phone
+#Select Activate My Net10 Phone
+#Skip account creation
+#Possibly join SIM <SIM> for cell tech <Tech> and status <Status>
+#Enter Esn for model <Part Number> with status <Status> and zip code <Zip Code>
+
+Finish Activation with PIN:
+#Enter <Pin type> PIN <Pin for part> for phone 
+#Try to activate and check message for <Status> <Tech> "Android" phone and <Pin type> PIN
+
+Add Airtime, Enter Payment Information,Switch Plan:
+#Go to Buy Airtime
+#Enter phone number with part <Part Number> and <Reoccuring?>
+#Choose to purchase airtime
+#Select <Reoccuring?> <Airtime Card> <Phone Type> plan with <# ILD> ILD
+#Enter payment with card type <Card Type>
+#Submit payment
+#Complete the process

@@ -1,0 +1,11 @@
+Tags:Commerce
+Preconditions:OnCommercePage
+
+Activate Phone, Create Account, Port Number, Phone Upgrade,Shop:
+#Go To Shop Phones<CustomerType><ZipCode>
+#select Phone Based On Phone<Phone>
+#Add PhoneTo Cart 
+#Select Service Plan<Plan>
+#Enter Shipping Address And WhiteListedCard<CC Type>
+#Verify Order Summary
+#Print Order Number

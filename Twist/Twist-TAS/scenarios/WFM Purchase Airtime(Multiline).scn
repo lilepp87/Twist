@@ -1,0 +1,20 @@
+Tags:set1,Handset
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+ Activate Phone, Create Account, Redemption:
+#Enter "New" Esn for part <PartNumber> sim <SIM>
+#Create Account for <Brand>
+#Enter zip "33178"
+#Select pin <PIN> and add credit card <CardType>
+#Make selection of <PaymentType> payment with card type <CardType>
+#Add remaining  phones for <# of Childs>  line plan of part <Child_Esn_1> <Child_Esn_2> <Child_Esn_3> with sim <Child_Sim_1> <Child_Sim_2> <Child_Sim_3>
+#Select card enter cvv <Cvv>
+#Select <PaymentType> option
+#Checkout and process transaction
+
+Redemption, Activate Phone, Family Mobile Operations:
+#Register customer into Employee Discount program "false"
+#Go to redemption
+#Select plan ""
+#Go to purchase airtime flow
+#Select card enter cvv <Cvv>
+#Check redemption

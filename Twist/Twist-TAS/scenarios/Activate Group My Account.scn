@@ -1,0 +1,14 @@
+Tags:set3
+Preconditions:On tas HomePage,Log out
+Activate Phone, Create Account:
+#Enter "New" Esn for part <Master> sim <M_SIM>
+#Create account for <Brand>
+#Activate phone by using pin <PIN1> depending on status "New" of cell tech <M_CellTech> zip <Zip>
+#Add remaining  phones for <Num of Members>  line plan of part <Child1> <Child2> <Child3> with Sim <SIM1> <SIM2> <Sim3>
+#Checkout and process transaction
+
+Activate Phone:
+#Go to Account Summary
+#Add "New" esn to group for part <Master> sim <M_SIM> of cell tech <M_CellTech> using pin <PIN2>
+#Add remaining  phones for <Num of Members>  line plan of part <Child1> <Child2> <Child3> with Sim <SIM1><SIM2><Sim3>
+#Checkout and process transaction

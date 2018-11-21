@@ -1,0 +1,26 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:phon="http://b2b.tracfone.com/PhoneUpgradeServices" xmlns:com="http://www.tracfone.com/CommonTypes" xmlns:soap="soap">
+   <soapenv:Header xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+      <wsse:Security soap:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+         <wsse:UsernameToken wsu:Id="unt_dymtpxyv7NS1BCB4" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+            <wsse:Username>webuser</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">t!n43p2b</wsse:Password>
+         </wsse:UsernameToken>
+      </wsse:Security></soapenv:Header>
+   <soapenv:Body>
+      <phon:simChangeCoreRequest>
+         <com:requestToken>
+            <com:clientTransactionId>123</com:clientTransactionId>
+            <com:clientId>123</com:clientId>
+         </com:requestToken>
+         <com:brandName>@brand</com:brandName>
+         <com:sourceSystem>API</com:sourceSystem>
+         <!--Optional:-->
+         <com:language>ENG</com:language>         
+         <phon:contactObjid/>
+         <phon:servicePlanObjid/>
+         <phon:min>@min</phon:min>
+         <phon:esn>@esn</phon:esn>
+         <phon:newSim>@newsim</phon:newSim>
+      </phon:simChangeCoreRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

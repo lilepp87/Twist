@@ -1,0 +1,22 @@
+Tags:B2B
+Preconditions:On B2B home page,Log out
+Create Account:
+#Go to Login
+#Create Organization account "Parent"
+#Logout
+#Create Organization account "Child"
+#Logout
+#Login as Buyer Admin "Parent" and  Approve "ORG"
+#Logout
+#Create Profile "ChildORG"
+#Logout
+#Login as Buyer Admin "Child" and  Approve "Profile"
+#Logout
+#Login as Requestor
+#Update Payment Info
+
+Shop Phones, Create Account:
+#Go to Phones
+#Select Phone <Phone> and check availability in <Zip Code>
+#Select Plan <Plan> quantity <Qty> and enroll <Low Balance>
+#Submit Order <CC Type>

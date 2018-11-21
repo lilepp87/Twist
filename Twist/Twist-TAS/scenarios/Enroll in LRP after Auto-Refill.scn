@@ -1,0 +1,18 @@
+Tags:LRP,in-progress
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+.
+Activate Phone,Redemption, Create Account:
+#Enter <Status> Esn for part <PartNumber> sim <SIM>
+#Create Account  for <Brand>
+#Activate phone by using pin <PIN> depending on status <Status> of cell tech <CellTech> zip <Zip Code>
+#Add remaining  phones for ""  line plan of part "" "" "" with sim "" "" ""
+#Checkout and process transaction
+#Go to enroll in auto refill
+#Select plan <Enroll Plan>
+#Add new credit card
+#Enter card <Card type>
+#Select card and enter cvv <CVV>
+#Enroll into plan<Enroll Plan>
+#Complete TAS LRP Enrollment after AutoRefill
+#Check Backend for point allocation for "AUTO_REFILL_EXISTING" and reason "Before" LRP Enrollment
+

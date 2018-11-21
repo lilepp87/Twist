@@ -1,0 +1,11 @@
+Tags:
+Preconditions:On Net10 Spanish Home Page,Log out
+Add Airtime, Enter Payment Information:
+#Go to Buy Airtime
+#Enter phone number with part <Part Number> and <Reoccuring?>
+#Choose to purchase airtime
+#Create new account for Esn depending on <Reoccuring?>
+#Select <Reoccuring?> <Airtime Card> <Phone Type> plan
+#Enter payment information with card number <Credit Card> zip code <Zip Code> card type <Card Type>
+#Submit payment
+#Complete the process

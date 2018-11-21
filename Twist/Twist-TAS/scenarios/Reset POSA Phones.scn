@@ -1,0 +1,8 @@
+Tags:set5
+Preconditions:On tas HomePage,Log out
+TossUtil:
+#Get Esn for part <Part Number> of status <Status>
+#Reset the ESN Status for POSA Phone
+#Search for Esn
+#Click on Reset POSA Phone
+#Enter Serial number and check for reset status

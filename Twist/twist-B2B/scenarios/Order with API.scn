@@ -1,0 +1,4 @@
+Tags:goapi
+Preconditions:
+Create Account:
+#Place order with API for <Carrier> <cellTech> Sim and Plan on <Partner> in <zipcode> for <phoneModel>

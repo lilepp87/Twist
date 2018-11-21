@@ -1,0 +1,14 @@
+Tags:services,set6,soa
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+.
+Activate Phone, Create Account, Redemption:
+#Enter <Status> Esn for part <PartNumber> sim <SIM>
+#Create Account for <Brand>
+#Enter zip <Zip Code>
+#Select pin <PIN> and add credit card "Visa"
+#Select card enter cvv "123"
+#Check activation for cell tech <CellTech> and status "New"
+#Checkout and process transaction
+Support,EnrollmentServices:
+#Create Flash with type <Flash>
+#Call AREnrollment <Flash>

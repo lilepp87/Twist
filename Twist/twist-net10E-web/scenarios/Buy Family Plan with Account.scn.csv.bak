@@ -1,0 +1,24 @@
+PartNumber(AO),Status,SIM(AO),CellTech(AO),ZipCode,PlanType,Plan Category,Reoccuring?,PartNumber(family),SIM(family),CellTech(family),NoOf Family Members,PIN Type,Card Type
+NTLGL31GP4RS,New,TF64PSIMC4RM,GSM,33178,Unlimited International Monthly Plan for Family,Android,Reoccuring,NTLGL31GP4DG,TF64PSIMC4RM,GSM,2,Megacard,Visa
+NTLG305CU,New,,CDMA,33178,Unlimited International Monthly Plan for Family,Android,Reoccuring,NTLG305CP-5,,CDMA,2,Megacard,Visa
+NTSAS765CDG,New,,CDMA,33178,Unlimited Monthly Family Plan,Android,Reoccuring,NTSAS765CPMP,,CDMA,2,Megacard,Visa
+NTSAS975GP4AS,New,TF64PSIMC4RM,GSM,33178,Unlimited International Monthly Plan for Family,Android,Reoccuring,NTRM9310CPMP,,CDMA,2,Megacard,Visa
+NTSAS975GP4DU,New,TF64PSIMC4RM,GSM,33178,Unlimited Monthly Family Plan,Android,Reoccuring,NTZEZ796CP,,CDMA,2,Megacard,Visa
+NTSAS975GWHP4,New,TF64PSIMC4RM,GSM,33178,Unlimited Monthly Family Plan,Android,Reoccuring,NTRM9310CPMP,,CDMA,2,Megacard,Visa
+NTSAS890G3P4,New,TF64PSIMC4RM,GSM,33178,Unlimited International Monthly Plan for Family,Android,Reoccuring,NTZEZ796CP,,CDMA,2,Megacard,Visa
+NTSAS890GP4DU,New,TF64PSIMC4RM,GSM,33178,Unlimited Monthly Family Plan,Android,Reoccuring,NTRM9310CPMP,,CDMA,2,Megacard,Visa
+NTSAS890GRCS,New,TF64PSIMC4RM,GSM,33178,Unlimited International Monthly Plan for Family,Android,Reoccuring,NTZEZ796CP,,CDMA,2,Megacard,Visa
+NTZEZ796CP,New,,CDMA,33178,Unlimited International Monthly Plan for Family,Android,Reoccuring,NTZEZ660GP4,TF64PSIMC4,GSM,3,Megacard,Visa
+NTRM9310CDG,New,,CDMA,33178,Unlimited Monthly Family Plan,Android,Reoccuring,NTLGL25CPMP,TF128PSIMS8M,CDMA,4,Megacard,Visa
+NTRM9310CR,New,,CDMA,33178,Unlimited International Monthly Plan for Family,Android,Reoccuring,NTRM9310CPMP,,CDMA,2,Megacard,Visa
+NTHUH883GP,New,TF64PSIMC4,GSM,33178,Unlimited Monthly Family Plan,Android,Reoccuring,NTHUH867GP,TF64PSIMT5,GSM,3,Megacard,Visa
+NTLGL35GP4,New,TF64PSIMC4,GSM,33178,Unlimited International Monthly Plan for Family,Android,Reoccuring,NTZEZ796CP,,CDMA,4,Megacard,Visa
+NTALA554CP,New,,CDMA,33178,Unlimited Monthly Family Plan,Android,Reoccuring,NTHUH883GP,TF64PSIMT5,GSM,2,Megacard,Visa
+NTHUM865CP,New,,CDMA,33178,Unlimited International Monthly Plan for Family,Android,Reoccuring,NTLGL25CP,TF128PSIMS8M,CDMA,2,Megacard,Discover
+NTRM9310CDG,New,,CDMA,33178,Unlimited Monthly Family Plan,Android,Reoccuring,NTLGL95GP5,TF64PSIMT5,GSM,3,Megacard,Discover
+NTHUH867GP,New,TF64PSIMT5,GSM,33178,Unlimited International Monthly Plan for Family,Android,Reoccuring,NTMTXT555CP,,CDMA,4,Megacard,Discover
+NTMTXT555CP,New,,CDMA,33178,Unlimited Monthly Family Plan,Android,Reoccuring,NTRM9310CDG,,CDMA,4,Megacard,Discover
+NTZEZ796CP,New,,CDMA,33178,Unlimited International Monthly Plan for Family,Android,Reoccuring,NTRM9310CR,,CDMA,3,Megacard,Discover
+NTLGL25CP,New,TF128PSIMS8M,CDMA,33178,Unlimited International Monthly Plan for Family,Android,Reoccuring,NTLGL35GP4,TF64PSIMC4,GSM,2,Megacard,Discover
+NTLGL95GP5,New,TF64PSIMT5,GSM,33178,Unlimited Monthly Family Plan,Android,Reoccuring,NTALA554CP,,CDMA,3,Megacard,Discover
+NTMTXT555CP,New,,CDMA,33178,Unlimited International Monthly Plan for Family,Android,Reoccuring,NTHUM865CP,,CDMA,4,Megacard,Discover

@@ -1,0 +1,12 @@
+Tags:ST5
+Preconditions:On WMKiosk HomePage 
+Activate Phone, WM Kiosk:
+#Go to WM Activation with card
+#Enter WM <Status> Esn for part <PartNumber> sim <SIM> zip code <Zip Code> and Pin number <PIN>
+#Complete activation ""
+
+Refill Using a Service Card:
+#Go to add a service card
+#Enter Phone number and Pin card <PIN 2>
+#Add pin
+#Complete the process

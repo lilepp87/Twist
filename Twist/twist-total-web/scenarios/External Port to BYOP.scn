@@ -1,0 +1,9 @@
+Tags:in-progress
+Preconditions:On total wireless home page,Log out
+Register BYOP, Create Account, Port Number:
+#Go to register BYOP CDMA page
+#Enter  "Not Active" esn Sim "TF256PSIMV9ND"and carrier "RSS" for lte "Yes" iphone"Yes" with zip "33178"
+#Enter Pin"TWP00035"
+#Create new account depending on status "New"
+#Enter BYOP ESN and Zip "33178"
+#Enter external number from "VERIZON"

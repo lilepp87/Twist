@@ -1,0 +1,12 @@
+Tags:in-progress,Handset
+Preconditions:On tas HomePage,Log out
+
+
+
+TossUtil, Activate Phone:
+#Get Esn for part <PartNumber> sim <SIM> of status <Status>
+#Search for Esn
+#Change new dealer for <Dealer>   
+#Activation for part sim <SIM> Lid <Lid> for dealer <Dealer> 
+#Finish phone activation for cell type <Tech>  and status <Status>
+

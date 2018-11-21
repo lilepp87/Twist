@@ -1,0 +1,83 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:phon="http://b2b.tracfone.com/PhoneServices" xmlns:com="http://www.tracfone.com/CommonTypes" xmlns:phon1="http://www.tracfone.com/PhoneCommonTypes">
+   <soapenv:Header>
+      <wsse:Security soapenv:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+         <wsse:UsernameToken wsu:Id="UsernameToken-17B889B60865DE4C8F14652479585454">
+            <wsse:Username>@secusername</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">@secpassword</wsse:Password>
+         </wsse:UsernameToken>
+      </wsse:Security>
+   </soapenv:Header>
+   <soapenv:Body>
+      
+<phon:getEsnAttributesRequest 	xmlns:com="http://www.tracfone.com/CommonTypes" xmlns:phon="http://b2b.tracfone.com/PhoneServices" xmlns:phon1="http://www.tracfone.com/PhoneCommonTypes">
+	<com:requestToken>
+		<com:clientTransactionId>123</com:clientTransactionId>
+		<com:clientId>142</com:clientId>
+	</com:requestToken>
+	<com:brandName>@brand</com:brandName>
+	<com:sourceSystem>WEB</com:sourceSystem>
+	<!--Optional:-->
+	<com:language>ENG</com:language>
+	<phon:device>
+		<phon1:esn>@esn</phon1:esn>
+	</phon:device>
+	<!--1 or more repetitions:-->
+	<phon:attributeList>BRAND</phon:attributeList>
+         <phon:attributeList>MIN</phon:attributeList>
+<phon:attributeList>NICKNAME</phon:attributeList>
+<phon:attributeList>BRAND</phon:attributeList>
+<phon:attributeList>TECHNOLOGY</phon:attributeList>
+<phon:attributeList>SIM</phon:attributeList>
+<phon:attributeList>EMAIL</phon:attributeList>
+<phon:attributeList>ISB2B</phon:attributeList>
+<phon:attributeList>STATUS</phon:attributeList>
+<phon:attributeList>ISAUTOREFILL</phon:attributeList>
+<phon:attributeList>ISUNLIMITED</phon:attributeList>
+<phon:attributeList>ENDOFSERVICEDATE</phon:attributeList>
+<phon:attributeList>FORECASTDATE</phon:attributeList>
+<phon:attributeList>HASREGEDPAYMENTSOURCES</phon:attributeList>
+<phon:attributeList>QUEUESIZE</phon:attributeList>
+<phon:attributeList>CARRIER</phon:attributeList>
+<phon:attributeList>SERVICEPLANID</phon:attributeList>
+<phon:attributeList>DEVICE_PARTCLASS</phon:attributeList>
+<phon:attributeList>SIM_PARTNUMBER</phon:attributeList>
+<phon:attributeList>BILLING_PARTNUMBER</phon:attributeList>
+<phon:attributeList>SERVICE_PARTNUMBER</phon:attributeList>
+<phon:attributeList>ENROLLMENT_STATUS</phon:attributeList>
+<phon:attributeList>SERVICEPLANNAME</phon:attributeList>
+<phon:attributeList>IS_SAFELINK</phon:attributeList>
+<phon:attributeList>ESN</phon:attributeList>
+<phon:attributeList>CURRENT_SERV_PLAN_NAME</phon:attributeList>
+<phon:attributeList>CURRENT_SERV_PLAN_ID</phon:attributeList>
+<phon:attributeList>OLD_ESN</phon:attributeList>
+<phon:attributeList>WARRANTY</phon:attributeList>
+<phon:attributeList>AUTOENROLLMENT</phon:attributeList>
+<phon:attributeList>LEASETOOWN</phon:attributeList>
+<phon:attributeList>ZIP</phon:attributeList>
+<phon:attributeList>REBRAND_EQUI_PHONE</phon:attributeList>
+<phon:attributeList>IS_LTE</phon:attributeList>
+<phon:attributeList>REBRAND_CARRIER</phon:attributeList>
+<phon:attributeList>OPERATING_SYSTEM</phon:attributeList>
+<phon:attributeList>DEVICE_TYPE</phon:attributeList>
+<phon:attributeList>X_SOURCESYSTEM</phon:attributeList>
+<phon:attributeList>GROUPID</phon:attributeList>
+<phon:attributeList>AVAILABLE_LINES</phon:attributeList>
+<phon:attributeList>TOTAL_LINES</phon:attributeList>
+<phon:attributeList>ESN_CHANGE_TYPE</phon:attributeList>
+<phon:attributeList>PIN_PART_NUMBER</phon:attributeList>
+<phon:attributeList>WEB_CONTACT_OBJID</phon:attributeList>
+<phon:attributeList>DLL</phon:attributeList>
+<phon:attributeList>SEQUENCE</phon:attributeList>
+<phon:attributeList>UNLOCKING_PROCESS</phon:attributeList>
+<phon:attributeList>LAST_REDEEMED_PLAN_PART_NUMBER</phon:attributeList>
+<phon:attributeList>LAST_REDEEMED_PLAN_PART_CLASS</phon:attributeList>
+         
+         <phon:attributeList>STATUS</phon:attributeList>
+         <phon:attributeList>MODEL</phon:attributeList>
+         <phon:attributeList>ACTIVATION_DATE</phon:attributeList>
+         <phon:attributeList>DEALER_NAME</phon:attributeList>
+         <phon:attributeList>CURRENT_SERV_PLAN_NAME</phon:attributeList>
+         <phon:attributeList>ACTION_TYPE</phon:attributeList>
+</phon:getEsnAttributesRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

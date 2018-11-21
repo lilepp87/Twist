@@ -1,0 +1,18 @@
+Tags:in-progress
+Preconditions:On WMKiosk HomePage,Log out
+
+Activate Phone, WM Kiosk:
+#Go to WM Activation with card
+#Enter WM <Status> Esn for part <Part 1> sim <SIM 1> zip code <ZIP> and Pin number <PIN 1>
+#Complete activation <SIM 1>
+
+Activate Phone, Create Account:
+#Go to total wireless home page
+#Go to Activate Option
+#Enter <Status> Esn for part <Part 2> zip code <ZIP> sim <SIM 2> and pin number <PIN 2>
+#Log in depending on status <Status>
+#Create new account depending on status <Status>
+#Complete activation process depending on status <Status> and cell tech <Cell 2>
+
+Create Account:
+#Add phone to my account

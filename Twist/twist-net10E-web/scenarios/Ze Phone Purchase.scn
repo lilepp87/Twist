@@ -1,0 +1,10 @@
+Tags:
+Preconditions:OnCommercePage
+BuyAPhone,PortIn:
+#goToShopPhones<Customer Type><Zip Code>
+#selectPhone<Phone>
+#addPhoneToCart
+#selectServicePlan<Plan>
+#Enter Shipping Address And WhiteListedCard<CC Type>
+#Verify Order Summary
+#Print Order Number

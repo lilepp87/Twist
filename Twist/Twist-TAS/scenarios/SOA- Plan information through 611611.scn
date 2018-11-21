@@ -1,0 +1,8 @@
+Tags:
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+ActivateServices, Support, Activate Phone:
+#Generate ESN for <PartNumber> and SIM <SIM> for brand <Brand> zip <ZipCode>
+#ActivateService with PIN <Pin>
+#Complete phone activation for cell tech <CellTech> and status <Status>
+#Call Plan Information
+        

@@ -1,0 +1,18 @@
+Tags:shop
+Preconditions:On SimpleMobile HomePage,LogOut
+UDP:
+#Go to "simple mobile"
+#Go to Activation for "simple mobile" 
+#Enter esn <PartNumber> sim <SIM> zip <ZipCode> pin <PIN>
+#Confirm activation for cell tech "GSM"
+
+ReUp, Add Service Plan, Enter Payment, Activate Phone, Create Account, UDP:
+#Go to simple mobile web
+#Go to ReUp
+#Enter phone number for purchase
+#Select <Reoccurring?> <Plan> service plan
+#Click on Add to Simple Mobile Stash or AddNow
+#Add or Skip 10 ILD <$10 ILD ?>
+#Enter credit card <Card Type>
+#Create Account from Check Out
+#Review Order Summary

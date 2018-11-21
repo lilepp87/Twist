@@ -1,0 +1,7 @@
+Tags:set5
+Preconditions:On tas HomePage,Log out
+TossUtil:
+#Go to TossUtil
+#Click On POSA Report
+#Enter Start Date <Start Date> end date as current date for <ReportType> Report
+#Run and check report

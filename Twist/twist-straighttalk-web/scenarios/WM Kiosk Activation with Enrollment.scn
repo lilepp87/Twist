@@ -1,0 +1,7 @@
+Tags:ST5
+Preconditions:On WMKiosk HomePage 
+Activate phone, Create Account, WM Kiosk:
+#Go to WM Activation depending on <Status>
+#Enter <Status> Esn for part <PartNumber> zip code <ZipCode> sim <SIM> and Pin number <PIN> in WMKiosk
+#Create new account depending on status <Status> in WMKiosk
+#Complete activation <SIM>

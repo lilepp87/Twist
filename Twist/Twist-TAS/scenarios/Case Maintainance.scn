@@ -1,0 +1,11 @@
+Tags:in-progress
+Preconditions:On tas HomePage,Log out
+Case Operations:
+#Get esn for Queue <QueueType> of brand <Brand>
+#Select case type <CaseType> Title <Title> Status <Status> Source <Source>
+#Add notes change status shipping details
+#Go to Support and choose Case Maintainance and search for Case Id
+#Modify Case details
+#Close case
+
+

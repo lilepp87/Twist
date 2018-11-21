@@ -1,0 +1,35 @@
+Tags:Sanity,shop
+Preconditions:On SimpleMobile HomePage,LogOut
+Activate Phone, Create Account:
+#Setup Esn based on status <status> and part <From Part>
+#Go to Activate Option
+#Enter <status> Esn for part <From Part> zip code <Zip Code> sim <From SIM> and Pin number <From Pin>
+#Log in depending on status <status>
+#Create new account depending on status <status>
+#Complete activation process depending on status <status> and cell tech <Cell Tech>
+
+Phone Upgrade, Create Account, Activate Phone, Port Number:
+#Go to Upgrade Option
+#Enter sim <To ESN> <To SIM> to upgrade
+#Complete upgrade process
+#Deactivate with reason "PASTDUE"
+Activate Phone, Create Account, Add Service Plan:
+#Loginto Reactivate the esn"Active"
+#Enter new Pin <React Pin>
+#Add now and review summary
+#Finish Phone Activation <status> <Cell Tech>
+
+Activate Phone,Port Number, Create Account, Phone Upgrade:
+#Deactivate with reason "PORT CANCEL"
+#Go to activate option to port
+#Enter esn for port <To ESN> <To SIM>
+#Enter external number from "AT&T" and zip <Zip Code>
+#Enter <ExtPort Pin> PIN for port
+#Log in depending on status "Past Due"
+#Complete upgrade process
+#Complete port ticket
+
+
+
+
+

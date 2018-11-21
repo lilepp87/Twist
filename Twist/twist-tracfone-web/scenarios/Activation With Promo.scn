@@ -1,0 +1,13 @@
+Tags:brightpoint,promo
+Preconditions:On Tracfone Home Page,Log Out
+Activate Phone, Create Account, Enter Payment:
+#Setup ESN based on status <Status> and part <ESN>
+#Go to activate my TracFone For<ESN>
+#Enter <Status> Esn <ESN> SIM card <SIM> and zip code <ZipCode>
+#Enter Pin <Pin1> <Pin2> <Pin3> or Purchase Plan <Plan> Promo Plan<Promo Plan> with promo code <Promo Code>
+#Select Register
+#Enter credit card <CardType> for purchase only <FlowType>
+#Delay 40 seconds
+#Verify message for cell tech
+#Complete the process for <CellTech> phone
+#Validate Promo <Promo Code>

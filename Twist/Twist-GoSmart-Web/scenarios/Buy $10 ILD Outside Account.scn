@@ -1,0 +1,17 @@
+Tags:
+Preconditions:OnGoSmartHomePage,logout
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter "New" Esn for part <PartNumber> sim <SIM>
+#Enter zip <ZipCode> for new phone number
+#Enter Pin <PIN1>
+#Log in depending on status "New"
+#Create new account depending on status "New"
+#Complete activation process depending on status "New" and cell tech <CellTech>
+#LogOut
+
+Buy Airtime, Enter Payment, Redemption:
+#Buy 10 ILD
+#Enter min and quanity<Quantity>
+#Enter credit card <CardType> for "One-Time"
+#Check Summary and Process

@@ -1,0 +1,8 @@
+Tags:services,wfm
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+MyAccountApp,Family Mobile Operations, Activate Phone, Create Account:
+#Enter "New" Esn for part <From_Part> sim <From_Sim>
+#Create account for <From_Brand>
+#Activate phone by using pin <From_Pin> depending on status "New" of cell tech <From_Celltech> zip "33178"
+#Create account for part <PartNumber> sim <SIM> brand <Brand>
+#Service order ports and upgrade<PIN> "InternalPort"

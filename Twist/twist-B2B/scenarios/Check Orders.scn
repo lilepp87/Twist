@@ -1,0 +1,6 @@
+Tags:B2B
+Preconditions:On B2B home page,Log out
+Create Account, Check:
+#Go to Login
+#Login as <Account Type>
+#Check Orders <Order Type>

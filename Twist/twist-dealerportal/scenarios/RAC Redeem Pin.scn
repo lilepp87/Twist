@@ -1,0 +1,12 @@
+Tags:in-progress
+Preconditions:On Dealerportal,Log Out
+Activate Phone:
+#Go to <Brand>
+#Go to Activation
+#Enter esn <ESN> sim <SIM> zip <ZIP> pin <Pin>
+#Confirm activation for cell tech <Cell Tech>
+
+Redeem Pin:
+#Go to RAC Page
+#Enter phone number and pin <Pin> for RAC for <Brand> and add <Add?>
+#Check for RAC redemption success

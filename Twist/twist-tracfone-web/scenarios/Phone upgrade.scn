@@ -1,0 +1,18 @@
+Tags:tf3
+Preconditions:On Tracfone Home Page,Log Out
+Activate Phone, Create Account:
+#Go to activate my TracFone For<From Part>
+#Enter "New" Esn <From Part> SIM card <From Sim> and zip code "33178"
+#Enter pin card number <From Pin> "" ""
+#Select Register
+#Delay
+#Verify message for cell tech
+#Complete the process for <From Cell> phone
+#Login to MyAccount
+#Verify Phone Number
+#Log out
+
+Phone Upgrade, Activate Phone:
+#Go to Activate Phone
+#Enter new ESN <To Part> and sim <To Sim>
+#Complete Upgrade from ESN <From Part> with Pin <To Pin>

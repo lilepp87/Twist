@@ -1,0 +1,11 @@
+Tags:FMS
+Preconditions:On B2B home page,Log out
+Create Account, Activate:
+#Get active B2B esn
+#Go to login
+#Log in for fleet
+
+Manage Plan, Activate:
+#Go to phone
+#Filter by esn
+#Cancel plan

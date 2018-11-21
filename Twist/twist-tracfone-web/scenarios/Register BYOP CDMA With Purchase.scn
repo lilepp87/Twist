@@ -1,0 +1,19 @@
+Tags:brightpoint,in-progress,buy kit
+Preconditions:Log Out
+Register BYOP:
+#Go to register BYOP CDMA page
+#Choose the Carrier  "Other"
+#Enter  <Status> esn Sim <SIM>and carrier <Carrier> for lte <Is LTE> iphone<Is Iphone> with zip <ZipCode>
+#Choose "BUY A KIT" for ESN Status <Status> if lte <Is LTE> and Sim <SIM> and NAC ""
+
+Create Account, Complete Shipping, Enter Payment:
+#Select Register
+#delay10Seconds
+#Finish purchase for byop <CardType>
+#Complete Shipping details for Domain"SIM CARDS" if  lte <Is LTE> and already have SIM <SIM> 
+
+Activate Phone:
+#Enter BYOP ESN and Zip<ZipCode>
+#Enter pin card number <Pin1> <Pin2> <Pin3>
+#Verify message for cell tech
+#Complete the process for <Cell tech> phone

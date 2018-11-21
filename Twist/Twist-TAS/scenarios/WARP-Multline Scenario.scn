@@ -1,0 +1,15 @@
+Tags:services,wfm
+Preconditions:
+Operations, Activate Phone, Create Account:
+#Generate Esn for part "WFMLGL57BGP" Sim "WFM128PSIMT5TM" and  Cell Tech "GSM"  
+#Create account for "WFM" using service
+#Complete registration process if device is BYOP or SIMOUT "" flow "ACTIVATION"
+#Validate Customer Order with pin "" zip "33178" for "ACTIVATION" flow
+#Submit Customer Order for "ACTIVATION"
+#Complete activation for status"New" cell tech "GSM"
+#Call GetAccountSummary "WFM"
+#Validate Customer Order with pin "TWAPP00060" zip "33178" for "REACTIVATION" flow
+#Submit Customer Order for "REACTIVATION"
+#Complete activation for status"New" cell tech "CDMA"
+#Validate Customer Order with pin "" zip "33178" for "External_Port" flow
+#Submit Customer Order for "External_Port"

@@ -1,0 +1,8 @@
+Tags:set5
+Preconditions:On tas HomePage,Log out
+TossUtil:
+#Get Esn for part <PartNumber> of status <Status>
+#Search for Esn
+#Go to Reset Counter
+#Enter new Sequence <New Sequence>
+#Update counter and check for  sequence change to <New Sequence>

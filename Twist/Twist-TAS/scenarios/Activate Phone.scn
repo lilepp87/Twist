@@ -1,0 +1,8 @@
+Tags:set2,Handset
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone, Create Account, Family Mobile Operations:
+#Enter <Status> Esn for part <PartNumber> sim <SIM>
+#Create account for <Brand>
+#Activate phone by using pin <PIN> depending on status <Status> of cell tech <CellTech> zip <Zip Code>
+#Add remaining  phones for <# Devices>  line plan of part <Child 1> <Child 2> <Child 3> with Sim <ChildSim 1> <ChildSim 2> <ChildSim 3>
+#Checkout and process transaction

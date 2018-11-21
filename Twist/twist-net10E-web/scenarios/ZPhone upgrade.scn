@@ -1,0 +1,14 @@
+Tags:NT4
+Preconditions:On net10 english home page,Log out
+
+Phone Upgrade, Port In, Create a New Account, Start Activation, Create Account, Switch Plan:
+#Activate From Phone with part <From Part> type <From Type> sim <From SIM> tech <From Cell> pin <From Pin type> <From Pin> and carrier <From Carrier>
+#Go to my account
+#Verify Phone Number
+#Activate To Phone with part <To Part> status <To Status> type <To Type> sim <To Sim> tech <To Cell> pin <To Pin type> <To Pin> and carrier <To Carrier>
+#Go to Activate Phone
+#Select transfer my number and service from one Net10 to another
+#Enter from ESN and phone number with part <From Part>
+#Enter to ESN with status <To Status>
+#Enter code number and confirm code number depending on phone type <To Type>
+#Finish porting number for <To Cell> with PIN <During Pin>

@@ -1,0 +1,5 @@
+Tags:etailer,brightpoint
+Preconditions:
+Services:
+#Close Browser
+#Genrate and Void a pin for pin Part Number <Pin Part Number> and get status of pin 

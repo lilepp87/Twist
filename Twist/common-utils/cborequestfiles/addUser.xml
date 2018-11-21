@@ -1,0 +1,18 @@
+<INPUT TASK="addUser">
+    <SOURCE_SYSTEM>IVR</SOURCE_SYSTEM>
+    <BRAND_NAME>@brand</BRAND_NAME>
+    <ZIP>@zip</ZIP>
+    <CITY>@city</CITY>
+    <STATE>@state</STATE>
+    <LAST_NAME>@lastname</LAST_NAME>
+    <EMAIL>@email</EMAIL>
+    <PASSWORD>@password</PASSWORD>
+    <ESN>@esn</ESN>
+    <ESNPH></ESNPH>
+    <CHECK_BILLING>FALSE</CHECK_BILLING>
+    <ENTER_BILLING>FALSE</ENTER_BILLING>
+    <CONSENT>0</CONSENT>
+    <DATE_OF_BIRTH>@dob</DATE_OF_BIRTH>
+    <FOUR_PIN>@pin</FOUR_PIN>
+    <CALL_ID>YES</CALL_ID>
+</INPUT>

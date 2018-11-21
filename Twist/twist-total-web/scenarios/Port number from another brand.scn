@@ -1,0 +1,9 @@
+Tags:in-progress
+Preconditions:On total wireless home page,Log Out
+Port Number, Activate phone, Create Account:
+#Select transfer phone number
+#Enter <Status> Esn for part <Part> zip code <ZIP Code> sim <SIM> and Pin number <PIN>
+#Confirm port message
+#Create new account
+#Enter number from <Brand> with part <Old Part>
+#Finish port

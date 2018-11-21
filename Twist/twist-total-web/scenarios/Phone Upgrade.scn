@@ -1,0 +1,15 @@
+Tags:
+Preconditions:On total wireless home page,Log Out
+Activate Phone, Create Account:
+#Setup Esn based on status <Status> and part <From Part>
+#Go to Activate Option
+#Enter <Status> Esn for part <From Part> and pin <From Pin> with Sim <From Sim>
+#Log in depending on status <Status>
+#Create new account depending on status <Status>
+#Enter esn <From Zip> zip and "1" <From Part> devices with Sim<From Sim>
+#Complete activation depending on status <Status>
+
+Phone upgrade, Create Account:
+#Upgrade My Device with part number<To Part>
+#Enter  <Status> esn <To Part> Sim <To Sim>and carrier <Carier> for lte <Is LTE> iphone<Is Iphone> with zip <From Zip> "Yes"
+#Complete upgrade Process for TW

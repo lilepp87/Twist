@@ -1,0 +1,13 @@
+Tags:NT1,brightpoint
+Preconditions:On net10 english home page,Log out
+
+Port In, Create a New Account, Start Activation, Create Account:
+#Make past due depending on status <Status> for model <Part> and sim <SIM>
+#Change Dealer to <Dealer>
+#Go to activate phone
+#Select transfer my number from another company
+#Enter esn<Part> and sim <SIM>
+#Enter esn and number from brand <Brand> with part <Old Part>
+#Select register with min
+#Enter personal information
+#Finish porting number for <Cell Tech> with PIN <Part for PIN>

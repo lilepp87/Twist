@@ -1,0 +1,20 @@
+Tags:set5
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone, Create Account:
+#Enter <Status> Esn for part <Part Number> sim <SIM>
+#Create account for <Brand>
+#Activate phone by using pin <PIN> depending on status <Status> of cell tech <Cell Tech> zip <Zip>
+#Checkout and process transaction
+
+redemption:
+#Add pin card <PIN> to reach 365 paid days requirment
+
+Solutions:
+#Set Installation date  to "365" days past to reach  Active days requirement
+#Go to unlock phone eligibilty page
+Solutions,Case Operations:
+#Validate unlock eligibility
+#Select refund type <Refund Type>
+#Fill up address form 
+#Check for ticket number
+#Complete ship confirm for FCC ticket with type <Refund Type>

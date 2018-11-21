@@ -1,0 +1,21 @@
+Tags:commerce,in-progress
+Preconditions:On total wireless home page,Log out
+Activate Phone, Create Account:
+#Setup Esn based on status "New" and part "TWZEZ717VCP"
+#Go to Activate Option
+#Enter "New" Esn for part "TWZEZ717VCP" and pin "TWAPP00035" with Sim "TF256PSIMV9RM"
+#Log in depending on status "New"
+#Create new account depending on status "New"
+#Enter esn "94043" zip and "1" "" devices with Sim ""
+#Complete activation depending on status "New"
+
+Browse:
+#Go to phones page existing "" 
+#Browse phones based on phone "APPLE"  and model "iPhone 5s 16GB (Grey)"
+
+Phone Purchase:
+#Add phone and plan "$60" to cart
+#Go to cart and provide details "VISA"
+#Review and finish order
+
+

@@ -1,0 +1,26 @@
+Tags:LRP,in-progress
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone, Create Account:
+#Enter <Status> Esn for part <PartNumber> sim <SIM>
+#LRP Create account for <Brand> 
+#Activate phone by using pin <PIN> depending on status <Status> of cell tech <CellTech> zip <Zip Code>
+#Add remaining  phones for ""  line plan of part "" "" "" with Sim"" "" ""
+#Checkout and process transaction
+
+Deactivation, Create Account, Activate Phone:
+#Select Deactivation option
+#Select a Deactivation Reason "PASTDUE Line Status : RESERVED USED"
+#Verify message that Line has been successfully deactivated
+#Add ESN to promo group
+#Complete TAS LRP Enrollment
+#Return to main screen for new ESN from LRP
+
+Activate Phone, redemption:
+#Select "Child" ESN "1" for "1" line for reactivation
+#Enter zip <Zip Code>
+#Select pin <PIN2> and add credit card <Card Type>
+#Make selection of  <Payment Type> payment
+#Add "Exchange Annual" protection plan if applicable
+#Select card enter cvv <CVV>
+#Check activation for cell tech <CellTech> and status <Status>
+#Check frontend for point allocation for "REACTIVATION" pin <PIN2>

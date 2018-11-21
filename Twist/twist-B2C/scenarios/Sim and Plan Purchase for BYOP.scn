@@ -1,0 +1,8 @@
+Tags:
+Preconditions:On HomePage,Logout
+Phone Purchase, Browse:
+#Go to phones <ZIP>
+#Select phone <Cell Tech> <Carrier>
+#Go to cart and checkout
+#Enter credit card details <Credit Type>
+#Finish Order

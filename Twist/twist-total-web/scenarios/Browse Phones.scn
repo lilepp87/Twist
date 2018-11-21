@@ -1,0 +1,6 @@
+Tags:in-progress,commerce
+Preconditions:On total wireless home page,Log out
+Browse:
+#Go to phones page <Param0>
+#Browse phones based on phone <Param2> and model <Param1>
+#Check <Param1> is shown

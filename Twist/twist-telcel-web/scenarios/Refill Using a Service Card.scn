@@ -1,0 +1,7 @@
+Tags:
+Preconditions:On telcel homepage
+Refill Using a Service Card, Activate Phone:
+#Go to Refill
+#Enter Phone number <Part Number> and Pin card <Pin Card>
+#Dismiss cdma roaming <Pin Card>
+#Confirm refill <Add Now?>

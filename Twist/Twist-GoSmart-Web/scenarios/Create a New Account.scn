@@ -1,0 +1,14 @@
+Tags:
+Preconditions:OnGoSmartHomePage,logout
+TAS:
+#Go to TAS
+#Enter <Status> Esn for part <PartNumber> sim <SIM>
+#Create account for "GO_SMART" with no email
+#Activate phone by using pin <PIN> depending on status <Status> of cell tech <CellTech> zip <ZipCode>
+
+ Create Account:
+#Click My account Sign In
+#Enter Min attached with no email
+#Enter Verification Code<ZipCode>
+#Create new account depending on status <Status>
+#Verify Account Created

@@ -1,0 +1,5 @@
+Tags:etailer,brightpoint
+Preconditions:
+Services:
+#Close Browser
+#Register ESN <ESN Part> and sim <SIM> with pin <Pin>

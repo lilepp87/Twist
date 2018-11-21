@@ -1,0 +1,7 @@
+Tags:services,wfm
+Preconditions:closeBrowser
+Family Mobile Operations, MyAccountApp, Invoke CBO:
+#Create account for part <ESN> sim <SIM> brand <Brand>
+#Call Service Order  <Flow Name> with Pin <PinPart>
+#Complete phone activation for <CellTech> and status <Status>
+#Get Catalog <CatalogParam>

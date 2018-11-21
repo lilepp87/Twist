@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:context="http://www.springframework.org/schema/context" xmlns:lang="http://www.springframework.org/schema/lang" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd         http://www.springframework.org/schema/lang http://www.springframework.org/schema/lang/spring-lang-3.0.xsd          http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+
+          <context:annotation-config/> 
+          <import resource="classpath:twist-common.xml"/>
+
+               <bean class="com.tracfone.twist.context.OnTasHomePage" id="OnTasHomePage">
+               		<property name="tracfoneFlows" ref="tracfoneFlows"/>
+               		<property name="esnUtil" ref="esnUtil"/>
+               </bean>
+               
+               	<bean class="com.tracfone.twist.Activation.ActivatePhone" id="activatePhone">
+					<property name="tracfoneFlows" ref="tracfoneFlows"/>
+					<property name="phoneUtil" ref="phoneUtil"/>
+					<property name="esnUtil" ref="esnUtil"/>
+				</bean>
+				
+				<bean id="portOut" class="com.tracfone.twist.portcases.PortOut">
+					<property name="activatePhone" ref="activatePhone" />
+				</bean>
+				
+				<bean class="com.tracfone.twist.myAccount.CreateAccount" id="accountCreation">
+					<property name="tracfoneFlows" ref="tracfoneFlows"/>
+				</bean>
+		
+				<bean class="com.tracfone.twist.supportOperations.Support" id="cboCall">
+					<property name="phoneUtil" ref="phoneUtil"/>
+				</bean>
+				
+				<bean class="com.tracfone.twist.cbo.InvokeCBO" id="invokeCBO">
+					<property name="tracfoneFlows" ref="tracfoneFlows"/>
+					<property name="phoneUtil" ref="phoneUtil"/>
+					<property name="esnUtil" ref="esnUtil"/>
+					<property name="simUtil" ref="simUtil"/>
+					<property name="cboUtility" ref="serviceutil"/>
+				</bean>
+				
+				<bean class="com.tracfone.twist.services.Operations" id="operations">
+					<property name="phoneUtil" ref="phoneUtil"/>
+					<property name="invokeCBO" ref="invokeCBO"/>
+					<property name="esnUtil" ref="esnUtil"/>
+				</bean>
+				
+				<bean class="com.tracfone.twist.Activation.Deactivation" id="deactivation">
+					<property name="phoneUtil" ref="phoneUtil"/>
+				</bean>
+				
+
+				<bean class="com.tracfone.twist.addAirtime.Redemption" id="SMRedemption">
+					<property name="tracfoneFlows" ref="tracfoneFlows"/>
+					<property name="phoneUtil" ref="phoneUtil"/>
+					<property name="esnUtil" ref="esnUtil"/>
+					<property name="simUtil" ref="simUtil"/>
+				</bean>
+				
+				<bean class="com.tracfone.twist.cbo.CboUtility" id="serviceutil">
+					<property name="phoneUtil" ref="phoneUtil"/>
+					<property name="esnUtil" ref="esnUtil"/>
+					<property name="cboUtil" ref="serviceUtil"/>
+				</bean>
+				
+				<bean class="com.tracfone.twist.services.BHN" id="bhnbean" >
+					
+				</bean>
+				
+				<bean class="com.tracfone.twist.services.BHNServices" id="bhnservicebean" >
+					<property name="bhn" ref="bhnbean"/>
+				</bean>
+				
+		<bean class="com.thoughtworks.twist.core.execution.TwistDataStoreFactory" id="twistDataStoreFactory"/>
+   <bean factory-bean="twistDataStoreFactory" factory-method="getScenarioStore" id="twistScenarioStore" scope="singleton"/>
+<bean class="ScenarioExecutionHooks" id="twistScenarioHooks">
+      <constructor-arg>
+         <ref bean="browser"/>
+      </constructor-arg>
+   </bean>
+</beans>

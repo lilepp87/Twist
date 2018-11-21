@@ -1,0 +1,8 @@
+Tags:set6,services,soa
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+.
+
+ ActivateServices, Activate Phone:
+#callSMActivateServices<PartNumber><SIM><PIN><Zip Code><Tsp Id>
+#completePhoneActivationForCellTechAndStatus<cellTech><Status>
+

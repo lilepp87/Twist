@@ -1,0 +1,7 @@
+Tags:set5
+Preconditions:On tas HomePage,Log out
+TossUtil:
+#Get Esn for part <PartNumber> of status <Status>
+#Search for Esn
+#Click on change dealer
+#Select new dealer <New DealerId> 

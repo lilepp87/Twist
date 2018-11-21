@@ -1,0 +1,12 @@
+Tags:ST1,byop
+Preconditions:On Straighttalk HomePage,Log out
+Activate Phone, Create Account, Register BYOP:
+#Go to Activate BYOP Option
+#Choose the carrier <Carrier>
+#Enter <Active?> <ESN Type> esn with zip <ZIP> lte <Is LTE?> carrier <Carrier> and iPhone 5 <Is iPhone 5?> is hd <isHD?>
+#Enter <Active?> <Carrier> cdma lte <Is LTE?> iphone <Is iPhone 5?> sim <Has Sim?> isTrio <isTrio?>
+#Choose a new number for zip <ZIP>
+#Enter pin <PIN>
+#Log in depending on status "New"
+#Create new account depending on status "New"
+#Complete activation process depending on status "New" and cell tech "CDMA"

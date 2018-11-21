@@ -1,0 +1,9 @@
+Tags:set6,cbo,services
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Support:
+#Generate ESN for <Part> and SIM <SIM> for brand <Brand> zip <Zipcode>
+#Create a staging ticket
+#Check port coverage
+#Get port service configuration for type <PhoneType> and carrier <Carrier>
+#Call ValidateEsnMinUpgradeChangeMin method
+#Process external port

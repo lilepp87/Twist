@@ -1,0 +1,7 @@
+ZipCode,Carrier,Status,Pin1,Pin2,Pin3,Cell tech,SIM,Is LTE,Is Iphone
+33178,RSS,Not Active,TFN0001Y,,,CDMA,TF256PSIMV9ND,Yes,Yes
+33178,RSS,Not Active,TFN0001Y,,,CDMA,TF256PSIMV9DD,Yes,No
+33178,RSS,Not Active,TFN00060,,,CDMA,null,Yes,Yes
+33178,RSS,Not Active,TFN0001Y,,,CDMA,null,Yes,No
+33178,RSS,Not Active,TFN0001Y,,,CDMA,null,No,Yes
+33178,RSS,Not Active,TFN00060,,,CDMA,null,No,No

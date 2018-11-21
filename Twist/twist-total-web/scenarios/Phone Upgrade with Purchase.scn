@@ -1,0 +1,18 @@
+Tags:
+Preconditions:On total wireless home page,Log out
+Activate Phone, Create Account, Buy a Service Plan, Enter Payment, Auto Refill:
+#Setup Esn based on status <Status> and part <Part Number>
+#Go to Activate Option
+#Enter <Status> Esn for part <Part Number> with Sim<SimNumber>
+#Select plan <Reoccuring?> <Plan>
+#Log in depending on status <Status>
+#Create new account depending on status <Status>
+#Enter esn <Zip Code> zip and <# Devices> <Other Part> devices with Sim<ChildSim>
+#Enter credit card <Card Type> or use stored card
+#Complete activation depending on status <Status>
+#Check enrolled in auto refill <Reoccuring?> <Plan>
+
+Phone upgrade, Create Account:
+#Upgrade My Device with part number <To Part>
+#Enter "New" esn <To Part> Sim <To SIM>and carrier <Carrier> for lte <LTE> iphone<IsIphone?> with zip <Zip Code> "Yes"
+#Complete upgrade Process for TW

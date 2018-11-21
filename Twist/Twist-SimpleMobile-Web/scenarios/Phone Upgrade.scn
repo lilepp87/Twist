@@ -1,0 +1,15 @@
+Tags:
+Preconditions:On SimpleMobile HomePage,LogOut
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter esn <From Part> zip <Zip> sim <SIM> and pin number <From PIN>
+#Create new account
+#Complete activation <SIM>
+
+ Activate Phone:
+#Setup up to <To Status> <To Part> phone with zip <Zip> sim <To SIM> pin <To PIN>
+
+Phone Upgrade, Create Account, Activate Phone, Port Number:
+#Go to Upgrade Option
+#Enter sim <To Part> <To SIM> to upgrade
+#Complete upgrade process

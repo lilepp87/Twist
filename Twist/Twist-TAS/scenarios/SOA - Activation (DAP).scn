@@ -1,0 +1,8 @@
+Tags:set6,services,soa
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+.
+ActivateServices, Support, Activate Phone:
+#Generate ESN for <PartNumber> and SIM <SIM> for brand <Brand> zip <Zip Code>
+#ActivateService with PIN <PIN>
+#Complete phone activation for cell tech <CellTech> and status <Status>
+        

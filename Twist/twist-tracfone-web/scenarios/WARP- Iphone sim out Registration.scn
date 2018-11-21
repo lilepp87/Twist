@@ -1,0 +1,12 @@
+Tags:brightpoint
+Preconditions:On Tracfone Home Page,Log Out
+Registration:
+#Register  iphone model  <Model> for  Carrier <SIM>
+Activate Phone:
+#Go to activate ""
+#Activate phone depending on status <Status> of cell tech <Celltech> zip <ZipCode>
+#Enter pin card number <PIN> "" ""
+#Skip register
+#Delay 40 seconds
+#Verify message for cell tech
+#Complete the process for <Celltech> phone

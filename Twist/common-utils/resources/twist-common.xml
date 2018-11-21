@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans>
+
+	<!-- ****** I M P O R T S ****** -->
+	
+	<import resource="classpath:tracfone-core.xml"/>
+
+	<!-- ****** DEFINITIONS ****** -->
+	
+	 <bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
+		<property name="driverClassName" value="oracle.jdbc.OracleDriver" />
+		<property name="url" value="jdbc:oracle:thin:@devdb.tracfone.com:3011:CLFYSIT1" />
+		<property name="username" value="itquser_data" />
+		<property name="password" value="sit14testdata" />
+	</bean>
+	
+   <bean id="ofsDataSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
+		<property name="driverClassName" value="oracle.jdbc.OracleDriver" />
+		<property name="url" value="jdbc:oracle:thin:@dsvmofs.tracfone.com:1531:OFSSIT" />
+		<property name="username" value="itquser_data" />
+		<property name="password" value="Ptr0p1cal!" />
+	</bean>
+	
+	  <bean id="db2DataSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
+		<property name="driverClassName" value="com.ibm.db2.jcc.DB2Driver" />
+		<property name="url" value="jdbc:db2://dpiswcsdb21.tracfone.com:60000/tracdb" />
+		<property name="username" value="db2inst1" />
+		<property name="password" value="tr@cf0ne" />
+	</bean>
+	
+	<bean id="brmDataSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
+		<property name="driverClassName" value="oracle.jdbc.OracleDriver" />
+		<property name="url" value="jdbc:oracle:thin:@devdbapps:6026:BRMSIT1" />
+		<property name="username" value="itquser_data" />
+		<property name="password" value="sit14testdata" />
+	</bean>
+    
+	<bean id="tracfoneFlows" class="com.tracfone.twist.flows.tracfone.TracfoneFlows">
+		<property name="browser" ref="browser" />
+	</bean>
+	
+	<bean id="phoneUtil" class="com.tracfone.twist.utils.PhoneUtil">
+		<property name="phoneTwistDao" ref="twist.phoneDao" />
+	</bean>
+	
+	<bean id="serviceUtil" class="com.tracfone.twist.utils.ServiceUtil">
+	<property name="phoneUtil" ref="phoneUtil" />
+	<property name="esnUtil" ref="esnUtil"/>
+	</bean>
+	
+	<bean class="com.tracfone.twist.utils.WfmUtil" id="wfmUtil" />
+
+	<bean id="simUtil" class="com.tracfone.twist.utils.SimUtil">
+		<property name="simTwistDao" ref="twist.simDao" />
+	</bean>
+	
+	<bean id="esnUtil" class="com.tracfone.twist.utils.ESNUtil">
+		<property name="phoneUtil" ref="phoneUtil" />
+	</bean>
+	
+	<bean id="ofsjdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+	    <property name="dataSource" ref="ofsDataSource"/>
+	</bean>
+	
+	<bean id="db2jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+	    <property name="dataSource" ref="db2DataSource"/>
+	</bean>
+	
+	<bean id="brmjdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+	    <property name="dataSource" ref="brmDataSource"/>
+	</bean>
+	
+	<bean id="clfyjdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+	    <property name="dataSource" ref="dataSource"/>
+	</bean>
+	
+
+	<bean id="twist.phoneDao" class="com.tracfone.twist.impl.phone.PhoneTwistDaoImpl" parent="core.abstractBaseDao" >
+		<property name="ofsjdbcTemplate" ref="ofsjdbcTemplate" />
+		<property name="db2jdbcTemplate" ref="db2jdbcTemplate" />
+		<property name="clfyjdbcTemplate" ref="clfyjdbcTemplate" />
+		<property name="brmjdbcTemplate" ref="brmjdbcTemplate" />
+	</bean>
+	
+	<bean id="twist.simDao" class="com.tracfone.twist.impl.phone.SimTwistDaoImpl" parent="core.abstractBaseDao" >
+			<property name="clfyjdbcTemplate" ref="clfyjdbcTemplate" />
+	</bean>
+	<bean id="org" class="com.tracfone.twist.utils.ORG">
+		<property name="phoneUtil" ref="phoneUtil" />
+	</bean>
+	
+	<bean id="account" class="com.tracfone.twist.utils.Account">
+	</bean>
+	
+	<bean id="cboUtils" class="com.tracfone.twist.utils.CboUtils">
+		<property name="phoneUtil" ref="phoneUtil" />
+		<property name="esnUtil" ref="esnUtil" />
+		<property name="serviceUtil" ref="serviceUtil" />
+	</bean>
+	
+</beans>

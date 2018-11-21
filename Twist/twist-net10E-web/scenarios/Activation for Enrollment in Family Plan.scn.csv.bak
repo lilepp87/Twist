@@ -1,0 +1,16 @@
+PartNumber(AO),SIM(AO),CellTech(AO),Status,ZipCode,PhoneType(AO),PinType,Plan Type,Phonetype For Plan,PartNumber(Family),CellTech(Family),NoOfFamilyMembers,SIM(Family),CardType
+NTALA463BGR5,TF64PSIMT5RM,GSM,New,33178,Android,Megacard,Unlimited International Monthly Plan for Family,,NTHUH867GP,GSM,4,TF64PSIMT5,Visa
+NTZEZ818GR,TF64PSIMC4RM,GSM,New,33178,Android,Megacard,Unlimited Monthly Family Plan,,NTALA554CP,CDMA,3,,Visa
+NTLGL31GP4AS,TF64PSIMC4RM,GSM,New,33178,Android,Megacard,Unlimited International Monthly Plan for Family,Android,NTLGL31GRCS4,GSM,2,TF64PSIMC4RM,Visa
+NTLG305CU,,CDMA,New,33178,Android,Megacard,Unlimited International Monthly Plan for Family,Android,NTLG305CPWP,CDMA,2,,Visa
+NTSAS765CDG,,CDMA,New,33178,Android,Megacard,Unlimited Monthly Family Plan,Android,NTSAS765C3PWP,CDMA,2,,Visa
+NTHUH867GP,TF64PSIMT5,GSM,New,33178,Android,Megacard,Unlimited Monthly Family Plan,Android,NTZEZ796CP,CDMA,2,,Visa
+NTALA554CP,,CDMA,New,33178,Android,Megacard,Unlimited International Monthly Plan for Family,Android,NTMTXT555CP,CDMA,2,,Visa
+NTHUM865CP,,CDMA,New,33178,Android,Megacard,Unlimited Monthly Family Plan,Android,NTLGL25CDG,CDMA,2,TF128PSIMS8M,Visa
+NTHUH867GP,TF64PSIMT5,GSM,New,33178,Android,Megacard,Unlimited International Monthly Plan for Family,Android,NTLGL95GP5,GSM,3,TF64PSIMT5,Visa
+NTRM9310CDG,,CDMA,New,33178,Android,Megacard,Unlimited Monthly Family Plan,Android,NTHUH867GP,GSM,4,TF64PSIMT5,Visa
+NTZEZ796CP,,CDMA,New,33178,Android,Megacard,Unlimited International Monthly Plan for Family,Android,NTALA554CP,CDMA,3,,Visa
+NTHUH867GP,TF64PSIMT5,GSM,New,33178,Android,Megacard,Unlimited Monthly Family Plan,Android,NTHUM865CP,CDMA,3,,Visa
+NTMTXT555CP,,CDMA,New,33178,Android,Megacard,Unlimited International Monthly Plan for Family,Android,NTHUH867GP,GSM,2,TF64PSIMT5,Visa
+NTLGL25CDG,TF128PSIMS8M,CDMA,New,33178,Android,Megacard,Unlimited Monthly Family Plan,Android,NTHUH868CPTGP,CDMA,1,,Visa
+NTLGL95GP5,TF64PSIMT5,GSM,New,33178,Android,Megacard,Unlimited International Monthly Plan for Family,Android,NTALA554CP,CDMA,3,,Visa

@@ -1,0 +1,6 @@
+Tags:
+Preconditions:On HomePage
+Browse:
+#Go to Phones <ZIP>
+#Sort by price range <Low Price> to <High Price>
+#Check <Phone> is shown

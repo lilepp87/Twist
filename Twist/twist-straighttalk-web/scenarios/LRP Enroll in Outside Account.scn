@@ -1,0 +1,13 @@
+Tags:in-progress
+Preconditions:On Straighttalk HomePage,Log out
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter <Status> esn for part <Part Number> and sim <SIM>
+#Choose a new number for zip <Zip Code>
+#Enter pin <PIN>
+#Log in depending on status <Status>
+#Create new account depending on status <Status>
+#Complete activation process depending on status <Status> and cell tech <Cell Tech>
+#Log out
+#Click on Rewards
+#Enroll in LRP Outside Account

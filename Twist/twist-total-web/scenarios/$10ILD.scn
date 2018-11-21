@@ -1,0 +1,20 @@
+Tags:
+Preconditions:On total wireless home page,Log out
+
+Activate Phone, Create Account:
+#Setup Esn based on status <Status> and part <ESN>
+#Go to Activate Option
+#Enter <Status> Esn for part <ESN> and pin <PIN> with Sim <SIM>
+#Log in depending on status <Status>
+#Create new account depending on status <Status>
+#Enter esn <Zipcode> zip and <Devices#> <OtherParts> devices with Sim <ChildSim>
+#Complete activation depending on status <Status>
+#Log out
+
+
+TenILD, Enter Payment, Buy a Service Plan:
+#Go to International Calling
+#Buy 10 dollar ild card
+#Enter phone number <ESN> and Quantity <Quantity>
+#Enter credit card <CardType>
+#Review order summary

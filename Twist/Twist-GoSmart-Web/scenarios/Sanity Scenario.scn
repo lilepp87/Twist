@@ -1,0 +1,34 @@
+Tags:Sanity,In-Progress
+Preconditions:OnGoSmartHomePage,Logout
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter <Status> Esn for part <From Esn> sim <From SIM>
+#Enter zip <ZipCode> for new phone number
+#Enter Pin <From Pin>
+#Log in depending on status <Status>
+#Create new account depending on status <Status>
+#Complete activation process depending on status <Status> and cell tech <CellTech>
+
+Port Number, Activate Phone:
+#Go to Activate Option
+#Enter <Status> Esn for part <To ESN> sim <To SIM>
+#Enter current min
+#Finish Porting
+
+Activate Phone:
+#Deactivate with reason "PASTDUE"
+#Go to Activate Option
+#Enter SIM
+#Enter Pin <React PIN>
+#Complete process for <CellTech>
+
+Activate Phone, Create Account, Port Number:
+#Deactivate  with reason "PORT CANCEL"
+#Go to activate option to port
+#Enter Esn for port <To ESN>  <To SIM>
+#Enter external number from "AT&T" 
+#Enter Pin <ExtPort Pin>
+#Log in depending on status "Past Due"
+#Finish Porting
+#completePortTicket
+

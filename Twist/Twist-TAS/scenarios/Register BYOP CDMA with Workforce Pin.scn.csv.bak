@@ -1,0 +1,5 @@
+Brand,Carrier,Is LTE?,Is iPhone?,Cust. have SIM?,Is Active?,ZIP,ESN Type
+TRACFONE,RSS,Yes,No,No,Not Active,33178,DECIMAL
+STRAIGHT_TALK,SPRINT,Yes,Yes,No,Not Active,33178,HEX
+NET10,SPRINT,Yes,Yes,No,Not Active,33178,DECIMAL
+TELCEL,RSS,No,No,No,Not Active,33178,DECIMAL

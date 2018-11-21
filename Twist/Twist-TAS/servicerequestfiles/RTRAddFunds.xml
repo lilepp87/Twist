@@ -1,0 +1,25 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:mys="http://mysimplemobile.com/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <mys:AddFunds xmlns:ns1="http://mysimplemobile.com/">
+         <partnerAuthentication>
+            <partnerId>EPAY</partnerId>
+            <securityCode>EPAY123</securityCode>
+         </partnerAuthentication>
+         <partnerReference>
+            <referenceId>@RefNbr</referenceId>
+         </partnerReference>
+         <subscriberIdentifier>
+            <idType>msisdn</idType>
+            <id>@min</id>
+         </subscriberIdentifier>
+         <payments>
+            <partnerPayment>
+               <retailPaymentType>CreditCard</retailPaymentType>
+               <amount>@amount</amount>
+            </partnerPayment>
+         </payments>
+         <futurePlanCode>@futureplanCode</futurePlanCode>
+      </mys:AddFunds>
+   </soapenv:Body>
+</soapenv:Envelope>

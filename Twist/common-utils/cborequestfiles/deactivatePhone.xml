@@ -1,0 +1,9 @@
+<INPUT TASK = "deactivatePhone">
+    <ESN>@esn</ESN>
+    <MIN>@min</MIN>
+    <DEACT_REASON>@reason</DEACT_REASON>
+    <BYPASS_ORDER_TYPE>1</BYPASS_ORDER_TYPE>
+    <SOURCE_SYSTEM>TAS</SOURCE_SYSTEM>
+    <SAME_MIN>false</SAME_MIN>
+    <BRAND_NAME>@brand</BRAND_NAME>
+</INPUT>

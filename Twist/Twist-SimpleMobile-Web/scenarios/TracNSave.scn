@@ -1,0 +1,12 @@
+Tags:shop
+Preconditions:On SimpleMobile HomePage,LogOut
+Activate Phone, Create Account:
+#Setup Esn based on status "New" and part "PHSM64PSIMT5B"
+#Go to Activate Option
+#Enter "New" Esn for part "PHSM64PSIMT5B" zip code "33178" sim "SM64PSIMT5B" and Pin number "SMNAPP70BBUNLILD"
+#Log in depending on status "New"
+#Create new account depending on status "New"
+
+Trac N Save:
+#Check for Trac N Save inside my account
+#Check for Trac N Save outside my account

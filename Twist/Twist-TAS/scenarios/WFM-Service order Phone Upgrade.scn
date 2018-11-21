@@ -1,0 +1,8 @@
+Tags:services,wfm
+Preconditions:closeBrowser
+MyAccountApp,Family Mobile Operations :
+#Create account for part <From_Part> sim <From_Sim> brand <Brand>
+#Call Service Order  "ACTIVATION" with Pin <From_Pin>
+#Complete phone activation for "GSM" and status "New"
+#Generate data and set to current ESN for upgrade<To_Part> <To_Sim> <Brand>
+#Service order ports and upgrade<To_Pin>"PhoneUpgrade"

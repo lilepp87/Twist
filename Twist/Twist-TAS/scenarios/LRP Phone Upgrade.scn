@@ -1,0 +1,19 @@
+Tags:LRP,set5
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone, Create Account:
+#Enter "New" Esn for part <From Part> sim <Form SIM>
+#LRP Create account for <Brand> 
+#Activate phone by using pin <From PIN> depending on status "New" of cell tech <From Tech> zip <Zip>
+#Add remaining  phones for <# Devices>  line plan of part <Child> "" "" with Sim<ChildSim> "" ""
+#Checkout and process transaction
+#Add ESN to promo group
+#Complete TAS LRP Enrollment
+
+Activate Phone, Phone Upgrade, Redemption, Create Account:
+#Select <Upgrade For?> ESN for upgrade
+#Return to main screen from LRP
+#Go to Upgrade option
+#Confirm Identity challenge
+#Select option <To Status> part number <To Part> sim <To SIM> pin <To PIN> of cell tech <To Tech> zip <Zip> with min transfer <Min Transfer>
+#Confirm phone upgrade
+#Check frontend for point allocation for "PORT_IN" pin <To PIN>

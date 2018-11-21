@@ -1,0 +1,12 @@
+Brand,Carrier,Is LTE?,Is iPhone?,Cust. Have SIM?,Is Active?,ZIP,ESN Type,Card Type,isTrio
+NET10,SPRINT,Yes,No,No,Active,33178,HEX,Discover,Yes
+NET10,SPRINT,Yes,Yes,No,Not Active,33178,DECIMAL,Discover,No
+NET10,SPRINT,No,Yes,No,Active,33178,HEX,Discover,Yes
+NET10,SPRINT,No,No,No,Not Active,33178,DECIMAL,Discover,No
+STRAIGHT_TALK,SPRINT,Yes,No,No,Active,33178,HEX,Discover,Yes
+STRAIGHT_TALK,SPRINT,Yes,Yes,No,Not Active,33178,DECIMAL,Discover,No
+STRAIGHT_TALK,SPRINT,No,Yes,No,Active,33178,HEX,Discover,Yes
+STRAIGHT_TALK,SPRINT,No,No,No,Not Active,33178,DECIMAL,Discover,Yes
+NET10,RSS,Yes,Yes,No,Active,33178,HEX,Discover,No
+NET10,RSS,Yes,No,No,Not Active,33178,DECIMAL,Discover,Yes
+NET10,RSS,No,No,No,Active,33178,HEX,Discover,No

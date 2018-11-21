@@ -1,0 +1,12 @@
+Tags:FMS
+Preconditions:On B2B home page,Log out
+Create Account, Activate:
+#Get new B2B byop esn
+#Go to login
+#Log in for fleet
+
+Activate:
+#Go to activate
+#Choose activate sim
+#Fill out sim "33178" zip
+#Check successful activation

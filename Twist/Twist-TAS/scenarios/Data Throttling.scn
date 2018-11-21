@@ -1,0 +1,12 @@
+Tags:in-progress
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+ Activate Phone, Create Account:
+#Enter <Status> Esn for part <PartNumber> sim <SIM>
+#Create account for <Brand>
+#Activate phone by using pin <PIN> depending on status "New" of cell tech <Cell Tech> zip <Zipcode>
+#Add remaining  phones for ""  line plan of part "" "" "" with Sim "" "" ""
+#Checkout and process transaction
+
+
+Throttling:
+#Throttle esn on policy <Policy Number>

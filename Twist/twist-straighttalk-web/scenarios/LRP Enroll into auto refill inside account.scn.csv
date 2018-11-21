@@ -1,0 +1,24 @@
+Status,Part,SIM,ZIP,PIN,Cell Tech,Old Plan,New Plan,Queued?,Credit Type
+New,STZEZ799VCP,TF256PSIMV9RM,33178,NTAPPMP00045,CDMA,$45 Unlimited Plan,$45 Unlimited Plan,Now,Visa
+New,STLGL63BGR5,TF128PSIMT5N,33178,NTPMP00060ILD,GSM,Unlimited International Plan,$45 Unlimited Plan,Queued,American Express
+New,STLGL59BGR5,TF128PSIMT5N,33178,STAPP30035,GSM,$130 Unlimited Plan,$45 Unlimited Plan,Now,Visa
+New,STLGL48VC,TF256PSIMV9N,33178,NTAPPMP000451Y,CDMA,$495 Unlimited Plan,Unlimited International Plan,Now,Visa
+New,STLGL57BGRCS4,TF128PSIMC4N,33178,NTAPPMP00045,GSM,$45 Unlimited Plan,$45 Unlimited Plan,Now,Visa
+New,STLGL58VCRCS,TF256PSIMV9N,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,$45 Unlimited Plan,Queued,American Express
+New,STZEZ233VCGY,TF256PSIMV9RM,33178,NTAPPMP00045TR,CDMA,$130 Unlimited Plan,$45 Unlimited Plan,Now,Visa
+New,STALA571VC,TF256PSIMV9RM,33178,NTAPPMP000451Y,CDMA,$495 Unlimited Plan,Unlimited International Plan,Now,Visa
+New,STLG329GRCS5,TF128SIMC4,33178,NTAPPMP00045,GSM,$45 Unlimited Plan,$45 Unlimited Plan,Now,Visa
+New,STLGL43AGP7P,TF128PSIMC4N,33178,NTPMP00060ILD,GSM,Unlimited International Plan,$45 Unlimited Plan,Queued,American Express
+New,STLGL52VC,TF256PSIMV9N,33178,STAPP30035,CDMA,$130 Unlimited Plan,$45 Unlimited Plan,Now,Visa
+New,STZEZ716BGP4P,TF128PSIMC4RM,33178,NTPMP00060ILD,GSM,Unlimited International Plan,$45 Unlimited Plan,Queued,Visa
+New,STAPI6SPG16RGP4P,TF128PSIMC4N,33178,NTPMP00060ILD,GSM,Unlimited International Plan,$45 Unlimited Plan,Queued,Visa
+New,STZEZ819CWHP,TF256PSIMV9RM,33178,NTPMP00060ILD,GSM,Unlimited International Plan,$45 Unlimited Plan,Now,Visa
+New,ST3GCPOAGS4GP4,TF128PSIMC4RM,33178,NTPMP00060ILD,GSM,Unlimited International Plan,$45 Unlimited Plan,Now,Visa
+New,STLGL33GWHP4,TF128PSIMC4RM,33178,NTAPPMP000451Y,GSM,$495 Unlimited Plan,$60 Unlimited Plan,Now,Visa
+New,STLGL22C,,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,$60 Unlimited Plan,Now,Visa
+New,STHUH350,TF64SIMC4,33178,STNHPAPPUNL30,GSM,$30 Home Center,$60 Home Center,Now,Visa
+New,STMTXT830CWHP,,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,$60 Unlimited Plan,Queued,Discover
+New,STAVV10GP,JASPER2FF,33178,,GSM,Car Connection Monthly Plan,Car Connection Monthly Plan,Queued,Discover
+New,STLG305C,,33178,NTNMP00045,CDMA,$45 Unlimited Plan,$60 Unlimited Plan,Now,Discover
+New,STSAS890GR,TF64PSIMC4RM,33178,STAPP30035,GSM,$45 Unlimited Plan,$60 Unlimited Plan,Queued,Discover
+New,STLG511CP,,33178,NTPMP00060ILD,CDMA,Unlimited International Plan,$60 Unlimited Plan,Queued,Discover

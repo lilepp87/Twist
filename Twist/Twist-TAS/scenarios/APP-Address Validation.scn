@@ -1,0 +1,4 @@
+Tags:app,services
+Preconditions:closeBrowser
+MyAccountApp:
+#Validate <Address1> <City> <State> <ZIP> <Country> address for <Brand>

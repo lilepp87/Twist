@@ -1,0 +1,61 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:pay="http://b2b.tracfone.com/PaymentMethodServices" xmlns:com="http://www.tracfone.com/CommonTypes" xmlns:sec="http://www.tracfone.com/SecurityCommonTypes" xmlns:acc="http://www.tracfone.com/AccountCommonTypes" xmlns:phon="http://www.tracfone.com/PhoneCommonTypes" xmlns:pay1="http://www.tracfone.com/PaymentCommonTypes">
+   <soapenv:Header xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+      <wsse:Security soap:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+         <wsse:UsernameToken wsu:Id="unt_dymtpxyv7NS1BCB4" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+            <wsse:Username>@secusername</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">@secpassword</wsse:Password>
+         </wsse:UsernameToken>
+      </wsse:Security>
+   </soapenv:Header>
+   <soapenv:Body>
+      <pay:addCreditCardRequest>
+         <com:requestToken>
+            <com:clientTransactionId>12313</com:clientTransactionId>
+            <com:clientId>345345</com:clientId>
+         </com:requestToken>
+         <com:brandName>@brand</com:brandName>
+         <com:sourceSystem>WEB</com:sourceSystem>
+         <!--Optional:-->
+         <com:language>ENG</com:language>
+         <pay:authenticationCredentials>
+            <!--You have a CHOICE of the next 2 items at this level-->
+            <sec:AccountCredentials>
+               <acc:email>@email</acc:email>
+               <acc:password>@password</acc:password>
+            </sec:AccountCredentials>
+         </pay:authenticationCredentials>
+         <pay:paymentSource>
+            <!--You have a CHOICE of the next 2 items at this level-->
+            <pay1:creditCard>
+               <pay1:accountHolderName>
+                  <com:firstName>@firstname</com:firstName>
+                  <com:lastName>@lastname</com:lastName>
+               </pay1:accountHolderName>
+               <!--Optional:-->
+               <pay1:phoneNumber>@phonenumber</pay1:phoneNumber>
+               <pay1:email>@email</pay1:email>
+               <pay1:address>
+                  <com:streetAddress>
+                     <com:line1>@address</com:line1>
+                     <!--Optional:-->
+                     <com:line2></com:line2>
+                  </com:streetAddress>
+                  <com:city>@city</com:city>
+                  <com:state>@state</com:state>
+                  <com:zipcode>@zip</com:zipcode>
+               </pay1:address>
+               <pay1:paymentSourceType>CREDITCARD</pay1:paymentSourceType>
+               <!--Optional:-->
+               <pay1:paymentSourceNickname>AddCC</pay1:paymentSourceNickname>
+               <pay1:accountNumber>@accnumber</pay1:accountNumber>               
+               <!--Optional:-->
+               <pay1:cardType>@cardtype</pay1:cardType>
+               <pay1:expirationDate>
+                  <com:expirationYear>@expyear</com:expirationYear>
+                  <com:expirationMonth>@expmonth</com:expirationMonth>
+               </pay1:expirationDate>
+            </pay1:creditCard>
+         </pay:paymentSource>
+      </pay:addCreditCardRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

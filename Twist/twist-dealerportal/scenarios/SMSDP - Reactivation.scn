@@ -1,0 +1,16 @@
+Tags:in-progress
+Preconditions:On Dealerportal,Log Out
+Activate Phone:
+#Go to <Brand>
+#Go to Activation for <Brand>  shared plan
+#Enter zip <ZIP> pin <Pin> and email
+#Enter ESN <ESN> SIM <SIM> and zip <ZIP>
+#Confirm shared plan activation for cell tech <Cell Tech>
+
+Redeem Pin, Activate Phone:
+#Make "PASTDUE" based on status
+#Go back to UDP
+#Go to <Brand>
+#Go to Activation for <Brand>
+#Enter zip <ZIP> pin <Pin> for <Action>
+#Confirm activation for cell tech "PASTDUE"

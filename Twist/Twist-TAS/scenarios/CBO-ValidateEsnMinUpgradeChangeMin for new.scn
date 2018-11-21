@@ -1,0 +1,4 @@
+Tags:set6,cbo,services,in-progress
+Preconditions:closeBrowser
+Support:
+#Call ValidateEsnMinUpgradeChangeMin method for  part <Part> status<Status> brand <Brand>

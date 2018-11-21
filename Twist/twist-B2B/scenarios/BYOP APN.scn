@@ -1,0 +1,7 @@
+Tags:in-progress
+Preconditions:On B2B home page,Log out
+Create Account:
+#Get active ESN for part<Part Number>
+#Go to ClearwayAPN Setting page
+#Enter MIN and device details<model>
+#Check for settings

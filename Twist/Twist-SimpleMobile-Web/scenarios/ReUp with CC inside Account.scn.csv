@@ -1,0 +1,25 @@
+Status,PartNumber,SIM,ZipCode,Plan 1,CellTech,Plan 2,$10 ILD ?,Card Type,Reoccurring?
+New,SMLGL83BGRCS5,SM128PSIMT5N,33178,$60 Unlimited,GSM,$30 Unlimited,1,Discover,One-Time
+New,SMZEZ986DG,SM128PSIMT5N,33178,$40 Unlimited,GSM,$60 Unlimited,1,Visa,One-Time
+New,SMZEZ232TGGYP5DU,SM128PSIMT5RM,33178,$60 Unlimited,GSM,$70 Upgrade,1,Visa,One-Time
+New,SMHUH1511DGSVP5DG,SM128PSIMT5N,33178,$60 Unlimited,GSM,$70 Upgrade,1,Visa,One-Time
+New,SMALA570BG,SM128PSIMT5RM,33178,$70 Upgrade,GSM,$60 Unlimited,0,Visa,Reoccurring
+New,SMZEZ828TGRCS,SM128PSIMT5N,33178,$60 Unlimited,GSM,$30 Unlimited,1,Visa,One-Time
+New,SMZEZ716BG3P5P,SM128PSIMT5RM,33178,$60 Upgrade,GSM,$50 Unlimited,3,Discover,One-Time
+New,SMLCPOAGS4GP5,SM128PSIMT5RM,33178,$50 Upgrade,GSM,$40 Unlimited,0,Visa,Reoccurring
+New,SMZEZ667GWHP,SM128PSIMT5RM,33178,$40 Unlimited,GSM,$25 Unlimited,0,Discover,One-Time
+New,SMZEZ828TGRCS,SM128PSIMT5N,33178,$60 Unlimited,GSM,$60 Upgrade,1,American Express,One-Time
+New,PHSM64PSIMT5B,SM64PSIMT5B,33178,$40 Unlimited,GSM,$50 Upgrade,1,Discover,One-Time
+New,PHSM64PSIMT5BLC,SM64PSIMT5B,33178,$60 Unlimited,GSM,$30 Unlimited,1,Master Card,Reoccurring
+New,PHSM64PSIMT5MB,SM64PSIMT5B,33178,$70 Upgrade,GSM,$60 Upgrade,1,Visa,Reoccurring
+New,PHSM64PSIMT5MB,SM64PSIMT5B,33178,$25 Unlimited,GSM,$50 Unlimited,1,Master Card,One-Time
+New,PHSM64PSIMT5B,SM64PSIMT5B,33178,$40 Wireless Data,GSM,$20 Wireless Data,0,American Express,One-Time
+New,PHSM64PSIMT5BLC,SM64PSIMT5B,33178,$60 Unlimited,GSM,$60 Unlimited,1,Discover,One-Time
+Past Due,PHSM64PSIMT5MB,SM64PSIMT5B,33178,$70 Upgrade,GSM,$70 Upgrade,0,Visa,Reoccurring
+Past Due,PHSM64PSIMT5MB,SM64PSIMT5B,33178,$60 Unlimited,GSM,$40 Unlimited,1,Master Card,One-Time
+New,SMZEZ836BGP5,SM128PSIMT5N,33178,$70 Upgrade,GSM,$60 Unlimited,0,Visa,Reoccurring
+New,SMZEZ798BG3P5,SM128PSIMT5RM,33178,$60 Unlimited,GSM,$40 Unlimited,1,American Express,One-Time
+New,SMZEZ836BG3P5,SM128PSIMT5N,33178,$70 Upgrade,GSM,$70 Upgrade,0,Visa,Reoccurring
+New,SMZEZ798BG3P5,SM128PSIMT5RM,33178,$60 Unlimited,GSM,$40 Unlimited,1,American Express,One-Time
+New,SMLGL59BGP5ET,SM128PSIMT5N,33178,$70 Upgrade,GSM,$70 Upgrade,0,Visa,Reoccurring
+New,SMLGL63BGP5ET,SM128PSIMT5N,33178,$60 Unlimited,GSM,$40 Unlimited,1,Master Card,One-Time

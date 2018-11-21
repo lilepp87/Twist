@@ -1,0 +1,16 @@
+Tags:set1,Handset
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone, Create Account, Family Mobile Operations:
+#Enter "New" Esn for part <PartNumber> sim <SIM>
+#Create account for <Brand>
+#Activate phone by using pin <PIN> depending on status "New" of cell tech <CellTech> zip "33178"
+#Checkout and process transaction
+#Register customer into Employee Discount program "false"
+
+Activate Phone, Redemption:
+#Go back to activation flow
+#Add remaining  phones for <# of Childs>  line plan of part <Child_Esn_1> <Child_Esn_2> <Child_Esn_3> with sim <Child_Sim_1> <Child_Sim_2> <Child_Sim_3>
+#Add new credit card
+#Enter card <CardType>
+#Select card enter cvv <Cvv>
+#Checkout and process transaction

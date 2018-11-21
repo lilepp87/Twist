@@ -1,0 +1,8 @@
+Tags:set6,services
+Preconditions:On tas HomePage,Log out
+Registration:
+#Register  iphone model  <Model> for  Carrier <SIM> with Response <Carrier Response> for <Brand> Source "WARP" 
+ Create Account, Activate Phone:
+#Create account for <Brand>
+#Activate phone by using pin <PIN> depending on status "New" of cell tech <Cell Tech> zip <Zip Code>
+#Checkout and process transaction

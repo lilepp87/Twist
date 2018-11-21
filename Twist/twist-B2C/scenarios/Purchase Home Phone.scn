@@ -1,0 +1,8 @@
+Tags:
+Preconditions:On HomePage,Logout
+Phone Purchase, Browse:
+#Go to phones "33178"
+#Select home phone
+#Go to cart and checkout
+#Enter credit card details "VISA"
+#Finish Order

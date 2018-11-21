@@ -1,0 +1,4 @@
+Tags:set6,services,soa
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+ ActivateServices:
+#Call the BYOP Registraion Service for  <Is LTE> and  <Is Iphone> model for <Brand> in <ZipCode> "Yes"

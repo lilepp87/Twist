@@ -1,0 +1,13 @@
+QueueType,Brand,CaseType,Title,Status,Source
+B2B REFUNDS,GO_SMART,Port In,Carrier Migration,Address Updated,Wal-Mart
+B2B REFUNDS,TOTAL_WIRELESS,Port In,Carrier Migration,Address Updated,Wal-Mart
+INTERGATE,TELCEL,Inventory,Change / Insert Model Number,Address Updated,Wal-Mart
+INTERNAL PORT IN,NET10,Features,Call Waiting,Address Updated,Wal-Mart
+LINE ACTIVATION L,STRAIGHT_TALK,Airtime,Credit Card Issues,Address Updated,Wal-Mart
+RESOLUTION REQUIRED,TRACFONE,Roaming,Memory Full,Address Updated,Wal-Mart
+ST INT PORT APPROVAL,STRAIGHT_TALK,Technology Exchange,Digital Exchange,Address Updated,Wal-Mart
+ST PORT CREDIT REWORK,NET10,Line Activation,Authentication,Address Updated,Wal-Mart
+ST T-MO ESN CHANGE,STRAIGHT_TALK,ILD,Access Number not working,Address Updated,Wal-Mart
+TF/NT AUTO PORT REWORK,NET10,ILD,Access Number not working,Address Updated,Wal-Mart
+TF/NT PORT REQUEST,STRAIGHT_TALK,Coverage,-34 Call Restriction,Address Updated,Wal-Mart
+WAREHOUSE EXCEPTION,TRACFONE,Roaming,Memory Full,Address Updated,Wal-Mart

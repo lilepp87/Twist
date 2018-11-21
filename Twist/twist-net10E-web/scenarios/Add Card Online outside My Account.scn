@@ -1,0 +1,20 @@
+Tags:NT5
+Preconditions:On net10 english home page,Log out
+Start Activation, Create Account:
+#Make past due depending on status "New" for model <Part Number> and sim <SIM>
+#Go to activate phone
+#Select Activate My Net10 Phone
+#Skip account creation
+#Possibly join SIM <SIM> for cell tech <Tech> and status "New"
+#Enter Esn for model <Part Number> with status "New" and zip code "33178"
+
+Finish Activation with PIN:
+#Enter "Megacard" PIN <Pin for activation> for phone 
+#Try to activate and check message for "New" <Tech> "Android" phone and "Megacard" PIN
+
+Add Airtime:
+#Go to Add Card Online
+#Enter phone number
+#Enter pin card <Pin Card>
+#Add pin <action>
+#Complete the process

@@ -1,0 +1,5 @@
+Tags:tf2,in-progress
+Preconditions:On Tracfone Home Page
+Coverage Check:
+#Go to Coverage and enter zip <Zipcode>
+#Select a phone and check for maps

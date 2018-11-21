@@ -1,0 +1,7 @@
+Customer Type,Zip Code,Phone,Plan,CC Type
+Exist,94043,Samsung,No Plan,VISA
+New,33178,Zte,$35,American Express
+New,94043,Alcatel,$40,MasterCard
+New,06512,Huawei,$50,Discover
+New,94043,Samsung,$65,VISA
+Exist,33178,Zte,$75,American Express

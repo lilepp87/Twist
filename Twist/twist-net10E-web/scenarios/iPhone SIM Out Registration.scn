@@ -1,0 +1,9 @@
+Tags:brightpoint
+Preconditions:On net10 english home page,Log out
+Start Activation, Create Account:
+#Select Activate My Net10 Phone
+#Create new account for Esn
+#Enter "Hex" Esn for model with status "New" and zip code "33178"
+
+Finish Activation with PIN:
+#Activate with pin "NTAPP6U075" for BYOP

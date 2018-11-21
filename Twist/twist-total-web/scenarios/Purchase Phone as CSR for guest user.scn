@@ -1,0 +1,14 @@
+Tags:in-progress
+Preconditions:On total wireless home page,Log out
+CSR:
+#Login as CSR
+#Select Guest User
+
+Browse:
+#Browse phones based on <Filter By>
+
+Phone Purchase:
+#Add <model> to cart
+#Go to cart and checkout as CSR
+#Enter credit card details <Card Type>
+#Finish order

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:lang="http://www.springframework.org/schema/lang"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+   	    http://www.springframework.org/schema/lang http://www.springframework.org/schema/lang/spring-lang-3.0.xsd
+         http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+
+  	<context:annotation-config/> 
+
+	<import resource="classpath:twist-common.xml" />
+
+	<!-- **** CONTEXT ***-->
+	
+	<bean id="OnSimpleMobileHomePage" class="com.tracfone.context.OnSimpleMobileHomePage">
+		<property name="esnUtil" ref="esnUtil" />
+		<property name="tracfoneFlows" ref="tracfoneFlows" />
+	</bean>
+	
+	
+	<!-- **** DEACTIVATION ***-->
+	
+	<bean id="SMDeactivatePhone" class="com.strcsr.twist.deactivation.DeactivatePhone">
+		<property name="tracfoneFlows" ref="tracfoneFlows" />
+		<property name="phoneUtil" ref="phoneUtil" />
+	</bean>
+		
+	<!-- **** ACTIVATION ***-->
+	
+	<bean id="ActivatePhone" class="com.tracfone.activation.ActivatePhone">
+		<property name="phoneUtil" ref="phoneUtil" />
+		<property name="simUtil" ref="simUtil" />
+		<property name="deactivatePhone" ref="SMDeactivatePhone" />
+		<property name="tracfoneFlows" ref="tracfoneFlows" />
+		<property name="esnUtil" ref="esnUtil" />
+	</bean>
+		
+	
+	<!-- ******* Buy ServicePlan ****** -->
+	 
+	<bean id="AddServicePlan" class="com.tracfone.twist.redemption.AddServicePlan">
+		<property name="tracfoneFlows" ref="tracfoneFlows" />
+	</bean>
+	
+	<!-- **** Phone Upgrade ****** -->
+	
+	<bean id="phUpgrade" class="com.tracfone.activation.PhoneUpgrade">
+		<property name="phoneUtil" ref="phoneUtil" />
+		<property name="simUtil" ref="simUtil" />
+		<property name="tracfoneFlows" ref="tracfoneFlows" />
+	</bean>
+
+</beans>

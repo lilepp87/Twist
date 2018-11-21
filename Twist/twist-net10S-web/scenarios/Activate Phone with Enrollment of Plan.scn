@@ -1,0 +1,16 @@
+Tags:
+Preconditions:On Net10Spanish Home Page,Log out
+Start Activation, Create Account:
+#Make past due depending on status <Status> and model <Part>
+#Go to activate phone
+#Select Activate My Net10 Phone
+#Create new account for Esn
+#Enter Esn for model <Part> with status <Status> and zip code <Zip Code>
+#Possibly enter SIM <SIM> for cell tech <Cell Tech> and status <Status>
+
+Finish Activation with Service Plan:
+#Select I Need an Airtime Card
+#Enroll in recurring <Plan> <Phone Type> plan 
+#Select <Plan> <Phone Type> plan
+#Enter payment information with card number <Card> zip code <Zip Code> card type <Card Type> and status <Status>
+#Check result for <Cell Tech> <Phone Type> phone with status and plan <Status> <Plan Type>

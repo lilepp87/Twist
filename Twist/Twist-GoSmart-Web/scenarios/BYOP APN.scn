@@ -1,0 +1,13 @@
+Tags:In-Progress
+Preconditions:OnGoSmartHomePage,logout
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter "New" Esn for part "PHSMGS128PSIMT5DD" sim "GS128PSIMT5DD"
+#Enter zip "33178" for new phone number
+#Enter Pin "GSAPPU0035"
+#Log in depending on status "New"
+#Create new account depending on status "New"
+#Complete activation process depending on status "New" and cell tech "GSM"
+
+BYOP APN:
+#Go to APN Settings

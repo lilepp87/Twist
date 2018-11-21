@@ -1,0 +1,9 @@
+Tags:tf1
+Preconditions:On Tracfone Home Page,Log Out
+Port Number, Create Account, Activate Phone:
+#Go to activate Phone with <Part>
+#Enter "NEW" esn <Part> with sim <SIM>
+#Enter esn and number from brand <Source Brand> with part <Old Part> 
+#select register
+#Finish porting number for <New Cell> <pin for new part>
+#log out

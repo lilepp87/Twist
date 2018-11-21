@@ -1,0 +1,7 @@
+Tags:Negative,brightpoint
+Preconditions:On Tracfone Home Page,Log Out
+Activate Phone, Create Account:
+#Go to activate my TracFone For <Part Number>
+#Enter "New" Esn <Part Number> SIM card <SIM> and zip code <Zip>
+#Enter pin card number <Pin Card> "" ""
+#Select Register and enter invalid values for <Email> <Password> <Security Pin> <DOB>

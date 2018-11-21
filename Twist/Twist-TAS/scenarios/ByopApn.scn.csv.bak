@@ -1,0 +1,13 @@
+PartNumber,Brand,Operating System,OSVersion,Handset Manufacturer,Handset Model
+PHNT64PSIMC4B,NET10,Android,Android 4.0 & 4.1,HTC,HTC Dash
+PHNT64PSIMC4MB,NET10,Blackberry,Blackberry,Blackberry,Blackberry
+PHNT64PSIMT5MB,NET10,IOS,iOS 6 or later,Apple,iPhone (iOS 6 or later)
+PHNT64PSIMT5MB,NET10,Android,Android 4.0 & 4.1,LG,LG (Optimus T and G2X)
+PHST64PSIMC4MB,STRAIGHT_TALK,Blackberry,Other,Blackberry,Other
+PHST64PSIMT5B,STRAIGHT_TALK,Other,Other,Other,Other
+PHST64PSIMC4MB,STRAIGHT_TALK,IOS,Other,Apple,iPhone (5 or previous)
+PHST64PSIMT5B,STRAIGHT_TALK,Windows,Windows,Nokia,Nokia 5230
+PHTC64PSIMT5B,TELCEL,Blackberry,Blackberry,Blackberry,Blackberry
+PHTC64PSIMT5B,TELCEL,Android,Android 2.3,Samsung,"Samsung Galaxy S (3G, 4G)"
+PHTC64PSIMT5B,TELCEL,IOS,iOS 5 or previous,Apple,iPhone (5 or previous)
+PHTC64PSIMT5B,TELCEL,Windows,Other,Nokia,Other

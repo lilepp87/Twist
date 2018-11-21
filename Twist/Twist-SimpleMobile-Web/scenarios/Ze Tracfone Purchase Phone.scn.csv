@@ -1,0 +1,8 @@
+Customer,ZipCode,Phone,Plan,CC Type
+EXISTING,94043,zte,No Plan,VISA
+New,94043,lg,$15,American Express
+New,33178,samsung,$25,Mastercard
+New,94043,unimax,$35,Discover
+New,06516,alcatel,$125,VISA
+New,94043,zte,$125,VISA
+New,33331,,,

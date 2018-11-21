@@ -1,0 +1,33 @@
+<INPUT TASK="STRefillCC">
+	<ESN>@esn</ESN>
+    <PHONE_ZIPCODE>@zip</PHONE_ZIPCODE>
+    <ACTION_TYPE>@actiontype</ACTION_TYPE>
+    <DIFF_MIN>0</DIFF_MIN>
+    <LANGUAGE_FLAG>English</LANGUAGE_FLAG>
+    <NUMBER_OF_REDCARDS>@redcount</NUMBER_OF_REDCARDS>
+    <SERVICE_PLAN1>@plan</SERVICE_PLAN1>
+    <REFILL_TYPE>@refilltype</REFILL_TYPE>
+    <AUTOREFILL>@autorefill</AUTOREFILL>
+	<BIN_SEQUENCE>601191</BIN_SEQUENCE>
+	<CC_ON_FILE>0</CC_ON_FILE>
+	<CC_NUMBER>
+	<token>
+	<EncryptedSessionKey>mxbYJRvJALM/xv6k4BOJQo5PH4gXtte7yYTK4rWy0rFrdpDjSfZETmefO3blUIVXKvbnKmLz4y/0jvNUzJ9pnfKvJwGXjUWoxYhqpeN1l9QAuwJ9Q5BiGtkDivHGR+Bgg6IXCuaeAsg665nq5NQzuPU4ezfTuStLtSbo5JrykWE=</EncryptedSessionKey>
+	<CryptoCert>dp-cc-sit-20160701</CryptoCert>
+	<KeyTransportAlgorithm>http://www.w3.org/2001/04/xmlenc#rsa-1_5</KeyTransportAlgorithm>
+	<DecryptAlgorithm>http://www.w3.org/2001/04/xmlenc#aes256-cbc</DecryptAlgorithm>
+	<EncryptedCCN>1U5aP/9G6gjQySmMD+vu2/mgq0d9jnJdViC+25M+BAcgnm8DroUw12v24Xq//CfI</EncryptedCCN>
+	<hash>+QIunTGOOrwoa3k+/vO88KLvCms=1961</hash></token></CC_NUMBER>
+	<CC_LAST_4/>
+	<CC_CARD_TYPE>@cardType</CC_CARD_TYPE>
+	<CC_EXP_DATE>0117</CC_EXP_DATE>
+	<CC_CVV>@cvv</CC_CVV>
+	<CC_ZIP_CODE>94043</CC_ZIP_CODE>
+	<SOURCE_SYSTEM>IVR</SOURCE_SYSTEM>
+	<BRAND_NAME>@brand</BRAND_NAME>
+	<UNIQUE_IVR_ID>dpepmssit1-2015344162928-20</UNIQUE_IVR_ID>
+	<ACCOUNT_PIN>@pin</ACCOUNT_PIN>
+	<AR_ENROLL_ONLY>@ARflag</AR_ENROLL_ONLY>
+</INPUT>
+ 
+		

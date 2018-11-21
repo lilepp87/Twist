@@ -1,0 +1,6 @@
+Tags:set3
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Register BYOP:
+#Go to BYOP Eligibility
+#Enter <Brand> brand  <ESN Type> esn  zip <ZIP> and check for eligibilty with carrier <Carrier>
+#Update your <Is Active?> phone info LTE <Is LTE?> iphone 5 <Is iPhone?>  and check  customer have sim <Cust Have SIM?> for <Carrier> ""

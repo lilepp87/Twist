@@ -1,0 +1,9 @@
+Tags:set3
+Preconditions:On tas HomePage,Log out
+Port Out, Create Account, Activate Phone:
+#Find <Status> ESN For Part Number <PartNumber> <SIM>
+#Create account depending on status <Status> For <From Brand>
+#Brand Esn to <To Brand> for  <Status> Status <Zip> Zip
+#Come back as new customer
+#Create account for <To Brand>
+#Activate phone with status <Status> pin <To PIN> on zip <Zip> of cell tech<CellTech>

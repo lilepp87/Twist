@@ -1,0 +1,5 @@
+Tags:
+Preconditions:On telcel homepage
+Coverage Check:
+#Go to Coverage and enter zip <Zipcode>
+#Select a phone and check for maps

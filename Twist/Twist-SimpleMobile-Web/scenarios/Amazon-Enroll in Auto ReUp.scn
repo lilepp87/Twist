@@ -1,0 +1,21 @@
+Tags:amazon,shop,commerce
+Preconditions:OnAmazonHomePage,Log Out
+ Activate Phone, Create Account, Add Service Plan, Enter Payment:
+#Setup Esn based on status "New" and part <ESN>
+#Go to Activate Option
+#Enter "New" Esn for part <ESN> zip code <ZIPCODE> sim <SIM> 
+#Select "One-time" <PLAN> service plan
+#Create new account depending on status "New"
+#Log in depending on status "New"
+#Enter credit card <Card Type>
+#Complete activation process depending on status "New" and cell tech "GSM"
+#Log out
+
+Activate Phone, Create Account, ReUp, Add Service Plan, Enter Payment:
+#Login with Amazon credentials and Goto "REUP"
+#Enter phone number for purchase
+#Select "Reoccuring" <PLAN1> service plan
+#Click on Add to Simple Mobile Stash or Add Now
+#Add or Skip 10 ILD "0"
+#Enter credit card <Card Type>
+#Review Order Summary

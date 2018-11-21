@@ -1,0 +1,6 @@
+Tags:in-progress
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone, Create Account:
+#Enter "New" RealEsn for Part "355921070003866" sim " 89014104278482318765" 
+#Create account for Real Handset "TRACFONE"
+#Activate Realhandset by using pin "NTAPP6U075" depending on status "New" of cell tech "GSM" zip "33178"

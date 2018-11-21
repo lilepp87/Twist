@@ -1,0 +1,12 @@
+Tags:set1
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone, Create Account:
+#Enter "New" Esn for part "TWSAS968C" sim ""
+#Create account for "TOTAL_WIRELESS"
+#Activate phone by using pin "TWP00085" depending on status "New" of cell tech "CDMA" zip "33178"
+#Add remaining  phones for "2"  line plan of part "TWMTXT830CP" "" "" with sim "" "" ""
+#Checkout and process transaction
+
+Activate Phone:
+#Select  and delete <Delete Member?> ESN from group
+#Complete  all checks

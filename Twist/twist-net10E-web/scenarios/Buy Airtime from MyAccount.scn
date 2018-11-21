@@ -1,0 +1,20 @@
+Tags:NT5
+Preconditions:On net10 english home page,Log out
+Start Activation, Create Account:
+#Make past due depending on status <status> for  model <Esn Part> and sim <SIM>
+#Go to activate phone
+#Select Activate My Net10 Phone
+#Create new account for Esn
+#Possibly join SIM <SIM> for cell tech <Call Tech> and status <status>
+#Enter Esn for model <Esn Part> with status <status> and zip code <zip>
+
+Finish Activation with Service Plan:
+#Select I Need an Airtime Card
+#Select Plan <service plan> for <phone type>  "One-Time"
+#Enter payment information with zip code <zip> card type <credit card> and status <status>
+#Check result for <Call Tech> <phone type> phone with status and plan <status> <pin type>
+
+Switch Plan:
+#Go to my account
+#Verify Phone Number
+#Buy airtime <plan to buy> <addild> <phone type>and make payment <addnow>

@@ -1,0 +1,17 @@
+Tags:brightpoint
+Preconditions:On net10 english home page,Log out
+Start Activation, Create Account:
+#Make past due depending on status "New" for model "NTMTXT937CP" and sim ""
+#Go to activate phone
+#Select Activate My Net10 Phone
+#Create new account for Esn
+#Possibly join SIM "" for cell tech "CDMA" and status "New"
+#Enter Esn for model "NTMTXT937CP" with status "New" and zip code "33178"
+
+Finish Activation with PIN:
+#Enter "Megacard" PIN "NTAPP6U035" for phone 
+#Try to activate and check message for "New" "CDMA" "Android" phone and "Megacard" PIN
+
+Apps and more, Switch Plan:
+#Go to my account
+#Check for Apps and More inside my account

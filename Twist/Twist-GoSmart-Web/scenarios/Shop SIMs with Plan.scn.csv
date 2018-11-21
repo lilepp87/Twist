@@ -1,0 +1,9 @@
+PhoneType,Zip,SIM,Plan,with ILD?,CardType
+Unlocked GSM Phone,33178,Nano,$25 ,No,VISA
+Unlocked GSM Phone,94043,Dual,$35 ,No,Discover
+T-Mobile Compatible Phone,33178,Nano,$45 ,No,MasterCard
+T-Mobile Compatible Phone,94043,Dual,$55 ,No,American Express
+T-Mobile Compatible Phone,33178,Nano,$25 ,Yes,VISA
+T-Mobile Compatible Phone,94043,Dual,$35 ,Yes,Discover
+Unlocked GSM Phone,33178,Nano,$45 ,Yes,MasterCard
+Unlocked GSM Phone,94043,Dual,$55 ,Yes,American Express

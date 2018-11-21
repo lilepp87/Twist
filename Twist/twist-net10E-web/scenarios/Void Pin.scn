@@ -1,0 +1,5 @@
+Tags:etailer,brightpoint
+Preconditions:
+Services:
+#Close Browser
+#Generate a pin for PartNumber <Pin Part Number> and void the pin

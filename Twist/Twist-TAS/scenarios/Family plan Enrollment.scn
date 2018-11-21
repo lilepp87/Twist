@@ -1,0 +1,13 @@
+Tags:in-progress
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Create Account, Activate Phone, Create Contact, Redemption:
+#Enter <Status(primary)> Esn for part <PartNumber(primary)> zip code <ZipCode> sim <SIM(primary)> brand <Brand> with no account
+#Create Account for <Brand>
+#Click on Family Plan
+#Select plan <PlanType>
+#Add <No of Family Members> <Status(f)> part numbers <PartNumber(f)> to account with SIM <SIM(f)> cell tech <CellTech(f)>
+#Add new credit card
+#Enter card <Card Type>
+#Choose card and enter cvv <CVV>
+#Check Confirmation
+#Check activation of <No of Family Members> family members for part <PartNumber(f)> cell tech <CellTech(f)> and status <Status(f)>

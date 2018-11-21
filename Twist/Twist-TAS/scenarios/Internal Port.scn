@@ -1,0 +1,23 @@
+Tags:set4,Handset
+Preconditions:On tas HomePage,Log out
+
+Activate Phone,Create Account:
+#Enter "New" Esn for part <PartNumber(old)> sim <SIM(old)>
+#Create account for <Brand(old)>
+#Activate phone by using pin <PIN(old)> depending on status "New" of cell tech <CellTech(old)> zip "33178"
+#Checkout and process transaction
+
+ Port Number, Activate Phone, Create Account:
+#Come back as new customer
+#Enter "New" Esn for part <PartNumber> sim <SIM>
+#Create Account for <Brand>
+#Make phone to <Type> by using pin  <PIN> and celltech <CellTech>
+ Port Number, Activate Phone:
+#Create sim exchange case if necessary for <SIM>
+#Deactivate phone if necessary
+#Add airtime card <PIN> if necessary
+#Enter MIN from <Brand(old)> with part <PartNumber(old)>  zip "33178"
+#Perform option <Option> with plan <PIN> and workforcePIN <Workforce PIN>
+#Complete port
+#Add remaining  phones for ""  line plan of part "" "" "" with sim "" "" ""
+#Complete activation for port

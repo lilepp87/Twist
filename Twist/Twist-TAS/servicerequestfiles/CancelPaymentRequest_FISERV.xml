@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+   <soap:Header xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"/>
+   <soapenv:Body>
+      <bil:cancelPaymentRequest xmlns:com="http://www.tracfone.com/rest/model/v1/common" xmlns:bil="http://b2b.tracfone.com/BillingManagement">
+         <com:Header>
+            <com:ConsumerInfo>
+               <com:name>brandName</com:name>
+               <com:Value>WFM</com:Value>
+            </com:ConsumerInfo>
+            <com:ConsumerInfo>
+               <com:name>sourceSystem</com:name>
+               <com:Value>API</com:Value>
+            </com:ConsumerInfo>
+            <com:ConsumerInfo>
+               <com:name>language</com:name>
+               <com:Value>ENG</com:Value>
+            </com:ConsumerInfo>
+            <com:ConsumerInfo>
+               <com:name>vendorStore</com:name>
+               <com:Value>232</com:Value>
+            </com:ConsumerInfo>                                     
+            <com:ConsumerInfo>
+               <com:name>vendorTerminal</com:name>
+               <com:Value>262</com:Value>
+            </com:ConsumerInfo>                                                                   
+         </com:Header>
+         <com:Payload>
+            <com:ID>@ban</com:ID><!--ACCOUNT ID-->
+           
+            <com:RelatedParty>
+               <com:Party>
+                  <com:partyID>FISERV</com:partyID>
+               </com:Party>
+            </com:RelatedParty>
+            <com:CustomerPayment>
+               <com:amount>@amount</com:amount><!-- Refund amt-->
+               <com:PaymentMethod>
+                  <com:paymentMethodType>CASH</com:paymentMethodType>
+               </com:PaymentMethod>
+            </com:CustomerPayment>
+            <com:CustomerBill>
+               <com:CustomerBillExtension>
+                  <com:name>receiptNumber</com:name>
+                  <com:value>@reciept</com:value><!--Ext order id-->
+               </com:CustomerBillExtension>
+                <com:CustomerBillExtension>
+                  <com:name>paymentDate</com:name>
+                  <com:value>@date</com:value><!--Ext order id-->
+               </com:CustomerBillExtension>
+            </com:CustomerBill>
+         </com:Payload>
+      </bil:cancelPaymentRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

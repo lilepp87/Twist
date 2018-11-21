@@ -1,0 +1,35 @@
+Tags:in-progress,simplesanity
+Preconditions:On tas HomePage,Log out
+Activate Phone, Create Account:
+#Enter "New" Esn for part <PartNumber> sim <SIM>
+#Create account for <Brand>
+#Activate phone by using pin <PIN> depending on status "New" of cell tech <CellTech>  zip "33178"
+#Add remaining  phones for ""  line plan of part "" "" "" with sim "" "" ""
+#Checkout and process transaction
+
+Activate Phone, Phone Upgrade, Redemption:
+#Select "" ESN for upgrade
+#Go to Upgrade option
+#Select option "New" part number <PartNumber> sim <SIM> pin <PIN> of cell tech <CellTech> zip "33178" with min transfer "Yes"
+#Confirm phone upgrade
+
+Deactivation, Activate Phone, TossUtil:
+#Come back as new customer for new esn
+#Search for Esn
+#Select Deactivation option
+#Select a Deactivation Reason "PASTDUE Line Status : RESERVED USED"
+#Verify message that Line has been successfully deactivated	
+
+ Activate Phone:
+#Reactivate phone with pin <PIN>  on zip "33178" of cell tech<CellTech>
+#Checkout and process transaction
+
+ Deactivation,Port Number:
+#Create sim exchange case if necessary for <SIM>
+#Deactivate phone if necessary
+#Deactivate esn for brands uses act flow for port
+#Add airtime card <PIN> if necessary based on brand
+#Enter MIN from "VERIZON" with part "External"  zip "33178"
+#Perform option "Add Airtime" with plan <PIN> and workforcePIN ""
+#Complete port
+#Update port case and complete port

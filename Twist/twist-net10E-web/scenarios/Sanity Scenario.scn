@@ -1,0 +1,48 @@
+Tags:simplesanity,In-progress
+Preconditions:On Net10 english home page,Log out 
+Start Activation, Create Account:
+#Make past due depending on status <Status> for model <ESN> and sim <SIM>
+#Go to activate phone
+#Select Activate My Net10 Phone
+#Create new account for Esn
+#Possibly join SIM <SIM> for cell tech <Cell tech> and status <Status>
+#Enter Esn for model <ESN> with status <Status> and zip code <Zip code>
+
+Finish Activation with PIN:
+#Enter <Pin Type> PIN <Pin> for phone
+#Try to activate and check message for <Status> <Cell tech> <Phone Type> phone and <Pin Type> PIN
+
+Phone Upgrade, Port In, Create a New Account, Start Activation, Create Account, Switch Plan:
+#Go to my account
+#Verify Phone Number
+#Activate To Phone with part <ESN> status <Status> type "" sim <SIM> tech <Cell tech> pin <Pin Type> "" and carrier <Carrier>
+#Go to Activate Phone
+#Select transfer my number and service from one Net10 to another
+#Enter from ESN and phone number with part <ESN>
+#Enter to ESN with status <Status>
+#Enter code number and confirm code number depending on phone type ""
+#Finish porting number for <Cell tech> with PIN <Pin>
+
+Start Activation:
+#Deactivate to esn
+
+Add Airtime, Start Activation:
+#go to activate phone
+#go to reactivate phone
+#Enter pastDue ESN
+
+Add Airtime,Finish Activation with PIN:
+#Enter <Pin Type> PIN <Pin> for phone
+#Reactivate and check summary
+
+Start Activation:
+#Deactivate with reason "PORT CANCEL"
+
+Port In, Create a New Account,Start Activation:
+#Go to Activate Phone
+#Select transfer my number from another company
+#Enter portOut ESN
+#Choose carrier <Port Carrier> and enter details for External number
+#Enter information
+#Finish porting number for <Cell tech> with PIN <Pin>
+#Update Ticket and Complete Port

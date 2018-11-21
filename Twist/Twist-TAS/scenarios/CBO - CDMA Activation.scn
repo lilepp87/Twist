@@ -1,0 +1,7 @@
+Tags:set6,cbo,services
+Preconditions:closeBrowser
+Invoke CBO:
+#Call VerifyTechnology for part <Part> SIM <SIM> brand <Brand> zipcode <Zipcode>
+#Call CreateContact
+#Call GenCodes for pin <PIN>
+#Complete phone activation for <Cell Tech> and status <Phone Status>

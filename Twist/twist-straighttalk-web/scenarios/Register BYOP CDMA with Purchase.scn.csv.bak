@@ -1,0 +1,14 @@
+ZIP,PIN,ESN Type,Is LTE?,Is iPhone 5?,Carrier,Active?,Credit
+33178,NTNMP00045,Decimal,Yes,Yes,Verizon,Active,Visa
+33178,NTPMP00060ILD,Hex,Yes,No,Verizon,Active,Visa
+33178,NTPMP00060ILD,Decimal,No,No,Verizon,Active,Visa
+33178,NTPMP00060ILD,Hex,Yes,Yes,Verizon,Not Active,Visa
+33178,NTNMP00045,Decimal,Yes,No,Verizon,Not Active,Visa
+33178,NTNMP00045,Hex,No,No,Verizon,Not Active,Visa
+33178,NTNMP00045,Decimal,Yes,Yes,Sprint,Not Active,Visa
+33178,NTNMP00045,Hex,Yes,No,Sprint,Not Active,Visa
+33178,NTPMP00060ILD,Decimal,No,No,Sprint,Not Active,Visa
+33178,NTPMP00060ILD,Decimal,No,No,Sprint,Active,Visa
+33178,NTPMP00060ILD,Decimal,Yes,No,Sprint,Active,Visa
+33178,NTPMP00060ILD,Decimal,Yes,Yes,Sprint,Active,Visa
+33178,NTPMP00060ILD,Hex,Yes,No,Sprint,Active,Visa

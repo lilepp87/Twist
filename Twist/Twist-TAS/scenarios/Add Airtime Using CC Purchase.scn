@@ -1,0 +1,23 @@
+Tags:set1,Handset
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+ Activate Phone, Create Account, Redemption:
+#Enter "New" Esn for part <Part Number> sim <SIM>
+#Create Account for <Brand>
+#Enter zip <Zip>
+#Select pin <PIN> and add credit card <Card Type>
+#Make selection of  <Plan Type> payment
+#Add "Exchange Annual" protection plan if applicable
+#Select card enter cvv <CVV>
+#Check activation for cell tech <Cell Tech> and status "New"
+#Add remaining  phones for <# Devices>  line plan of part <Child1> <Child2> <Child3> with sim <ChildSim1> <ChildSim2> <ChildSim3>
+#Checkout and process transaction
+
+Redemption, Activate Phone, Create Account:
+#Go to redemption
+#Select <Redemption On> ESN for redemption
+#Go to redemption
+#Select plan <PIN2>
+#Add <Quantity> plans to cart for purchase
+#Add 10 ILD quantity <ILD?>
+#Select card enter cvv <CVV>
+#Check redemption

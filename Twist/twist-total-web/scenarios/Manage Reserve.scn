@@ -1,0 +1,16 @@
+Tags:
+Preconditions:On total wireless home page,Log out
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter <Status> Esn for part <Part Number> and pin <PIN> with Sim<SimNumber>
+#Create new account depending on status <Status>
+#Enter esn <Zip Code> zip and <# Devices> <Other Parts> devices with Sim<ChildSim>
+#Complete activation depending on status <Status>
+
+Add a Service Plan:
+#Select Add a Service Plan
+#Enter Pin <PIN 2> and add <Queued?>
+
+Auto Refill, Add a Service Plan:
+#Add reserve card now
+#Check redemption

@@ -1,0 +1,14 @@
+Tags:set3,Handset
+Preconditions:On tas HomePage,Log out
+ Activate Phone, Create Account:
+#Enter <Status> Esn for part <Part Number> sim <SIM>
+#Create account for <Brand>
+#Get workforce pin <Rep PIN>  for reason <Reason>
+#Activate with workforce pin depending on status <Status> of cell tech <CellTech>
+#Add remaining  phones for "1"  line plan of part "" "" "" with sim "" "" ""
+#Checkout and process transaction
+
+Redemption, Activate Phone:
+#Get workforce pin <Rep PIN for Redemption>  for reason <Reason for Redemption>
+#Enter reserved pin and redeem
+#Check redemption

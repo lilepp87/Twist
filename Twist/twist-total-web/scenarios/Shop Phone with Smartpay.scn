@@ -1,0 +1,13 @@
+Tags: in-progress
+Preconditions:On total wireless home page,Log out
+h1.
+Browse:
+#Go to phones page "94043"
+#Browse phones based on phone "LG" and model "LG G5"
+
+Phone Purchase:
+#Add phone and plan "$85" to cart with credit "Excellent"
+#Go to cart and provide information
+#Apply For Smartpay
+#Review and finish order
+

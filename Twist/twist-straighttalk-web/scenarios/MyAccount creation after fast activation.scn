@@ -1,0 +1,12 @@
+Tags:ST4
+Preconditions:On WMKiosk HomePage,Log out
+Activate Phone, WM Kiosk:
+#Go to WM Activation with card
+#Enter WM <Status> Esn for part <Part> sim <SIM> zip code <ZIP> and Pin number <PIN>
+#Complete activation <SIM>
+
+Create Account, On Straighttalk HomePage:
+#Set up
+#Try to reset <Reset>
+#Click forgot email <ZIP>
+#Enter personal Info for DOB <DOB>

@@ -1,0 +1,38 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:bal="http://b2b.tracfone.com/InquiryServices/BalanceInquiry" xmlns:com="http://www.tracfone.com/CommonTypes" xmlns:phon="http://www.tracfone.com/PhoneCommonTypes">
+    <soapenv:Header xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+      <wsse:Security soap:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+         <wsse:UsernameToken wsu:Id="unt_dymtpxyv7NS1BCB4" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+            <wsse:Username>@secusername</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">@secpassword</wsse:Password>
+         </wsse:UsernameToken>
+      </wsse:Security>
+   </soapenv:Header>
+   <soapenv:Body>
+      <bal:getBalanceRequest version="string" xmlns:com="http://www.tracfone.com/CommonTypes" xmlns:bal="http://b2b.tracfone.com/InquiryServices/BalanceInquiry" xmlns:phon="http://www.tracfone.com/PhoneCommonTypes">
+    <com:requestToken>
+        <com:clientTransactionId>1111</com:clientTransactionId>
+        <com:clientId>111111</com:clientId>
+    </com:requestToken>
+    <com:brandName>@Brand</com:brandName>
+    <com:sourceSystem>APP</com:sourceSystem>
+    <!--Optional:-->
+    <com:language>ENG</com:language>
+    <bal:deviceIdentifier>
+        <!--You have a CHOICE of the next 2 items at this level-->
+        <!--Optional:-->
+        <phon:min>@MIN</phon:min>
+            </bal:deviceIdentifier>
+    <bal:callBack>
+        <bal:isCallBackRequired></bal:isCallBackRequired>
+        <!--Optional:-->
+        <bal:callBackURL></bal:callBackURL>
+    </bal:callBack>
+    <bal:dataUnitsType>MB</bal:dataUnitsType>
+    <!--Optional:-->
+    <bal:notifications>
+        <!--1 or more repetitions:-->
+        <bal:notificationMedium></bal:notificationMedium>
+    </bal:notifications>
+</bal:getBalanceRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

@@ -1,0 +1,18 @@
+Tags:app,services
+Preconditions:On tas HomePage
+Activate Phone, Create Account, MyAccountApp, TossUtil:
+#Create account for part <ESN> sim <SIM> brand <BRAND>
+#Search for Esn
+#Activate phone by using pin <PLAN> depending on status <STATUS> of cell tech <TECH> zip <ZIPCODE>
+#Add remaining  phones for <SIM>  line plan of part <SIM> <SIM> <SIM> with Sim <SIM> <SIM> <SIM>
+#Checkout and process transaction
+
+ MyAccountApp:
+#Add <CARD_TYPE> CC to account by <MODE>
+#Update payment src
+#Get list of all payment src by <INFO>
+#Calculate Enrollment tax for plan <PLAN>
+#Enroll into service plan <PLAN> with option <WHEN>
+#Get current enrollment information
+#Deenroll esn from current enrollment
+#Get disenrollment reason

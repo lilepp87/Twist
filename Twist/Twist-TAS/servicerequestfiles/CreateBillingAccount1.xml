@@ -1,0 +1,39 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:bus="http://xmlns.oracle.com/BRM/schemas/BusinessOpcodes">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <bus:tfOpCreateBillingAccount>
+         <TF_OP_CREATE_BILLING_ACCOUNT_Request>
+            <bus:flags>0</bus:flags>
+            <TF_OP_CREATE_BILLING_ACCOUNT_inputFlist>
+               <bus:AAC_SOURCE>@webObjid</bus:AAC_SOURCE>
+               <bus:CHANNEL_ID>1</bus:CHANNEL_ID>
+               <bus:DEBIT_EXP>2021</bus:DEBIT_EXP>
+               <bus:DEBIT_NUM>546514523</bus:DEBIT_NUM>
+               <bus:GL_SEGMENT>.walmart</bus:GL_SEGMENT>
+               <bus:GROUPS elem="0">
+                  <bus:DEALS elem="0">
+                     <bus:DEAL_NAME>@app1</bus:DEAL_NAME>
+                     <bus:LOGIN>@login1</bus:LOGIN>
+                     <bus:NUMBER>@orderID1</bus:NUMBER>
+                     <bus:PIN/>
+                  </bus:DEALS>
+               </bus:GROUPS>
+                <bus:NAMEINFO elem="0">
+                  <bus:ADDRESS>9700 NW 112th Ave</bus:ADDRESS>
+                  <bus:CITY>Medley</bus:CITY>
+                  <bus:COUNTRY>USA</bus:COUNTRY>
+                  <bus:EMAIL_ADDR>@randomEmail</bus:EMAIL_ADDR>
+                  <bus:FIRST_NAME>Twist FirstName</bus:FIRST_NAME>
+                  <bus:GEOCODE/>
+                  <bus:LAST_NAME>Twist LastName</bus:LAST_NAME>
+                  <bus:STATE>FL</bus:STATE>
+                  <bus:TYPE>2</bus:TYPE>
+                  <bus:ZIP>33178</bus:ZIP>
+               </bus:NAMEINFO>
+               <bus:ORDER_ID>@orderID</bus:ORDER_ID>
+               <bus:POID>0.0.0.1 /account -1 0</bus:POID>
+            </TF_OP_CREATE_BILLING_ACCOUNT_inputFlist>
+         </TF_OP_CREATE_BILLING_ACCOUNT_Request>
+      </bus:tfOpCreateBillingAccount>
+   </soapenv:Body>
+</soapenv:Envelope>

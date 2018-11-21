@@ -1,0 +1,12 @@
+Tags:tf2
+Preconditions:On Tracfone Home Page,LogOut
+Activate Phone, Create Account, Enter Payment:
+#Go to activate my TracFone For<PartNumber>
+#Enter "New" Esn <PartNumber> SIM card <SimNumber> and zip code <ZipCode>
+#Select the plan to purchase<Card><Reoccuring?> promo<Promo>
+#Select Register
+#Enter credit card <Cardtype>
+#Delay 40 seconds
+#Verify message for cell tech
+#Complete the process for <CellType> phone
+#Logout

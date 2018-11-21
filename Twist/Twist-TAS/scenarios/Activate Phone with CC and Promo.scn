@@ -1,0 +1,15 @@
+Tags:promo,in-progress
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone, Create Account, Redemption:
+#Enter <Status> Esn for part <Part Number> sim <Sim>
+#Create Account for <Brand>
+#Enter zip <Zip>
+#Select pin <PIN> and add credit card <Card Type>
+#Make selection of  <Payment Type> payment
+#Add "Exchange Annual" protection plan if applicable
+#Select card enter cvv <CVV>
+#Enter promo <Promo>
+#Check activation for cell tech <Cell Tech> and status <Status>
+#Add remaining  phones for <Payment Type>  line plan of part <Payment Type> <Payment Type> <Payment Type> with sim <Payment Type> <Payment Type> <Payment Type>
+#Checkout and process transaction
+#Validate promo <Promo>

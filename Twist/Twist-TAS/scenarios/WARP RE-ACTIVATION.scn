@@ -1,0 +1,19 @@
+Tags:warp,services
+Preconditions:
+Operations, Activate Phone:
+#Generate Esn for part <ESN> Sim <Sim> and  Cell Tech <CellTech>  
+#Set sourcesystem as <SourceSystem>
+#Create account for <Brand> using service
+#addPaymentsource
+#Add remaining  phones for <Lines>  line plan of part <ESN2> <ESN3> <ESN4> <ESN5>with Sim<SIM2> <SIM3> <SIM4> <SIM5>for warp
+#Complete registration process if device is BYOP or SIMOUT <Pin> flow <FlowName>
+#Validate Customer Order with pin <Pin> zip <ZipCode> for <FlowName> flow
+#Submit Customer Order for <FlowName>
+#Complete activation for status<Status> cell tech <CellTech>
+
+Deactivation, Activate Phone, Operations:
+#Select ESN to Reactivate
+Operations, Activate Phone:
+#Validate Customer Order with pin <Pin2> zip <ZipCode> for <FlowName2> flow
+#Submit Customer Order for <FlowName2>
+#Complete activation for status<Status> cell tech <CellTech>

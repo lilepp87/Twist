@@ -1,0 +1,181 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:est="http://TPCRMAI/AIS/EstimateCustomerOrder" xmlns:mes="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/messageview" xmlns:com="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/common" xmlns:sys="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/systemview" xmlns:tpc="http://TPCMN" xmlns:ext="http://www.ibm.com/software/issw/telecom/pack/v8.5.0/lite/businessobject/system/common/extension" xmlns:trac="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/tracfonecommon" xmlns:sid="http://www.ibm.com/software/issw/telecom/pack/v8.5.0/lite/businessobject/system/sid-v12.5" xmlns:ext1="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/fulfillment/extensions" xmlns:ext2="http://www.ibm.com/software/issw/telecom/pack/v8.5.0/lite/businessobject/system/billing/extension" xmlns:ext3="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/billing/extensions">
+   <soapenv:Header xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+      <wsse:Security soap:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+         <wsse:UsernameToken wsu:Id="unt_dymtpxyv7NS1BCB4" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+            <wsse:Username>@secusername</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">@secpassword</wsse:Password>
+         </wsse:UsernameToken>
+      </wsse:Security>
+   </soapenv:Header>
+   <soapenv:Body>
+      <mes:estimateCustomerOrderInput>
+         <!--Optional:-->
+         <mes:Header>
+            <!--Optional:-->
+            <com:CorrelationId_T>11111</com:CorrelationId_T>
+            <!--Optional:-->
+            <com:ActivityName_T>EstimateCustomerOrder</com:ActivityName_T>
+            <!--Optional:-->
+            <com:MsgType_T>estimateCustomerOrderInput</com:MsgType_T>
+            <!--Optional:-->
+            <com:Source>IVR</com:Source>
+            <!--Optional:-->
+            <com:MessageId>867423423i4hn238947s</com:MessageId>
+            <!--Zero or more repetitions:-->
+            <com:Security_T>
+               <!--Optional:-->
+               <com:name>IdentityIdentifier</com:name>
+               <!--Optional:-->
+               <com:Value>
+                  <!--Optional:-->
+                  <com:value>@identity</com:value>
+               </com:Value>
+            </com:Security_T>
+            <com:Security_T>
+               <!--Optional:-->
+               <com:name>Signature</com:name>
+               <!--Optional:-->
+               <com:Value>
+                  <!--Optional:-->
+                  <com:value>@signature</com:value>
+               </com:Value>
+            </com:Security_T>
+            <!--Optional:-->
+            <com:Timestamp>2015-05-12T19:06:50</com:Timestamp>
+            <!--Zero or more repetitions:-->
+            <com:ConsumerInfo>
+               <com:name>Constant</com:name>
+               <com:Value>
+                  <com:value>ENG</com:value>
+               </com:Value>
+            </com:ConsumerInfo>
+            <com:ConsumerInfo>
+               <com:name>BrandName</com:name>
+               <com:Value>
+                  <com:value>@brand</com:value>
+               </com:Value>
+            </com:ConsumerInfo>
+            <com:ConsumerInfo>
+               <com:name>Channel</com:name>
+               <com:Value>
+                  <com:value>@channel</com:value>
+               </com:Value>
+            </com:ConsumerInfo>
+         </mes:Header>
+         <!--Zero or more repetitions:-->
+         <mes:Payload>
+            <!--Optional:-->
+            <sys:Request>
+               <!--Optional:-->
+               <sys:interactionDate>@timestamp</sys:interactionDate>
+               <!--Zero or more repetitions:-->
+               <sys:BusinessInteractionLocation>
+                  <!--Optional:-->
+                  <com:GeographicAddress>
+                     <!--Optional:-->
+                     <com:UrbanPropertyAddress>
+                        <!--Optional:-->
+                        <com:postcode>@zip</com:postcode>
+                     </com:UrbanPropertyAddress>
+                  </com:GeographicAddress>
+               </sys:BusinessInteractionLocation>
+               <!--Zero or more repetitions: Contain My Account Id-->
+               <sys:BusinessInteractionRole>
+                  <!--Optional:-->
+                  <com:roleType>MyAccountID</com:roleType>
+                  <!--Optional:-->
+                  <com:Party>
+                     <!--Optional:-->
+                     <com:partyID>@email</com:partyID>
+                  </com:Party>
+               </sys:BusinessInteractionRole>
+               <sys:InteractionItems>
+                  <sys:ProductOffering>
+                     <sys:ProductPromotions>
+                        <sys:CharacteristicSpecification>
+                           <sys:name xmlns:ns8="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/common">BREAKUP_TYPE</sys:name>
+                           <sys:Value xmlns:sys="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/common">
+                              <sys:value>BREAKUP1</sys:value>
+                           </sys:Value>
+                        </sys:CharacteristicSpecification>
+                        <sys:CharacteristicSpecification>
+                           <sys:name xmlns:ns8="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/common">Promotion Code</sys:name>
+                           <sys:Value xmlns:sys="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/common">
+                              <sys:value>@promo</sys:value>
+                           </sys:Value>
+                        </sys:CharacteristicSpecification>
+                     </sys:ProductPromotions>
+                  </sys:ProductOffering>
+               </sys:InteractionItems>
+            </sys:Request>
+            <!--Zero or more repetitions: Product 1-->
+            <sys:CustomerOrderItem>
+               <!--Optional:-->
+               <sys:BusinessInteractionItem>
+                  <!--Optional:-->
+                  <sys:Product>
+                     <!--Optional: Applicable if Commerce create product instance id available from product offering This is available from Product Offering Response-->
+                     <sys:ID>
+                        <!--Optional:-->
+                        <com:ID>@planid</com:ID>
+                        <!--Optional:-->
+                        <com:name xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">@planname</com:name>
+                        <!--Optional:-->
+                        <com:type>@plantype</com:type>
+                     </sys:ID>
+                     <!--Optional:-->
+                     <!--Zero or more repetitions:-->
+                     <sys:ProductAttributes>
+                        <!--Optional:-->
+                        <com:name>FULFILLMENT_TYPE</com:name>
+                        <!--Optional:-->
+                        <com:Value>
+                           <!--Optional: Can be NOW,LATER,AUTOREFILL-->
+                           <com:value>@refilltype</com:value>
+                        </com:Value>
+                     </sys:ProductAttributes>
+                    <sys:ProductAttributes>
+                        <com:name>AUTOREFILL</com:name>
+                        <com:Value>
+                           <com:value>@autorefill</com:value>
+                        </com:Value>
+                     </sys:ProductAttributes>
+                     <!--map between offering and order its the part number of the product provided as Product Offering Response-->
+                     <sys:ProductSpecification>
+                        <!--Optional:-->
+                        <com:id>@pinpart</com:id>
+                        <!--Optional:-->
+                        <com:name xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">@planname</com:name>
+                        <!--Optional:-->
+                        <com:brand>@brand</com:brand>
+                     </sys:ProductSpecification>
+                  </sys:Product>
+                  <!--Optional:-->
+                  <sys:ItemPrice>
+                     <!--This came as the Product Offering Response-->
+                     <!--Optional:-->
+                     <sys:quantity>1</sys:quantity>
+                     <!--Optional:-->
+                     <sys:price>
+                        <!--Optional:-->
+                        <sys:amount>@price</sys:amount>
+                        <!--Optional:-->
+                        <sys:unitsOrCurrency>USD</sys:unitsOrCurrency>
+                     </sys:price>
+                  </sys:ItemPrice>
+               </sys:BusinessInteractionItem>
+            </sys:CustomerOrderItem>
+            <sys:CustomerOrderExtension>
+               <!--Optional:-->
+               <sid:orderStatus>ESTIMATE</sid:orderStatus>
+               <!--Optional:-->
+               <sid:orderTotals>
+                  <!--Optional:-->
+                  
+               </sid:orderTotals>
+            </sys:CustomerOrderExtension>
+            <!--Optional:-->
+         </mes:Payload>
+      </mes:estimateCustomerOrderInput>
+   </soapenv:Body>
+</soapenv:Envelope>

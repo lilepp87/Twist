@@ -1,0 +1,34 @@
+Tags:brightpoint,in-progress,Transfer registration
+Preconditions:Log Out
+Register BYOP:
+#Go to register BYOP CDMA page
+#Choose the Carrier  "Other"
+#Enter  <Status> esn Sim <SIM>and carrier <Carrier> for lte <Is LTE> iphone<Is IPhone> with zip <Zip code>
+#Choose "I HAVE KIT" for ESN Status <Status> if lte <Is LTE> and Sim <SIM> and NAC "TFAPPBYOCR80"
+
+CompleteShipping:
+#Complete Shipping details for Domain"SIM CARDS" if  lte <Is LTE> and already have SIM <SIM> 
+
+Activate Phone, Create Account:
+#Enter BYOP ESN and Zip <Zip code>
+#Enter pin card number <pin1> <pin2> <pin3>
+#Select Register
+#Verify message for cell tech
+#Complete the process for <CellTech> phone
+#delay40Seconds
+
+Register BYOP:
+#Go to register BYOP CDMA page
+#Choose the Carrier  "Other"
+#Enter  <Status> esn Sim <SIM>and carrier <Carrier> for lte <Is LTE> iphone <Is IPhone> with zip <Zip code>
+#Choose "TRANSFER REGISTRATION" for ESN Status <Status> if lte <Is LTE> and Sim <SIM> and NAC ""
+
+CompleteShipping:
+#Complete Shipping details for Domain"SIM CARDS" if  lte <Is LTE> and already have SIM <SIM> 
+
+Activate Phone, Create Account:
+#Enter BYOP ESN and Zip<Zip code>
+#Enter pin card number <pin1> <pin2> <pin3>
+#select register
+#Verify message for cell tech
+#Complete the process for <CellTech> phone

@@ -1,0 +1,15 @@
+Tags:
+Preconditions:OnGoSmartHomePage,Logout
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter <Status> Esn for part <PartNumber> sim <SIM>
+#Enter zip <ZipCode> for new phone number
+#Enter Pin <PIN1>
+#Log in depending on status <Status>
+#Create new account depending on status <Status>
+#Complete activation process depending on status <Status> and cell tech <CellTech>
+
+Redemption:
+#Go to Refill and Add now
+#Enter pin for <PIN2> and <Add Now?>
+#Check Summary and Process

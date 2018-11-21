@@ -1,0 +1,4 @@
+Tags:goapi
+Preconditions:
+Create Account:
+#Get Product Offering for <carrier> <cellTech>Sim and Plan on <partnerID> in zipCode<zipCode> for <phoneModel>

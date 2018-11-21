@@ -1,0 +1,20 @@
+Tags:brightpoint
+Preconditions:On Tracfone Home Page,Log Out
+
+Activate Phone, Create Account:
+#Go to activate my TracFone For<Part Num>
+#Enter <Status> Esn <Part Num> SIM card <SIM> and zip code <Zip code>
+#Enter pin card number <PIN> "" ""
+#Select Register
+#Delay
+#Verify message for cell tech
+#Complete the process for <Cell Tech> phone
+#Login to MyAccount
+#Verify Phone Number
+#Log out
+
+Buy Airtime, Enter Payment, Activate Phone:
+#Buy 10 dollar ild card
+#Enter phone number and select purchase Type <Purchase Type>
+#Enter credit card <Card>
+#Verify purchase of airtime

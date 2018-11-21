@@ -1,0 +1,11 @@
+Tags:in-progress
+Preconditions:On Dealerportal,Log Out
+Register BYOP, Activate Phone:
+#Go to <Brand>
+#Go to register BYOP CDMA page
+#Enter <Active?> esn <ESN> and carrier <Carrier> for lte <is LTE?> iphone <is iPhone 5?> with zip <ZIP> 
+#Enter network access code <NAC>
+#Finish registration <Active?>
+
+Activate Phone:
+#Enter <Active?> byop esn pin <PIN>

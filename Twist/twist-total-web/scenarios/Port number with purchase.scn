@@ -1,0 +1,23 @@
+Tags:in-progress
+Preconditions:On total wireless home page,Log Out
+Activate Phone, Create Account, Buy a Service Plan, Enter Payment:
+#Setup Esn based on status "New" and part "TWSAS968CP"
+#Go to Activate Option
+#Enter "New" Esn for part "TWSAS968CP"
+#Select plan "Reoccuring" "TW 3 Line 7.5 GB"
+#Log in depending on status "New"
+#Create new account depending on status "New"
+#Enter esn "33178" zip and "1" "TWSAS968C" devices
+#Enter credit card "Discover" or use stored card
+#Complete activation depending on status "New"
+
+
+Port Number, Activate phone, Create Account, Buy a Service Plan, Enter Payment:
+#Select transfer phone number
+#Enter <Status> Esn for part <Part> zip code <Zip Code> sim <SIM>
+#Confirm port message
+#Select port service plan <Plan>
+#Create new account
+#Enter number from <Brand> with part <Old Part>
+#Enter credit card "Visa" or use stored card
+#Finish port

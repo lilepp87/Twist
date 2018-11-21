@@ -1,0 +1,9 @@
+Tags:set5,Handset
+Preconditions:On tas HomePage,Log out
+Min Change, Activate Phone, Create Account:
+#Enter <Status> Esn for part <PartNumber> sim <SIM>
+#Create Account  for <Brand>
+#Activate phone by using pin <PIN> depending on status <Status> of cell tech <CellTech> zip <ZipCode>
+#Add remaining  phones for "1"  line plan of part "" "" "" with sim "" "" ""
+#Checkout and process transaction
+#Sim Change <To SIM> zip <To Zip> with <Min Change?> number <CellTech>

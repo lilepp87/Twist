@@ -1,0 +1,19 @@
+Tags:ivr,services
+Preconditions:On tas HomePage
+ Activate Phone, Create Account:
+#Enter "New" Esn for part <PartNumber> sim <SIM>
+#Create account for <Brand>
+#Activate phone by using pin <PIN> depending on status "New" of cell tech <CellTech> zip <ZIP>
+
+Deactivation, Solutions:
+#Select Deactivation option
+#Select a Deactivation Reason "PASTDUE Line Status : RESERVED USED"
+#Update service end date to past
+
+ Universal Purchase:
+#Call Check Eligibility
+#Call Get Product Offering Service plan <PIN2>
+#Call Get Retention Decision Service "Now"
+#Call Get Product Offering Service plan with autorefill option <AutoRefill?>
+#Call EstimateCustomerOrder for zip <ZIP>
+#Call SubmitCustomerOrder <ZIP> for new <CardType> card

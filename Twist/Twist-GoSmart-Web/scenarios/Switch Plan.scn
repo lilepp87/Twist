@@ -1,0 +1,16 @@
+Tags:
+Preconditions:OnGoSmartHomePage,logout
+Activate Phone, Create Account, Enter Payment:
+#Go to Activate Option
+#Enter "New" Esn for part <PartNumber> sim <SIM>
+#Enter zip <ZipCode> for new phone number
+#Purchase "Reoccurring" <Plan1> service plan with ILD<with ILD1?>
+#Log in depending on status "New"
+#Create new account depending on status "New"
+#Enter credit card <CardType> for "Reoccurring"
+#Complete activation process depending on status "New" and cell tech <CellTech>
+
+Switch Plan, Enter Payment, Buy Airtime, Redemption:
+#Switch enrollment to plan <Plan2> with ILD <with ILD2?> from<Plan1> "Add Now"
+#Select credit card  <CardType> to Pay
+#Check Summary and Process

@@ -1,0 +1,5 @@
+Carrier,Partner,cellTech,zipcode,phoneModel
+ATT,LEAPFACTOR,GSM,33178,samsung
+TMO,LEAPFACTOR,GSM,33178,samsung
+VZW,LEAPFACTOR,CDMA,33178,samsung
+VZW,LEAPFACTOR,CDMA LTE,33178,samsung

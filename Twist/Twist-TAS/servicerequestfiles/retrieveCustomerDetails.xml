@@ -1,0 +1,49 @@
+<soapenv:Envelope xmlns:client="http://xmlns.oracle.com/Application3/Json2SoapConversion/Json2SoapConversion" xmlns:ns2="http://www.tracfone.com/rest/model/v1/common/exception" xmlns:plnk="http://schemas.xmlsoap.org/ws/2003/05/partner-link/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://www.tracfone.com/rest/model/v1/common" xmlns:com="http://www.tracfone.com/CommonTypes">
+   <soap:Header xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+      <wsse:Security soap:mustUnderstand="0" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+         <wsse:UsernameToken>
+            <wsse:Username>@secusername</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">@secpassword</wsse:Password>
+         </wsse:UsernameToken>
+      </wsse:Security>
+   </soap:Header>
+   <soapenv:Body>
+      <tns:retrieveCustomerRequest xmlns:tns="http://b2b.tracfone.com/CustomerManagementService">
+         <Header>
+            <ns1:MessageProp_T>
+               <ns1:name>fields</ns1:name>
+               <ns1:Value/>
+            </ns1:MessageProp_T>
+            <ns1:ConsumerInfo>
+               <ns1:name>brand</ns1:name>
+               <ns1:Value>ANY</ns1:Value>
+            </ns1:ConsumerInfo>
+            <ns1:Source>API</ns1:Source>
+         </Header>
+         <Payload>
+            <ns1:FilterCriteria>
+               <ns1:PartyRole>
+                  <ns1:roleType>partner</ns1:roleType>
+                  <ns1:Party>
+                     <ns1:partyID>@partner</ns1:partyID>
+                     <ns1:languageAbility>ENG</ns1:languageAbility>
+                     <ns1:PartyExtension>
+                        <ns1:name>partyTransactionID</ns1:name>
+                        <ns1:value>CUSTOMER_TRANS_ID</ns1:value>
+                     </ns1:PartyExtension>
+                  </ns1:Party>
+               </ns1:PartyRole>
+               <ns1:PartyRole>
+                  <ns1:roleType>customer</ns1:roleType>
+                  <ns1:Party>
+                      <ns1:PartyExtension>
+                        <ns1:name>WEBOBJID</ns1:name>
+                        <ns1:value>@webobjid</ns1:value>
+                     </ns1:PartyExtension>
+                  </ns1:Party>
+               </ns1:PartyRole>
+            </ns1:FilterCriteria>
+         </Payload>
+      </tns:retrieveCustomerRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

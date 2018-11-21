@@ -1,0 +1,33 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:bil="http://b2b.tracfone.com/BillingManagement" xmlns:com="http://www.tracfone.com/rest/model/v1/common" xmlns:com1="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/common">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <bil:retrieveRenewalQuoteRequest>
+         <Header>
+            <com:ConsumerInfo>
+               <com:name>brandName</com:name>
+               <com:Value>WFM</com:Value>
+            </com:ConsumerInfo>
+            <com:ConsumerInfo>
+               <com:name>language</com:name>
+               <com:Value>ENG</com:Value>
+            </com:ConsumerInfo>
+            <com:ConsumerInfo>
+               <com:name>sourceSystem</com:name>
+               <com:Value>API</com:Value>
+            </com:ConsumerInfo>
+            <com:ConsumerInfo>
+               <com:name>partyID</com:name>
+               <com:Value>FISERV</com:Value>
+            </com:ConsumerInfo>
+         </Header>
+         <Payload>
+            <com:SearchCriteria>
+               <com:characteristicSpecification>
+                  <com:name>identifier</com:name>
+                  <com:Value>@ban</com:Value> <!--ACCOUNT ID-->
+               </com:characteristicSpecification>
+            </com:SearchCriteria>
+         </Payload>
+      </bil:retrieveRenewalQuoteRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

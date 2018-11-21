@@ -1,0 +1,6 @@
+Sahi:
+	class: net.sf.sahi.client.Browser
+	fieldName: browser
+	project_path: C:\B2B
+language:
+	class: com.thoughtworks.twist.language.java.Java

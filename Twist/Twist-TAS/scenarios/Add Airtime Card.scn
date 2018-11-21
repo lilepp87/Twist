@@ -1,0 +1,13 @@
+Tags:set2,Handset
+Preconditions:On tas HomePage,Log out
+ Create Account,Activate Phone:
+#Enter <Status> Esn for part <Part Number> sim <SIM>
+#Create account for <Brand>
+#Activate phone by using pin <PIN> depending on status <Status> of cell tech <Cell Tech> zip <Zip>
+#Add remaining  phones for <# Devices>  line plan of part <Child1> <Child2> <Child3> with sim <ChildSim1> <ChildSim2> <ChildSim3>
+#Checkout and process transaction
+Redemption, Activate Phone:
+#Select <Redemption For?> ESN for redemption
+#Go to redemption
+#Enter pin <PIN2> <Redemption Count> times
+#Check redemption

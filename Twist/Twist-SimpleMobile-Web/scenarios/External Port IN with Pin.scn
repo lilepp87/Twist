@@ -1,0 +1,11 @@
+Tags:
+Preconditions:On SimpleMobile HomePage,LogOut
+.
+Activate Phone,Port Number, Create Account, Phone Upgrade:
+#Go to Activate Option
+#Enter esn <PartNumber> <SIM>
+#Enter external number from <Provider> and zip <Zip>
+#Enter <Plan> PIN for port
+#Create new account
+#Complete upgrade process
+

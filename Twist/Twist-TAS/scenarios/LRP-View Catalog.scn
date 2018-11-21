@@ -1,0 +1,14 @@
+Tags:lrp2,services
+Preconditions:On tas HomePage
+Operations, Activate Phone, Create Account:
+#Enter "New" Esn for part "STLGL51AGR4" sim "TF128PSIMC4N"
+#Create account for "STRAIGHT_TALK"
+#Activate phone by using pin "NTAPPMP00060ILD" depending on status "New" of cell tech "GSM" zip "33178"
+
+Activate Phone, Create Account:
+#Add ESN to promo group
+#Complete TAS LRP Enrollment
+Operations:
+#Close Browser
+#Get Encrypted Webuser Objid
+#Call Catalog Management Service

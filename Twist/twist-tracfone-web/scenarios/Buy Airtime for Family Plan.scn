@@ -1,0 +1,23 @@
+Tags:brightpoint
+Preconditions:On Tracfone Home Page,Log Out
+Activate Phone, Create Account:
+#Go to activate my TracFone For<ESN1>
+#Enter "New" Esn <ESN1> SIM card <SIM> and zip code <Zip Code>
+#Enter pin card number <Pin Card> "" ""
+#Select Register
+#Delay
+#Verify message for cell tech
+#Complete the process for <Cell Type> phone
+#Login to MyAccount
+#Verify Phone Number
+
+Buy Airtime, Enter Payment, Create Account:
+#Go to Monthly Plans
+#Select the family plan
+#Enter credit card <Credit Card>
+#Verify purchase of plan
+
+Create Account, Buy Airtime:
+#Add a phone <ESN2>
+#Enroll in family plan
+

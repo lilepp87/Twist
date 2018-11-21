@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+           as the first entry and export the buildfile again. -->
+<project basedir="." default="execute-scenarios" name="twist-straighttalk-web">
+    <property environment="env"/>
+    <property name="ECLIPSE_HOME" value="C:/Program Files/Twist"/>
+    <property name="twist-B2C.location" value="../twist-B2C"/>
+    <property name="common-utils.location" value="../common-utils"/>
+    <property name="twist-services.location" value="../twist-services"/>
+    <property name="Twist-SimpleMobile-Web.location" value="../Twist-SimpleMobile-Web"/>
+    <property name="debuglevel" value="source,lines,vars"/>
+    <property name="target" value="1.7"/>
+    <property name="source" value="1.7"/>
+    <path id="JUnit 4.libraryclasspath">
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.junit_4.10.0.v4_10_0_v20120426-0900/junit.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.hamcrest.core_1.1.0.v20090501071000.jar"/>
+    </path>
+    <path id="Twist Core Libraries.libraryclasspath">
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.apache.commons.lang_2.4.0.v201005080502.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.apache.log4j_1.2.13.v200903072027.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.apache.commons.codec_1.3.0.v201101211617.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.springsource.org.apache.commons.logging_1.1.1.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.thoughtworks.ognl_2.7.3.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.thoughtworks.org.jboss.javassist_3.7.0.GA.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.springframework.core_3.1.0.RELEASE.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.springframework.beans_3.1.0.RELEASE.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.springframework.context_3.1.0.RELEASE.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.springframework.aop_3.1.0.RELEASE.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.springsource.org.aopalliance_1.0.0.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.springframework.asm_3.1.0.RELEASE.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.springframework.expression_3.1.0.RELEASE.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.springframework.context.support_3.1.0.RELEASE.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.springsource.org.apache.commons.collections_3.2.1.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.apache.commons.jexl_1.1.0.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.springsource.net.sf.json_2.2.2.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.springsource.net.sf.ezmorph_1.0.5.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.springsource.org.apache.commons.beanutils_1.8.0.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.apache.mina.core_2.0.0.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.slf4j_1.5.0.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.thoughtworks.org.apache.ecs_1.4.2.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.apache.velocity_1.5.0.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.thoughtworks.twist.core_15.2.11.13861-a682827b637699.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant-junit.jar"/>
+    </path>
+    <path id="Sahi.libraryclasspath">
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.thoughtworks.twist.driver.sahi_5.0.0.13861-a682827b637699"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.thoughtworks.twist.driver.core_15.2.11.13861-a682827b637699.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.thoughtworks.twist.language.core_15.2.11.13861-a682827b637699.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.thoughtworks.twist.driver.sahi_5.0.0.13861-a682827b637699/sahi/lib/ant-sahi.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.thoughtworks.twist.driver.sahi_5.0.0.13861-a682827b637699/sahi/lib/bcmail-jdk15-146.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.thoughtworks.twist.driver.sahi_5.0.0.13861-a682827b637699/sahi/lib/bcprov-jdk15-146.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.thoughtworks.twist.driver.sahi_5.0.0.13861-a682827b637699/sahi/lib/jetty-6.1.26.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.thoughtworks.twist.driver.sahi_5.0.0.13861-a682827b637699/sahi/lib/jetty-sslengine-6.1.26.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.thoughtworks.twist.driver.sahi_5.0.0.13861-a682827b637699/sahi/lib/jetty-start-6.1.26.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.thoughtworks.twist.driver.sahi_5.0.0.13861-a682827b637699/sahi/lib/jetty-util-6.1.26.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.thoughtworks.twist.driver.sahi_5.0.0.13861-a682827b637699/sahi/lib/org.slf4j_1.5.0.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.thoughtworks.twist.driver.sahi_5.0.0.13861-a682827b637699/sahi/lib/sahi.jar"/>
+    </path>
+    <path id="Java Language Support.libraryclasspath">
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.thoughtworks.ognl_2.7.3.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.slf4j_1.5.0.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.apache.commons.lang_2.4.0.v201005080502.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.thoughtworks.twist.language.java_15.2.11.13861-a682827b637699.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.thoughtworks.twist.language.core_15.2.11.13861-a682827b637699.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/com.thoughtworks.twist.language.common_15.2.11.13861-a682827b637699.jar"/>
+    </path>
+    <path id="common-utils.classpath">
+        <path refid="Java Language Support.libraryclasspath"/>
+        <pathelement location="${common-utils.location}/bin"/>
+        <pathelement location="${common-utils.location}/twist-libs/commons-io-2.5.jar"/>
+        <pathelement location="${common-utils.location}/twist-libs/axis.jar"/>
+        <pathelement location="${common-utils.location}/twist-libs/commons-discovery-0.4.jar"/>
+        <pathelement location="${common-utils.location}/twist-libs/jaxrpc-api.jar"/>
+        <path refid="JUnit 4.libraryclasspath"/>
+        <path refid="Twist Core Libraries.libraryclasspath"/>
+        <path refid="Sahi.libraryclasspath"/>
+        <pathelement location="${common-utils.location}/twist-libs/tracfone-core-2.0.1-jar-with-dependencies.jar"/>
+        <pathelement location="${common-utils.location}/twist-libs/db2jcc4.jar"/>
+        <pathelement location="${common-utils.location}/twist-libs/com.sun.jersey.jersey-core-1.4.0.jar"/>
+        <pathelement location="${common-utils.location}/twist-libs/java-json.jar"/>
+        <pathelement location="${common-utils.location}/twist-libs/javax.ws.rs.jar"/>
+        <pathelement location="${common-utils.location}/twist-libs/jersey-client.jar"/>
+        <pathelement location="${common-utils.location}/twist-libs/commons-configuration-1.7.jar"/>
+        <pathelement location="${common-utils.location}/twist-libs/rest-assured-3.0.2.jar"/>
+        <pathelement location="${common-utils.location}/twist-libs/hamcrest-all-1.3.jar"/>
+        <pathelement location="${common-utils.location}/twist-libs/gson-2.8.0.jar"/>
+        <pathelement location="${common-utils.location}/twist-libs/ojdbc6.jar"/>
+        <pathelement location="${common-utils.location}/twist-libs/javax.json-1.0.4.jar"/>
+    </path>
+    <path id="twist-services.classpath">
+        <pathelement location="${twist-services.location}/build"/>
+        <pathelement location="${twist-services.location}/jars/activation.jar"/>
+        <pathelement location="${twist-services.location}/jars/ant-junit.jar"/>
+        <pathelement location="${twist-services.location}/jars/ant-junit4.jar"/>
+        <pathelement location="${twist-services.location}/jars/FastInfoset.jar"/>
+        <pathelement location="${twist-services.location}/jars/gmbal-api-only.jar"/>
+        <pathelement location="${twist-services.location}/jars/ha-api.jar"/>
+        <pathelement location="${twist-services.location}/jars/http.jar"/>
+        <pathelement location="${twist-services.location}/jars/javax.mail-0.4-incubating-sources.jar"/>
+        <pathelement location="${twist-services.location}/jars/jaxb-api.jar"/>
+        <pathelement location="${twist-services.location}/jars/jaxb-impl.jar"/>
+        <pathelement location="${twist-services.location}/jars/jaxb-xjc.jar"/>
+        <pathelement location="${twist-services.location}/jars/jaxws-api.jar"/>
+        <pathelement location="${twist-services.location}/jars/jaxws-rt-2.1.3.jar"/>
+        <pathelement location="${twist-services.location}/jars/jaxws-rt.jar"/>
+        <pathelement location="${twist-services.location}/jars/jaxws-tools.jar"/>
+        <pathelement location="${twist-services.location}/jars/jsr173_api.jar"/>
+        <pathelement location="${twist-services.location}/jars/jsr181-api.jar"/>
+        <pathelement location="${twist-services.location}/jars/jsr250-api.jar"/>
+        <pathelement location="${twist-services.location}/jars/junit.jar"/>
+        <pathelement location="${twist-services.location}/jars/management-api.jar"/>
+        <pathelement location="${twist-services.location}/jars/mimepull.jar"/>
+        <pathelement location="${twist-services.location}/jars/policy.jar"/>
+        <pathelement location="${twist-services.location}/jars/PServices.jar"/>
+        <pathelement location="${twist-services.location}/jars/resolver.jar"/>
+        <pathelement location="${twist-services.location}/jars/saaj-api.jar"/>
+        <pathelement location="${twist-services.location}/jars/saaj-impl.jar"/>
+        <pathelement location="${twist-services.location}/jars/stax-ex.jar"/>
+        <pathelement location="${twist-services.location}/jars/streambuffer.jar"/>
+        <pathelement location="${twist-services.location}/jars/woodstox.jar"/>
+    </path>
+    <path id="Twist-SimpleMobile-Web.classpath">
+        <pathelement location="${Twist-SimpleMobile-Web.location}/bin"/>
+        <path refid="JUnit 4.libraryclasspath"/>
+        <path refid="Twist Core Libraries.libraryclasspath"/>
+        <path refid="Sahi.libraryclasspath"/>
+        <path refid="Java Language Support.libraryclasspath"/>
+        <path refid="common-utils.classpath"/>
+        <path refid="twist-services.classpath"/>
+    </path>
+    <path id="twist-straighttalk-web.classpath">
+        <pathelement location="bin"/>
+        <path refid="JUnit 4.libraryclasspath"/>
+        <path refid="Twist Core Libraries.libraryclasspath"/>
+        <path refid="Sahi.libraryclasspath"/>
+        <path refid="Java Language Support.libraryclasspath"/>
+        <path refid="common-utils.classpath"/>
+        <path refid="Twist-SimpleMobile-Web.classpath"/>
+        <path refid="twist-services.classpath"/>
+    </path>
+    <target name="init">
+        <mkdir dir="bin"/>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="src">
+                <exclude name="**/*.launch"/>
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="clean">
+        <delete dir="bin"/>
+    </target>
+    <target depends="clean" name="cleanall">
+        <ant antfile="build.xml" dir="${common-utils.location}" inheritAll="false" target="clean"/>
+        <ant antfile="build.xml" dir="${twist-services.location}" inheritAll="false" target="clean"/>
+        <ant antfile="build.xml" dir="${Twist-SimpleMobile-Web.location}" inheritAll="false" target="clean"/>
+    </target>
+    <target depends="build-subprojects,build-project" name="build"/>
+    <target name="build-subprojects">
+        <ant antfile="build.xml" dir="${common-utils.location}" inheritAll="false" target="build-project">
+            <propertyset>
+                <propertyref name="build.compiler"/>
+            </propertyset>
+        </ant>
+        <ant antfile="build.xml" dir="${twist-services.location}" inheritAll="false" target="build-project">
+            <propertyset>
+                <propertyref name="build.compiler"/>
+            </propertyset>
+        </ant>
+        <ant antfile="build.xml" dir="${Twist-SimpleMobile-Web.location}" inheritAll="false" target="build-project">
+            <propertyset>
+                <propertyref name="build.compiler"/>
+            </propertyset>
+        </ant>
+    </target>
+    <target depends="init" name="build-project">
+        <echo message="${ant.project.name}: ${ant.file}"/>
+        <javac debug="true" debuglevel="${debuglevel}" destdir="bin" includeantruntime="false" source="${source}" target="${target}">
+            <src path="src"/>
+            <classpath refid="twist-straighttalk-web.classpath"/>
+        </javac>
+    </target>
+    <target description="Build all projects which reference this project. Useful to propagate changes." name="build-refprojects">
+        <ant antfile="build.xml" dir="${twist-B2C.location}" inheritAll="false" target="clean"/>
+        <ant antfile="build.xml" dir="${twist-B2C.location}" inheritAll="false" target="build">
+            <propertyset>
+                <propertyref name="build.compiler"/>
+            </propertyset>
+        </ant>
+    </target>
+    <target description="copy Eclipse compiler jars to ant lib directory" name="init-eclipse-compiler">
+        <copy todir="${ant.library.dir}">
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </copy>
+        <unzip dest="${ant.library.dir}">
+            <patternset includes="jdtCompilerAdapter.jar"/>
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </unzip>
+    </target>
+    <target description="compile project with Eclipse compiler" name="build-eclipse-compiler">
+        <property name="build.compiler" value="org.eclipse.jdt.core.JDTCompilerAdapter"/>
+        <antcall target="build"/>
+    </target>
+
+
+
+    <!-- Properties for location of classes, location of project and so on -->
+    <property name="twist.lib.export.dir"
+              value="."
+              description="The location where Twist libraries were exported" />
+    <property name="twist.project.dir"
+              value="."
+              description="twist project folder" />
+    <property name="scenarios.output.classes"
+              value="${twist.project.dir}/bin"
+              description="the output folder where the fixtures are compiled" />
+
+    <property name="twist.reports.output.dir"
+              value="${twist.project.dir}/twist-reports"
+              description="Twist html reports will be generated here" />
+    <property name="twist.config.dir"
+              value="${twist.project.dir}/twist-conf"
+              description="configuration folder for Twist, this should be located in the project directory" />
+
+    <!-- Path definicaitons -->
+    <path id="fixtures.classes"
+          description="output folder where the sources for fixtures are compiled">
+        <dirset dir="${scenarios.output.classes}" />
+    </path>
+
+    <path id="twist.libs">
+  		<path refid="common-utils.classpath"/>
+    	<path refid="Twist Core Libraries.libraryclasspath"/>
+   </path>
+
+    <target name="execute-scenarios" depends="build" description="Executes scenarios">
+
+        <path id="scenarios.classpath">
+            <path refid="twist.libs" />
+            <path refid="fixtures.classes" />
+            <path refid="${ant.project.name}.classpath" />
+    		<fileset dir="${ant.library.dir}" includes="*.jar" />
+        </path>
+
+
+        <delete dir="${twist.reports.output.dir}"
+                description="delete old reports" />
+        <mkdir dir="${twist.reports.output.dir}" />
+        <mkdir dir="${twist.reports.output.dir}/html"
+               description="create html reports dir" />
+
+	<taskdef classname="com.thoughtworks.twist.core.execution.ant.ExecuteScenariosTask"
+                 classpathref="scenarios.classpath"
+                 name="twist.runner"
+                 description="the Twist ant task" />
+
+
+        <twist.runner scenarioDir="${twist.project.dir}/scenarios"
+                      reportsDir="${twist.reports.output.dir}"
+                      confDir="${twist.config.dir}"
+                      failureproperty="twist.scenarios.failed"
+                      classpathref="scenarios.classpath"
+        			  tags="ST5" threads="6"/>
+
+        <fail if="twist.scenarios.failed"
+              message="One or more scenarios for failed" />
+    </target>
+</project>

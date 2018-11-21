@@ -1,0 +1,24 @@
+Tags:in-progress
+Preconditions:On tas HomePage,Log out
+
+Create Contact:
+#Click on New Contact 
+#Create new contact for brand "STRAIGHT_TALK" zipcode "33178"
+
+Register BYOP:
+#Go to BYOP CDMA Verizon registration
+#Enter "DECIMAL"esn zip "33178" and check for eligibilty with carrier "RSS"
+#Enter your "Not Active" device type "Phone" info LTE "No" iphone 5 "No"  and check  customer have sim "No" for "RSS" Trio "No" ""
+#Enter network access code "Free"
+#Submit for registration
+#Check confirmation
+
+Operations, Activate Phone:
+#Set sourcesystem as "API"
+#Create account for "TOTAL_WIRELESS" using service
+#Complete registration process if device is BYOP or SIMOUT "TWAPP00035" flow "ACTIVATION"
+#Add remaining  phones for "1"  line plan of part "" "" "" " "with Sim"" "" "" ""for warp
+#Validate Customer Order with pin "TWAPP00035" zip "33178" for "ACTIVATION" flow
+#Submit Customer Order for "ACTIVATION"
+#Complete activation for status"New" cell tech "CDMA"
+#Call GetAccountSummary "TOTAL_WIRELESS"

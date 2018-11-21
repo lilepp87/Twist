@@ -1,0 +1,8 @@
+Tags:
+Preconditions:ShopTracfoneSimCards
+Shop:
+#selectCarrierSimKit<Carrier>
+#select Tf Service Plan<Plan>
+#Enter Shipping Address And WhiteListedCard<CC Type>
+#Verify Order Summary
+#Print Order Number

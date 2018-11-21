@@ -1,0 +1,10 @@
+Tags:in-progress
+Preconditions:
+ Operations, Activate Phone:
+#Check Byop Coverage for"VZW" in "94043"
+#checkByopEligibilty
+#Create account for "TOTAL_WIRELESS" using service
+#Add remaining  phones for "2"  line plan of part "TWMTXT830CP" "TWMTXT830CP" "" with Sim"" "" "" for warp
+#Validate Customer Order with pin "TWP00060" zip "33178" for "ACTIVATION" flow
+#Submit Customer Order for "ACTIVATION"
+#Complete activation for status"New" cell tech "CDMA"

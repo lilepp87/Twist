@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+              as the first entry and export the buildfile again. --><project basedir="." default="build" name="twist-services">
+    <property environment="env"/>
+    <property name="Twist-SimpleMobile-Web.location" value="../Twist-SimpleMobile-Web"/>
+    <property name="Twist-TAS.location" value="../Twist-TAS"/>
+    <property name="twist-net10E-web.location" value="../twist-net10E-web"/>
+    <property name="twist-straighttalk-web.location" value="../twist-straighttalk-web"/>
+    <property name="twist-total-web.location" value="../twist-total-web"/>
+    <property name="twist-tracfone-web.location" value="../twist-tracfone-web"/>
+    <property name="ECLIPSE_HOME" value="C:/Program Files/Twist"/>
+    <property name="debuglevel" value="source,lines,vars"/>
+    <property name="target" value="1.7"/>
+    <property name="source" value="1.7"/>
+    <path id="twist-services.classpath">
+        <pathelement location="build"/>
+        <pathelement location="jars/activation.jar"/>
+        <pathelement location="jars/ant-junit.jar"/>
+        <pathelement location="jars/ant-junit4.jar"/>
+        <pathelement location="jars/FastInfoset.jar"/>
+        <pathelement location="jars/gmbal-api-only.jar"/>
+        <pathelement location="jars/ha-api.jar"/>
+        <pathelement location="jars/http.jar"/>
+        <pathelement location="jars/javax.mail-0.4-incubating-sources.jar"/>
+        <pathelement location="jars/jaxb-api.jar"/>
+        <pathelement location="jars/jaxb-impl.jar"/>
+        <pathelement location="jars/jaxb-xjc.jar"/>
+        <pathelement location="jars/jaxws-api.jar"/>
+        <pathelement location="jars/jaxws-rt-2.1.3.jar"/>
+        <pathelement location="jars/jaxws-rt.jar"/>
+        <pathelement location="jars/jaxws-tools.jar"/>
+        <pathelement location="jars/jsr173_api.jar"/>
+        <pathelement location="jars/jsr181-api.jar"/>
+        <pathelement location="jars/jsr250-api.jar"/>
+        <pathelement location="jars/junit.jar"/>
+        <pathelement location="jars/management-api.jar"/>
+        <pathelement location="jars/mimepull.jar"/>
+        <pathelement location="jars/policy.jar"/>
+        <pathelement location="jars/PServices.jar"/>
+        <pathelement location="jars/resolver.jar"/>
+        <pathelement location="jars/saaj-api.jar"/>
+        <pathelement location="jars/saaj-impl.jar"/>
+        <pathelement location="jars/stax-ex.jar"/>
+        <pathelement location="jars/streambuffer.jar"/>
+        <pathelement location="jars/woodstox.jar"/>
+    </path>
+    <target name="init">
+        <mkdir dir="build"/>
+        <copy includeemptydirs="false" todir="build">
+            <fileset dir="src">
+                <exclude name="**/*.launch"/>
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="clean">
+        <delete dir="build"/>
+    </target>
+    <target depends="clean" name="cleanall"/>
+    <target depends="build-subprojects,build-project" name="build"/>
+    <target name="build-subprojects"/>
+    <target depends="init" name="build-project">
+        <echo message="${ant.project.name}: ${ant.file}"/>
+        <javac debug="true" debuglevel="${debuglevel}" destdir="build" includeantruntime="false" source="${source}" target="${target}">
+            <src path="src"/>
+            <classpath refid="twist-services.classpath"/>
+        </javac>
+    </target>
+    <target description="Build all projects which reference this project. Useful to propagate changes." name="build-refprojects">
+        <ant antfile="build.xml" dir="${Twist-SimpleMobile-Web.location}" inheritAll="false" target="clean"/>
+        <ant antfile="build.xml" dir="${Twist-SimpleMobile-Web.location}" inheritAll="false" target="build">
+            <propertyset>
+                <propertyref name="build.compiler"/>
+            </propertyset>
+        </ant>
+        <ant antfile="build.xml" dir="${Twist-TAS.location}" inheritAll="false" target="clean"/>
+        <ant antfile="build.xml" dir="${Twist-TAS.location}" inheritAll="false" target="build">
+            <propertyset>
+                <propertyref name="build.compiler"/>
+            </propertyset>
+        </ant>
+        <ant antfile="build.xml" dir="${twist-net10E-web.location}" inheritAll="false" target="clean"/>
+        <ant antfile="build.xml" dir="${twist-net10E-web.location}" inheritAll="false" target="build">
+            <propertyset>
+                <propertyref name="build.compiler"/>
+            </propertyset>
+        </ant>
+        <ant antfile="build.xml" dir="${twist-straighttalk-web.location}" inheritAll="false" target="clean"/>
+        <ant antfile="build.xml" dir="${twist-straighttalk-web.location}" inheritAll="false" target="build">
+            <propertyset>
+                <propertyref name="build.compiler"/>
+            </propertyset>
+        </ant>
+        <ant antfile="build.xml" dir="${twist-total-web.location}" inheritAll="false" target="clean"/>
+        <ant antfile="build.xml" dir="${twist-total-web.location}" inheritAll="false" target="build">
+            <propertyset>
+                <propertyref name="build.compiler"/>
+            </propertyset>
+        </ant>
+        <ant antfile="build.xml" dir="${twist-tracfone-web.location}" inheritAll="false" target="clean"/>
+        <ant antfile="build.xml" dir="${twist-tracfone-web.location}" inheritAll="false" target="build">
+            <propertyset>
+                <propertyref name="build.compiler"/>
+            </propertyset>
+        </ant>
+    </target>
+    <target description="copy Eclipse compiler jars to ant lib directory" name="init-eclipse-compiler">
+        <copy todir="${ant.library.dir}">
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </copy>
+        <unzip dest="${ant.library.dir}">
+            <patternset includes="jdtCompilerAdapter.jar"/>
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </unzip>
+    </target>
+    <target description="compile project with Eclipse compiler" name="build-eclipse-compiler">
+        <property name="build.compiler" value="org.eclipse.jdt.core.JDTCompilerAdapter"/>
+        <antcall target="build"/>
+    </target>
+    <target name="twist-services">
+        <mkdir dir="${junit.output.dir}"/>
+        <junit fork="yes" printsummary="withOutAndErr">
+            <formatter type="xml"/>
+            <classpath refid="twist-services.classpath"/>
+        </junit>
+    </target>
+    <target name="junitreport">
+        <junitreport todir="${junit.output.dir}">
+            <fileset dir="${junit.output.dir}">
+                <include name="TEST-*.xml"/>
+            </fileset>
+            <report format="frames" todir="${junit.output.dir}"/>
+        </junitreport>
+    </target>
+</project>

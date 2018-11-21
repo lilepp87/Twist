@@ -1,0 +1,13 @@
+Tags:in-progress
+Preconditions:On telcel homepage,Log Out
+Register BYOP:
+#Go to register BYOP CDMA page
+#Enter <Active?> with zip <Zip> and <ESN Type> esn
+#Enter network access code <Code>
+#Finish registration
+
+Activate Phone, Create Account:
+#Select Activate
+#Enter esn zip <Zip> and Pin <PIN> english
+#Create new account english
+#Complete BYOP activation

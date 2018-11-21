@@ -1,0 +1,45 @@
+Part Number,SIM,Airtime Card,Card Type,Zip Code,Phone Type,Reoccuring?,# ILD,action,Status,Tech,Pin type,Pin for part
+NTZEZ232TGGYRCS,TF128PSIMT5RM,Unlimited International Monthly,Discover,33178,Android,Reoccuring,3,now,New,GSM,Megacard,NTAPPU0065ILD
+NTZEZ861BG3P7P,TF128PSIMCL7N,Unlimited International Monthly,Discover,33178,Android,Reoccuring,1,now,New,CDMA,Megacard,NTAPP60070ILDUP
+NTSAS320VCPWP,TF256PSIMV9N,Unlimited International Monthly,Visa,33178,Android,Reoccuring,3,later,New,CDMA,Megacard,NTAPP6U040
+NTSAS550TGU,TF128PSIMT5N,Unlimited International Monthly,Discover,33178,Android,One-Time,1,now,New,GSM,Megacard,NTAPP6U035
+NTZEZ916BGP5AS,TF128PSIMT5N,Unlimited $35,Discover,33178,Android,Reoccuring,1,later,New,GSM,Megacard,NTAPP6U060
+NTLGL53BG3P5P,TF128PSIMT5N,Unlimited $40,Visa,33178,Android,One-Time,3,later,New,GSM,Megacard,NTAPP60060ILDUP
+NTLGL56VCPAS,TF256PSIMV9N,Unlimited International Monthly,Discover,33178,Android,Reoccuring,1,now,New,CDMA,Megacard,NTAPP60070ILDUP
+NTSAS935DGSVP5-5,TF128PSIMT5N,Unlimited International Monthly,Discover,33178,Android,Reoccuring,3,now,New,GSM,Megacard,NTAPPU0065ILD
+NTSAS935DCSVPRS,TF256PSIMV9N,Unlimited $40,Visa,33178,Android,One-Time,1,later,New,CDMA,Megacard,NTAPP6U035
+NTSAG930VCPDU,TF256PSIMV9N,Unlimited $40,Visa,33178,Android,One-Time,1,later,New,CDMA,Megacard,NTAPP6U035
+NTAPI5SG16GYPV2,TF128PSIMC4N,Unlimited International Monthly,Visa,33178,Android,Reoccuring,3,later,New,GSM,Megacard,NTAPP6U040
+NTAPI5SC16SVR,TF256PSIMV9N,Unlimited International Monthly,Discover,33178,Android,One-Time,1,later,New,CDMA,Megacard,NTAPP6U035
+NTAPI6C16SVR,TF256PSIMV9N,Unlimited $35,Discover,33178,Android,Reoccuring,1,now,New,CDMA,Megacard,NTAPP6U060
+NTAPI6PC16GYWHP,TF256PSIMV9N,Unlimited $40,Visa,33178,Android,One-Time,1,later,New,CDMA,Megacard,NTAPP60060ILDUP
+NTAPI6SG16RGP4,TF128PSIMC4N,Unlimited International Monthly,Discover,33178,Android,Reoccuring,1,now,New,GSM,Megacard,NTAPP60070ILDUP
+NTAPI6SC16RGP,TF256PSIMV9N,Unlimited International Monthly,Visa,33178,Android,One-Time,1,later,New,CDMA,Megacard,NTAPP6U060
+NTAPI6SPG16SVWHP4,TF128PSIMC4N,Unlimited $60,Visa,33178,Android,Reoccuring,1,now,New,GSM,Megacard,NTAPP6U040
+NTAPI6SPC16RGPWP,TF256PSIMV9N,Unlimited Monthly,Discover,33178,Android,One-Time,3,later,New,CDMA,Megacard,NTAPP60080ILDUP
+NTLGLRS988VCPTGP,TF256PSIMV9N,Unlimited International Monthly,Discover,33178,Android,Reoccuring,3,later,New,CDMA,Megacard,NTAPPU0065ILD
+NTHUH1511DGSVWHP,TF128PSIMT5N,Unlimited $35,Visa,33178,Android,Reoccuring,1,now,New,GSM,Megacard,NTAPP6U040
+NTHUH1511DCR,TF256PSIMV9N,Unlimited Monthly,Discover,33178,Android,One-Time,1,later,New,CDMA,Megacard,NTAPP60080ILDUP
+NTAPISEG16GYR4,TF128PSIMC4N,Unlimited $40,American Express,33178,Android,One-Time,3,later,New,GSM,Megacard,NTN6U035
+NTAPISEC16GYPWP,TF256PSIMV9N,Unlimited International Monthly,Visa,33178,Android,Reoccuring,3,later,New,CDMA,Megacard,NTAPP6U040
+NTZEZ828TGRCS,TF128PSIMT5N,Unlimited International Monthly,American Express,33178,Android,One-Time,2,later,New,GSM,Megacard,NTN6U035
+NTALA570BGRCS4,TF128PSIMCL7RM,Unlimited $35,Visa,00692,Android,Reoccuring,1,now,New,GSM,Megacard,NTN6U001ILD
+NTALA571VCPAS,TF256PSIMV9RM,Unlimited $40,American Express,33178,Android,One-Time,2,later,New,CDMA,Megacard,NTN6U035
+NTZEZ963VCWHP,TF256PSIMV9N,Unlimited $40,Visa,33178,Android,Reoccuring,1,now,New,GSM,Megacard,NTN6U001ILD
+NTALA621BGP4DG,TF128PSIMC4RM,Unlimited International Monthly,American Express,33178,Android,One-Time,2,later,New,GSM,Megacard,NTN6U035
+NTLGL61AGP7P,TF128PSIMCL7N,Unlimited $35,Visa,00692,Android,Reoccuring,1,now,New,GSM,Megacard,NTN6U001ILD
+NTLGL51AGP4DG,TF128PSIMC4N,Unlimited $40,American Express,33178,Android,One-Time,1,later,New,GSM,Megacard,NTN6U035
+NTLGL44VC3P,TF256PSIMV9N,Unlimited International Monthly,Visa,33178,Android,Reoccuring,3,later,New,CDMA,Megacard,NTAPP6U040
+NTLGL43AGP7P,TF128PSIMCL7N,Unlimited $35,Discover,00692,Android,Reoccuring,1,now,New,GSM,Megacard,NTN6U001ILD
+NTZEZ753GP4SOP,TF64PSIMT5RM,Unlimited International Monthly,Visa,33178,Android,Reoccuring,1,later,New,GSM,Megacard,NTAPP6U040
+NT256PBYOPD,TF256PSIMV9DD,Unlimited International Monthly,Visa,33178,Android,Reoccuring,0,later,New,CDMA,Megacard,NTAPP6U060
+NTALA851GP4RS,TF64PSIMC4RM,Unlimited International Monthly,Discover,33178,Android,One-Time,0,later,New,GSM,Megacard,NTAPP6U060
+NTLGL25CU,TF128PSIMS8M,Unlimited International Monthly,Discover,33178,Android,One-Time,0,later,New,GSM,Megacard,NTAPPU0065ILD
+NTAPI5CG16BL,TF128PSIMC4N,Unlimited International Monthly,Visa,33178,Non-Android,One-Time,0,later,New,GSM,Megacard,NTAPPU0065ILD
+NTZEZ837VC3P,TF256PSIMV9N,Unlimited $35,Visa,33178,Android,Reoccuring,1,now,New,CDMA,Megacard,NTAPP6U035
+NTLGL64VC3P,TF256PSIMV9N,Unlimited $40,Visa,33178,Android,Reoccuring,1,now,New,CDMA,Megacard,NTAPP6U040
+NTZEZ836BG3P4,TF128PSIMC4N,Unlimited $40,Visa,33178,Android,One-Time,1,now,New,GSM,Megacard,NTAPPU0001
+NTZEZ836BGFDP5,TF128PSIMT5N,Unlimited $35,Visa,33178,Android,One-Time,1,now,New,GSM,Megacard,NTAPP60060ILDUP
+NTZEZ836BGP7,TF128PSIMCL7N,Unlimited $35,Visa,33178,Android,Reoccuring,1,now,New,GSM,Megacard,NTAPP6U060
+NTZEZ798BGFDP4,TF128PSIMC4RM,Unlimited $35,Visa,33178,Android,One-Time,1,now,New,GSM,Megacard,NTAPPU0065ILD
+NTZEZ798BG3P5,TF128PSIMT5RM,Unlimited $35,Visa,33178,Android,One-Time,1,now,New,GSM,Megacard,NTAPP60070ILDUP

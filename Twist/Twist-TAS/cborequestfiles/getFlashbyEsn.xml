@@ -1,0 +1,3 @@
+<INPUT TASK="getFlashByESN">
+<ESN>@esn</ESN>
+</INPUT>

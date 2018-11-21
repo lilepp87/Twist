@@ -1,0 +1,7 @@
+Tags:
+Preconditions:On tas HomePage,LogOut
+Activate Phone, Min Change, Case Operations, Create Account:
+#Enter "New" Esn for part "TFALA577VCPRS" sim "TF64PSIMC4RM"
+#Create account for "TRACFONE"
+#Activate phone by using pin "TFSAPP1SPH1500" depending on status "New" of cell tech "GSM" zip "33178"
+#Create Sim exchange Case with ZipCode "33178"

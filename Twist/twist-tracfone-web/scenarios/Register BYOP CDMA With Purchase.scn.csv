@@ -1,0 +1,13 @@
+ZipCode,Carrier,Status,Pin1,Pin2,Pin3,Cell tech,SIM,Is LTE,Is Iphone,CardType
+33178,RSS,Not Active,TFN0001Y,,,CDMA,TF256PSIMV9ND,Yes,Yes,Visa
+33178,RSS,Not Active,TFN0001Y,,,CDMA,TF256PSIMV9DD,Yes,No,Master
+33178,RSS,Not Active,TFN0001Y,,,CDMA,null,Yes,Yes,Discover
+33178,RSS,Not Active,TFN0001Y,,,CDMA,null,Yes,No,American Express
+33178,RSS,Not Active,TFN0001Y,,,CDMA,null,No,Yes,Visa
+33178,RSS,Not Active,TFN0001Y,,,CDMA,null,No,No,Visa
+33178,RSS,Active,TFN0001Y,,,CDMA,TF256PSIMV9ND,Yes,Yes,Visa
+33178,RSS,Active,TFN0001Y,,,CDMA,TF256PSIMV9DD,Yes,No,Master
+33178,RSS,Active,TFN0001Y,,,CDMA,null,Yes,Yes,Discover
+33178,RSS,Active,TFN0001Y,,,CDMA,null,Yes,No,American Express
+33178,RSS,Active,TFN0001Y,,,CDMA,null,No,Yes,Visa
+33178,RSS,Active,TFN0001Y,,,CDMA,null,No,No,Visa

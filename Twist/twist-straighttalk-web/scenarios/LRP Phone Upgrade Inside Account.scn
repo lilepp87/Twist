@@ -1,0 +1,27 @@
+Tags:LRP
+Preconditions:On Straighttalk HomePage,Log Out
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter "New" esn for part <From Part> and sim <From Sim>
+#Choose a new number for zip <From Zip>
+#Enter pin <From Pin>
+#Create new account depending on status "New"
+#Complete activation process depending on status "New" and cell tech "CDMA"
+#Add ESN to promo group
+#Log out
+#Log in
+#Enroll in LRP Inside Account
+#Check the reward points for LRP Program Enrollment
+
+Activate Phone:
+#Setup up to <To Status> <To Part> phone with zip <From Zip> sim <To Sim> pin <To Pin>
+
+Phone upgrade, Create Account, Activate phone:
+#Go to Activate Option
+#Enter <To Status> esn for part <To Part> and sim <To Sim>
+#Enter current number
+#Enter new sim <To Sim> pin "" and min depending on <To Status>
+#Verify Order Summary
+#Complete upgrade process in LRP account
+#Check for reward point allocation for pin <During PIN> and TransType "PORT_IN"
+#Verify the total reward points in my account

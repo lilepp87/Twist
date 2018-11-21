@@ -1,0 +1,13 @@
+Tags:
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+ Activate Phone, Create Account, Redemption ,Port Number:
+#Enter "New" Esn for part <PartNumber> sim <SIM>
+#Create Account for <Brand>
+#Enter zip <ZIP>
+#Select pin <PIN> and add credit card <CardType>
+#Make selection of <PurchaseType> payment with card type <CardType>
+#Add another line part <PartNumber> with sim <SIM> for port with MIN from <Current Carrier> with part <PortType>  zip <ZIP>
+#Enter MIN from <Current Carrier> with part <PortType>  zip <ZIP>
+#Perform option <Trans. Type> with plan <Plan> and workforcePIN <WF_PIN>
+#Complete port
+

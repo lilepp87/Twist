@@ -1,0 +1,8 @@
+Tags:
+Preconditions:ShopSimCardPage
+BuyAPhone,PortIn, Buy a Phone:
+#selectCarrierSimKit<Carrier>
+#select Service Plan<Plan>
+#Enter Shipping Address And WhiteListedCard<CC Type>
+#Verify Order Summary
+#Print Order Number

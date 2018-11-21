@@ -1,0 +1,6 @@
+Tags:tf3
+Preconditions:
+WM Kiosk:
+#Go to Radioshack Kiosk <brand>
+#Enter esn <esnpart> Sim <sim> Zip <zip> and pin <pinpart>
+#Complete the activation <celltech>

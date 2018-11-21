@@ -1,0 +1,9 @@
+Tags:in-progress
+Preconditions:OnCommercePage
+Activate Phone, Create Account, Port Number, Phone Upgrade,Shop:
+#Go To Shop Phones"New""94043"
+#select Phone Based On Phone"Samsung"
+#chooseMonthlyPaymentPlanOnCreditScore"Excellent"
+#selectPlanforSmartPayPurchase"New""$30"
+#enterShippingInfo
+#applyOnlineForSmartPay

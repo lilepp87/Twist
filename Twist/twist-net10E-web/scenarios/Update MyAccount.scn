@@ -1,0 +1,18 @@
+Tags:NT1
+Preconditions:On net10 english home page,Log out
+Start Activation, Create Account:
+#Make past due depending on status "New" for model "NTSAS935DGSVR4" and sim "TF128PSIMC4N"
+#Go to activate phone
+#Select Activate My Net10 Phone
+#Create new account for Esn
+#Possibly join SIM "TF128PSIMC4N" for cell tech "CDMA" and status "New"
+#Enter Esn for model "NTSAS935DGSVR4" with status "New" and zip code "33178"
+
+Finish Activation with PIN:
+#Enter "Megacard" PIN "NTAPP6U040" for phone 
+#Try to activate and check message for "New" "CDMA" "Android" phone and "Megacard" PIN
+
+Switch Plan, Add Airtime:
+#Go to my account
+#Verify Phone Number
+#Update Personal Info

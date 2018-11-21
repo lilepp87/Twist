@@ -1,0 +1,17 @@
+Tags:in-progress
+Preconditions:On tas HomePage,Log out
+ Activate Phone, Create Account:
+#Enter "New" Esn for part <Part Number> sim <SIM>
+#Create account for <Brand>
+#Activate phone by using pin <PIN> depending on status "New" of cell tech <Phone Type> zip <Zip Code>
+
+Redemption:
+#Go to redemption
+#Enter pin <RED. PIN>
+#Check redemption
+
+Solutions,Redemption:
+#Clear OTA
+#Go to solutions
+#Click on Promo validation tool
+#Enter promo code <PROMO PIN>  and check for confirmation

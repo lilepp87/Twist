@@ -1,0 +1,14 @@
+Tags:in-progress
+Preconditions:Log Out
+Register BYOP, Create Account, Enter Payment:
+#Go to register BYOP CDMA page
+#Enter <Active?> with zip <Zip> and <ESN Type> esn
+#Choose to purchase registration code
+#Enter payment with card type <Card Type>
+#Finish registration
+
+Activate Phone, Create Account:
+#Select Activate
+#Enter esn zip <Zip> and Pin <PIN> english
+#Create new account english
+#Complete BYOP activation

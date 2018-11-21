@@ -1,0 +1,15 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:bus="http://xmlns.oracle.com/BRM/schemas/BusinessOpcodes">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <bus:tfOpRetrieveBillingAccountSummary>
+         <TF_OP_RETRIEVE_BILLING_ACCOUNT_SUMMARY_Request>
+            <flags>0</flags>
+            <TF_OP_RETRIEVE_BILLING_ACCOUNT_SUMMARY_inputFlist>
+               
+               <ACCOUNT_NO>@account_no</ACCOUNT_NO>
+               <POID>0</POID>
+            </TF_OP_RETRIEVE_BILLING_ACCOUNT_SUMMARY_inputFlist>
+         </TF_OP_RETRIEVE_BILLING_ACCOUNT_SUMMARY_Request>
+      </bus:tfOpRetrieveBillingAccountSummary>
+   </soapenv:Body>
+</soapenv:Envelope>

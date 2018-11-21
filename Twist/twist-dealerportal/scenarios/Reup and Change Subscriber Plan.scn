@@ -1,0 +1,14 @@
+Tags:
+Preconditions:On Dealerportal,Log Out
+Activate Phone:
+#Go to <brand>
+#Go to Activation for <brand>
+#Enter esn <Part Number> sim <SIM> zip <Zip> pin <Pin>
+#Confirm activation for cell tech <Cell Tech>
+
+Redeem Pin, Activate Phone:
+#Make <status> based on status
+#Go to <brand>
+#Go to ReUp
+#For status <status> enter phone number and pin <Pin> <Action>
+#Check for redemption success

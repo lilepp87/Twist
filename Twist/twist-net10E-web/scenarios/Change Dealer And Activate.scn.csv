@@ -1,0 +1,10 @@
+isActive,ESNType,carrier,isLTE,isIphone,SIM,PIN,status,Zip,Dealer
+Active,Decimal,RSS,Yes,Yes,TF256PSIMV9ND,NTAPPU0001,New,33178,24940
+Active,Decimal,RSS,Yes,No,TF256PSIMV9DD,NTAPPU0001,New,33178,24940
+Active,Decimal,RSS,No,No,null,NTAPPU0001,New,33178,24940
+Active,Decimal,RSS,No,Yes,,NTAPPU0001,New,33178,24940
+Active,Decimal,RSS,No,No,,NTAPPU0001,New,33178,24940
+InActive,Decimal,RSS,Yes,Yes,null,NTAPPU0001,New,33178,24940
+InActive,Decimal,RSS,Yes,No,TF256PSIMV9DD,NTAPPU0001,New,33178,24940
+InActive,Decimal,RSS,Yes,No,null,NTAPPU0001,New,33178,24940
+InActive,Decimal,RSS,No,No,,NTAPPU0001,New,33178,24940

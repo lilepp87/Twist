@@ -1,0 +1,12 @@
+Tags:
+Preconditions:On total wireless home page,Log Out
+Port Number, Activate phone, Create Account, Enter Payment:
+#Go to Activate Option
+#Enter "New" Esn for part <To Esn> and pin <To Pin> with Sim <To Sim>
+#Create new account
+#Select device type ""
+#Enter Esn to activate
+#Choose phone number option ""
+#Enter external number from <From Provider>
+#Choose to add device or activate service "activate"
+#Finish port

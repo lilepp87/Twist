@@ -1,0 +1,19 @@
+Tags:LRP,in-progress
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone, Create Account, redemption:
+#Enter <Status> Esn for part <PartNumber> sim <SIM>
+#LRP Create account for <Brand> 
+#Activate phone by using pin <PIN> depending on status <Status> of cell tech <CellTech> zip <Zip Code>
+#Add remaining  phones for <# Devices>  line plan of part <# Devices> <# Devices> <# Devices> with Sim<# Devices> <# Devices> <# Devices>
+#Checkout and process transaction
+#Add ESN to promo group
+#Complete TAS LRP Enrollment
+
+Redemption, Create Account:
+#Select "" ESN for redemption
+#Return to main screen from LRP
+#Go to redemption
+#Enter pin <PIN>
+#Check redemption
+#Check for point allocation for pin <PIN> "REDEMPTION"
+

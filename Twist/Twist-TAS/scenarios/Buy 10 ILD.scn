@@ -1,0 +1,16 @@
+Tags:set2,Handset
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+Activate Phone, Create Account:
+#Enter <Status> Esn for part <PartNumber> sim <SIM>
+#Create account for <Brand>
+#Activate phone by using pin <PIN> depending on status <Status> of cell tech <Cell Tech> zip <Zipcode>
+#Checkout and process transaction
+
+ Redemption, Activate Phone, Create Account:
+#Go to redemption
+#Select quantity <Qunatity> to add for <Brand>
+#Add new credit card
+#Enter Card <CardType>
+#Add card enter cvv <CVV>
+#Add ILD card to cart
+#Check redemption

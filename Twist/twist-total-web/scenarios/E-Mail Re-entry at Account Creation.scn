@@ -1,0 +1,6 @@
+Tags:in-progress
+Preconditions:On total wireless home page,Log out
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter <Status> Esn for part <Part> zip code <ZIP> sim <SIM> and Pin number <PIN>
+#Create new account as negative case <DOB>

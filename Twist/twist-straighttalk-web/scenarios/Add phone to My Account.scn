@@ -1,0 +1,19 @@
+Tags:ST3
+Preconditions:On WMKiosk HomePage,Log out
+Activate Phone, WM Kiosk:
+#Go to WM Activation with card
+#Enter WM <Status> Esn for part <ESN1> sim <SIM1> zip code <ZIP> and Pin number <PIN1>
+#Complete activation <SIM1>
+
+Activate Phone, Create Account:
+#Go to straight talk home page
+#Go to Activate Option
+#Enter <Status> esn for part <ESN2> and sim <SIM2>
+#Choose a new number for zip <ZIP>
+#Enter pin <PIN2>
+#Log in depending on status <Status>
+#Create new account depending on status <Status>
+#Complete activation process depending on status <Status> and cell tech <Cell Tech2>
+
+Create Account:
+#Add phone to my account

@@ -1,0 +1,18 @@
+Tags:B2B
+Preconditions:On B2B home page,Log out
+CSR, Create Account, Check:
+#Go to Login
+#Create Profile "CSR"
+#Check for approval
+#Logout
+#Check CSR Pending Requests "Profile"
+#Logout
+#Login as CSR
+#Search user based on "First Name" "Twist FirstName"
+#Select and verify user
+
+Shop Phones, Create Account:
+#Go to Phones
+#Select Phone <Phone> and check availability in <Zip Code>
+#Select Plan <Plan> quantity <Qty> and enroll <Low Balance>
+#Submit Order <CC TYPE>

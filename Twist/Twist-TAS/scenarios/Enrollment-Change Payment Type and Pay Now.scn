@@ -1,0 +1,20 @@
+Tags:set4
+Preconditions:On tas HomePage,LogOutwithBrowserClose
+ Activate Phone, Create Account, Redemption:
+#Enter "New" Esn for part <Part Number> sim <SIM>
+#Create Account for <Brand>
+#Enter zip <Zip>
+#Select pin <PIN> and add credit card <Card Type>
+#Select card enter cvv <CVV>
+#Check activation for cell tech <Tech> and status "New"
+#Checkout and process transaction
+
+Redemption, Activate Phone:
+#Go to enroll in auto refill
+#Add new credit card
+#Enter card <Card2>
+#Select plan <Enroll Plan>
+#Select card and enter cvv <CVV2>
+#Choose enrollment type as "Apply on Due Date"
+Redemption:
+# Switch payment to <Card2> different card and check for confirmation

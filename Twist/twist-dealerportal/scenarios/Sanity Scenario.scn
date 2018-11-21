@@ -1,0 +1,27 @@
+Tags:in-progress
+Preconditions:On Dealerportal,Log Out
+Activate Phone:
+#Go to <Brand>
+#Go to Activation for <Brand> 
+#Enter esn <From Part> sim <From Sim> zip <Zip Code> pin <From Pin>
+#Confirm activation for cell tech <Cell Tech>
+
+Redeem Pin, Activate Phone:
+#Make <Deact Status> based on status
+#Go to <Brand>
+#Go to ReUp
+#For status <Deact Status> enter phone number and pin <React Pin> <React Action>
+#Check for redemption success
+
+Phone Upgrade:
+#Go to Phone Upgrade
+#Enter from ESN and MIN
+#Enter to ESN "PHSM64PSIMT5BMB" with SIM "SM64PSIMT5B" and Status "New"
+#Check for Successful Phone Upgrade
+
+Port In, Activate Phone:
+#Go to "net10"
+#Go to Port
+#Enter esn "NTZEZ791GR4" sim "TF128PSIMC4RM" provider "AT&T" and pin "NTPU0065ILDS" for external port
+#Enter details
+#Check Transaction Summary

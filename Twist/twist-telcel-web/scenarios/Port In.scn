@@ -1,0 +1,10 @@
+Tags:
+Preconditions:On telcel homepage,Log Out
+Port Number, Activate phone, Create Account:
+#Select transfer phone number
+#Enter <Status> Esn for part <ESN> zip code <ZIP> sim<SIM> and Pin number <PIN>
+#Enter Sim Card <SIM> depending on cell tech <Cell Tech> and status <Status>
+#Confirm port message
+#Create new account
+#Enter number from <Brand> with part <From ESN>
+#Finish port

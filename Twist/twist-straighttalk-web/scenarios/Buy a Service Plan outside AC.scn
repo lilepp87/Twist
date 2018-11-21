@@ -1,0 +1,18 @@
+Tags:ST3
+Preconditions:On Straighttalk HomePage,Log Out
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter <Status> esn for part <Part Number> and sim <SIM>
+#Choose a new number for zip <ZIP>
+#Enter pin <PIN>
+#Log in depending on status <Status>
+#Create new account depending on status <Status>
+#Complete activation process depending on status <Status> and cell tech <Cell Tech>
+#Log out
+
+Buy a Service Plan, Enter Payment:
+#Go to Service Plans
+#Enter min <Part Number> and click on check available plans 
+#Select plan <Reoccuring?> <Plan>
+#Enter credit card <Card Type>
+#Review order summary

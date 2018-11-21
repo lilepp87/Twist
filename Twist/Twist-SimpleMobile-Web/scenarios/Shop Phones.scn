@@ -1,0 +1,8 @@
+Tags:shop,oldcommerce
+Preconditions:On SimpleMobile HomePage,LogOut
+Shop:
+#Go to Shop Phones
+#Select a phone and plan to checkout
+#Go To Cart And Checkout from Shop
+#Enter Credit Card <Credit Card> details and purchase
+#Confirm Order

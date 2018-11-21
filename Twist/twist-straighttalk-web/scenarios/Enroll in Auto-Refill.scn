@@ -1,0 +1,16 @@
+Tags:ST4
+Preconditions:On Straighttalk HomePage,Log out
+Activate Phone, Create Account:
+#Go to Activate Option
+#Enter <Status> esn for part <Part> and sim <SIM>
+#Choose a new number for zip <ZIP>
+#Enter pin <PIN>
+#Log in depending on status <Status>
+#Create new account depending on status <Status>
+#Complete activation process depending on status <Status> and cell tech <Cell Tech>
+
+Auto Refill, Enter Payment:
+#Select set up auto refill
+#Select enroll in <New Plan> <Queued?> from <Old Plan> <Cell Tech>
+#Enter credit card <Credit Type> or use stored card
+#Check auto refill

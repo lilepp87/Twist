@@ -1,0 +1,12 @@
+Tags:set5
+Preconditions:On tas HomePage,Log out
+Redemption,TossUtil, Activate Phone, Create Account:
+#Enter <Status> Esn for part <PartNumber> sim <SIM>
+#Create account for <Brand>
+#Click on change dealer
+#Select new dealer <DealerID> 
+
+Port Number, Activate Phone, Create Account:
+#Enter MIN from <Carrier> with part <Param6>  zip <Zipcode>
+#Perform option <Plan> with plan <PIN> and workforcePIN ""
+#Complete port

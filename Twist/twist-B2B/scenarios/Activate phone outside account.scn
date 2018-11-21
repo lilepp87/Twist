@@ -1,0 +1,8 @@
+Tags:FMS
+Preconditions:On B2B home page
+Activate:
+#Get new B2B esn
+#Go to activate
+#Choose activate phone
+#Fill out esn "33178" zip
+#Check successful activation

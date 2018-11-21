@@ -1,0 +1,8 @@
+Tags:services,wfm
+Preconditions:closeBrowser
+Family Mobile Operations, MyAccountApp, Invoke CBO:
+#Create account for part <PartNumber> sim <SIM> brand <Brand>
+#Call Service Order  "ACTIVATION" with Pin <PIN>
+#Complete phone activation for "GSM" and status "New"
+#Register customer into Employee Discount program <Enroll into EDP?>
+#Estimate Order

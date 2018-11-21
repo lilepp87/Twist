@@ -1,0 +1,27 @@
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:bus="http://xmlns.oracle.com/BRM/schemas/BusinessOpcodes">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <bus:tfOpSubscriptionPurchaseRedemptionCard>
+         <bus:TF_OP_SUBSCRIPTION_PURCHASE_REDEMPTION_CARD_Request>
+            <bus:flags>0</bus:flags>
+            <bus:TF_OP_SUBSCRIPTION_PURCHASE_REDEMPTION_CARD_inputFlist>
+               <bus:ACTION>RDMMIN</bus:ACTION>
+               <bus:ACCOUNT_NO>@ban</bus:ACCOUNT_NO>
+               <bus:SOURCE>SOA</bus:SOURCE>
+               <bus:CHANNEL_ID>6</bus:CHANNEL_ID>
+               <bus:ORDER_ID>@orderID</bus:ORDER_ID>
+               <bus:ZIP>33178</bus:ZIP>
+               <bus:FLAGS>0</bus:FLAGS>
+               <bus:DEALS elem="0">
+                  <bus:DEAL_NAME>@deal</bus:DEAL_NAME>
+                  <bus:TRANS_OP_QUEUED>1</bus:TRANS_OP_QUEUED>
+                  <bus:SERVICE_ID>@subsID</bus:SERVICE_ID>
+                 <bus:LOGIN>@login</bus:LOGIN>
+               </bus:DEALS>
+               <bus:POID>0.0.0.1 /account -1 0</bus:POID>
+            </bus:TF_OP_SUBSCRIPTION_PURCHASE_REDEMPTION_CARD_inputFlist>
+         </bus:TF_OP_SUBSCRIPTION_PURCHASE_REDEMPTION_CARD_Request>
+      </bus:tfOpSubscriptionPurchaseRedemptionCard>
+   </soapenv:Body>
+</soapenv:Envelope>

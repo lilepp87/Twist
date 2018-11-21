@@ -1,0 +1,10 @@
+Tags:
+Preconditions:On SimpleMobile HomePage,LogOut
+ Activate Phone, Create Account, Add Service Plan, Enter Payment:
+#Setup Esn based on status <Status> and part <PartNumber>
+#Go to Activate Option
+#Enter <Status> Esn for part <PartNumber> zip code <ZipCode> sim <SIM>  
+#Select  "Reoccuring" <PIN> service plan
+#Create new account depending on status <Status>
+#Enter credit card <CardType> depends on status <Status>
+#Complete activation process depending on status <Status> and cell tech <CellTech>

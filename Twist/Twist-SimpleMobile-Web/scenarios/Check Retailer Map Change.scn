@@ -1,0 +1,5 @@
+Tags:shop
+Preconditions:On SimpleMobile HomePage
+Coverage Check:
+#Go to Retailers
+#Check Map Change
